@@ -3,9 +3,9 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '477'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 2%
 
 | **問題** | **上次修改** |
 |---|---|
+| [任務：在任務中輸入小時時，不會保存小時 [!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月19日 |
+| [校樣：關閉校樣時，使用者沒有返回上一頁](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022年9月19日 |
 | [通知：存取電子郵件通知設定時發生錯誤](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
 | [任務和問題：建立任務或問題時無意中退出](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022年9月9日 |
 | [報表：在中建立和編輯報表時發生的問題 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022年9月6日 |

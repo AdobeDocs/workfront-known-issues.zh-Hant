@@ -3,9 +3,9 @@ title: 中的已知問題 [!DNL Adobe Workfront Proof]
 description: 回報的已知問題 [!DNL Adobe Workfront Proof]
 keywords: 新檔案，添加檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: acde7285f2f24b853abed934ab7f48a109db45e6
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '160'
 ht-degree: 8%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 8%
 
 | **問題** | **上次修改** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [校樣：關閉校樣時，使用者沒有返回上一頁](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022年9月15日 |
 | [[!DNL Workfront Proof]:電子郵件通知會延遲](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022年9月15日 |
 | [校樣： [!UICONTROL 活動校樣階段] 欄位空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [[!DNL Workfront Proof]:請求者和審核者會計入組織的授權計數](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022年8月12日 |

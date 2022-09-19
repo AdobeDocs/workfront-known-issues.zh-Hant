@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [任務：在任務中輸入小時時，不會保存小時 [!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [校樣：關閉校樣時，使用者沒有返回上一頁](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [通知：存取電子郵件通知設定時發生錯誤](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [校樣： [!UICONTROL 活動校樣階段] 欄位空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [工時單：使用時，小時數不會儲存 [!UICONTROL 標籤] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)
