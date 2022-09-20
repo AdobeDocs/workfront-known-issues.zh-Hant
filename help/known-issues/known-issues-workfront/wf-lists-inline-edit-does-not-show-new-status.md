@@ -2,15 +2,19 @@
 title: 「清單：內嵌編輯狀態時未顯示新狀態」
 description: 「當用戶內嵌編輯清單中某個對象的狀態時，新狀態會顯示一段時間，然後回復為舊狀態。 如果清單有篩選器，且篩選器未套用至新狀態，則物件會繼續顯示在清單上，即使不應如此。 "
 hidefromtoc: true
-source-git-commit: 7f3a23b4097489b62d06fde075db9f9a548b44ac
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # 清單：內嵌編輯狀態時未顯示新狀態
+
+>[!NOTE]
+>
+>此問題已於2022年9月16日修正。
 
 當用戶內嵌編輯清單中某個對象的狀態時，新狀態會顯示一段時間，然後回復為舊狀態。 如果清單有篩選器，且篩選器未套用至新狀態，則物件會繼續顯示在清單上，即使不應如此。
 
