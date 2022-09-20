@@ -3,9 +3,9 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '486'
 ht-degree: 2%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 2%
 
 | **問題** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [更新：無法關閉更新流中的用戶卡](known-issues-workfront/wf-updates-cant-close-user-card.md) | 2022年9月20日 |
 | [自訂表單：元素在左面板中重疊](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [工時單：使用時，小時數不會儲存 [!UICONTROL 標籤] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022年9月16日 |
 | [校樣： [!UICONTROL 活動校樣階段] 欄位空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
