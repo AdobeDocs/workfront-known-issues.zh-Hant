@@ -3,14 +3,14 @@ title: 「首頁：使用Chrome以外的瀏覽器時的首頁摘要問題
 description: 當使用者檢視其首頁，且使用Chrome以外的瀏覽器時，可能會看到各種問題。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL 首頁]:使用以外的瀏覽器時的首頁摘要問題 [!DNL Chrome]
+# [!UICONTROL 首頁]: [!UICONTROL 首頁] 使用以外的瀏覽器時的摘要問題 [!DNL Chrome]
 
 >[!NOTE]
 >

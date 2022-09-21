@@ -3,14 +3,14 @@ title: 「任務：無法選擇內聯編輯任務持續時間時的已用時間
 description: 當用戶查看任務清單並嘗試編輯任務持續時間時，已用持續時間單位不可用。
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 12%
 
 ---
 
-# 任務：內聯編輯任務持續時間時無法選擇「已用時間」
+# 任務：無法選擇 [!UICONTROL 已用時間] 內嵌編輯任務持續時間時
 
 >[!NOTE]
 >
