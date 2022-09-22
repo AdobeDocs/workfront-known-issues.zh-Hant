@@ -2,15 +2,19 @@
 title: 「更新：無法關閉更新流中的用戶卡"
 description: 「當使用者檢視更新並暫留在某個名稱上時，會出現一張卡片，內含開啟其名稱的使用者詳細資訊，且不會自動關閉。 按一下右上角的X以手動關閉資訊卡，頁面會停止回應。」
 hidefromtoc: true
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 
 # 更新：無法關閉更新流中的用戶卡
+
+>[!NOTE]
+>
+>此問題已於2022年9月22日修正。
 
 當使用者檢視更新並暫留在名稱上時，卡片會顯示其名稱會開啟且不會自動關閉的使用者詳細資訊。 按一下右上角的X以手動關閉資訊卡，頁面會停止回應。
 
