@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [中的已知問題 [!DNL Workfront Proof]](workfrontproof.md)
    + 中的目前問題 [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]:檢視含有多頁的校樣時出現空白頁面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [校樣：將校樣新增至時發生錯誤 [!DNL Workfront] 從 [!DNL Workfront] 校樣](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]:將檔案上傳到注釋時出錯](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]:資料夾檢視未顯示校樣](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [建立新階段，因為截止日期與現有階段的截止日期不匹配](known-issues-workfront-proof/new-stage-created.md)
       + [「首頁工作清單」中顯示的校樣批准截止日期不準確](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [無法通過在注釋中標籤用戶來向校樣添加用戶](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [無法建立校樣的新版本](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL 校樣回覆] 按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [自動存取校樣會延遲](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL 證明核准] 報告無法準確確定截止時間](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] 應用程式內說明連結不會導向特定說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + 已解決 [!DNL Workfront Fusion] {#fusion-resolved}
       + [401錯誤 [!DNL Workfront] 模組](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [無法滾動以查看所有方案執行](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [自訂表單的資料無法在 [!DNL Workfront Fusion] [!DNL Workfront] 模組](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront目標] {#goals}
