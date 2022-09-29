@@ -3,10 +3,10 @@ title: 中的已知問題 [!DNL Adobe Workfront Proof]
 description: 回報的已知問題 [!DNL Adobe Workfront Proof]
 keywords: 新檔案，添加檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 8%
 
 ---
 
@@ -30,9 +30,6 @@ ht-degree: 7%
 
 | **問題** | **上次修改** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]:檢視含有多頁的校樣時出現空白頁面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md) | 2022年9月22日 |
-| [校樣：無法在中開啟校樣 [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 2022年9月20日 |
-| [校樣：關閉校樣時，使用者沒有返回上一頁](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022年9月15日 |
 | [[!DNL Workfront Proof]:電子郵件通知會延遲](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022年9月15日 |
 | [校樣： [!UICONTROL 活動校樣階段] 欄位空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [[!DNL Workfront Proof]:請求者和審核者會計入組織的授權計數](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022年8月12日 |
