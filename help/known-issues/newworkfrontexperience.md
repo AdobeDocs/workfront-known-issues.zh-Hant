@@ -3,9 +3,9 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 2%
 
 | **問題** | **上次修改** |
 |---|---|
+| [通知：提及或加入留言時未通知的使用者](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年9月29日 |
 | [任務：在任務中輸入小時時，不會保存小時 [!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月19日 |
 | [通知：存取電子郵件通知設定時發生錯誤](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
 | [任務和問題：建立任務或問題時無意中退出](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022年9月9日 |
@@ -36,6 +37,7 @@ ht-degree: 2%
 
 | **問題** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [工時單：向時間表添加註釋時出錯](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 2022年9月29日 |
 | [自訂表單：元素在左面板中重疊](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [校樣： [!UICONTROL 活動校樣階段] 欄位空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [整合：從提交請求時出錯 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |

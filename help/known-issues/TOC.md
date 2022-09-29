@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
+source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [通知：提及或加入留言時未通知的使用者](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [工時單：向時間表添加註釋時出錯](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
       + [校樣：無法在中開啟校樣 [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [任務：在任務中輸入小時時，不會保存小時 [!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [校樣：關閉校樣時，使用者沒有返回上一頁](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
@@ -145,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion的已知問題](workfrontfusion.md)
    + 中的目前問題 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]:&quot;無法驗證連接&quot;錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]:建立或編輯案例時模組未載入](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] 模組返回404錯誤，沒有進一步資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]:無法連接到Fusion中的MS Dynamics模組](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
