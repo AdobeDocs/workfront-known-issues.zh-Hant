@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: e1d537f182d5c86f6f06d39b806b29f225143e3f
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1230'
 ht-degree: 0%
 
 ---
@@ -147,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion的已知問題](workfrontfusion.md)
    + 中的目前問題 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL 擷取文字] 模組未生成文本](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]:&quot;無法驗證連接&quot;錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]:建立或編輯案例時模組未載入](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] 模組返回404錯誤，沒有進一步資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
