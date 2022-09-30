@@ -2,15 +2,19 @@
 title: 「Workfront聚變：建立或編輯案例時模組未載入」
 description: 「使用者建立或編輯案例並嘗試開啟模組時，模組不會開啟。 使用者看到一個旋轉的圓圈，表示模組正在載入，但模組未完成載入。」
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]:建立或編輯案例時模組未載入
+
+>[!NOTE]
+>
+>此問題已於2022年9月16日修正。
 
 當使用者建立或編輯案例並嘗試開啟模組時，模組不會開啟。 使用者看見旋轉的圓圈，指出模組正在載入，但模組未完成載入。
 
