@@ -2,9 +2,9 @@
 title: Workfront維護更新
 description: 維護更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 2%
 
 ---
@@ -28,6 +28,18 @@ ht-degree: 2%
 -->
 
 如需2022年之前的維護更新，請參閱 [先前的維護更新](#previous-maintenance-updates)
+
+## 2022年10月更新
+
++++**2022年10月3日維護更新**
+
+**在以前的作業角色更改時手動保存您的工時單**
+
+*時程表*
+
+如果您記錄的作業角色已變更，且 [!UICONTROL 手動將作業角色分配給小時條目] 設定已停用，您必須手動儲存時間項目，直到不再記錄已變更之作業角色的小時為止。
+
++++
 
 ## 2022年9月更新
 
