@@ -3,9 +3,9 @@ title: 中的已知問題 [!DNL Adobe Workfront Fusion]
 description: 回報的已知問題 [!DNL Adobe Workfront Fusion]
 keywords: 新檔案，添加檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '96'
 ht-degree: 6%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 6%
 
 | **問題** | **上次修改** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Fusion]:&quot;[!UICONTROL 無法載入資料]「錯誤」](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 2022年10月3日 |
 | [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] 模組未生成文本](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 2022年9月30日 |
 | [[!DNL Workfront Fusion]:&quot;無法驗證連接&quot;錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022年9月29日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 模組返回404錯誤，沒有進一步資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日 |
