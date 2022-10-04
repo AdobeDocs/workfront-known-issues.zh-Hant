@@ -3,9 +3,9 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '475'
 ht-degree: 2%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 2%
 
 | **問題** | **上次修改** |
 |---|---|
+| [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 | [通知：提及或加入留言時未通知的使用者](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年9月29日 |
 | [通知：存取電子郵件通知設定時發生錯誤](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
 | [任務和問題：建立任務或問題時無意中退出](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022年9月9日 |

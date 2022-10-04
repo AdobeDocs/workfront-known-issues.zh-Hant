@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1258'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [團隊：分配多個團隊將導致僅分配一個團隊](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [通知：提及或加入留言時未通知的使用者](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [工時單：向時間表添加註釋時出錯](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
