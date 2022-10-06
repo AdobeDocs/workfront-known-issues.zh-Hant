@@ -3,10 +3,10 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '454'
+ht-degree: 4%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 0%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [版面範本：在版面範本中自訂清單時發生錯誤](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022年10月6日 |
+| [校樣：「新校樣收件者」文字方塊太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 | [通知：提及或加入留言時未通知的使用者](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年9月29日 |
 | [通知：存取電子郵件通知設定時發生錯誤](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
