@@ -3,7 +3,7 @@ title: 中的已知問題 [!DNL Adobe Workfront Proof]
 description: 回報的已知問題 [!DNL Adobe Workfront Proof]
 keywords: 新檔案，添加檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
+source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 10%
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 ## 新增
 
-目前正在審查最近報告的問題
+目前正在審查最近報告的問題。
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
