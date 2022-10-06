@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '1258'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [校樣：無法自動比較校樣](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [團隊：分配多個團隊將導致僅分配一個團隊](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [通知：提及或加入留言時未通知的使用者](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
@@ -149,6 +150,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion的已知問題](workfrontfusion.md)
    + 中的目前問題 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]:409錯誤 [!DNL Fusion] 藍本](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]:&quot;[!UICONTROL 無法載入資料]「錯誤」](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  自訂API呼叫] 返回404或422錯誤的模組](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL 擷取文字] 模組未生成文本](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
