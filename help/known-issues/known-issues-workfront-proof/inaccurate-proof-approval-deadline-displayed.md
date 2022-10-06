@@ -3,14 +3,18 @@ title: '''校樣：「首頁工作清單」中顯示的校樣批准截止日期�
 description: 將用戶分配給校樣批准時，該校樣批准將在用戶的「首頁工作清單」中顯示，該階段的截止日期是未來最遠的階段，而無論該用戶被分配給哪個階段。
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # 校樣：在中顯示的校樣批准截止日期不正確 [!UICONTROL 家庭工作清單]
+
+>[!NOTE]
+>
+>此問題已於2022年9月1日修正。
 
 將使用者指派給校樣核準時，該校樣核准會顯示在使用者的 [!UICONTROL 家庭工作清單] 具有未來最遠的階段的截止期，而無論該用戶分配給哪個階段。
 

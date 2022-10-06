@@ -2,7 +2,7 @@
 title: 「整合：開啟Workfront時發生錯誤 [!DNL Jira] 在Jira內」
 description: 「使用者在 [!DNL Jira] 和嘗試添加或開啟 [!DNL Workfront for Jira] 附加元件，該附加元件不會開啟，且使用者會看見錯誤訊息。」
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 2%
@@ -11,8 +11,6 @@ ht-degree: 2%
 
 
 # 整合：開啟時出錯 [!DNL Workfront for Jira] with [!DNL Jira]
-
-<!--Becky recheck DNL-->
 
 >[!NOTE]
 >
