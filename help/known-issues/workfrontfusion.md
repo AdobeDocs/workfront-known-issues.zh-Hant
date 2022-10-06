@@ -3,10 +3,10 @@ title: 中的已知問題 [!DNL Adobe Workfront Fusion]
 description: 回報的已知問題 [!DNL Adobe Workfront Fusion]
 keywords: 新檔案，添加檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 14%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 14%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] 個情境](known-issues-workfront-fusion/fusion-409-error.md) | 2022年10月6日 |
-| [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 返回404或422錯誤的模組](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 2022年10月3日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -37,7 +36,6 @@ ht-degree: 14%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Fusion]:&quot;[!UICONTROL 無法載入資料]「錯誤」](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 2022年10月3日 |
-| [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] 模組未生成文本](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 2022年9月30日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] 應用程式內說明連結不會導向特定說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022年8月2日 |
 
 {style=&quot;table-layout:auto&quot;}
