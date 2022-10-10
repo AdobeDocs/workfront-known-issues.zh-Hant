@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [任務： [!UICONTROL 前身] 在任務標題中缺失的表徵圖](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [校樣：將群組新增至校樣不會新增群組的所有成員](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [任務和問題：無法編輯任務或問題的名稱或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
       + [版面範本：在版面範本中自訂清單時發生錯誤](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [校樣：「新校樣收件者」文字方塊太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [校樣：無法自動比較校樣](known-issues-workfront/wf-proofs-cannot-auto-compare.md)

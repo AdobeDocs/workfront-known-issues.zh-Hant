@@ -3,10 +3,10 @@ title: 中的已知問題 [!DNL Adobe Workfront Proof]
 description: 回報的已知問題 [!DNL Adobe Workfront Proof]
 keywords: 新檔案，添加檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '221'
+ht-degree: 9%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 10%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：將群組新增至校樣不會新增群組的所有成員](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022年10月10日 |
 | [校樣：「新校樣收件者」文字方塊太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 
