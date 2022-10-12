@@ -3,10 +3,10 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 4%
+source-wordcount: '531'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 4%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工時單：無法輸入小時 [!UICONTROL 一般時間]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 2022年10月12日 |
 | [分配：批量分配團隊時出錯](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022年10月11日 |
 | [校樣：將群組新增至校樣不會新增群組的所有成員](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022年10月10日 |
 | [版面範本：在版面範本中自訂清單時發生錯誤](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022年10月6日 |
