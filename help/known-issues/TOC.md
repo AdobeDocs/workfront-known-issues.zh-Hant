@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [導覽：移除頁面釘選後，無法重新釘選頁面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [分配：批量分配團隊時出錯](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [任務： [!UICONTROL 前身] 在任務標題中缺失的表徵圖](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [校樣：將群組新增至校樣不會新增群組的所有成員](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [任務和問題：無法編輯任務或問題的名稱或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
