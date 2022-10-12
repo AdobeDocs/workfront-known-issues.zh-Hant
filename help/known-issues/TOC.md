@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: 的已知問題 [!DNL Adobe Workfront]
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1347'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的目前問題 [!DNL Adobe Workfront] {#wf-current}
+      + [清單： [!UICONTROL 快速篩選] 搜尋團隊時不傳回任何結果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [導覽：移除頁面釘選後，無法重新釘選頁面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [分配：批量分配團隊時出錯](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [任務： [!UICONTROL 前身] 在任務標題中缺失的表徵圖](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)

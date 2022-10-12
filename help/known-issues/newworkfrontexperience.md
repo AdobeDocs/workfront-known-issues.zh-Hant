@@ -3,9 +3,9 @@ title: 新的已知問題 [!DNL Adobe Workfront] 體驗
 description: 已回報新 [!DNL Adobe Workfront] 體驗
 keywords: 新檔案，添加檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 4%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 4%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [清單： [!UICONTROL 快速篩選] 搜尋團隊時不傳回任何結果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022年10月12日 |
 | [導覽：移除頁面釘選後，無法重新釘選頁面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022年10月11日 |
 | [任務： [!UICONTROL 前身] 在任務標題中缺失的表徵圖](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022年10月10日 |
 | [任務和問題：無法編輯任務或問題的名稱或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022年10月10日 |
