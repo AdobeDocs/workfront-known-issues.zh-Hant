@@ -2,10 +2,10 @@
 title: '"[!DNL Workfront Fusion]:無法驗證連接錯誤」'
 description: 「Workfront Fusion連線至Workfront帳戶可能會失敗驗證，導致情況擲回下列錯誤：無法驗證連接。」
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 6%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 **因應措施**
 
-重新授權連線可暫時解決此問題。
+建立新連線，並將Workfront模組中的目前連線取代為新連線。
 
-_2022年9月8日首次報導。_
+_首次回報於 2022 年 9 月 8 日。_
 
