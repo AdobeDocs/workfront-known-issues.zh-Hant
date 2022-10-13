@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '1354'
-ht-degree: 85%
+source-wordcount: '1372'
+ht-degree: 84%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [敏捷：新增至迭代的任務的問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [自訂表單：設定計算欄位時出現「Whoops」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [工時單：無法輸入小時 [!UICONTROL 一般時間]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [清單： [!UICONTROL 快速篩選] 搜尋團隊時不傳回任何結果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [導覽：移除頁面釘選後，無法重新釘選頁面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
