@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 67%
+source-wordcount: '525'
+ht-degree: 66%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 67%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [計畫：指派 [!UICONTROL 方案所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022年10月17日 |
 | [報表：「移至」選項在問題報告上不可用](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
 | [敏捷：新增至迭代的任務的問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022年10月13日 |
 | [自訂表單：設定計算欄位時出現「Whoops」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022年10月13日 |

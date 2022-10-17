@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1398'
 ht-degree: 83%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [計畫：指派 [!UICONTROL 方案所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [報表：「移至」選項在問題報告上不可用](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [問題：任務左側導航中的問題計數不正確](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [敏捷：新增至迭代的任務的問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
