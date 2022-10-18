@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 59%
+source-wordcount: '212'
+ht-degree: 58%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 59%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [文檔：外部文檔請求連結將導致登錄頁](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月18日 |
-| [校樣：「新校樣收件者」文字方塊太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +35,7 @@ ht-degree: 59%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [校樣：「新校樣收件者」文字方塊太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月18日 |
 
 {style=&quot;table-layout:auto&quot;}
 
