@@ -4,8 +4,8 @@ description: 「當使用者嘗試在Workfront中釘上物件時，該物件不�
 hidefromtoc: true
 source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 16%
 
 ---
 

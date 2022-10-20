@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
+source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 58%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 58%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：打印摘要不顯示所有校樣頁](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 | [文檔：外部文檔請求連結將導致登錄頁](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月18日 |
 | [文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 
