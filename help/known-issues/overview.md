@@ -1,22 +1,22 @@
 ---
-title: Workfront已知問題
-description: 的已知問題清單 [!DNL Adobe Workfront]
+title: Workfront 已知問題
+description: ' [!DNL Adobe Workfront] 的已知問題清單'
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront已知問題
+# Workfront 已知問題
 
-欲知 [!DNL Workfront] 產品，請參閱：
+有關 [!DNL Workfront] 產品中目前已確定問題的資訊，請參見：
 
-* [中的已知問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
-* [中的已知問題 [!DNL Workfront] 校樣](workfrontproof.md)
-* [Workfront Fusion的已知問題](workfrontfusion.md)
-* [中的已知問題 [!DNL Workfront Goals]](workfrontgoals.md)
-* [中的已知問題 [!DNL Workfront] 程式庫](workfrontlibrary.md)
-* [中的已知問題 [!DNL Workfront] 行動應用程式](workfrontmobile.md)
-* [中的已知問題 [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
+* [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+* [ [!DNL Workfront]  Proof 中的已知問題](workfrontproof.md)
+* [Workfront Fusion 中的已知問題](workfrontfusion.md)
+* [ [!DNL Workfront Goals] 中的已知問題](workfrontgoals.md)
+* [ [!DNL Workfront]  Library 中的已知問題](workfrontlibrary.md)
+* [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+* [ [!DNL Workfront Scenario Planner] 中的已知問題](workfrontscenarioplanner.md)
