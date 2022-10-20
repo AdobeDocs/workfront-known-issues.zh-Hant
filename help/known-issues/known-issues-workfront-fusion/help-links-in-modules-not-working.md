@@ -1,21 +1,21 @@
 ---
-title: Fusion應用程式內說明連結不會導向特定說明頁面
-description: 中的說明連結 [!DNL Workfront Fusion] 目前不會導向預期的說明頁面。 所有Fusion說明連結都會導向Workfront檔案首頁。 從此登錄頁面，您可以搜尋所需資訊。
+title: Fusion 應用程式內說明連結未指向特定的說明頁面
+description: ' [!DNL Workfront Fusion]  中的說明連結目前未導向到預期的說明頁面。而是所有 Fusion 說明連結都指向 Workfront 文件首頁。從這個登陸頁面，您可以搜尋您需要的資訊。'
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 source-git-commit: efc307c5ee6f48286f29e642d03aa8735332d45a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]: [!DNL Fusion] 應用程式內說明連結不會導向特定說明頁面
+# [!DNL Workfront Fusion]：[!DNL Fusion] 應用程式內說明連結不會指向特定的說明頁面
 
-中的說明連結 [!DNL Workfront Fusion] 目前不會導向預期的說明頁面。 而是全部 [!DNL Fusion] 說明連結導向至 [!DNL Workfront] 檔案首頁。 從此登錄頁面，您可以搜尋所需資訊。
+[!DNL Workfront Fusion] 中的說明連結目前未導向到預期的說明頁面。而是所有 [!DNL Fusion] 說明連結都指向 [!DNL Workfront] 文件首頁。從這個登陸頁面，您可以搜尋您需要的資訊。
 
 **因應措施**
 
-當說明連結帶您前往 [!DNL Workfront] 檔案首頁，使用 [!UICONTROL 搜尋] 圖示。
+當說明連結將您帶到 [!DNL Workfront] 文件首頁，使用畫面右上角的[!UICONTROL 搜尋]圖示搜尋。
 
-_2022年8月2日首次報導。_
+_首次回報於 2022 年 8 月 2 日。_
