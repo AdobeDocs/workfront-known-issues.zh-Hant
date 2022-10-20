@@ -2,7 +2,7 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
 source-wordcount: '14458'
 ht-degree: 93%
@@ -41,7 +41,7 @@ ht-degree: 93%
 
 &quot;[!UICONTROL 我們再試一次 — 發生以下錯誤：teamAssignments必須是對象清單或ID清單]&quot;
 
-**[!UICONTROL 無法上載檔案]「錯誤」**
+**&quot;[!UICONTROL 無法上載檔案]「錯誤」**
 
 *文件*
 
