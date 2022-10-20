@@ -1,31 +1,31 @@
 ---
-title: 「證明： [!UICONTROL 活動校樣階段] 欄位空白"
-description: 「使用者建立校樣，然後在報表(例如 [!UICONTROL 文檔版本] 或 [!UICONTROL 證明核准] 他們發現 [!UICONTROL 活動校樣階段] 欄位空白。 當校樣在檔案上傳後建立時，就會發生此情況， [!UICONTROL 簡單校樣] 或 [!UICONTROL 進階校樣] 帶 [!UICONTROL 基本工作流程].
+title: 「校訂：[!UICONTROL 主動校訂階段]欄位為空白」
+description: 「當使用者建立校訂，然後在報告中查看該校訂時 (例如[!UICONTROL 文件版本]或[!UICONTROL 校訂核准]報告)，[!UICONTROL 主動校訂階段]欄位顯示為空白。在上傳文件後建立校訂時，無論是[!UICONTROL 簡單校訂]，還是具有[!UICONTROL 基本工作流程]的[!UICONTROL 進階校訂]都有可能會發生這種情況。
 hidefromtoc: true
 source-git-commit: 40763737feab664840a600224cff2f2889cbef72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 校樣： [!UICONTROL 活動校樣階段] 欄位空白
+# 校訂：[!UICONTROL 主動校訂階段]欄位為空白
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題解決方案，這可能需要產品增強功能。 產品增強功能會在產品公告中傳達，而不會在維護更新中傳達。
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
-使用者建立校樣，然後在報表(例如 [!UICONTROL 文檔版本] 或 [!UICONTROL 證明核准] 他們發現 [!UICONTROL 活動校樣階段] 欄位空白。 當校樣在檔案上傳後建立時，就會發生此情況， [!UICONTROL 簡單校樣] 或 [!UICONTROL 進階校樣] 帶 [!UICONTROL 基本工作流程].
+當使用者建立校訂，然後在報告中查看該校訂時 (例如[!UICONTROL 文件版本]或[!UICONTROL 校訂核准]報告)，[!UICONTROL 主動校訂階段]欄位顯示為空白。在上傳文件後建立校訂時，無論是[!UICONTROL 簡單校訂]，還是具有[!UICONTROL 基本工作流程]的[!UICONTROL 進階校訂]都有可能會發生這種情況。
 
 **因應措施**
 
-執行下列任一操作：
+執行下列任一項作業：
 
-* 添加新文檔時，通過選擇 [!UICONTROL 新增] > [!UICONTROL 校樣].
-* 從現有文檔建立校樣時，請將其建立為 [!UICONTROL 進階校樣] with [!UICONTROL 自動化工作流程].
+* 新增文件時，選擇[!UICONTROL 新增] > [!UICONTROL 校訂]，將其新增為校訂。
+* 從現有文件建立校訂時，將其建立為具有[!UICONTROL 自動化工作流程]的[!UICONTROL 進階校訂]。
 
-_2022年8月31日首次報導。_
+_首次回報於 2022 年 8 月 31 日。_
 
