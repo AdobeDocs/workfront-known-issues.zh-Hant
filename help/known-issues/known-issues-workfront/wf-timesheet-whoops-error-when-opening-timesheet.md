@@ -1,24 +1,24 @@
 ---
-title: 「工時單：哇！ 開啟工時單時出錯」
-description: '"當用戶嘗試開啟時間表時，時間表不會載入，用戶將看到 [!UICONTROL 哇] 錯誤。」'
+title: 「時程表：糟糕！打開時程表時發生錯誤」
+description: 「當使用者嘗試打開時程表時沒有載入時程表，且使用者會看到[!UICONTROL 糟糕]發生錯誤。」
 hidefromtoc: true
 source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# 工時單： [!UICONTROL 哇！] 開啟工時單時出錯
+# 時程表：[!UICONTROL 糟糕！]打開時程表時發生錯誤
 
 >[!NOTE]
 >
->此問題已於2022年8月29日修正。
+>此問題已在 2022 年 8 月 29 日修正。
 
-當用戶嘗試開啟工時單時，工時單未載入，並且用戶看到以下錯誤：
+當使用者嘗試打開時程表時沒有載入時程表，且使用者會看到以下錯誤：
 
-&quot;[!UICONTROL 哇！ 發生錯誤。請聯繫 [!DNL Workfront] 這樣我們就能找出問題所在並加以解決。]&quot;
+「[!UICONTROL 糟糕！發生錯誤。請聯絡 [!DNL Workfront]，以便我們找出問題並加以解決。]」
 
-_2022年8月25日首次報導。_
+_首次回報於 2022 年 8 月 25 日。_
 
