@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + [!DNL Workfront] Proof{#proof-resolved} 中的已解決問題
       + [[!DNL Workfront Proof]：建立、移動或封存校訂時， [!DNL Workfront Proof]  區域未更新](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [校訂：校訂顯示為「[!UICONTROL 產生校訂]」的時間過長](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [使用者不能將自己移動到校訂的另一個階段](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]：當情景包含檢查 Workfront 中校訂決策的模組時出現 502 錯誤](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + [!DNL Workfront Fusion]{#fusion-resolved} 中的已解決問題
-      + [ [!DNL Workfront]  模組 401 錯誤](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [自訂表單中的資料在  [!DNL Workfront Fusion] [!DNL Workfront] 模組中無法使用](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
