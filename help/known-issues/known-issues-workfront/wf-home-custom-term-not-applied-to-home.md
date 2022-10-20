@@ -1,24 +1,24 @@
 ---
-title: 「首頁：自訂術語不會套用至「首頁」
-description: 「首頁」區域顯示對象的預設名稱，而不是組織設定的術語。 這種情況已在不同領域得到報導。
+title: 「首頁：自訂術語未套用於首頁區域」
+description: 首頁區域顯示物件的預設名稱，而不是組織設定的術語。這已在以各個區域報告。
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 首頁]:自訂術語未套用至首頁區域
+# [!UICONTROL 首頁]：自訂術語未套用於首頁區域
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題解決方案，這可能需要產品增強功能。 產品增強功能會在產品公告中傳達，而不會在維護更新中傳達。
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
-此 [!UICONTROL 首頁] 區域顯示對象的預設名稱，而不是組織設定的術語。 以下方面報告了此情況：
+[!UICONTROL 首頁]區域顯示物件的預設名稱，而不是組織設定的術語。這已在以下區域報告：
 
-* 此 [!UICONTROL 工作清單] 篩選
-* 「[!UICONTROL 開始] (object)」按鈕 [!UICONTROL 工作清單]
+* [!UICONTROL 工作清單]篩選器
+* [!UICONTROL 工作清單]中的「[!UICONTROL 開始] (物件)」按鈕
 
-_2022年4月8日首次報導。_
+_首次回報於 2022 年 4 月 8 日。_
