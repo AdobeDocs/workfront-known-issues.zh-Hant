@@ -1,22 +1,22 @@
 ---
-title: 「整合：從Outlook提交請求時出錯。
-description: 「當使用者嘗試提交附件來自 [!DNL Outlook] 電子郵件、一或多個附件無法上傳，且使用者會看見錯誤。」
+title: 「整合：從 Outlook 提交請求時發生錯誤」
+description: 「當使用者嘗試透過  [!DNL Outlook]  電子郵件提交具有附件的請求時，一個或多個附件沒有上傳，且使用者會看到一個錯誤。」
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 整合：從提交請求時出錯 [!DNL Outlook]
+# 整合：從 [!DNL Outlook] 提交請求時發生錯誤
 
-當使用者嘗試提交附件來自 [!DNL Outlook] 電子郵件、一或多個附件無法上傳，且使用者看到下列錯誤：
+當使用者嘗試透過 [!DNL Outlook] 電子郵件提交具有附件的請求時，一個或多個附件沒有上傳，且使用者會看到以下錯誤：
 
-&quot;[!UICONTROL 發生以下錯誤：具有句柄xxxx的檔案不存在。]&quot;
+「[!UICONTROL 發生以下錯誤：具有控點 xxxx 的檔案不存在。]」
 
-只有在透過請求佇列或在建立請求時手動為新請求指派時，才會發生此情況。
+僅當透過請求佇列或在建立請求時，手動指派新請求才會發生這種情況。
 
-_2022年8月10日首次報導。_
+_首次回報於 2022 年 8 月 10 日。_
 
