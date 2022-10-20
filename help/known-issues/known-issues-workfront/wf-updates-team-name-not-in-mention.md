@@ -1,17 +1,17 @@
 ---
-title: '更新：團隊名稱未出現在@mention'
-description: 當使用者 [!DNL Adobe Workfront] 體驗會嘗試在更新中標籤團隊，而團隊名稱是多個字詞（例如「團隊名稱」），系統不會通知這些字詞，也不會顯示在「收件者」欄位中。 如果在 [!UICONTROL 通知] 欄位，則會如預期收到通知，但更新中只有部分名稱是超連結的。
+title: 「更新：團隊名稱未出現在 @提及中」
+description: 當新  [!DNL Adobe Workfront]  體驗中的使用者嘗試在更新中標記團隊且團隊名稱是多個單詞 (例如，「團隊名稱」)，他們不會收到通知並且不會出現在「收件者」欄位中。如果團隊名稱在[!UICONTROL 通知]欄位輸入，他們會按預期收到通知，但更新中只有區段名稱是超連結。
 exl-id: 3e06e1aa-f98d-45dd-b467-ac30dbfa4ede
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 更新：團隊名稱未出現在@mention
+# 更新：團隊名稱未出現在@提及中
 
-當使用者 [!DNL Adobe Workfront] 體驗會嘗試在更新中標籤團隊，而團隊名稱是多個字詞（例如「團隊名稱」），系統不會通知這些字詞，也不會顯示在「收件者」欄位中。 如果在 [!UICONTROL 通知] 欄位，則會如預期收到通知，但更新中只有部分名稱是超連結的。
+當新 [!DNL Adobe Workfront] 體驗中的使用者嘗試在更新中標記團隊且團隊名稱是多個單詞 (例如，「團隊名稱」)，他們不會收到通知並且不會出現在「收件者」欄位中。如果團隊名稱在[!UICONTROL 通知]欄位輸入，他們會按預期收到通知，但更新中只有區段名稱是超連結。
 
-_2021年6月3日首次報導。_
+_首次回報於 2021 年 6 月 3 日。_
