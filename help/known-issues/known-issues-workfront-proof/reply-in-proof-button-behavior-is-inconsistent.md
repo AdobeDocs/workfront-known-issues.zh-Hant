@@ -1,23 +1,23 @@
 ---
-title: 「首頁：「校樣」按鈕行為回覆不一致」
-description: 當使用者 [!DNL Adobe Workfront] 體驗是在 [!UICONTROL 首頁]，然後按一下 [!UICONTROL 回覆] 在留言中，文字方塊隨即顯示，可在其中保留更新 [!UICONTROL 檔案更新] 區域，而非如預期導向至校對檢視器。
+title: 「首頁：在校訂中回覆按鈕行為不一致」
+description: 當新  [!DNL Adobe Workfront]  體驗中的使用者在[!UICONTROL 首頁]的右側面板中檢視校訂時，他們在評論上按一下[!UICONTROL 在校訂中回覆]時會顯示一個文字方塊，他們可能會在[!UICONTROL 文件更新]區域中留下更新，而不是導向到預期的校訂檢視器。
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 首頁]: [!UICONTROL 校樣回覆] 按鈕行為不一致
+# [!UICONTROL 首頁]：[!UICONTROL 在校訂中回覆]按鈕行為不一致
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題解決方案，這可能需要產品增強功能。 產品增強功能會在產品公告中傳達，而不會在維護更新中傳達。
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
-當使用者 [!DNL Adobe Workfront] 體驗是在 [!UICONTROL 首頁]，然後按一下 [!UICONTROL 回覆] 在注釋中，文本框將顯示它們可以在文檔中保留更新的位置 [!UICONTROL 更新] 區域，而非被導向至 [!UICONTROL 校對檢視器] 如預期。
+當新 [!DNL Adobe Workfront] 體驗中的使用者在[!UICONTROL 首頁]的右側面板中檢視校訂時，他們在評論上按一下[!UICONTROL 在校訂中回覆]時會顯示一個文字方塊，他們可能會在文件[!UICONTROL 更新]區域中留下更新，而不是導向到預期的[!UICONTROL 校訂檢視器]。
 
-**因應措施**:在新索引標籤中開啟校樣，然後按一下 [!UICONTROL 回覆] 開啟 [!UICONTROL 校樣檢視器] 從檔案的 [!UICONTROL 更新] 的上界。
+**因應措施**：在新索引標籤中打開校訂，然後按一下[!UICONTROL 在校訂中回覆]以打開文件[!UICONTROL 更新]區域的[!UICONTROL 校訂檢視器]。
 
-2021年6月10日首次報告
+首次回報於 2021 年 6 月 10 日
