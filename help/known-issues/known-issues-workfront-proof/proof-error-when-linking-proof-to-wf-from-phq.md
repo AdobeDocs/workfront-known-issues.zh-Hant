@@ -1,26 +1,26 @@
 ---
-title: 「證明：將校樣新增至時發生錯誤 [!DNL Workfront] 從 [!DNL Workfront] 證明」
-description: 「當使用者嘗試將校樣新增至 [!DNL Workfront] 使用 [!UICONTROL 從Workfront校樣] 選項，則不會新增校樣，且使用者會看見錯誤訊息。」
+title: 「校訂：從  [!DNL Workfront]  Proof 新增校訂到  [!DNL Workfront]  時發生錯誤」
+description: 「當使用者嘗試使用 [!UICONTROL 從 Workfront Proof] 選項新增校訂到  [!DNL Workfront]  時，未新增校訂且使用者看到錯誤訊息。」
 hidefromtoc: true
 source-git-commit: acde7285f2f24b853abed934ab7f48a109db45e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 校樣：將校樣新增至時發生錯誤 [!DNL Workfront] 從 [!DNL Workfront Proof]
+# 校訂：從 [!DNL Workfront Proof] 新增校訂到 [!DNL Workfront] 時發生錯誤
 
 <!-- This issue is on both WF and proof known issue pages -->
 
 >[!NOTE]
 >
->此問題已結束，因為無法重現。
+>由於無法重現，此問題已關閉。
 
-當使用者嘗試將校樣新增至 [!DNL Workfront] 使用「[!UICONTROL 從Workfront校樣]「 」選項，則不會新增校樣，且使用者會看見下列錯誤訊息：
+當使用者嘗試使用 [!UICONTROL 從 Workfront Proof] 選項新增校訂到 [!DNL Workfront] 時，未新增校訂且使用者看到錯誤訊息。
 
-&quot;[!UICONTROL 導入指定校樣時出現問題。驗證提供的校樣ID有效，然後重試。]&quot;
+「[!UICONTROL 匯入指定校訂時發生問題。請確認所提供的校訂 ID 有效，然後重試。]」
 
-_2022年8月3日首次報告。_
+_首次回報於 2022 年 8 月 3 日。_
 
