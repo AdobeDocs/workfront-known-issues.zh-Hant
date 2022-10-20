@@ -1,18 +1,18 @@
 ---
 user-guide-title: 維護版本
-user-guide-description: 維護髮行 [!DNL Adobe Workfront]
+user-guide-description: 維護版本 [!DNL Adobe Workfront]
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
 workflow-type: tm+mt
 source-wordcount: '10'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
 
-# 維護髮行 {#releases}
+# 維護版本 {#releases}
 
-+ [最新更新](current-updates.md)
-+ [2021年更新](2021-updates.md)
++ [目前更新](current-updates.md)
++ [2021 更新](2021-updates.md)
 
 <!--
 
