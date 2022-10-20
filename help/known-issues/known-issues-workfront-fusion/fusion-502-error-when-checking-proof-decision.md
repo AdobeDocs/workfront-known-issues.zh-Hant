@@ -1,21 +1,21 @@
 ---
-title: '''Workfront聚變：502錯誤，若情境包含模組，用於檢查Workfront中的校樣決策'
-description: 執行包含模組的案例時，會檢查中是否做出校樣決策 [!DNL Workfront]，該模組會傳回502錯誤。
+title: 「Workfront Fusion：當情景包含檢查 Workfront 中校訂決策的模組時出現 502 錯誤」
+description: 當執行包含檢查  [!DNL Workfront] 中校訂決策的模組情景時，該模組傳回 502 錯誤。
 hidefromtoc: true
 exl-id: 9b307c39-06a3-40a9-801e-8371760d99ba
 source-git-commit: efc307c5ee6f48286f29e642d03aa8735332d45a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]:502錯誤，若情境包含的模組會檢查 [!DNL Workfront]
+# [!DNL Workfront Fusion]：當情景包含檢查 [!DNL Workfront] 中校訂決策的模組時出現 502 錯誤
 
 >[!NOTE]
 >
->此問題已於2022年8月22日修正。
+>此問題已在 2022 年 8 月 22 日修正。
 
-執行包含模組的案例時，會檢查中是否做出校樣決策 [!DNL Workfront]，該模組會傳回502錯誤。
+當執行包含檢查 [!DNL Workfront] 中校訂決策的模組情景時，該模組傳回 502 錯誤
 
-_2022年7月28日首次報告。_
+_首次回報於 2022 年 7 月 28 日。_
