@@ -1,24 +1,24 @@
 ---
-title: 「Workfront校樣：將檔案上傳到注釋時出錯」
-description: 「當使用者嘗試將檔案上傳至 [!DNL Workfront] 校樣，檔案不會上傳，且使用者會看見錯誤訊息。」
+title: 「Workfront Proof：檔案上傳到評論時發生錯誤」
+description: 「當使用者嘗試將檔案上傳到  [!DNL Workfront]  校訂中的評論時，檔案沒有上傳，使用者看到錯誤訊息。」
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]:將檔案上傳到注釋時出錯
+# [!DNL Workfront Proof]：檔案上傳到評論時發生錯誤
 
 >[!NOTE]
 >
->此問題已於2022年8月25日修正。
+>此問題已在 2022 年 8 月 25 日修正。
 
-當使用者嘗試將檔案上傳至 [!DNL Workfront Proof]，則檔案不會上傳，且使用者會看見下列錯誤訊息：
+當使用者嘗試將檔案上傳到[!DNL Workfront Proof]，檔案沒有上傳，使用者將看到以下錯誤訊息：
 
-[!UICONTROL 技術困難：無法上傳1個檔案。 請再試一次，或聯絡客戶支援以取得協助。]
+[!UICONTROL 技術困難：無法上傳 1 個檔案。重試或聯繫客戶支援尋求幫助。]
 
-_2022年8月4日首次報導。_
+_首次回報於 2022 年 8 月 4 日。_
 
