@@ -1,26 +1,26 @@
 ---
-title: "分配欄位：用戶和角色分配欄位的名稱臨時更新"
-description: 「9月1日，兩個 [!DNL Workfront] 「生產」中引入了任務欄位。
+title: 「指派欄位：使用者和角色指派欄位的暫時更新名稱」
+description: 「9 月 1 日，將兩個  [!DNL Workfront]  指派欄位的暫時名稱變更引入生產。」
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 分配欄位：用戶和角色分配欄位的名稱臨時更新
+# 指派欄位：使用者和角色指派欄位的暫時更新名稱
 
 >[!NOTE]
 >
->此問題已於2022年9月8日解決。
+>此問題已在 2022 年 9 月 8 日解決。
 
-9月1日，兩個 [!DNL Workfront] 將工作分配欄位引入生產：
+9 月 1 日，將兩個 [!DNL Workfront] 指派欄位的暫時名稱變更引入生產：
 
-* **[!UICONTROL 分配用戶]** 暫時 **[!UICONTROL 指派的使用者]**.
-* **[!UICONTROL 分配角色]** 暫時 **[!UICONTROL 已分配的角色]**.
+* **[!UICONTROL 指派使用者]**&#x200B;是暫時的&#x200B;**[!UICONTROL 指派使用者]**。
+* **[!UICONTROL 指派角色]**&#x200B;是暫時的&#x200B;**[!UICONTROL 指派角色]**。
 
-下週「生產」中的兩個欄位都將還原回其原始標籤。
+這兩個欄位都將在下週恢復到生產中的原始標籤。
 
-已新增臨時附註至 [辭匯表 [!DNL Adobe Workfront] 術語](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html).
+暫時附註已新增到[  [!DNL Adobe Workfront]  術語詞彙表](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html)。
