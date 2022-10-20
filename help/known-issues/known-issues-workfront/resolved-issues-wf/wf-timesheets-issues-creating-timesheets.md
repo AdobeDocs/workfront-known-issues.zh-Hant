@@ -1,24 +1,24 @@
 ---
-title: 「工時單：建立工時單時出現問題
-description: 關於建立工時單的各種問題已經報告。
+title: 「時程表：建立時程表時的問題」
+description: 已報告了建立時程表的各種問題。
 exl-id: 0f395b5f-689e-4ffa-bb80-c8213cac5798
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 工時單：建立工時單時出現問題
+# 時程表：建立時程表時的問題
 
 >[!NOTE]
 >
->此問題已於2022年7月28日修正。
+>此問題已在 2022 年 7 月 28 日修正。
 
-報告了關於建立工時單的下列問題：
+已報告了建立時程表的以下問題：
 
-* 當用戶嘗試為某個角色建立時間表時，不會建立時間表，用戶將看到錯誤「[!UICONTROL 未找到主鍵值為「XXXXXXXXXXXX」的用戶].&quot;
-* 當用戶嘗試為團隊建立時間表時， [!UICONTROL typeahead] 欄位不會填入團隊和 [!UICONTROL 建立工時單] 按鈕。
+* 當使用者嘗試為角色建立時程表時，未建立時程表且使用者看到「[!UICONTROL 找不到具有主鍵值「XXXXXXXXXXX」的使用者]」錯誤。
+* 當使用者嘗試為團隊建立時程表時，[!UICONTROL 預先輸入]欄位未填入團隊且[!UICONTROL 建立時程表]按鈕停用。
 
-_2022年6月22日首次報導。_
+_首次回報於 2022 年 6 月 22 日。_
