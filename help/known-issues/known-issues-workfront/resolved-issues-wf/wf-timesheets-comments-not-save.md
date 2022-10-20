@@ -1,21 +1,21 @@
 ---
-title: 「工時單：未保存注釋'
-description: 當用戶將注釋添加到工時單上的某個小時條目時，注釋不會保存。
+title: 「時程表：評論未儲存」
+description: 當使用者向時程表上的小時條目新增評論時，評論未儲存。
 hidefromtoc: true
 exl-id: 3318fe88-0019-470b-8411-eeaf7ee0bdf1
 source-git-commit: f494534dbb4c51b93296f81e5b33201bbf49ad60
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 工時單：未保存注釋
+# 時程表：評論未儲存
 
 >[!NOTE]
 >
->此問題已於2022年8月2日修正。
+>此問題已在 2022 年 8 月 2 日修正。
 
-當用戶將注釋添加到工時單上的某個小時條目時，注釋不會保存。
+當使用者向時程表上的小時條目新增評論時，評論未儲存。
 
-_2022年7月29日首次報告。_
+_首次回報於 2022 年 7 月 29 日。_
