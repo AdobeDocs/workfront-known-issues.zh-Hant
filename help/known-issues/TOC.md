@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 79%
+source-wordcount: '1463'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單： [!UICONTROL 小時] 函式使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [敏捷：通過批量編輯分配的任務不會顯示在團隊的積壓工作上](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [報表：報表使用資訊未更新](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [導覽：無法固定對象](known-issues-workfront/wf-navigation-cannot-pin-objects.md)

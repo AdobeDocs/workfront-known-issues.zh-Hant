@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 62%
+source-wordcount: '567'
+ht-degree: 61%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 62%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自訂表單： [!UICONTROL 小時] 函式使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 2022年10月24日 |
 | [文檔：外部文檔請求連結將導致登錄頁](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
 | [[!UICONTROL 展示板]: [!UICONTROL 展示板] 頁面未載入](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022年10月20日 |
 | [報表：報表使用資訊未更新](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022年10月19日 |
