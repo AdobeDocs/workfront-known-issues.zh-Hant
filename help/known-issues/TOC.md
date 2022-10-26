@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '1469'
-ht-degree: 78%
+source-wordcount: '1475'
+ht-degree: 77%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!UICONTROL 展示板]: [!UICONTROL 攝入] 列搜索無效](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 設定]:清單中載入緩慢 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [自訂表單： [!UICONTROL 小時] 函式使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [敏捷：通過批量編輯分配的任務不會顯示在團隊的積壓工作上](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)

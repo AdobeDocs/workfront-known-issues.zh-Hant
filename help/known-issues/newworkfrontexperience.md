@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '581'
 ht-degree: 60%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 60%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 展示板]: [!UICONTROL 攝入] 列搜索無效](known-issues-workfront/wf-boards-search-returns-no-results.md) | 2022年10月26日 |
 | [[!UICONTROL 設定]:清單中載入緩慢 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022年10月24日 |
 | [敏捷：通過批量編輯分配的任務不會顯示在團隊的積壓工作上](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022年10月20日 |
 | [校樣：打印摘要不顯示所有校樣頁](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
