@@ -1,22 +1,22 @@
 ---
-title: 「任務：無法選擇內聯編輯任務持續時間時的已用時間
-description: 當用戶查看任務清單並嘗試編輯任務持續時間時，已用持續時間單位不可用。
+title: 「任務：內聯編輯任務期間時無法選擇經過的時間」
+description: 當使用者查看任務清單並嘗試編輯任務期間時，已用期間單位無法使用。
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# 任務：無法選擇 [!UICONTROL 已用時間] 內嵌編輯任務持續時間時
+# 任務：內聯編輯任務期間無法選擇已經過的時間
 
 >[!NOTE]
 >
->此問題已於2022年7月21日修正。
+>此問題已在 2022 年 7 月 21 日修正。
 
-當用戶正在查看任務清單並嘗試編輯 [!UICONTROL 任務持續時間]，則無法使用下列持續時間單位：
+當使用者查看任務清單並嘗試編輯[!UICONTROL 任務期間]時，以下期間單位無法使用：
 
 * [!UICONTROL 經過的分鐘數]
 * [!UICONTROL 經過的時數]
@@ -24,4 +24,4 @@ ht-degree: 12%
 * [!UICONTROL 經過的週數]
 * [!UICONTROL 經過的月數]
 
-_2022年7月1日首次報告。_
+_首次回報於 2022 年 7 月 1 日。_
