@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 77%
+source-wordcount: '1513'
+ht-degree: 75%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [請求：無法查看頁面上超過100個隊列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [問題：出現問題時，左側導覽會顯示「(0)」問題](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [請求： [!UICONTROL 電子郵件佇列設定] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL 展示板]: [!UICONTROL 攝入] 列搜索無效](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 設定]:清單中載入緩慢 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [自訂表單： [!UICONTROL 小時] 函式使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
