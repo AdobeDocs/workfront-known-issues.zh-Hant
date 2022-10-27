@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '609'
 ht-degree: 57%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 57%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：證明生成速度極慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [請求：無法查看頁面上超過100個隊列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022年10月27日 |
 | [問題：出現問題時，左側導覽會顯示「(0)」問題](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 2022年10月27日 |
 | [請求： [!UICONTROL 電子郵件佇列設定] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022年10月27日 |
