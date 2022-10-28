@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已於2022年10月13日預覽中修正。 將於2022年10月27日在生產環境中修正。
+>此問題已於2022年10月13日預覽中修正。 它已於2022年10月27日正式投產。
 
 當使用者選取[!UICONTROL 卸下銷]「 」選項，接收有關卸除的消息，並嘗試通過按一下「 」來更換插針[!UICONTROL 還原]「 」在消息中，不會在頂部導航中更換插針，也不會將其添加到位於 [!UICONTROL 更多針腳] 清單( [!UICONTROL 針腳] )。
 
