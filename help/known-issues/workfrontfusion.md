@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
+source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 56%
+source-wordcount: '153'
+ht-degree: 55%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 56%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] 模組](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022年10月31日 |
 | [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] 個情境](known-issues-workfront-fusion/fusion-409-error.md) | 2022年10月6日 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
+source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1528'
 ht-degree: 75%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 75%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!DNL Workfront Fusion]:404錯誤 [!DNL Workfront] 模組](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API:無法按動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [校樣：證明生成速度極慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
