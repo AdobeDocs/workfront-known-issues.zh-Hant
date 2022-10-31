@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '1519'
+source-wordcount: '1525'
 ht-degree: 75%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 75%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [API:無法按動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [校樣：證明生成速度極慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
       + [請求：無法查看頁面上超過100個隊列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)

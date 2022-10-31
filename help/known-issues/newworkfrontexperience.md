@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '615'
+ht-degree: 56%
 
 ---
 
@@ -66,6 +66,7 @@ ht-degree: 0%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [API:無法按動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
 | [[!UICONTROL 設定]:清單中載入緩慢 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022年10月28日 |
 | [校樣：校樣不會在校樣工作流程中與使用者共用](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 18 月 9 日 |
 | [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
