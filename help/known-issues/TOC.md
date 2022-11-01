@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '1528'
-ht-degree: 75%
+source-wordcount: '1537'
+ht-degree: 74%
 
 ---
 
@@ -180,6 +180,7 @@ ht-degree: 75%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [[!DNL Workfront Fusion]:中的陣列元素 [!UICONTROL 迭代器] 模組顯示為「[!UICONTROL 物件]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]:在方案執行歷史記錄中查看錯誤時出錯](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]:409錯誤 [!DNL Fusion] 藍本](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]:&quot;[!UICONTROL 無法載入資料]「錯誤」](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)

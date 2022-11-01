@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 55%
+source-wordcount: '159'
+ht-degree: 53%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 55%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 模組顯示為「[!UICONTROL 物件]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022年11月1日 |
 | [[!DNL Workfront Fusion]:在方案執行歷史記錄中查看錯誤時出錯](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022年10月19日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
