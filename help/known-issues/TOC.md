@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1560'
 ht-degree: 73%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [請求：編輯請求佇列時出現「Whoops」訊息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [清單：用戶的內聯編輯錯誤不會造成錯誤消息](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [搜尋：搜索速度極慢](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]:404錯誤 [!DNL Workfront] 模組](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)

@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 55%
+source-wordcount: '641'
+ht-degree: 54%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 55%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [請求：編輯請求佇列時出現「Whoops」訊息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022年11月2日 |
 | [清單：用戶的內聯編輯錯誤不會造成錯誤消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022年11月2日 |
 | [搜尋：搜索速度極慢](known-issues-workfront/wf-search-basic-search-is-slow.md) | 2022年11月1日 |
 | [校樣：證明生成速度極慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
