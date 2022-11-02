@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
+source-wordcount: '14844'
 ht-degree: 92%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 92%
 ## 2022 年 10 月更新
 
 +++**2022 年 11 月 3 日維護更新**
+
+**重新命名配置範本中團隊和專案的「排程」和「排程」區段**
+
+*版面範本*
+
+可用於在佈局模板中添加到團隊或項目左側面板的「調度」和「調度」頁簽已更名為「工作負載平衡器」。
 
 **存取電子郵件通知設定時發生錯誤**
 
