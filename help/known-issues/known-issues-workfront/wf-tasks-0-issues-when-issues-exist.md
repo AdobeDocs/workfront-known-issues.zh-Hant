@@ -2,15 +2,19 @@
 title: 「問題：出現問題時左側導覽顯示(0)問題」
 description: 「當用戶查看存在問題的任務時，任務的左側導航將顯示(0)在「問題」區域，表示沒有問題。 如果使用者檢視了工作的「問題」區域，就會看到問題。」
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 
 # 問題：出現問題時，左側導覽會顯示「(0)」問題
+
+>[!NOTE]
+>
+>此問題已關閉，因為它已如期工作。「問題」區域中的數字是指未結問題的數量，而非問題總數。
 
 當用戶查看存在問題的任務時，任務的左側導航在「問題」區域中顯示「(0)」，表示沒有問題。 如果使用者檢視了工作的「問題」區域，就會看到問題。
 

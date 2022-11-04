@@ -1,18 +1,22 @@
 ---
-title: 「展示板：進行列搜索無效"
-description: 「當用戶嘗試搜索展示板的「攝取」列時，該列中顯示的項沒有更改。 "
+title: 「看板：輸入欄搜尋無效」
+description: 「當使用者嘗試搜尋看板的輸入欄時，該欄顯示的項目沒有變更。"
 hidefromtoc: true
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
 
-# [!UICONTROL 展示板]: [!UICONTROL 攝入] 列搜索無效
+# [!UICONTROL 看板]：[!UICONTROL 輸入]欄搜尋無效
 
-當使用者嘗試搜尋 [!UICONTROL 攝入] 欄 [!UICONTROL 展示板]，該欄中顯示的項目不會變更。
+>[!NOTE]
+>
+>此問題已於2022年11月3日修正。
+
+當使用者嘗試搜尋[!UICONTROL 看板]的[!UICONTROL 輸入]欄時，該欄顯示的項目沒有變更。
 
 _首次回報於 2022 年 10 月 7 日。_
 

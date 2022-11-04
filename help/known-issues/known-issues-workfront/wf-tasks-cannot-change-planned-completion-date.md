@@ -2,15 +2,19 @@
 title: 「任務：無法更改任務的計畫完成日期」
 description: "當用戶嘗試更改任務的計畫完成日期時，欄位無響應。 "
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '118'
+ht-degree: 24%
 
 ---
 
 
 # 任務：無法更改 [!UICONTROL 計畫完成日期] 任務
+
+>[!NOTE]
+>
+>此問題已關閉，因為它已如期工作。
 
 當使用者嘗試變更 [!UICONTROL 計畫完成日期] 在任務中，欄位沒有響應。
 

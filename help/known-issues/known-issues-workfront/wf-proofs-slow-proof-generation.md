@@ -2,15 +2,19 @@
 title: 「證明：證明的生成速度極慢」
 description: 「使用者透過「新增>校樣」選項，使用自動化工作流程嘗試將校樣新增至Workfront工作項目時，需要幾分鐘的時間才能產生校樣。」
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 10%
 
 ---
 
 
 # 校樣：證明生成速度極慢
+
+>[!NOTE]
+>
+>此問題已在 2022 年 10 月 31 日修正。
 
 <!--This article is on the WF and WFP TOCs-->
 
