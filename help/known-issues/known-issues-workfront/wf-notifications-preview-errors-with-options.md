@@ -2,10 +2,10 @@
 title: 「通知：存取電子郵件通知設定時發生錯誤」
 description: 「當使用者嘗試變更電子郵件通知設定時，他們可能會看到錯誤。」
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 89%
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->生產和預覽環境中均存在此問題。
+>此問題已於2022年11月3日修正。
 
 當使用者嘗試變更電子郵件通知設定時，他們可能會看到以下其中一個錯誤：
 
