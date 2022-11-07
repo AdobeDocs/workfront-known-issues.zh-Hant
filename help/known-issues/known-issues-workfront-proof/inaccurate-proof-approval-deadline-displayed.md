@@ -4,7 +4,7 @@ description: 當使用者被指派到校訂核准時，該校訂核准將顯示�
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 換句話說，指定校訂所有階段的所有核准者在他們的[!UICONTROL 首頁工作清單]中會看到相同的截止日期。該截止日期是未來最遠階段的截止日期。
 
-首次回報於 2022 年 4 月 11 日。
+於 2022 年 4 月 11 日首次通報。
