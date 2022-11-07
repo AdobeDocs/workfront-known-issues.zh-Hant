@@ -1,22 +1,22 @@
 ---
-title: 「Workfront聚變：Adobe PDF服務>擷取文字模組未產生文字」
-description: 「Adobe PDF服務>擷取文字模組不會輸出已處理PDF檔案的文字。 而是只會輸出空的中繼資料。 "
+title: 「Workfront Fusion：Adobe PDF Services > 擷取文字模組未產生文字」
+description: Adobe PDF Services > 擷取文字模組未輸出所處理 PDF 檔案的文字。相反地，它只輸出中繼資料。"
 hidefromtoc: true
 source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL 擷取文字] 模組未生成文本
+# [!DNL Workfront Fusion]：[!DNL Adobe PDF Services] > [!UICONTROL 擷取文字]模組未產生文字
 
 >[!NOTE]
 >
->此問題已於2022年10月3日修正。
+>此問題已在 2022 年 10 月 3 日修正。
 
-此 [!DNL Adobe PDF Services] > [!UICONTROL 擷取文字] 模組不會輸出處理的PDF檔案的文本。 而是只會輸出空的中繼資料。
+[!DNL Adobe PDF Services] > [!UICONTROL 擷取文字]模組未輸出所處理 PDF 檔案的文字。相反地，它只輸出中繼資料。
 
-_2022年9月21日首次報導。_
+_於 2022 年 9 月 21 日首次通報。_
 
