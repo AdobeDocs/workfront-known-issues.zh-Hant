@@ -4,7 +4,7 @@ description: 當使用者在專案中建立任務或問題，並在建立快顯�
 hidefromtoc: true
 exl-id: 52f86f2b-b451-495e-bbce-db94c593d4e1
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 當使用者在專案中建立任務或問題，並在建立快顯視窗之外點擊時，快顯視窗會在沒有警告的情況下關閉，且遺失所有先前輸入的訊息。
 
-_首次回報於 2022 年 3 月 25 日。_
+_於 2022 年 3 月 25 日首次通報。_
