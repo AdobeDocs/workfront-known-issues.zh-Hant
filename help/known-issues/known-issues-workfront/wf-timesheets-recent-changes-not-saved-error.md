@@ -4,9 +4,9 @@ description: 當使用者嘗試以會觸發自動儲存的方式編輯時程表�
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已於2022年10月6日修正。
+>此問題已在 2022 年 10 月 6 日修正。
 
 當使用者嘗試以會觸發自動儲存的方式編輯時程表時，未儲存變更並且使用者會看到以下訊息：
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 
 編輯以下內容時已報告此問題：
 
-* 小時
+* 時數
 * 任務
 
-_首次回報於 2022 年 7 月 22 日。_
+_於 2022 年 7 月 22 日首次通報。_
