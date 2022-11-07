@@ -3,7 +3,7 @@ title: 「[!DNL Workfront]：在 Experience League 上提交 Workfront 支援案
 description: 「如果您是  [!DNL Workfront]  授權支援聯絡人並在提交支援案例時發生問題，請撥打以下電話聯繫我們，以便我們為您提供幫助。」
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
