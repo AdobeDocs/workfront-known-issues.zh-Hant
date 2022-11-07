@@ -3,7 +3,7 @@ title: 「清單：內聯編輯狀態時未顯示新狀態」
 description: 「當使用者內聯編輯清單中物件的狀態時，新狀態只會顯示片刻，然後就恢復到舊狀態。如果清單具有篩選器，並且該篩選器未套用新狀態，則該物件將繼續顯示在清單中，即使它不應該顯示。"
 hidefromtoc: true
 source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -24,5 +24,5 @@ ht-degree: 100%
 
 重新載入頁面。
 
-_首次回報於 2022 年 9 月 7 日。_
+_於 2022 年 9 月 7 日首次通報。_
 
