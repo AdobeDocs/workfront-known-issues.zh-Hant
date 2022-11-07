@@ -4,7 +4,7 @@ description: 當使用者查看任務清單並嘗試編輯任務期間時，已�
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!UICONTROL 經過的週數]
 * [!UICONTROL 經過的月數]
 
-_首次回報於 2022 年 7 月 1 日。_
+_於 2022 年 7 月 1 日首次通報。_
