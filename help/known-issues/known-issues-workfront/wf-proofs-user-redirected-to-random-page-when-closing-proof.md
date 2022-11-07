@@ -1,24 +1,24 @@
 ---
-title: 「證明：結束校樣時使用者沒有返回上一頁」
-description: 「使用者在 [!DNL Workfront] 關閉校樣，他們不會在開啟校樣前傳回所在的頁面。 而是會被重新導向至 [!DNL Workfront]."
+title: 「校訂：關閉校訂時使用者未返回上一頁」
+description: 「當正在  [!DNL Workfront]  內檢視校訂的使用者關閉校訂，他們未返回到開啟校訂之前所在的頁面。相反地，他們被重新導向到  [!DNL Workfront] 的另一個頁面。」
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 校樣：關閉校樣時，使用者沒有返回上一頁
+# 校訂：關閉校訂時使用者未返回上一頁
 
 >[!NOTE]
 >
->此問題已於2022年9月29日修正。
+>此問題已在 2022 年 9 月 29 日修正。
 
 <!--This is on the WF page as well as the WFP page-->
 
-在內檢視校樣的使用者 [!DNL Workfront] 關閉校樣，他們不會在開啟校樣前傳回所在的頁面。 而是會被重新導向至 [!DNL Workfront].
+當正在 [!DNL Workfront] 內檢視校訂的使用者關閉校訂，他們未返回到開啟校訂之前所在的頁面。相反地，他們被重新導向到 [!DNL Workfront] 的另一個頁面。
 
-_2022年9月15日首次報導。_
+_於 2022 年 9 月 15 日首次通報。_
 
