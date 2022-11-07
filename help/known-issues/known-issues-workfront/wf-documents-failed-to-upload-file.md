@@ -1,26 +1,26 @@
 ---
-title: 「檔案：無法上載檔案錯誤"
-description: "當用戶嘗試將檔案上載到「文檔」區域時，該檔案不會上載，用戶會看到錯誤「無法上載檔案」。"
+title: 「文件：無法上傳檔案錯誤」
+description: 「當使用者嘗試將檔案上傳到文件區域時，檔案沒有上傳，使用者將看到「無法上傳檔案」錯誤。」
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 文檔：&quot;[!UICONTROL 無法上載檔案]「錯誤」
+# 文件：「[!UICONTROL 無法上傳檔案]」錯誤
 
 <!--This issue is on the Workfront TOC and the Workfront Proof TOC-->
 
 >[!NOTE]
 >
->此問題已於2022年10月20日修正。
+>此問題已在 2022 年 10 月 20 日修正。
 
-當使用者嘗試將檔案上傳至 [!UICONTROL 檔案] 區域，檔案不會上傳，且使用者會看見錯誤「[!UICONTROL 無法上載檔案].&quot;
+當使用者嘗試將檔案上傳到[!UICONTROL 文件]區域時，檔案沒有上傳，使用者將看到「[!UICONTROL 無法上傳檔案]」錯誤。
 
-嘗試上傳MP4檔案時，已回報此問題。
+嘗試上傳 MP4 檔案時已報告過此問題。
 
-_首次回報於 2022 年 9 月 19 日。_
+_於 2022 年 9 月 19 日首次通報。_
 
