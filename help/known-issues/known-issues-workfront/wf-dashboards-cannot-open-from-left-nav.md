@@ -4,7 +4,7 @@ description: 當使用者在  [!DNL Workfront]  物件左側導覽中點擊指�
 hidefromtoc: true
 exl-id: f140f758-32ff-4b5a-b690-0ece22461c50
 source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 查看 [!DNL Workfront] [!UICONTROL  儀表板]區域中的儀表板。
 
-_首次回報於 2022 年 8 月 23 日。_
+_於 2022 年 8 月 23 日首次通報。_
