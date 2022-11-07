@@ -1,29 +1,29 @@
 ---
-title: '"[!DNL Workfront Fusion]:無法載入資料」'
-description: 「Workfront Fusion連線至Workfront帳戶可能會失敗驗證，導致情況擲回下列錯誤：無法載入資料！ 請求失敗，因為先前的請求失敗。」
+title: 「[!DNL Workfront Fusion]：無法載入資料」
+description: 「Workfront Fusion 與 Workfront 帳戶的連線可能無法通過驗證，導致案例擲回以下錯誤：無法載入資料！」由於先前的請求失敗，此請求失敗。」
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]:&quot;[!UICONTROL 無法載入資料]「錯誤」
+# [!DNL Workfront Fusion]：「[!UICONTROL 無法載入資料]」錯誤
 
 >[!NOTE]
 >
->此問題已於2022年10月7日修正。
+>此問題已在 2022 年 10 月 7 日修正。
 
-[!DNL Workfront Fusion] 連接到 [!DNL Workfront] 帳戶可能會失敗驗證，導致情況擲回下列錯誤：
+[!DNL Workfront Fusion] 與 [!DNL Workfront] 帳戶的連線可能無法通過驗證，導致案例擲回以下錯誤：
 
-[!UICONTROL 無法載入資料！ 請求失敗，因為先前的請求失敗。]
+[!UICONTROL 無法載入資料！由於先前的請求失敗，此請求失敗。]
 
-在恢復連接之前，無法執行該情況。
+在連線恢復之前，此案例無法執行。
 
 **因應措施**
 
-建立新連線，然後在 [!DNL Workfront] 模組。
+建立新連線，並在場景中的 [!DNL Workfront] 模組使用新連結。
 
-_首次回報於 2022 年 9 月 15 日。_
+_於 2022 年 9 月 15 日首次通報。_
