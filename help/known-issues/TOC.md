@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [敏捷：任務的看板積壓訂單為0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [任務：無法更改 [!UICONTROL 計畫完成日期] 任務](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront:變更Workfront物件時發生500錯誤](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [請求：編輯請求佇列時出現「Whoops」訊息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
@@ -48,7 +49,7 @@ ht-degree: 93%
       + [任務：[!UICONTROL 前置任務]圖示未出現在任務標題中](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [校訂：將群組新增至校訂不會新增群組的所有成員](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [任務和問題：無法編輯任務或問題的名稱或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
-      + [版面範本：自定版面範本中的清單時發生錯誤](known-issues-workfront/wf-layout-templates-error-lists-users.md)
+      + [版面範本：自訂版面範本中的清單時發生錯誤](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [校訂：「新校訂收件者」文字方塊太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [校訂：無法自動比較校訂](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [文件：「[!UICONTROL 無法上傳檔案]」錯誤](known-issues-workfront/wf-documents-failed-to-upload-file.md)
@@ -187,16 +188,16 @@ ht-degree: 93%
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
       + [[!DNL Workfront Fusion]:中的陣列元素 [!UICONTROL 迭代器] 模組顯示為「[!UICONTROL 物件]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
-      + [[!DNL Workfront Fusion]：檢視情景執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]： [!DNL Fusion]  情境中的 409 錯誤](known-issues-workfront-fusion/fusion-409-error.md)
+      + [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
+      + [[!DNL Workfront Fusion]： [!DNL Fusion]  案例中的 409 錯誤](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 無法載入資料]」錯誤](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront]  > [!UICONTROL 自訂 API 呼叫] 模組傳回 404 或 422 錯誤](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]： [!DNL Adobe PDF Services]  > [!UICONTROL 擷取文字]模組未產生文字](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
-      + [[!DNL Workfront Fusion]：「無法驗證連接」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
-      + [[!DNL Workfront Fusion]：建立或編輯情景時未載入模組](known-issues-workfront-fusion/fusion-module-does-not-load.md)
+      + [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
+      + [[!DNL Workfront Fusion]：建立或編輯案例時未載入模組](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
-      + [[!DNL Workfront Fusion]：無法連接到 Fusion 中的 MS Dynamics 模組](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [[!DNL Workfront Fusion]：當情景包含檢查 Workfront 中校訂決策的模組時出現 502 錯誤](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
+      + [[!DNL Workfront Fusion]：無法連線到 Fusion 中的 MS Dynamics 模組](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
+      + [[!DNL Workfront Fusion]：當案例包含檢查 Workfront 中校訂決策的模組時出現 502 錯誤](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + [!DNL Workfront Fusion]{#fusion-resolved} 中的已解決問題
       + [自訂表單中的資料在  [!DNL Workfront Fusion] [!DNL Workfront] 模組中無法使用](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
