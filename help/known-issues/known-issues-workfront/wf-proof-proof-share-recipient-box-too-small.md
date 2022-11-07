@@ -1,20 +1,20 @@
 ---
-title: 「證明：新校樣收件者文字方塊太小」
-description: 「當使用者檢視校樣並嘗試從「共用」索引標籤共用校樣時，「新的校樣收件者」文字方塊非常小。 使用者可以輸入名稱，但因為方塊太小，文字以難讀的方式包住。」
+title: 「校訂：新校訂收件者文字方塊太小」
+description: 「當使用者正在檢視一個校訂並嘗試從分享索引標籤分享校訂時，新校訂收件者文字方塊太小。使用者可以輸入名稱，但由於方塊太小，文字換行方式造成可讀性低。」
 hidefromtoc: true
 source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 校樣：&quot;[!UICONTROL 新校樣收件者]&quot;文本框太小
+# 校訂：「[!UICONTROL 新校訂收件者]」文字方塊太小
 
 <!--This article is on the WF and WFP TOCs-->
 
-當使用者檢視校樣並嘗試從 [!UICONTROL 共用] 頁簽，[!UICONTROL 新校樣接收者]」文本框非常小。 使用者可以輸入名稱，但因為方塊太小，文字會以難以閱讀的方式包住。
+使用者正在檢視一個校訂並嘗試從[!UICONTROL 分享]索引標籤分享校訂時，「[!UICONTROL 新校訂收件者]」文字方塊太小。使用者可以輸入名稱，但由於方塊太小，文字換行方式造成可讀性低。
 
-_2022年10月6日首次報導。_
+_於 2022 年 10 月 6 日首次通報。_
 
