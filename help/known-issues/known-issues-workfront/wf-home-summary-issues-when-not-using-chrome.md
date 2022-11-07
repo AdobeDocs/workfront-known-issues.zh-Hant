@@ -4,13 +4,13 @@ description: 當使用者查看他們的首頁並使用 Chrome 以外的瀏覽�
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL 首頁]：使用 [!UICONTROL  以外的瀏覽器時出現的]首頁[!DNL Chrome]摘要問題 
+# [!UICONTROL  首頁]：使用 [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL  首頁]摘要問題
 
 >[!NOTE]
 >
@@ -28,4 +28,4 @@ ht-degree: 100%
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-_首次回報於 2021 年 11 月 23 日。_
+_於 2021 年 11 月 23 日首次通報。_
