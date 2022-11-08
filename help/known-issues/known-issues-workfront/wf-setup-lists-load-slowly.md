@@ -3,7 +3,7 @@ title: 「設定：清單在設定中載入緩慢」
 description: 「當使用者位在設定區域並嘗試載入清單時，清單載入十分緩慢。設定的各個區域已報告過此問題。」
 hidefromtoc: true
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

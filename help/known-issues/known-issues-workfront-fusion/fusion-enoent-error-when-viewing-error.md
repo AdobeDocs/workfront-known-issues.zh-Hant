@@ -3,7 +3,7 @@ title: 「Workfront Fusion：檢視案例執行歷程中的錯誤時發生錯誤
 description: 「當使用者檢視案例執行歷程，並嘗試按一下錯誤來查看更多錯誤詳細資訊，詳細資訊未開啟而使用者看到錯誤訊息。」
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%
 
