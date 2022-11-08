@@ -28,5 +28,5 @@ ht-degree: 93%
 * [!UICONTROL 使用者]>[!UICONTROL 編輯使用者]
 * [!UICONTROL 群組]
 
-_首次回報於 2022 年 8 月 2 日。_
+_於 2022 年 8 月 2 日首次通報。_
 
