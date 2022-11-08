@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '15236'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,18 @@ ht-degree: 0%
 有關 2022 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2022 年 11 月更新
+
++++**（計畫）2022年11月10日的維護更新**
+
+**無法開啟互動式校樣**
+
+*Workfront Proof*
+
+當使用者嘗試開啟互動式校樣時，校樣不會開啟，且使用者會看見下列訊息：
+
+&quot;[!UICONTROL 校樣未載入(501)請重試]&quot;
+
++++
 
 +++**2022年11月4日的維護更新(Hotfix)**
 
@@ -298,7 +310,7 @@ ht-degree: 0%
 
 **電子郵件通知延遲**
 
-*Workfront Proof*
+*Workfront校樣*
 
 當 [!DNL Workfront Proof] 中發生觸發電子郵件通知的事件時，使用者未立即收到通知。通知可能延遲了幾個小時。
 

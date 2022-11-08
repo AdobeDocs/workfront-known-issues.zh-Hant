@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '1591'
+source-wordcount: '1598'
 ht-degree: 92%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [任務：批量編輯任務更改任務分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [敏捷：任務的看板積壓訂單為0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [任務：無法更改 [!UICONTROL 計畫完成日期] 任務](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront:變更Workfront物件時發生500錯誤](known-issues-workfront/wf-500-error-when-making-changes.md)

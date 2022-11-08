@@ -1,11 +1,11 @@
 ---
 title: 「Workfront校樣：無法開啟互動式校樣」
-description: ""
+description: "當使用者嘗試開啟互動式校樣時，校樣無法開啟，使用者會看到錯誤訊息。"
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
@@ -18,5 +18,5 @@ ht-degree: 7%
 
 這發生在使用者更新 [!DNL Workfront Proof].
 
-_首次回報於 2022 年 11 月 3 日._
+_於 2022 年 11 月 3 日首次通報。_
 
