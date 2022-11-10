@@ -1,12 +1,12 @@
 ---
 title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
-description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
+description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| **** | [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 模組顯示為「[!UICONTROL 物件]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022年11月1日 |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 模組顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022 年 11 月 1 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -47,7 +47,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022年11月4日 |
+| [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022 年 11 月 4 日 |
 | [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022 年 29 月 9 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |
 

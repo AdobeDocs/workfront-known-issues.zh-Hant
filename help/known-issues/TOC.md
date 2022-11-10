@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 92%
+source-wordcount: '1607'
+ht-degree: 98%
 
 ---
 
@@ -16,20 +16,21 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [版面範本：隱藏項目會隱藏錯誤的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [任務：批量編輯任務更改任務分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [敏捷：任務的看板積壓訂單為0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [任務：無法更改 [!UICONTROL 計畫完成日期] 任務](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-      + [Workfront:變更Workfront物件時發生500錯誤](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [請求：編輯請求佇列時出現「Whoops」訊息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [清單：用戶的內聯編輯錯誤不會造成錯誤消息](known-issues-workfront/wf-lists-error-messages-not-generated.md)
-      + [搜尋：搜索速度極慢](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]:404錯誤 [!DNL Workfront] 模組](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API:無法按動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [校樣：證明生成速度極慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
-      + [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [請求：無法查看頁面上超過100個隊列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [問題：出現問題時，左側導覽會顯示「(0)」問題](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [請求： [!UICONTROL 電子郵件佇列設定] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [任務：無法變更任務的[!UICONTROL 規劃完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront：變更 Workfront 物件時出現 500 錯誤](known-issues-workfront/wf-500-error-when-making-changes.md)
+      + [請求：編輯請求佇列時出現「糟糕」訊息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [清單：使用者的內聯編輯錯誤不會產生錯誤訊息](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [搜尋：搜尋速度非常慢](known-issues-workfront/wf-search-basic-search-is-slow.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront]  模組 404 錯誤](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [API：無法依動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [專案：從範本建立專案時出現性能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [請求：無法在一個頁面上檢視超過 100 個佇列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [問題：出現問題時左側導覽顯示「(0)」問題](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [請求：[!UICONTROL 電子郵件佇列設定]不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL 看板]：[!UICONTROL 輸入]欄搜尋無效](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 設定]：清單在[!UICONTROL 設定]中載入緩慢](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [自訂表單：計算欄位中的 [!UICONTROL HOUR] 函數使用 UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
@@ -115,7 +116,7 @@ ht-degree: 92%
       + [搜尋：無法按參考編號搜尋專案](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
       + [首頁：自訂術語未套用於首頁區域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：無法從卡片上的自訂表單中編輯欄位](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
-      + [版面設定範本：建立版面設定範本時無法選擇群組](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
+      + [版面配置範本：建立版面配置範本時無法選擇群組](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
       + [核准：核准委派設定的天數不正確](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)
       + [[!UICONTROL 首頁]：使用  [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL 首頁]摘要問題](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 首頁]：新任務選項在[!UICONTROL 指派給]欄位中顯示已停用的使用者](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
@@ -153,7 +154,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [[!DNL Workfront Proof]:無法開啟互動式校樣](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]：無法開啟互動式校訂](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [校訂：校訂未分享給校訂工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]：檢視多頁校訂時出現空白頁面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -188,7 +189,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Workfront Fusion]:中的陣列元素 [!UICONTROL 迭代器] 模組顯示為「[!UICONTROL 物件]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]：[!UICONTROL 疊代器]模組中的陣列元素顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  案例中的 409 錯誤](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 無法載入資料]」錯誤](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)

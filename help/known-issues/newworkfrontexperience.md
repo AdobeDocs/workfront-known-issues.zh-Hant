@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 98%
+source-wordcount: '564'
+ht-degree: 96%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [版面範本：隱藏項目會隱藏錯誤的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022 年 11 月 10 日 |
 | [清單：使用者的內聯編輯錯誤不會產生錯誤訊息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 4 日 |
 | [請求：無法在一個頁面上檢視超過 100 個佇列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 4 日 |
 | [專案：從範本建立專案時出現性能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 10 月 27 日 |
