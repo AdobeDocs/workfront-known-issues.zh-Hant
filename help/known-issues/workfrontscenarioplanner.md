@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront Scenario Planner] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 source-git-commit: e224cfec1fc166f042b6c84d4dcfd35d35fd7559
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
