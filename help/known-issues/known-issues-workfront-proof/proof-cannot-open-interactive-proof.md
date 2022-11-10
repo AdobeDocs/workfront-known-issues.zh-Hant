@@ -1,22 +1,26 @@
 ---
-title: 「Workfront校樣：無法開啟互動式校樣」
+title: 「Workfront Proof：無法開啟互動式校訂」
 description: "當使用者嘗試開啟互動式校樣時，校樣無法開啟，使用者會看到錯誤訊息。"
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
+source-wordcount: '79'
+ht-degree: 73%
 
 ---
 
 
-# [!DNL Workfront Proof]:無法開啟互動式校樣
+# [!DNL Workfront Proof]：無法開啟互動式校訂
 
-當使用者嘗試開啟互動式校樣時，校樣不會開啟，且使用者會看見下列訊息：
+>[!NOTE]
+>
+>此問題已在 2022 年 11 月 10 日修正。
 
-&quot;[!UICONTROL 校樣未載入(501)請重試]&quot;
+當使用者嘗試開啟互動式校訂時，校訂未開啟，且使用者看到以下訊息：
 
-這發生在使用者更新 [!DNL Workfront Proof].
+「[!UICONTROL 校訂未載入 (501) 請再試一次]」
 
-_於 2022 年 11 月 3 日首次通報。_
+當使用者更新 [!DNL Workfront Proof] 版本後，就會發生此狀況。
+
+_於 2022 年 11 月 3 日首次回報。_
 
