@@ -2,15 +2,19 @@
 title: 「通知：當使用者在評論中被提及或內含時，未收到電子郵件或應用程式內通知」
 description: 「當物件更新流上的評論或更新中有提及或包含使用者時，他們可能不會收到有關評論的預期電子郵件或應用程式內通知。」
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 通知：當使用者在評論中被提及或內含時，未收到通知
+
+>[!NOTE]
+>
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
 當物件更新流上的評論或更新中有提及或包含使用者時，他們可能不會收到有關評論的預期電子郵件或應用程式內通知。
 
