@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '1616'
+source-wordcount: '1624'
 ht-degree: 97%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校樣：打印摘要不顯示影像縮略圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [整合： [!UICONTROL 首頁日曆] 顯示事件的時間晚於 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [版面範本：隱藏項目會隱藏錯誤的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [任務：批量編輯任務更改任務分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
