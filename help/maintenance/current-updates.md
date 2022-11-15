@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,17 @@ ht-degree: 99%
 有關 2022 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2022 年 11 月更新
+
++++**（計畫）2022年11月17日維護更新**
+
+**隱藏項目會隱藏錯誤的項目**
+
+*版面配置範本*
+
+當使用者變更項目是隱藏還是顯示時，這些變更會反映在版面範本上的不同項目上。
+
+
++++
 
 +++**2022 年 11 月 10 日維護更新**
 
