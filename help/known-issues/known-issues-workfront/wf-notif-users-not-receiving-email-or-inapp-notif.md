@@ -3,9 +3,9 @@ title: 「通知：當使用者在評論中被提及或內含時，未收到電�
 description: 「當物件更新流上的評論或更新中有提及或包含使用者時，他們可能不會收到有關評論的預期電子郵件或應用程式內通知。」
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '118'
+ht-degree: 100%
 
 ---
 
