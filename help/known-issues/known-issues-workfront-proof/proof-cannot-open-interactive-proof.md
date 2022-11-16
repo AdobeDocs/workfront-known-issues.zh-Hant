@@ -1,11 +1,11 @@
 ---
 title: 「Workfront Proof：無法開啟互動式校樣」
-description: "當使用者嘗試開啟互動式校樣時，校樣無法開啟，使用者會看到錯誤訊息。"
+description: 「當使用者嘗試開啟互動式校樣時，校樣未開啟，且使用者看到錯誤訊息。」
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
