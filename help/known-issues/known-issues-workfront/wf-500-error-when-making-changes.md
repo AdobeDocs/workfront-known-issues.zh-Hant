@@ -1,12 +1,12 @@
 ---
-title: 'Workfront：變更 Workfront 物件時出現 500 錯誤'
-description: 當使用者嘗試對Workfront物件進行變更時，變更不會儲存，且使用者會看見錯誤
+title: 「Workfront：變更 Workfront 物件時出現 500 錯誤」
+description: 當使用者嘗試變更 Workfront 物件時，變更不會儲存，且使用者會看到錯誤
 hidefromtoc: true
 exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
