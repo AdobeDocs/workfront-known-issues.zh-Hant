@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1666'
+ht-degree: 96%
 
 ---
 
@@ -16,14 +16,15 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：&quot;[!UICONTROL 自定義表達式無效]引用「[!UICONTROL 所有者]&quot;](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [報表：將新問題新增至問題報告時出現「Whoops」錯誤](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [報表：組合圖顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [校樣：新增自訂訊息會造成校樣檢視器中發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [校樣：打印摘要不顯示影像縮略圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [整合： [!UICONTROL 首頁日曆] 顯示事件的時間晚於 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [版面範本：隱藏項目會隱藏錯誤的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [任務：批量編輯任務更改任務分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [敏捷：任務的看板積壓訂單為0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [版面配置範本：隱藏項目會隱藏不正確的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [任務：大量編輯任務會變更任務指派](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [任務：無法變更任務的[!UICONTROL 規劃完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront：變更 Workfront 物件時出現 500 錯誤](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [請求：編輯請求佇列時出現「糟糕」訊息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
