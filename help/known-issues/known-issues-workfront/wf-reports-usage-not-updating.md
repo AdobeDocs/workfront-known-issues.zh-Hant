@@ -3,9 +3,9 @@ title: 「報告：報告使用情況資訊未更新」
 description: 「當使用者檢視報告，上次檢視的資訊 (例如上次檢視日期和上次檢視者) 未更新。這表示任何使用情況資訊都可能不正確。」
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此問題已於2022年11月4日修正。
+>此問題已在 2022 年 11 月 4 日修正。
 
 當使用者檢視報告，上次檢視的資訊 (例如上次檢視日期和上次檢視者) 未更新。這表示任何使用情況資訊都可能不正確。
 
