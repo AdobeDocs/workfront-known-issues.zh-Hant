@@ -3,9 +3,9 @@ title: 「校訂：新校訂收件者文字方塊太小」
 description: 「當使用者正在檢視一個校訂並嘗試從分享索引標籤分享校訂時，新校訂收件者文字方塊太小。使用者可以輸入名稱，但由於方塊太小，文字換行方式造成可讀性低。」
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '130'
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此問題已於2022年11月4日修正。
+>此問題已在 2022 年 11 月 4 日修正。
 
 <!--This article is on the WF and WFP TOCs-->
 
