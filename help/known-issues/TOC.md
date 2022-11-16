@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '1666'
-ht-degree: 96%
+source-wordcount: '1679'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：&quot;[!UICONTROL 您沒有足夠的存取權]編輯自訂表單時出錯](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [自訂表單：&quot;[!UICONTROL 自定義表達式無效]引用「[!UICONTROL 所有者]&quot;](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [報表：將新問題新增至問題報告時出現「Whoops」錯誤](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [報表：組合圖顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)

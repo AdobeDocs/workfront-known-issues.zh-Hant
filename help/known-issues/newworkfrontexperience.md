@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 90%
+source-wordcount: '643'
+ht-degree: 88%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自訂表單：&quot;[!UICONTROL 您沒有足夠的存取權]編輯自訂表單時出錯](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 16 日 |
 | [校樣： [!UICONTROL 打印摘要] 未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 14 日 |
 | [整合： [!UICONTROL 首頁日曆] 顯示事件的時間晚於 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 2022 年 11 月 11 日 |
 | [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 7 日 |
