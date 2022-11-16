@@ -1,20 +1,20 @@
 ---
 title: 「敏捷：任務新增至疊代的問題」
-description: 「關於新增至疊代的問題，已經報告多次。」
+description: 關於新增至疊代的問題，已經報告多次。
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 25ca4bba-4e0e-470e-ac25-9dede2c6a3be
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
+source-wordcount: '114'
+ht-degree: 100%
 
 ---
-
 
 # 敏捷：任務新增至疊代的問題
 
 >[!NOTE]
 >
->此問題已於2022年11月4日修正。
+>此問題已在 2022 年 11 月 4 日修正。
 
 「關於新增至疊代的問題，已經報告下列問題。」
 
@@ -24,4 +24,3 @@ ht-degree: 0%
    「[!UICONTROL 發生以下錯誤：無法移動選取的項目，因為它們未指派給敏捷團隊或不是敏捷項目]」
 
 _於 2022 年 9 月 23 日首次通報。_
-
