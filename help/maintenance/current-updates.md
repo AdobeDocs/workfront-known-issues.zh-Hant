@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 99%
 ## 2022 年 11 月更新
 
 +++**2022 年 11 月 17 日維護更新**
+
+**放在 [!UICONTROL 回收筒] 如果在移動任務或問題時未選中**
+
+*文件*
+
+現在，當您取消選取 [!UICONTROL 檔案] 在移動任務或問題的過程中的選項、附加到任務的文檔或問題將放在 [!UICONTROL 回收筒] 30天。 如有需要，管理員可以還原。 在移動過程中取消選擇「文檔」的用戶將在 [!UICONTROL 移動任務] 或 [!UICONTROL 移動問題] 框。 在此增強之前，文檔會被永久刪除。
 
 **隱藏項目會隱藏錯誤的項目**
 
