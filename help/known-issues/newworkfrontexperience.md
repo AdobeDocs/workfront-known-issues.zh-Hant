@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '633'
 ht-degree: 88%
 
 ---
@@ -46,7 +46,6 @@ ht-degree: 88%
 | [報表：將新問題新增至問題報告時出現「Whoops」錯誤](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [報表：組合圖顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022 年 11 月 14 日 |
 | [校樣：新增自訂訊息會造成校樣檢視器中發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 14 日 |
-| [版面配置範本：隱藏項目會隱藏不正確的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022 年 11 月 10 日 |
 | [清單：使用者的內聯編輯錯誤不會產生錯誤訊息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 4 日 |
 | [請求：無法在一個頁面上檢視超過 100 個佇列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 4 日 |
 | [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 10 月 27 日 |
