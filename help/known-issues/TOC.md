@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '1679'
-ht-degree: 95%
+source-wordcount: '1691'
+ht-degree: 98%
 
 ---
 
@@ -16,13 +16,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校樣：校樣在校樣檢視器中顯示為比原始影像更清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自訂表單：&quot;[!UICONTROL 您沒有足夠的存取權]編輯自訂表單時出錯](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [自訂表單：&quot;[!UICONTROL 自定義表達式無效]引用「[!UICONTROL 所有者]&quot;](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [報表：將新問題新增至問題報告時出現「Whoops」錯誤](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
-      + [報表：組合圖顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [校樣：新增自訂訊息會造成校樣檢視器中發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [校樣：打印摘要不顯示影像縮略圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [整合： [!UICONTROL 首頁日曆] 顯示事件的時間晚於 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [自訂表單：在計算欄位參考「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [報告：將新問題加至問題報告時出現「糟糕」錯誤](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [報告：組合圖表顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [校樣：新增自訂訊息導致校樣檢視器發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [校樣：列印摘要未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [整合：[!UICONTROL 首頁行事曆]顯示事件的時間比  [!DNL Outlook] 晚一小時](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [版面配置範本：隱藏項目會隱藏不正確的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [任務：大量編輯任務會變更任務指派](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
