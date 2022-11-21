@@ -2,15 +2,19 @@
 title: 「請求：編輯請求佇列時出現糟糕訊息」
 description: 「當使用者編輯請求佇列並嘗試儲存變更時，他們會看到錯誤。」
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: ht
-source-wordcount: '115'
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # 請求：編輯請求佇列時出現「糟糕」訊息
+
+>[!NOTE]
+>
+>此問題已在 2022 年 11 月 10 日修正。
 
 當使用者編輯請求佇列並嘗試儲存變更時，他們會看到以下錯誤：
 
