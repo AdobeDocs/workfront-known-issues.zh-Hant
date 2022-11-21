@@ -1,22 +1,21 @@
 ---
-title: 「自訂表單：在計算欄位中引用擁有者時，自訂運算式訊息無效"
-description: 「當使用者將計算欄位新增至問題層級的自訂表單，並嘗試將任何參考新增至擁有者時（例如'ownerID'），欄位不會儲存，且使用者會看見下列訊息：這是無效的客戶表達式，請重試。」
+title: 「自訂表單：在計算欄位中參照所有者時，出現自訂運算式無效訊息」
+description: 「當使用者將計算欄位新增至問題層級自訂表單，並嘗試新增任一所有者 (例如「ownerID」) 的參照時，欄位無法儲存，使用者會看到以下訊息：此自訂運算式無效，請再試一次。」
 hidefromtoc: true
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
-workflow-type: tm+mt
+exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
+source-git-commit: d006691bff71466284c27b8c64ae4886e7c4c27d
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# 自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息
 
-# 自訂表單：&quot;[!UICONTROL 自定義表達式無效]引用「[!UICONTROL 所有者]&quot;
+當使用者將計算欄位新增至問題層級自訂表單，並嘗試新增任一「[!UICONTROL 所有者]」(例如 `ownerID`) 的參照時，欄位無法儲存，使用者會看到以下訊息：此自訂運算式無效，請再試一次。
 
-當使用者將計算欄位新增至問題層級的自訂表單，並嘗試將任何參考新增至「[!UICONTROL 所有者]&quot;(例如 `ownerID`)，則欄位不會儲存，且使用者會看見下列訊息：
+「[!UICONTROL 此自訂運算式無效，請再試一次。]」
 
-&quot;[!UICONTROL 這是無效的客戶表達式，請重試。]&quot;
-
-即使運算式有效，也會發生此情況。
+即使運算式有效，也會發生此狀況。
 
 _於 2022 年 11 月 8 日首次通報。_
-
