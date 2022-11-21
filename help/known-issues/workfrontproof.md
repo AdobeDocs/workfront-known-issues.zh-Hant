@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '214'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣： [!UICONTROL 打印摘要] 未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 14 日 |
+| [校樣：[!UICONTROL 列印摘要]未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 14 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：新增自訂訊息會造成校樣檢視器中發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 14 日 |
+| [校樣：新增自訂訊息導致校樣檢視器發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 14 日 |
 | [文件：外部文件請求指向登入頁面的連結](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 20 日 |
 
 {style=&quot;table-layout:auto&quot;}
