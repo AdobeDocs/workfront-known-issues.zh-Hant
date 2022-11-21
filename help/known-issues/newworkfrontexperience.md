@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 96%
+source-wordcount: '660'
+ht-degree: 94%
 
 ---
 
@@ -66,6 +66,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自訂表單：需要跨物件自訂表單 [!UICONTROL 管理] 或 [!UICONTROL 編輯] 編輯欄位的存取權](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 21 月 11 日 |
 | [通知：當使用者在評論中被提及或內含時，未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |
 | [API：無法依動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 設定]：清單在[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)中載入緩慢 | 2022 年 10 月 28 日 |

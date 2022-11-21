@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：校樣在校樣檢視器中顯示為比原始影像更清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [校樣：[!UICONTROL 列印摘要]未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 14 日 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '1691'
-ht-degree: 98%
+source-wordcount: '1704'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：需要跨物件自訂表單 [!UICONTROL 管理] 或 [!UICONTROL 編輯] 編輯欄位的存取權](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [校樣：校樣在校樣檢視器中顯示為比原始影像更清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自訂表單：&quot;[!UICONTROL 您沒有足夠的存取權]編輯自訂表單時出錯](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
