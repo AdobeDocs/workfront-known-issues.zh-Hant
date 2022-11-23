@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：校樣在校樣檢視器中顯示為比原始影像更清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
+| [敏捷：將工作項移動到小版本時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 23 月 11 日 |
+| [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [整合：[!UICONTROL 首頁行事曆]顯示事件的時間比  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) 晚一小時 | 2022 年 11 月 11 日 |
 | [校樣：校樣產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [校樣：列印摘要未顯示校樣的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -38,7 +39,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [自訂表單：&quot;[!UICONTROL 您沒有足夠的存取權]編輯自訂表單時出錯](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 21 月 11 日 |
+| [工時單：選擇工時單批准者時可用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 23 月 11 日 |
+| [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 21 月 11 日 |
 | [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 21 月 11 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 11 月 15 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
