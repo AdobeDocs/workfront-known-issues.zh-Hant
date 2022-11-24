@@ -1384,7 +1384,7 @@ PDF 在欄標題和報告的第一列之間包含空格。
 
 *校樣*
 
-以電子方式簽署校樣時，系統現在會檢查同盟 ID (如果您在其中設定了 SSO)[!DNL Workfront Proof], 除了您的電子郵件 [!DNL Workfront].
+以電子方式簽署校樣時，系統現在會檢查同盟 ID (如果您在其中設定了 SSO) [!DNL Workfront Proof], 除了您的電子郵件 [!DNL Workfront].
 
 以前，系統只檢查您在 Workfront 中的電子郵件。
 
