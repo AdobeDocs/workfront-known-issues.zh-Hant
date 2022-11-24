@@ -1,20 +1,20 @@
 ---
-title: 「自訂表單：編輯自訂表單時，您沒有足夠的存取錯誤」
-description: 「當使用者嘗試對自訂表單進行任何變更時，變更不會儲存，且使用者會看見錯誤：您沒有足夠的權限編輯此參數」
+title: 「自訂表單：編輯自訂表單時出現您沒有足夠存取權限的錯誤」
+description: 「當使用者嘗試變更自訂表單時，變更不會儲存，且使用者看到錯誤：您沒有足夠存取權限可編輯此參數」
 hidefromtoc: true
 source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 自訂表單：&quot;[!UICONTROL 您沒有足夠的存取權]編輯自訂表單時出錯
+# 自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤
 
-當使用者嘗試對自訂表單進行任何變更時，變更不會儲存，且使用者會看見下列錯誤：
+當使用者嘗試變更自訂表單時，變更不會儲存，且使用者會看到以下錯誤：
 
-&quot;[!UICONTROL 您沒有足夠的權限編輯此參數]&quot;
+「[!UICONTROL 您沒有足夠存取權限可編輯此參數]」
 
 _於 2022 年 11 月 8 日首次通報。_
 
