@@ -3,7 +3,7 @@ title: 「版面配置範本：隱藏項目會隱藏不正確的項目」
 description: 「當使用者變更項目是隱藏還是顯示時，這些變更會反映在版面配置範本的不同項目上。」
 hidefromtoc: true
 source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
