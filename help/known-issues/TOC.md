@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1746'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [整合：無法訪問 [!DNL Workfront for Jira] 整合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [敏捷：將工作項移動到小版本時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [工時單：選擇工時單批准者時可用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [自訂表單：需要跨物件自訂表單 [!UICONTROL 管理] 或 [!UICONTROL 編輯] 編輯欄位的存取權](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -200,6 +202,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [[!DNL Workfront Fusion]:無法建立連接 [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 疊代器]模組中的陣列元素顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  案例中的 409 錯誤](known-issues-workfront-fusion/fusion-409-error.md)

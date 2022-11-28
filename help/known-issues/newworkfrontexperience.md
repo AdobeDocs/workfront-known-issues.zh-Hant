@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 95%
+source-wordcount: '663'
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,8 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：無法訪問 [!DNL Workfront for Jira] 整合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 2022 年 11 月 28 日 |
+| [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [工時單：選擇工時單批准者時可用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 11 月 23 日 |
 | [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 21 日 |
