@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
+source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 92%
+source-wordcount: '669'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工時單：未生成工時單](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 2022 年 11 月 28 日 |
 | [敏捷：將工作項移動到小版本時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 11 月 23 日 |
 | [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [整合：[!UICONTROL 首頁行事曆]顯示事件的時間比  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) 晚一小時 | 2022 年 11 月 11 日 |
