@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
-workflow-type: ht
-source-wordcount: '15397'
-ht-degree: 100%
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+workflow-type: tm+mt
+source-wordcount: '15666'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,56 @@ ht-degree: 100%
 -->
 
 有關 2022 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
+
+## 2022 年 12 月更新
+
++++**（計畫）2022年12月1日的維護更新**
+
+**任務的看板積壓訂單為0**
+
+*敏捷*
+
+當使用者檢視看板團隊的待辦項目時，一個或多個任務顯示待辦項目順序為 0。
+
+**&quot;[!UICONTROL 自定義表達式無效]引用「[!UICONTROL 所有者]&quot;**
+
+*自訂表單*
+
+當使用者將計算欄位新增至問題層級自訂表單，並嘗試新增任一「[!UICONTROL 所有者]」(例如 `ownerID`) 的參照時，欄位無法儲存，使用者會看到以下訊息：此自訂運算式無效，請再試一次。
+
+「[!UICONTROL 此自訂運算式無效，請再試一次。]」
+
+即使運算式有效，也會發生此狀況。
+
+**無法訪問 [!DNL Workfront for Jira] 整合**
+
+*整合*
+
+下列元素目前無法在 [!DNL Workfront for Jira] 整合 [!DNL Jira Cloud]:
+
+* 此 [!UICONTROL 設定] 頁面
+* 「[!UICONTROL 開啟Workfront]」按鈕 [!DNL Jira] 問題
+
+**新增自訂訊息會造成校樣檢視器中發生問題**
+
+*校樣*
+
+當使用者共用校樣並嘗試新增自訂訊息時，就會出現以下問題：
+
+* 校樣檢視器放大校樣。
+* 左側導覽中的區域不再回應。
+
+**選擇工時單批准者時可用的已停用用戶**
+
+*時程表*
+
+「當用戶正建立時程表並嘗試指派核准者時，下拉式清單會包含已停用的用戶。如果選取已停用的用戶，時程表不會被儲存且用戶會看到以下錯誤訊息：
+
+「[!UICONTROL 錯誤。對不起！只有擁有計劃授權的用戶才能核准或拒絕時程表。請聯絡您的系統管理員。]」
+
+由於無法指派該已停用的用戶，所以用戶必須選取一位有效的用戶。時程表因而會按預期運行，但清單中已停用的用戶可能會讓用戶感到困擾或不便。
+
++++
 
 ## 2022 年 11 月更新
 
@@ -333,7 +383,7 @@ ht-degree: 100%
 
 **電子郵件通知延遲**
 
-*Workfront Proof*
+*Workfront校樣*
 
 當 [!DNL Workfront Proof] 中發生觸發電子郵件通知的事件時，使用者未立即收到通知。通知可能延遲了幾個小時。
 
