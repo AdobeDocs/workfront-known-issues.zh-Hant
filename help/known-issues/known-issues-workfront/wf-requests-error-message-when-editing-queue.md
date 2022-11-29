@@ -3,7 +3,7 @@ title: 「請求：編輯請求佇列時出現糟糕訊息」
 description: 「當使用者編輯請求佇列並嘗試儲存變更時，他們會看到錯誤。」
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
