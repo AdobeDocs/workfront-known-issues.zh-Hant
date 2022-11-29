@@ -3,8 +3,8 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '1751'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 96%
       + [工時單：未生成工時單](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [整合：無法訪問 [!DNL Workfront for Jira] 整合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
-      + [敏捷：將工作項移動到小版本時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [工時單：選擇工時單批准者時可用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [自訂表單：需要跨物件自訂表單 [!UICONTROL 管理] 或 [!UICONTROL 編輯] 編輯欄位的存取權](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [敏捷：將工作項移動到疊代時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)

@@ -5,8 +5,8 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [工時單：未生成工時單](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 2022 年 11 月 28 日 |
-| [敏捷：將工作項移動到小版本時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 11 月 23 日 |
+| [敏捷：將工作項移動到疊代時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 11 月 23 日 |
 | [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [整合：[!UICONTROL 首頁行事曆]顯示事件的時間比  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) 晚一小時 | 2022 年 11 月 11 日 |
 | [校樣：校樣產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
@@ -42,7 +42,7 @@ ht-degree: 91%
 | -----------------------------------------------------------------| ----------------- |
 | [整合：無法訪問 [!DNL Workfront for Jira] 整合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 2022 年 11 月 28 日 |
 | [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
-| [工時單：選擇工時單批准者時可用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 11 月 23 日 |
+| [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 11 月 23 日 |
 | [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 21 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 11 月 15 日 |
@@ -66,7 +66,7 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [自訂表單：需要跨物件自訂表單 [!UICONTROL 管理] 或 [!UICONTROL 編輯] 編輯欄位的存取權](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
+| [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
 | [通知：當使用者在評論中被提及或內含時，未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |
 | [API：無法依動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 設定]：清單在[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)中載入緩慢 | 2022 年 10 月 28 日 |
