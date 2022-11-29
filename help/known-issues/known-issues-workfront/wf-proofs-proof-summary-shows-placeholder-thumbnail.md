@@ -3,7 +3,7 @@ title: 「校樣：[!UICONTROL 列印摘要]未顯示影像縮圖」
 description: 「當使用者檢視 [!DNL Workfront] 中校樣的[!UICONTROL 列印摘要]頁時，未顯示校樣縮圖。相反地，出現一個簡單的預留位置影像。」
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
