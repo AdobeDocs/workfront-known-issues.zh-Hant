@@ -3,7 +3,7 @@ title: 「導覽：無法釘選物件」
 description: 「當使用者嘗試在 Workfront 中釘選物件時，該物件未被釘選，且使用者看到以下訊息：釘選時發生問題。請聯繫 Workfront 以便我們解決這個問題。」
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
