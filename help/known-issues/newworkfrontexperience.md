@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 94%
+source-wordcount: '623'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 94%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 首頁]:無法刪除 [!UICONTROL 首頁]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 2022 年 11 月 29 日 |
-| [工時單：未生成工時單](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 2022 年 11 月 28 日 |
 | [敏捷：將工作項移動到疊代時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 11 月 23 日 |
 | [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [整合：[!UICONTROL 首頁行事曆]顯示事件的時間比  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) 晚一小時 | 2022 年 11 月 11 日 |
@@ -41,15 +40,10 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [整合：無法訪問 [!DNL Workfront for Jira] 整合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 2022 年 11 月 28 日 |
 | [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
-| [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 11 月 23 日 |
 | [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
-| [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 21 日 |
-| [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 11 月 15 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [報告：組合圖表顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022 年 11 月 14 日 |
-| [校樣：新增自訂訊息導致校樣檢視器發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 14 日 |
 | [清單：使用者的內聯編輯錯誤不會產生錯誤訊息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 4 日 |
 | [請求：無法在一個頁面上檢視超過 100 個佇列主題](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 4 日 |
 | [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 10 月 27 日 |

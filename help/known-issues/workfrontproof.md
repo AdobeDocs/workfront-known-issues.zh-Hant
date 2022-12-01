@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: ht
-source-wordcount: '208'
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：新增自訂訊息導致校樣檢視器發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 14 日 |
+| 無 |  |
 
 {style=&quot;table-layout:auto&quot;}
 

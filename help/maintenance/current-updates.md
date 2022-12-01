@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 99%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 2022 年 12 月更新
 
-+++**（計畫）2022年12月1日的維護更新**
++++**2022 年 12 月 1 日維護更新**
 
 **任務的看板積壓訂單為0**
 
@@ -76,6 +76,12 @@ ht-degree: 99%
 「[!UICONTROL 錯誤。對不起！只有擁有計劃授權的用戶才能核准或拒絕時程表。請聯絡您的系統管理員。]」
 
 由於無法指派該已停用的用戶，所以用戶必須選取一位有效的用戶。時程表因而會按預期運行，但清單中已停用的用戶可能會讓用戶感到困擾或不便。
+
+**未生成工時單**
+
+*時程表*
+
+儘管時間表配置檔案設定，系統仍不生成時間表。 由於從未生成時間表，因此用戶無法輸入時間，清單中也不顯示時間表。
 
 +++
 

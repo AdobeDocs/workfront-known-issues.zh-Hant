@@ -2,15 +2,19 @@
 title: 「時程表：選擇時程表核准者時可選用的已停用用戶」
 description: 「當用戶正建立時程表並嘗試指派核准者時，下拉式清單會包含已停用的用戶。如果選取已停用的用戶，時程表不會被儲存且用戶會看到一條錯誤訊息。」
 hidefromtoc: true
-source-git-commit: f37c5514fa93915589c8af9bf5a4b678446a8078
-workflow-type: ht
-source-wordcount: '146'
-ht-degree: 100%
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 96%
 
 ---
 
 
 # 時程表：選擇時程表核准者時可選用的已停用用戶
+
+>[!NOTE]
+>
+>此問題已於2022年12月1日修正。
 
 「當用戶正建立時程表並嘗試指派核准者時，下拉式清單會包含已停用的用戶。如果選取已停用的用戶，時程表不會被儲存且用戶會看到以下錯誤訊息：
 
