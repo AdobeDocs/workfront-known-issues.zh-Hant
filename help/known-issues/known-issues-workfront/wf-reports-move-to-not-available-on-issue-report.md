@@ -2,15 +2,19 @@
 title: 「報告：問題報告中的移至選項無法使用」
 description: 「當使用者檢視問題報告並嘗試移動問題時，更多 (三點) 選單下的移至選項無法使用。」
 hidefromtoc: true
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 92%
 
 ---
 
 
 # 報告：問題報告中的「移至」選項無法使用
+
+>[!NOTE]
+>
+>此問題已於2022年12月1日修正。
 
 當使用者檢視問題報告並嘗試移動問題時，更多 (三點) 選單下的「移至」選項無法使用。
 

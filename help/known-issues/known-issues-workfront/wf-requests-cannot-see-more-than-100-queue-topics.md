@@ -2,15 +2,19 @@
 title: 「請求：無法在一個頁面上檢視超過 100 個佇列主題」
 description: 「當使用者查看包含 100 多個項目的佇列主題清單，並嘗試變更清單以在每頁顯示更多佇列主題或顯示所有佇列主題時，清單不會變更且使用者會看到錯誤訊息。」
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: ht
-source-wordcount: '180'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 96%
 
 ---
 
 
 # 請求：無法在一個頁面上檢視超過 100 個佇列主題
+
+>[!NOTE]
+>
+>此問題已於2022年12月2日修正。
 
 當使用者查看包含 100 多個項目的佇列主題清單，並嘗試變更清單以在每頁顯示更多佇列主題或顯示所有佇列主題時，清單不會變更且使用者會看到以下訊息。
 
