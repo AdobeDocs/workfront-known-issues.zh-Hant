@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1778'
-ht-degree: 96%
+source-wordcount: '1793'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [工時單：無法輸入時間表](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [校樣：校樣狀態未更新於 [!UICONTROL 檔案] 清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [專案：項目狀態不遵循組項目首選項](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [專案：從範本建立專案時出現「Whoops」錯誤](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 首頁]:無法刪除 [!UICONTROL 首頁]](known-issues-workfront/wf-home-cannot-remove-assignment.md)

@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 92%
+source-wordcount: '631'
+ht-degree: 89%
 
 ---
 
@@ -38,7 +38,8 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
+| [工時單：無法輸入時間表](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022年12月5日 |
+| [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年12月2日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
 | [專案：項目狀態不遵循組項目首選項](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2022年12月2日 |
 | [專案：從範本建立專案時出現「Whoops」錯誤](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022年12月2日 |
@@ -58,6 +59,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：校樣狀態未更新於 [!UICONTROL 檔案] 清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
 | [任務：在任務中輸入時數時不保存時數[!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年12月2日 |
 | [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年12月2日 |
 | [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |

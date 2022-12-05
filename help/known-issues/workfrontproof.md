@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 95%
 
 ---
 
@@ -44,6 +44,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：校樣狀態未更新於 [!UICONTROL 檔案] 清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
 | [校樣：校樣未分享給校樣工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 18 月 9 日 |
 | [校樣：[!UICONTROL 主動校樣階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：無法透過在評論中標記使用者來將使用者新增到校樣中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
