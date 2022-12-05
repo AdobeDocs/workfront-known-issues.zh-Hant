@@ -1,11 +1,11 @@
 ---
-title: ""
-description: '"'
+title: 「工時單：無法輸入時間表」
+description: 「當用戶嘗試將時間添加到時間表時，他們會看到任何「項目」時間或「任務時間」行中的「小時」框都顯示為灰色，並且無法在這些框中輸入時間。 他們只能在「一般時間」區域中輸入時間。
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
