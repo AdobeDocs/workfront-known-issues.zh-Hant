@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 92%
+source-wordcount: '636'
+ht-degree: 91%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [任務：無法添加子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022年12月7日 |
 | [工時單：無法輸入時間表](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022年12月5日 |
 | [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年12月2日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
