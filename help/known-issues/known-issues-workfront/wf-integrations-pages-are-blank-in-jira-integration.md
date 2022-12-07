@@ -1,25 +1,25 @@
 ---
-title: 「整合：無法存取Workfront的元素以進行Jira整合」
-description: 「目前無法在Workfront中存取某些元素，以利Jira雲的Jira整合。」
+title: 「整合：無法存取 Workfront for Jira 整合元素」
+description: 「目前無法在 Workfront for Jira 整合 Jira Cloud 中存取某些元素。」
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 6%
+ht-degree: 90%
 
 ---
 
 
-# 整合：無法訪問 [!DNL Workfront for Jira] 整合
+# 「整合：無法存取 [!DNL Workfront for Jira] 整合元素」
 
 >[!NOTE]
 >
 >此問題已於2022年12月1日修正。
 
-下列元素目前無法在 [!DNL Workfront for Jira] 整合 [!DNL Jira Cloud]:
+下列元素目前無法在 [!DNL Workfront for Jira] 整合 [!DNL Jira Cloud]：
 
-* 此 [!UICONTROL 設定] 頁面
-* 「[!UICONTROL 開啟Workfront]」按鈕 [!DNL Jira] 問題
+* [!UICONTROL 設定]頁面
+* 在 [!DNL Jira] 上「[!UICONTROL 打開 Workfront]」按鈕的問題
 
 _於 2022 年 11 月 18 日首次通報。_
 

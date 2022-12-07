@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
 source-wordcount: '631'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 89%
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
 | [專案：項目狀態不遵循組項目首選項](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2022年12月2日 |
 | [專案：從範本建立專案時出現「Whoops」錯誤](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022年12月2日 |
-| [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
+| [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [報告：組合圖表顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022 年 11 月 14 日 |

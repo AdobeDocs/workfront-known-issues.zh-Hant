@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
 source-wordcount: '1793'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 95%
       + [專案：項目狀態不遵循組項目首選項](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [專案：從範本建立專案時出現「Whoops」錯誤](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 首頁]:無法刪除 [!UICONTROL 首頁]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [工時單：未生成工時單](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [整合：無法訪問 [!DNL Workfront for Jira] 整合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [自訂表單：如果欄位名稱包含單引號或雙引號，則無法在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [時程表：沒有產生時程表](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [整合：無法存取  [!DNL Workfront for Jira]  整合元素](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [敏捷：將工作項移動到疊代時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -208,7 +208,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Workfront Fusion]:無法建立連接 [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]：無法建立與  [!DNL Google] 的連線](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 疊代器]模組中的陣列元素顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  案例中的 409 錯誤](known-issues-workfront-fusion/fusion-409-error.md)
