@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
+source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 90%
+source-wordcount: '646'
+ht-degree: 89%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文檔：無法上載MP4檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022年12月8日 |
 | [任務：無法添加子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022年12月7日 |
 | [工時單：無法輸入時間表](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022年12月5日 |
 | [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年12月2日 |
