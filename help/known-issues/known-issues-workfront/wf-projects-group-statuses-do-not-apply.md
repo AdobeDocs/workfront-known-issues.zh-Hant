@@ -2,15 +2,19 @@
 title: 「項目：項目狀態不遵循組項目首選項」
 description: 「當用戶從模板建立項目時，新項目不會採用組項目首選項中設定的狀態。 如果建立的項目沒有模板，則狀態將如預期反映組項目首選項。」
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 4%
+source-wordcount: '106'
+ht-degree: 3%
 
 ---
 
 
 # 專案：項目狀態不遵循組項目首選項
+
+>[!NOTE]
+>
+>此問題已於2022年12月8日修正。
 
 當用戶從模板建立項目時，新項目不會採取「組」項目首選項中設定的狀態。 如果建立的項目沒有模板，則狀態將如預期反映組項目首選項。
 

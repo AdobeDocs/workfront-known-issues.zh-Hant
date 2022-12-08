@@ -2,15 +2,19 @@
 title: 「任務：無法添加子任務"
 description: "當用戶嘗試使用+New按鈕添加子任務時，「New Task（新任務）」窗口中不顯示任何選項，用戶將看到錯誤消息。"
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 
 
 # 任務：無法添加子任務
+
+>[!NOTE]
+>
+>此問題已於2022年12月8日修正。
 
 當用戶嘗試使用[!UICONTROL +新]「 」按鈕，不會顯示任何選項 [!UICONTROL 新任務] 視窗中，而使用者會看見下列訊息：
 

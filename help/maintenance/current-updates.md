@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '15954'
-ht-degree: 99%
+source-wordcount: '16044'
+ht-degree: 98%
 
 ---
 
@@ -31,15 +31,30 @@ ht-degree: 99%
 
 ## 2022 年 12 月更新
 
-+++**（計畫）2022年12月8日的維護更新**
-
-+++
++++**2022年12月8日維護更新**
 
 **項目狀態不遵循組項目首選項**
 
 *專案*
 
 當用戶從模板建立項目時，新項目不會採取「組」項目首選項中設定的狀態。 如果建立的項目沒有模板，則狀態將如預期反映組項目首選項。
+
+**無法添加子任務**
+
+*任務*
+
+當用戶嘗試使用[!UICONTROL +新]「 」按鈕，不會顯示任何選項 [!UICONTROL 新任務] 視窗中，而使用者會看見下列訊息：
+
+&quot;[!UICONTROL 無法讀取未定義的屬性（正在讀取&#39;validations）]&quot;
+
+**關閉或保存工時單時出錯**
+
+*時程表*
+
+當用戶嘗試添加時間或關閉時間表時，時間表不會保存，用戶將看到以下錯誤：
+
+* 因無效 SQL 語句資料庫出錯。
+* 您最近的變更並未儲存。請重新整理頁面以檢視上次儲存的變更。
 
 +++
 
