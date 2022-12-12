@@ -3,9 +3,9 @@ title: 「整合：無法存取 Workfront for Jira 整合元素」
 description: 「目前無法在 Workfront for Jira 整合 Jira Cloud 中存取某些元素。」
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此問題已於2022年12月1日修正。
+>此問題已在 2022 年 12 月 1 日修正。
 
 下列元素目前無法在 [!DNL Workfront for Jira] 整合 [!DNL Jira Cloud]：
 
