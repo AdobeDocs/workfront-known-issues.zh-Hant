@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022年12月7日 |
-| [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
-| [校樣：校樣產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
-| [校樣：列印摘要未顯示校樣的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
+| [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022 年 12 月 7 日 |
+| [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
+| [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
+| [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -38,12 +38,12 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文檔：無法上載MP4檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022年12月8日 |
-| [任務：無法添加子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022年12月7日 |
-| [工時單：無法輸入時間表](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022年12月5日 |
-| [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年12月2日 |
-| [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
-| [專案：從範本建立專案時出現「Whoops」錯誤](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022年12月2日 |
+| [文檔：無法上載MP4檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
+| [任務：無法添加子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
+| [時程表：無法在時程表中輸入時間](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022 年 12 月 5 日 |
+| [時程表：選擇時程表核准者時可選用的已停用使用者](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 12 月 2 日 |
+| [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
+| [專案：從範本建立專案時出現「糟糕！」錯誤訊息](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
@@ -60,15 +60,15 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：校樣狀態未更新於 [!UICONTROL 檔案] 清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
-| [任務：在任務中輸入時數時不保存時數[!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年12月2日 |
-| [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年12月2日 |
+| [校訂：[!UICONTROL 文件]清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)中的校訂狀態不會更新 | 2022 年 12 月 5 日 |
+| [任務：在任務中輸入時數時不保存時數[!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 12 月 2 日 |
+| [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
 | [通知：當使用者在評論中被提及或內含時，未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |
 | [API：無法依動態欄位排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 設定]：清單在[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)中載入緩慢 | 2022 年 10 月 28 日 |
-| [校樣：校樣未分享給校樣工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 18 月 9 日 |
-| [校樣：[!UICONTROL 主動校樣階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
+| [校訂：校訂未分享給校訂工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 18 月 9 日 |
+| [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [儀表板：在儀表板中查看的報告圖表使用的顏色與在報告中查看時不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
 | [[!UICONTROL 首頁]：自訂術語未套用於首頁區域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
 | [敏捷：無法從卡片上的自訂表單中編輯欄位](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
@@ -79,15 +79,15 @@ ht-degree: 92%
 | [更新：團隊名稱未出現在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
 | [行事曆：[!UICONTROL 休假]行事曆發生問題](known-issues-workfront/wf-calendars-issue-time-off.md) | 2021 年 6 月 25 日 |
 | [敏捷：疊代[!UICONTROL 完成點]的差異](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 22 日 |
-| [[!UICONTROL 首頁]：[!UICONTROL 在校樣中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
+| [[!UICONTROL 首頁]：[!UICONTROL 在校訂中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [電子郵件通知：顯示「[!UICONTROL 我受指派問題]」設定](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 2 日 |
 | [電子郵件通知：使用者未導向到評論對話串](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
 | [行事曆： [!DNL OR] 篩選器陳述式不包括篩選規則](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021 年 4 月 23 日 |
-| [[!UICONTROL Workfront Proof]：[!UICONTROL 校樣核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
-| [[!UICONTROL 首頁]：完成的校樣卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 14 日 |
+| [[!UICONTROL Workfront Proof]：[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
+| [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 14 日 |
 | [報告：在儀表板上查看時無法水平捲動報告](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021 年 3 月 30 日 |
 | [[!UICONTROL 首頁]：專案名稱會在[!UICONTROL 工作清單]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)中顯示為 GUID | 2021 年 2 月 11 日 |
-| [文件：校樣工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 25 日 |
+| [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 25 日 |
 | [報告：行事曆預設為舊日期](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 2021 年 2 月 5 日 |
 | [電子郵件通知： [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) 中的電子郵件格式不正確 | 2021 年 3 月 30 日 |
 | [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]](known-issues-workfront/wf-home-unable-to-view-document-image.md)中的文件影像 | 2020 年 11 月 9 日 |
