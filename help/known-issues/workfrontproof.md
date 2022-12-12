@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：校樣檢視器顯示的校樣不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
+| [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -44,15 +44,15 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：校樣狀態未更新於 [!UICONTROL 檔案] 清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
-| [校樣：校樣未分享給校樣工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 18 月 9 日 |
-| [校樣：[!UICONTROL 主動校樣階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
-| [[!DNL Workfront Proof]：無法透過在評論中標記使用者來將使用者新增到校樣中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
-| [[!UICONTROL 首頁]：[!UICONTROL 在校樣中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
-| [[!DNL Workfront Proof]：自動存取校樣延遲](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021 年 6 月 14 日 |
+| [校訂：[!UICONTROL 文件]清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)中的校訂狀態不會更新 | 2022 年 12 月 5 日 |
+| [校訂：校訂未分享給校訂工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 18 月 9 日 |
+| [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
+| [[!DNL Workfront Proof]：無法透過在評論中標記使用者來將使用者新增到校訂中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
+| [[!UICONTROL 首頁]：[!UICONTROL 在校訂中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
+| [[!DNL Workfront Proof]：自動存取校訂延遲](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021 年 6 月 14 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
-| [[!UICONTROL 首頁]：完成的校樣卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 14 日 |
-| [文件：校樣工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
+| [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 14 日 |
+| [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
