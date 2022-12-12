@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ ht-degree: 99%
 * [!UICONTROL 設定] > [!UICONTROL 電子郵件通知]
 * [!UICONTROL 使用者]>[!UICONTROL 編輯使用者]
 * [!UICONTROL 群組]
+
+**工時單、工時單配置檔案和工時單首選項的新資訊表徵圖**
+
+*Workfront*
+
+>[!NOTE]
+>
+>此更新僅發行至預覽環境。 隨著23.1版本發行至生產環境。
+
+我們已將數個資訊圖示新增至下列設定：
+
+* 在建立或編輯工時單或工時單配置檔案時，「可以編輯時間」複選框，以指示啟用後，批准者還可以提交、重新開啟或編輯工時單，除非您的管理員在「設定」的「工時單首選項」區域中限制了這些操作。
+* 在「設定」的「工時單和小時首選項」區域中，「限制對所有者和管理員編輯工時單」，以指示禁用時，以下用戶還可以編輯工時單：對時間表和工時具有管理訪問權限的用戶、允許編輯時間的時間表批准者以及時間表所有者的經理。
+
+請注意，這些設定的功能並未變更，而且只新增了資訊圖示，以更清楚說明設定的範圍。
 
 +++
 
