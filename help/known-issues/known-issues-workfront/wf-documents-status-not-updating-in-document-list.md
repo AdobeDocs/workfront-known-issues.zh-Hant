@@ -1,20 +1,20 @@
 ---
-title: 「證明：校樣狀態未在文檔清單中更新」
-description: "校樣的狀態發生更改時，顯示校樣的文檔清單不會顯示正確的新狀態。"
+title: 「校訂：文件清單中的校訂狀態不會更新」
+description: 「當校訂的狀態變更時，顯示該校訂的文件清單不會顯示正確的新狀態。」
 hidefromtoc: true
 source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 校樣：校樣狀態未更新於 [!UICONTROL 檔案] 清單
+# 校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新
 
-校樣的狀態變更時， [!UICONTROL 檔案] 清單顯示校樣未顯示正確的新狀態。
+「當校訂的狀態變更時，顯示該校訂的[!UICONTROL 文件]清單不會顯示正確的新狀態。」
 
-此 [!UICONTROL 校樣工作流程] 頁面 [!DNL Workfront] 顯示校樣的正確狀態。
+[!DNL Workfront]中的 [!UICONTROL Proof Workflow] 頁面會顯示校訂的正確狀態。
 
-_首次回報於 2022 年 8 月 3 日。_
+_於 2022 年 8 月 3 日首次通報。_
 
