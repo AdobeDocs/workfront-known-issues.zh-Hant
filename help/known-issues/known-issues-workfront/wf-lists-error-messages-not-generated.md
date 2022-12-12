@@ -3,9 +3,9 @@ title: 「清單：使用者的內聯編輯錯誤不會產生錯誤訊息」
 description: 「當使用者內聯編輯物件並出現應產生錯誤訊息的錯誤時，錯誤訊息未出現。錯誤本身不會儲存到 Workfront 中，因此資料不受影響，但缺少錯誤訊息可能會導致混淆。」
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此問題已於2022年12月1日修正。
+>此問題已在 2022 年 12 月 1 日修正。
 
 當使用者內聯編輯物件並出現應產生錯誤訊息的錯誤時，錯誤訊息未出現。錯誤本身不會儲存到 Workfront 中，因此資料不受影響，但缺少錯誤訊息可能會導致混淆。
 
