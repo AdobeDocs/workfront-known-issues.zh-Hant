@@ -2,7 +2,7 @@
 title: 「報告：報表使用報表建立器，而非萬用字元$$USERID」
 description: 「當報表為重複傳送且包含萬用字元$$USERID時，報表會使用報表建立器執行，而非使用萬用字元。 只有在重複傳送時才會發生此情況。 手動執行或使用立即傳送時，報表可如預期運作。」
 hidefromtoc: true
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 3%
