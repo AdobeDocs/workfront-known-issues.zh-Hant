@@ -3,9 +3,9 @@ title: 「首頁：完成的校訂卡在工作清單」
 description: 使用者完成校訂後，它仍會出現在[!UICONTROL 工作清單]中。
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+workflow-type: tm+mt
+source-wordcount: '51'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>這個問題已解決。
 
 使用者完成校訂後，它仍會出現在[!UICONTROL 工作清單]中。
 
