@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 96%
+source-wordcount: '599'
+ht-degree: 98%
 
 ---
 
@@ -39,16 +39,13 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文檔：無法上載MP4檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
-| [任務：無法添加子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
+| [文件：無法上傳 MP4 檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
+| [任務：無法新增子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
 | [時程表：無法在時程表中輸入時間](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022 年 12 月 5 日 |
-| [時程表：選擇時程表核准者時可選用的已停用使用者](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 12 月 2 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
-| [專案：從範本建立專案時出現「糟糕！」錯誤訊息](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
-| [報告：組合圖表顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022 年 11 月 14 日 |
 | [自訂表單：設定計算欄位時出現「糟糕」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022 年 10 月 13 日 |
 | [整合：從  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交請求時發生錯誤 | 2022 年 8 月 30 日 |
 | Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
