@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
+source-wordcount: '16738'
 ht-degree: 97%
 
 ---
@@ -73,6 +73,12 @@ ht-degree: 97%
 「[!UICONTROL 錯誤。對不起！只有擁有計劃授權的用戶才能核准或拒絕時程表。請聯絡您的系統管理員。]」
 
 由於無法指派該已停用的用戶，所以用戶必須選取一位有效的用戶。時程表因而會按預期運行，但清單中已停用的用戶可能會讓用戶感到困擾或不便。
+
+**無法輸入時間表**
+
+*時程表*
+
+當使用者嘗試新時間至時程表時，他們會看到任何專案時間或任務時間行內的小時方格都顯示為灰色，並且他們無法在這些方格輸入時間；他們只能在「一般時間」區輸入時間。
 
 +++
 
@@ -513,7 +519,7 @@ ht-degree: 97%
 
 **電子郵件通知延遲**
 
-*Workfront校樣*
+*Workfront Proof*
 
 當 [!DNL Workfront Proof] 中發生觸發電子郵件通知的事件時，使用者未立即收到通知。通知可能延遲了幾個小時。
 

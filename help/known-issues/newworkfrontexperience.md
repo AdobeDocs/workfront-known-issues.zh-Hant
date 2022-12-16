@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 96%
+source-wordcount: '594'
+ht-degree: 95%
 
 ---
 
@@ -42,10 +42,8 @@ ht-degree: 96%
 | -----------------------------------------------------------------| ----------------- |
 | [文件：無法上傳 MP4 檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
 | [任務：無法新增子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
-| [時程表：無法在時程表中輸入時間](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022 年 12 月 5 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
 | [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
-| [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [自訂表單：設定計算欄位時出現「糟糕」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022 年 10 月 13 日 |
 | [整合：從  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交請求時發生錯誤 | 2022 年 8 月 30 日 |

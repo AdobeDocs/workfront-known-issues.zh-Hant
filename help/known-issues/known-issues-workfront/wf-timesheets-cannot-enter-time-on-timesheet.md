@@ -2,15 +2,19 @@
 title: 「時程表：無法在時程表中輸入時間」
 description: 「當使用者嘗試新時間至時程表時，他們會看到任何專案時間或任務時間行內的小時方格都顯示為灰色，並且他們無法在這些方格輸入時間；他們只能在「一般時間」區輸入時間。」
 hidefromtoc: true
-source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
-workflow-type: ht
-source-wordcount: '115'
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # 時程表：無法在時程表中輸入時間
+
+>[!NOTE]
+>
+>此問題已在 2022 年 12 月 15 日修正。
 
 當使用者嘗試新時間至時程表時，他們會看到任何專案時間或任務時間行內的小時方格都顯示為灰色，並且他們無法在這些方格輸入時間；他們只能在「一般時間」區輸入時間。
 
