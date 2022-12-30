@@ -1,24 +1,24 @@
 ---
-title: 「檔案：無法從Google驅動器添加文檔」
-description: "當用戶嘗試從Google驅動器將文檔添加到Workfront時，檔案選擇器不顯示任何檔案，並且用戶無法選擇所需的檔案。"
+title: "文件：無法從 Google Drive 新增文件"
+description: “當使用者嘗試從 Google Drive 對 Workfront 新增文件時，文件選擇器不顯示任何檔案，而且使用者無法選取所要的檔案。”
 hidefromtoc: true
 source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 文檔：無法從添加文檔 [!DNL Google Drive]
+# 文件：無法從 [!DNL Google Drive] 新增文件
 
 <!--On WF and WFP TOCs-->
 
-當用戶嘗試將文檔添加到 [!DNL Workfront] 從 [!DNL Google Drive]，則檔案選取器不會顯示任何檔案，且使用者無法選取所需的檔案。
+當使用者嘗試從 [!DNL Google Drive] 對 [!DNL Workfront] 新增文件時，文件選擇器不顯示任何檔案，而且使用者無法選取所要的檔案。
 
 **因應措施**
 
-從下載檔案 [!DNL Google Drive] 上傳至您的電腦，然後從您的電腦將檔案上傳至 [!DNL Workfront].
+將檔案從 [!DNL Google Drive] 下載到您的電腦，然後將該檔案從電腦上傳到 [!DNL Workfront]。
 
 _於 2022 年 12 月 15 日首次通報。_
 
