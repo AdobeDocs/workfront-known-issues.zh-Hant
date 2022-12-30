@@ -3,7 +3,7 @@ title: 「時程表：選擇時程表核准者時可選用的已停用用戶」
 description: 「當用戶正建立時程表並嘗試指派核准者時，下拉式清單會包含已停用的用戶。如果選取已停用的用戶，時程表不會被儲存且用戶會看到一條錯誤訊息。」
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
