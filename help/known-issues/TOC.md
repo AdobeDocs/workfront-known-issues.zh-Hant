@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1253'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [校樣：校樣不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md)
-      + [文檔：無法從添加文檔 [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [報表：編輯報表畫面空白](known-issues-workfront/wf-reports-edit-report-is-blank.md)
-      + [文檔：將其父問題轉換為專案時，不會繼承檔案權限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [報表：報表使用報表建立器，而非萬用字元「$$」[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [文件：無法從  [!DNL Google Drive] 新增文件](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [報告：「編輯報告」畫面為空白](known-issues-workfront/wf-reports-edit-report-is-blank.md)
+      + [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [報告：報告使用了報告建立工具，而非萬用字元「$$[!UICONTROL USERID]」](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [文件：無法上傳 MP4 檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [任務：無法新增子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
@@ -101,13 +101,13 @@ ht-degree: 96%
       + [時程表：輸入時數時發生「[!UICONTROL 其他人試圖儲存此專案]」錯誤](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [儀表板：無法從物件的左側導覽存取儀表板](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [任務和問題：建立任務或問題時意外結束](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
-      + [更新：無法在更新流中關閉使用者卡](known-issues-workfront/wf-updates-cant-close-user-card.md)
-      + [請求：無法打開第一頁之後的請求清單頁面](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront]：在 Experience League 上提交  [!DNL Workfront]  支援案例的問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
-      + [通知：使用者在評論中提及時未收到電子郵件通知](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
-      + [時程表：在時程表上自動儲存變更時出現「您最近的變更未儲存」錯誤](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
-      + [儀表板：在儀表板中查看的報告圖表使用的顏色與在報告中查看時不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
-      + [敏捷：在敏捷板上移動卡片時的問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
+      + [更新：無法在更新資料流中關閉使用者卡片](known-issues-workfront/wf-updates-cant-close-user-card.md)
+      + [請求：無法開啟第一頁之外的請求清單頁面](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
+      + [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [通知：使用者在評論中被提及時不會收到電子郵件通知](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
+      + [時程表：自動儲存時程表上的變更時出現「您最近的變更未儲存」錯誤](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
+      + [儀表板：在儀表板中檢視的報告圖表使用的顏色與在報告中檢視時不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
+      + [敏捷：在「敏捷」展示板上移動卡片時發生問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [首頁：自訂術語未套用於首頁區域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：無法從卡片上的自訂表單中編輯欄位](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
       + [版面配置範本：建立版面配置範本時無法選擇群組](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
