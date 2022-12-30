@@ -3,7 +3,7 @@ title: 「自訂表單：編輯自訂表單時出現您沒有足夠存取權限�
 description: 「當使用者嘗試變更自訂表單時，變更不會儲存，且使用者看到錯誤：您沒有足夠存取權限可編輯此參數」
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
