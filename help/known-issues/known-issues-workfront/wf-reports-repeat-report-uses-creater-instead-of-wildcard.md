@@ -1,18 +1,18 @@
 ---
-title: 「報告：報表使用報表建立器，而非萬用字元$$USERID」
-description: 「當報表為重複傳送且包含萬用字元$$USERID時，報表會使用報表建立器執行，而非使用萬用字元。 只有在重複傳送時才會發生此情況。 手動執行或使用立即傳送時，報表可如預期運作。」
+title: "報告：報告使用了報告建立工具，而非萬用字元 $$USERID"
+description: "當報告為重複傳遞且包含萬用字元 $$USERID 時，報告會使用報告建立工具而非萬用字元執行。這僅發生在重複傳遞時。該報告在手動執行或使用「立即傳送」時會依預期運作。"
 hidefromtoc: true
 source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# 報表：報表使用報表建立器，而非萬用字元「$$」[!UICONTROL USERID]&quot;
+# 報告：報告使用了報告建立工具，而非萬用字元「$$[!UICONTROL USERID]」
 
-當報表為重複傳送時，包含萬用字元「$$」[!UICONTROL USERID]&quot;，報表會使用報表建立器執行，而非萬用字元。 只有在重複傳送時才會發生此情況。 手動執行或使用 [!UICONTROL 立即傳送].
+當報告為重複傳遞且包含萬用字元「$$[!UICONTROL USERID]」時，報告會使用報告建立工具而非萬用字元執行。這僅發生在重複傳遞時。該報告在手動執行或使用「[!UICONTROL 立即傳送]」時會依預期運作。&quot;
 
 _於 2022 年 11 月 21 日首次通報。_
 
