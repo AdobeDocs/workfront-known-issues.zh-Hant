@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,15 @@ ht-degree: 81%
 
 +++**（計畫）2023年1月5日維護更新**
 
-此更新僅包含微幅或較微幅的錯誤修正。
+**Pin功能 [!UICONTROL 更多] 功能表**
+
+_導覽_
+
+下列功能現在可在 [!UICONTROL 更多] （僅在「預覽」環境中）
+
+* 更名管腳
+* 重新排序 [!UICONTROL 更多] 功能表
+* 將銷移出 [!UICONTROL 更多] 功能表(執行此操作時，頂端導覽列中的最後一個銷釘會移至 [!UICONTROL 更多] 菜單)
 
 +++
 
