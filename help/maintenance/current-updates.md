@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 55%
+source-wordcount: '188'
+ht-degree: 38%
 
 ---
 
@@ -32,6 +32,12 @@ _導覽_
 * 更名管腳
 * 重新排序 [!UICONTROL 更多] 功能表
 * 將銷移出 [!UICONTROL 更多] 功能表(執行此操作時，頂端導覽列中的最後一個銷釘會移至 [!UICONTROL 更多] 菜單)
+
+**移除將使用者新增至專案團隊的專案群組限制**
+
+_團隊_
+
+我們已移除要求需要新增至專案團隊的使用者必須位於與專案相關聯的群組中的限制。 現在，您可以將任何作用中使用者新增至專案團隊，而不論其所屬群組為何。
 
 +++
 
