@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 52%
+ht-degree: 56%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 52%
 
 ## 2022 年 1 月更新
 
-+++**（計畫）2023年1月5日維護更新**
++++**(預計) 2023 年 1 月 5 日維護更新**
 
 **Pin功能 [!UICONTROL 更多] 功能表**
 
