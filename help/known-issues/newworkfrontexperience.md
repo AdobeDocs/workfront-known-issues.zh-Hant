@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '629'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [自訂Forms:Ctrl+F或Cmd+F在下拉式欄位中未如預期運作](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023年1月3日 |
+| [自訂表單：Ctrl+F 或 Cmd+F 在下拉欄位中無法按預期運作](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023 年 1 月 3 日 |
 | [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 | [報告：「編輯報告」畫面為空白](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022 年 12 月 20 日 |
 | [文件：無法上傳 MP4 檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
