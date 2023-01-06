@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
-source-wordcount: '629'
-ht-degree: 100%
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '624'
+ht-degree: 97%
 
 ---
 
@@ -24,10 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：無法從 [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) 新增文件 | 2022 年 12 月 20 日 |
-| [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
-| [報告：報告使用了報告建立工具，而非萬用字元「$$[!UICONTROL USERID]」](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 2022 年 12 月 13 日 |
-| [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022 年 12 月 7 日 |
+| [更新：提交回覆時螢幕會暫時空白](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023 年 1 月 6 日 |
 | [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -41,15 +38,15 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 1 月 6 日 |
+| [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
+| [任務：縮進的任務不會保持縮進](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 2023 年 1 月 6 日 |
 | [自訂表單：Ctrl+F 或 Cmd+F 在下拉欄位中無法按預期運作](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023 年 1 月 3 日 |
 | [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 | [報告：「編輯報告」畫面為空白](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022 年 12 月 20 日 |
-| [文件：無法上傳 MP4 檔案](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
 | [任務：無法新增子任務](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
-| [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
-| [自訂表單：設定計算欄位時出現「糟糕」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022 年 10 月 13 日 |
 | [整合：從  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交請求時發生錯誤 | 2022 年 8 月 30 日 |
 | Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
@@ -61,6 +58,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023 年 1 月 6 日 |
+| [專案：專案狀態未依群組專案偏好設定來設定](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023 年 1 月 6 日 |
 | [校訂：[!UICONTROL 文件]清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)中的校訂狀態不會更新 | 2022 年 12 月 5 日 |
 | [任務：在任務中輸入時數時不保存時數[!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 12 月 2 日 |
 | [專案：從範本建立專案時出現效能問題和錯誤訊息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
