@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
-source-wordcount: '1268'
-ht-degree: 100%
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+workflow-type: tm+mt
+source-wordcount: '1284'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [任務：縮進的任務不會保持縮進](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [更新：提交回覆時螢幕會暫時空白](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [自訂表單：Ctrl+F 或 Cmd+F 在下拉欄位中無法按預期運作](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [文件：無法從  [!DNL Google Drive] 新增文件](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
