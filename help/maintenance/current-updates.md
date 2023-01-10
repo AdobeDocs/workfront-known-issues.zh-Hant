@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 60%
+ht-degree: 77%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 60%
 
 +++**於 2023 年 1 月 5 日維護更新**
 
-**Pin功能 [!UICONTROL 更多] 功能表**
+**「[!UICONTROL 更多]」選單中提供圖釘功能**
 
 _導覽_
 
-下列功能現在可在 [!UICONTROL 更多] （僅在「預覽」環境中）
+以下功能現在可在「[!UICONTROL 更多]」選單中用於圖釘，僅在預覽環境中可用：
 
-* 更名管腳
-* 重新排序 [!UICONTROL 更多] 功能表
-* 將銷移出 [!UICONTROL 更多] 功能表(執行此操作時，頂端導覽列中的最後一個銷釘會移至 [!UICONTROL 更多] 菜單)
+* 重新命名圖釘
+* 在「[!UICONTROL 更多]」選單中重新排序圖釘
+* 將圖釘移出「[!UICONTROL 更多]」選單 (執行此操作時，上方導覽列中的最後一個圖釘會移至「[!UICONTROL 更多]」選單)
 
 **移除將使用者新增至專案團隊的專案群組限制**
 
