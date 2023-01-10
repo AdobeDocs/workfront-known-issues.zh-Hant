@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 77%
+source-wordcount: '483'
+ht-degree: 74%
 
 ---
 
@@ -20,6 +20,28 @@ ht-degree: 77%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 1 月更新
+
++++**(預計) 2023 年 1 月 12 日維護更新**
+
+**Ctrl+F或Cmd+F在下拉式欄位中未如預期運作**
+
+_自訂表單_
+
+當使用者填寫自訂表單並使用 Ctrl+F 或 Cmd+F 搜尋下拉清單，然後嘗試跳至該搜尋的下一個執行個體時，下拉清單會返回到清單頂部而不是跳至搜尋的下一個執行個體。當下拉清單設定置為允許多項選擇時會發生這種情況。
+
+**[!UICONTROL 編輯報表] 畫面空白**
+
+_報告_
+
+當使用者在檢視報告並嘗試編輯該報告時，使用者將被帶到一個空白畫面並且無法編輯該報告。
+
+**縮進的任務不會保持縮進**
+
+_任務_
+
+當用戶查看任務清單並縮進任務時，該任務將立即恢復為其原始（縮排）狀態。
+
++++
 
 +++**於 2023 年 1 月 5 日維護更新**
 

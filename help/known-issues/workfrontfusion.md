@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
-workflow-type: ht
-source-wordcount: '156'
-ht-degree: 100%
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+workflow-type: tm+mt
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API:&quot;[!UICONTROL 主體不是有效的XML]「錯誤」](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 10 日 |
 | [[!DNL Workfront Fusion]：無法建立與  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) 的連線 | 2022 年 11 月 28 日 |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] 模組](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022 年 10 月 31 日 |
 
