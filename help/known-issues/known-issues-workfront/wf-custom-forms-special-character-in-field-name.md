@@ -3,7 +3,7 @@ title: 「自訂表單：如果欄位名稱包含雙引號或單引號，則不�
 description: 「當使用者建立計算欄位運算式並嘗試納入名稱包含雙引號或單引號的預先輸入欄位時，系統將不接受計算，且使用者將看到訊息：此自訂運算式無效，請再試一次。」
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
 ht-degree: 100%
 
