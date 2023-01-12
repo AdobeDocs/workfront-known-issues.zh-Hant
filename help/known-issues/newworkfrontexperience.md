@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '597'
 ht-degree: 100%
 
 ---
@@ -40,10 +40,7 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 1 月 6 日 |
 | [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
-| [任務：縮排的任務未保持縮排](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 2023 年 1 月 6 日 |
-| [自訂表單：Ctrl+F 或 Cmd+F 在下拉欄位中無法按預期運作](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023 年 1 月 3 日 |
 | [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
-| [報告：「編輯報告」畫面為空白](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022 年 12 月 20 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [整合：從  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交請求時發生錯誤 | 2022 年 8 月 30 日 |
