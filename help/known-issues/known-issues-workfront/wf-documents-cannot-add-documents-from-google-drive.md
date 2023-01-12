@@ -3,7 +3,7 @@ title: "文件：無法從 Google Drive 新增文件"
 description: “當使用者嘗試從 Google Drive 對 Workfront 新增文件時，文件選擇器不顯示任何檔案，而且使用者無法選取所要的檔案。”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
