@@ -3,7 +3,7 @@ title: 「報告：新增問題至問題報告時出現糟糕錯誤訊息」
 description: 「當使用者檢視已新增至任務的問題報告並嘗試加入新問題時，新問題未被加入，且使用者會看到錯誤。」
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
