@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 90%
 
 ## 2023 年 1 月更新
 
-+++**[!DNL Adobe Workfront Fusion]2023年1月12日的維護更新(Hotfix)**
++++**[!DNL Adobe Workfront Fusion]於 2023 年 1 月 12 日維護更新 (Hot Fix)**
 
-**404錯誤 [!DNL Workfront] 模組**
+[!DNL Workfront] 模組 **404 錯誤**
 
-_Workfront融合_
+_Workfront Fusion_
 
 當案例執行時，[!DNL Workfront] 模組傳回 404 錯誤。
 
@@ -35,9 +35,9 @@ _Workfront融合_
 
 +++
 
-+++**2023年1月12日的維護更新(Hotfix)**
++++**於 2023 年 1 月 12 日維護更新 (Hot Fix)**
 
-**&quot;[!UICONTROL 哇]&quot;設定計算欄位時出錯**
+設定計算欄位時出現&#x200B;**「[!UICONTROL 糟糕]」錯誤**
 
 _自訂表單_
 
@@ -47,11 +47,11 @@ _自訂表單_
 
 從自訂欄位從運算式移除，使用者即可儲存並離開該欄位。
 
-**無法設定訪問級別**
+**無法設定存取層級**
 
 _使用者_
 
-當用戶嘗試更改其他用戶的訪問級別時，訪問級別將呈灰色顯示，用戶無法更改這些級別。 即使嘗試更改的用戶是系統管理員，也會發生這種情況。
+當某位使用者試圖變更另一個使用者的存取層級時，存取層級別將顯示為灰色，使用者無法變更它們。即使嘗試變更的使用者是系統管理員，也會發生這種情況。
 
 +++
 
