@@ -3,9 +3,9 @@ title: 「自訂表單：Ctrl+F 或 Cmd+F 在下拉欄位中無法按預期運�
 description: 「當使用者填寫自訂表單並使用 Ctrl+F 或 Cmd+F 搜尋下拉清單，然後嘗試跳至該搜尋的下一個執行個體時，下拉清單會返回到清單頂部而不是跳至搜尋的下一個執行個體。當下拉清單設定置為允許多項選擇時會發生這種情況。
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此問題已於2023年1月12日修正。
+>此問題已在 2023 年 1 月 12 日修正。
 
 當使用者填寫自訂表單並使用 Ctrl+F 或 Cmd+F 搜尋下拉清單，然後嘗試跳至該搜尋的下一個執行個體時，下拉清單會返回到清單頂部而不是跳至搜尋的下一個執行個體。當下拉清單設定置為允許多項選擇時會發生這種情況。
 
