@@ -1,12 +1,12 @@
 ---
-title: '''Workfront聚變：Workfront模組的404錯誤'
-description: 執行案例時，Workfront模組會傳回404錯誤。
+title: 「Workfront Fusion：Workfront 模組 404 錯誤」
+description: 當案例執行時，Workfront 模組傳回 404 錯誤。
 hidefromtoc: true
 exl-id: c2a8ceb5-4c72-428d-8432-1aa394388ddd
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 55%
 
 >[!NOTE]
 >
->此問題已於2023年1月12日修正。
+>此問題已在 2023 年 1 月 12 日修正。
 
 當案例執行時，[!DNL Workfront] 模組傳回 404 錯誤。
 
