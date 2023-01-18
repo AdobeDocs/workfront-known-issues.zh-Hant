@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: ht
-source-wordcount: '597'
-ht-degree: 100%
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+workflow-type: tm+mt
+source-wordcount: '600'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：提交回覆時畫面暫時變空白](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023 年 1 月 6 日 |
+| [文檔：無法還原已刪除的文檔](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
+| [文檔：上傳大型檔案時出錯](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
 | [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
