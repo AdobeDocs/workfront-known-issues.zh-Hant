@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 95%
+source-wordcount: '879'
+ht-degree: 89%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 95%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 1 月更新
+
++++**於 2023 年 1 月 19 日維護更新**
+
+**現在可以共用進項欄篩選器**
+
+_展示板_
+
+進入欄功能發佈至展示板時，設定進入欄的篩選器只能由建立這些篩選器的人看到。 現在，建立者可以與其他使用者或團隊共用篩選器。
+
+**「[!UICONTROL 更多]」選單中提供圖釘功能**
+
+_導覽_
+
+下列功能現在可在 [!UICONTROL 更多] 「生產」環境中的針腳功能表：
+
+* 重新命名圖釘
+* 在「[!UICONTROL 更多]」選單中重新排序圖釘
+* 將圖釘移出「[!UICONTROL 更多]」選單 (執行此操作時，上方導覽列中的最後一個圖釘會移至「[!UICONTROL 更多]」選單)
+
++++
 
 +++**於 2023 年 1 月 18 日維護更新**
 
