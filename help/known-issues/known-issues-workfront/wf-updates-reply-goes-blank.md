@@ -3,7 +3,7 @@ title: 「更新：提交回覆時畫面會暫時變空白」
 description: 「當使用者回覆更新並提交時，畫面會暫時變空白。畫面會空白 7 秒，這是使用者可以撤消回覆的時間。7 秒後，撤消選項不再可用，畫面按預期顯示。」
 hidefromtoc: true
 source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
