@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
-workflow-type: ht
-source-wordcount: '258'
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+workflow-type: tm+mt
+source-wordcount: '222'
 ht-degree: 100%
 
 ---
@@ -24,12 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
-| [文件：上傳大型檔案時發生錯誤](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
-| [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 10 日 |
 | [文件：無法從 [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) 新增文件 | 2022 年 12 月 20 日 |
-| [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
-| [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,6 +34,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
+| [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
 | [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 
 {style=&quot;table-layout:auto&quot;}

@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 10 日 |
+| 無 |  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -35,6 +35,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}

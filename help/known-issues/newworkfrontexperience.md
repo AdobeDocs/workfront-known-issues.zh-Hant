@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '585'
 ht-degree: 97%
 
 ---
@@ -24,10 +24,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [設定：無法保存電子郵件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 18 日 |
 | [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
-| [文件：上傳大型檔案時發生錯誤](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
-| [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
 
@@ -40,10 +37,10 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：無法保存電子郵件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 20 日 |
+| [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
 | [用戶：用戶無法編輯自己的用戶設定](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023 年 1 月 18 日 |
-| [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
 | [校訂：校訂不會取消封存](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
-| [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
 | [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [整合：從  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交請求時發生錯誤 | 2022 年 8 月 30 日 |
 | Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
@@ -56,6 +53,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023 年 1 月 20 日 |
 | [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 1 月 12 日 |
 | [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023 年 1 月 6 日 |

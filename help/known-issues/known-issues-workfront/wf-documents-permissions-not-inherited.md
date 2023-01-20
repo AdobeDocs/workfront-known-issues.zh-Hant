@@ -2,15 +2,19 @@
 title: "文件：當文件的父問題轉換為專案時，不會繼承文件權限"
 description: "當文件附加到問題，而使用者將問題轉換為專案時，新專案上的文件不會繼承應有的權限。"
 hidefromtoc: true
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 
 # 文件：當文件的父問題轉換為專案時，不會繼承文件權限
+
+>[!NOTE]
+>
+>此問題已關閉，因為它已如期工作。
 
 <!--This issue is on both WF and WFP TOCs-->
 
