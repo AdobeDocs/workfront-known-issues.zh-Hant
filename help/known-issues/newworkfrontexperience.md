@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [設定：無法保存電子郵件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 18 日 |
-| [文檔：無法還原已刪除的文檔](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
-| [文檔：上傳大型檔案時出錯](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
+| [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
+| [文件：上傳大型檔案時發生錯誤](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
 | [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 18 月 11 日 |
 | [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
