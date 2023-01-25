@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 99%
+source-wordcount: '1000'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ _整合_
 「[!UICONTROL 發生以下錯誤：具有控點 xxxx 的檔案不存在。]」
 
 僅當透過請求佇列或在建立請求時，手動指派新請求才會發生這種情況。
+
+**用戶無法編輯自己的用戶設定**
+
+_使用者_
+
+當使用者擁有工作、評論或申請授權，嘗試編輯自己的用戶設定，打開的彈出視窗為空白，用戶無法進行任何編輯。如果要退出彈出視窗，用戶必須重新整理頁面。
 
 +++
 
