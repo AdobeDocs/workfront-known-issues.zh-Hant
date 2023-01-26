@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
-workflow-type: ht
-source-wordcount: '1316'
-ht-degree: 100%
+source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [用戶：排程的停用不會停用使用者](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [設定：無法儲存電子郵件範本](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [使用者：使用者無法編輯自己的使用者設定](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md)

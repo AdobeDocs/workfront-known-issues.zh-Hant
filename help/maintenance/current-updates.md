@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,17 @@ _整合_
 「[!UICONTROL 發生以下錯誤：具有控點 xxxx 的檔案不存在。]」
 
 僅當透過請求佇列或在建立請求時，手動指派新請求才會發生這種情況。
+
+**新的案頭校對檢視器版本**
+
+_校訂_
+
+為了修正案頭打樣檢視器中的凍結問題，我們已部署了新版案頭打樣檢視器。 已安裝案頭校樣檢視器的使用者會自動取得此更新。
+
+使用者也可以手動關閉最新版本。 如需詳細資訊，請參閱 [安裝案頭校對查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* 舊版：2.1.19
+* 新版本：2.1.20
 
 **用戶無法編輯自己的用戶設定**
 
