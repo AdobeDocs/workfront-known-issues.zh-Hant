@@ -3,7 +3,7 @@ title: "文件：當文件的父問題轉換為專案時，不會繼承文件權
 description: "當文件附加到問題，而使用者將問題轉換為專案時，新專案上的文件不會繼承應有的權限。"
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
