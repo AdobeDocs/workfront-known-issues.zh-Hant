@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 92%
+source-wordcount: '1319'
+ht-degree: 79%
 
 ---
 
@@ -20,6 +20,41 @@ ht-degree: 92%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 1 月更新
+
++++**於 2023 年 1 月 30 日維護更新**
+
+**為常見工時單操作添加鍵盤快捷鍵**
+
+_時程表_
+
+我們為時間表內的以下常執行操作引入了以下鍵盤快捷鍵：
+
+* 新增列(Cmd+Option++ / Ctrl+Option++)
+* 刪除行(Cmd+Option+- / Ctrl+Option+-)
+* 固定或取消固定工作項(Option+P / Option+P)
+* 開啟注釋(Shift+F2 / Shift+F2)
+* 保存注釋(Cmd+Enter / Ctrl+Enter)
+* 展開（Shift+Option+向上箭頭/ Shift+Alt+向上箭頭）
+* 折疊（Shift+Option+向下箭頭/ Shift+Alt+向下箭頭）
+
+必須突出顯示執行這些操作的區域，才能應用這些操作。
+
+**時程表、時程表設定檔和時程表偏好設定的新資訊圖示**
+
+_時程表_
+
+>[!NOTE]
+>
+>此更新僅於2022年11月3日發行至預覽環境，現在可在生產環境中使用。
+
+我們在下列設定中新增了幾個資訊圖示：
+
+* &quot;[!UICONTROL 可編輯時間]「建立或編輯工時單或工時單配置檔案時的複選框，以指示啟用後，批准者還可以提交、重新開啟或編輯工時單，除非您的管理員在中限制了這些操作 [!UICONTROL 時間表首選項] 區域 [!UICONTROL 設定].
+* &quot;[!UICONTROL 將時間表編輯限制給所有者和管理員]」 [!UICONTROL 時間表和小時首選項] 區域 [!UICONTROL 設定] 要指示禁用時，以下用戶還可以編輯工時單：對時間表和工時具有管理訪問權限的用戶、允許編輯時間的時間表批准者以及時間表所有者的經理。
+
+請注意，這些設定的功能並未變更，只是新增了資訊圖示來使設定範圍更明確。
+
++++
 
 +++**於 2023 年 1 月 26 日維護更新**
 
