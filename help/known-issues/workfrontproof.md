@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
-workflow-type: ht
-source-wordcount: '216'
-ht-degree: 100%
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文檔：開啟或下載文檔時出現「無效響應」錯誤](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023 年 1 月 30 日 |
 | [文件：無法從 [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) 新增文件 | 2022 年 12 月 20 日 |
 
 {style=&quot;table-layout:auto&quot;}
