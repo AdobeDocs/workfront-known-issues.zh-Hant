@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
+source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1319'
-ht-degree: 79%
+source-wordcount: '1351'
+ht-degree: 85%
 
 ---
 
@@ -19,7 +19,17 @@ ht-degree: 79%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
-## 2023 年 1 月更新
+## 2023 年 2 月更新
+
++++**於 2023 年 2 月 2 日維護更新**
+
+**無法保存電子郵件模板**
+
+_設定_
+
+當使用者嘗試建立或編輯電子郵件範本時，[!UICONTROL 保存]按鈕沒有回應，使用者無法保存範本。
+
++++
 
 +++**於 2023 年 1 月 30 日維護更新**
 
@@ -68,22 +78,22 @@ _整合_
 
 僅當透過請求佇列或在建立請求時，手動指派新請求才會發生這種情況。
 
-**新的案頭校對檢視器版本**
+**新桌面校訂檢視器版本**
 
 _校訂_
 
-為了修正案頭打樣檢視器中的凍結問題，我們已部署了新版案頭打樣檢視器。 已安裝案頭校樣檢視器的使用者會自動取得此更新。
+為了修正桌面校訂檢視器的凍結問題，我們部署了新版本的桌面校訂檢視器。已安裝桌面校訂檢視器的使用者將自動取得此更新。
 
-使用者也可以手動關閉最新版本。 如需詳細資訊，請參閱 [安裝案頭校對查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko)。
 
-* 舊版：2.1.19
+* 舊版本：2.1.19
 * 新版本：2.1.20
 
-**用戶無法編輯自己的用戶設定**
+**使用者無法編輯自己的使用者設定**
 
 _使用者_
 
-當使用者擁有工作、評論或申請授權，嘗試編輯自己的用戶設定，打開的彈出視窗為空白，用戶無法進行任何編輯。如果要退出彈出視窗，用戶必須重新整理頁面。
+當使用者擁有工作、評論或申請授權，嘗試編輯自己的用戶設定，打開的快顯視窗為空白，用戶無法進行任何編輯。如果要退出快顯視窗，用戶必須重新整理頁面。
 
 +++
 
