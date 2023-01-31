@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
+source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 96%
+source-wordcount: '1383'
+ht-degree: 95%
 
 ---
 
@@ -16,11 +16,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [文檔：按一下三個點功能表時，摘要面板會回到頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [文檔：開啟或下載檔案時出現「該頁面不存在」錯誤](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [專案：從問題轉換的項目不繼承產品組合或方案的權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [[!UICONTROL 設定]:審核日誌不導出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL 摘要]:無法捲動 [!UICONTROL 摘要] 面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [文檔：開啟或下載文檔時出現「無效響應」錯誤](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [用戶：排程的停用不會停用使用者](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [使用者：排程的停用未停用使用者](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [設定：無法儲存電子郵件範本](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [使用者：使用者無法編輯自己的使用者設定](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md)
