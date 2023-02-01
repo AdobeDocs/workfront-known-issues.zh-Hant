@@ -3,7 +3,7 @@ title: 「整合：從 Outlook 提交請求時發生錯誤」
 description: 「當使用者嘗試透過  [!DNL Outlook]  電子郵件提交具有附件的請求時，一個或多個附件沒有上傳，且使用者會看到一個錯誤。」
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
