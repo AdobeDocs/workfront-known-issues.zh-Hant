@@ -1,11 +1,11 @@
 ---
-title: "校訂：校訂不會取消封存"
-description: "當使用者嘗試將校訂取消封存時，校訂不會取消封存。"
+title: 「校訂：校訂不會取消封存」
+description: 「當使用者嘗試將校訂取消封存時，校訂不會取消封存。」
 hidefromtoc: true
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 
