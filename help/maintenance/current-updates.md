@@ -84,7 +84,7 @@ _校訂_
 
 為了修正桌面校訂檢視器的凍結問題，我們部署了新版本的桌面校訂檢視器。已安裝桌面校訂檢視器的使用者將自動取得此更新。
 
-使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko)。
+使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hant)。
 
 * 舊版本：2.1.19
 * 新版本：2.1.20
