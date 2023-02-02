@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '1383'
-ht-degree: 95%
+source-wordcount: '1395'
+ht-degree: 99%
 
 ---
 
@@ -16,12 +16,13 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [文檔：按一下三個點功能表時，摘要面板會回到頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [文檔：開啟或下載檔案時出現「該頁面不存在」錯誤](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [專案：從問題轉換的項目不繼承產品組合或方案的權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL 設定]:審核日誌不導出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL 摘要]:無法捲動 [!UICONTROL 摘要] 面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [文檔：開啟或下載文檔時出現「無效響應」錯誤](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [組：子組不根據組事件通知設定來檢查通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [文件：按一下三點選單時「摘要」面板返回頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [文件：&quot;開啟或下載文件時出現「此頁面不存在」錯誤](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL 設定]：稽核記錄未匯出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL 摘要]：無法滾動「[!UICONTROL 摘要]」面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [文件：&quot;開啟或下載文件時出現「回應無效」錯誤](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [使用者：排程的停用未停用使用者](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [設定：無法儲存電子郵件範本](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [使用者：使用者無法編輯自己的使用者設定](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -173,7 +174,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Adobe Workfront Fusion]:Workfront模組中的404錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Adobe Workfront Fusion]：Workfront 模組中的 404 錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：無法建立與  [!DNL Google] 的連線](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 疊代器]模組中的陣列元素顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)

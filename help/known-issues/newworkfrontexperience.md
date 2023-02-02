@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 100%
+source-wordcount: '640'
+ht-degree: 97%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [組：子組不根據組事件通知設定來檢查通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023年2月2日 |
 | [[!UICONTROL 設定]：稽核記錄未匯出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
 | [[!UICONTROL 摘要]：無法滾動「[!UICONTROL 摘要]」面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023 年 1 月 30 日 |
 | [使用者：排程的停用未停用使用者](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
