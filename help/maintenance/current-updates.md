@@ -2,7 +2,7 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: 9cd28fae4c6e1a3c6759353351de4b09a46984f3
 workflow-type: tm+mt
 source-wordcount: '1402'
 ht-degree: 96%
@@ -27,7 +27,9 @@ ht-degree: 96%
 
 _板_
 
-對於沒有版面範本的使用者，「主功能表」中現在會顯示「展示板」圖示。 對於已建立的任何新版面模板，預設情況下主菜單中也包含展示板。 現有版面範本未變更。**無法儲存電子郵件範本**
+對於沒有版面範本的使用者，「主功能表」中現在會顯示「展示板」圖示。 對於已建立的任何新版面模板，預設情況下主菜單中也包含展示板。 現有版面範本未變更。
+
+**無法儲存電子郵件範本**
 
 _設定_
 
