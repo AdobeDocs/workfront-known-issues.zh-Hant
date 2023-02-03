@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '1407'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [工作負載平衡器：一次使用多個篩選器時產生的結果不正確](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [組：子組不根據組事件通知設定來檢查通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [文件：按一下三點選單時「摘要」面板返回頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [文件：&quot;開啟或下載文件時出現「此頁面不存在」錯誤](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
@@ -175,6 +176,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [[!DNL Adobe Workfront Fusion]:Workfront Fusion中的逾時錯誤](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模組中的 404 錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：無法建立與  [!DNL Google] 的連線](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 疊代器]模組中的陣列元素顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)

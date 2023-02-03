@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [[!DNL Adobe Workfront Fusion]:Workfront Fusion中的逾時錯誤](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023年2月3日 |
 
 {style=&quot;table-layout:auto&quot;}
 
