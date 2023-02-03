@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '623'
 ht-degree: 97%
 
 ---
@@ -27,8 +27,6 @@ ht-degree: 97%
 | [文件：按一下三點選單時「摘要」面板返回頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
 | [文件：&quot;開啟或下載文件時出現「此頁面不存在」錯誤](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023 年 1 月 31 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
-| [文件：&quot;開啟或下載文件時出現「回應無效」錯誤](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023 年 1 月 30 日 |
-| [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
 | [校訂：校訂產生速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
 

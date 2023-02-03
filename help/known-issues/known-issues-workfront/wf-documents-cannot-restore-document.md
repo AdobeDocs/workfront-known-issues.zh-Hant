@@ -2,15 +2,19 @@
 title: 「文件：無法恢復已刪除的文件」
 description: 「當使用者嘗試恢復先前刪除的文件時無法恢復該文件，且他們會看到「糟糕」錯誤。」
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 
 # 文件：無法恢復已刪除的文件
+
+>[!NOTE]
+>
+>此問題已於2023年2月2日修正。
 
 <!-- On WF and WFP TOCs-->
 
