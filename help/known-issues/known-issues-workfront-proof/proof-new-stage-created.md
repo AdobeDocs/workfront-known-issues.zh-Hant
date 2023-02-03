@@ -3,7 +3,7 @@ title: 「校訂：由於截止日期與現有階段的截止日期不相符而�
 description: 建立新校訂時，可以以 15 分鐘為增量設定截止日期 (10:00、10:15、10:30、20:45 等)。但是，在建立校訂後將使用者新增到校訂時，截止日期只能以 30 分鐘為增量設定 (10:00、10:30、11:00 等)。
 hidefromtoc: true
 source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
 ht-degree: 100%
 
