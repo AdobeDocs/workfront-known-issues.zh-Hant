@@ -1,18 +1,18 @@
 ---
-title: 「設定：審核日誌不導出」
-description: '"當用戶嘗試導出審核日誌時，審核日誌不導出。 Workfront中沒有指出稽核記錄未匯出，但預期的匯出檔案永遠不會顯示。」'
+title: "設定：稽核記錄未匯出"
+description: "當使用者嘗試匯出稽核記錄時，稽核記錄未匯出。 Workfront 中沒有稽核記錄未匯出的跡象，但預期的匯出檔案從未出現。"
 hidefromtoc: true
 source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL 設定]:審核日誌不導出
+# [!UICONTROL 設定]：稽核記錄未匯出
 
-當用戶嘗試導出審核日誌時，審核日誌不會導出。 在 [!DNL Workfront] 審核日誌未導出，但預期的導出檔案從未出現。
+當使用者嘗試匯出稽核記錄時，稽核記錄未匯出。 [!DNL Workfront] 中沒有稽核記錄未匯出的跡象，但預期的匯出檔案從未出現。
 
 _於 2023 年 1 月 24 日首次通報。_
 
