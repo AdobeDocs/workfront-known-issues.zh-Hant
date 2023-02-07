@@ -18,7 +18,7 @@ ht-degree: 97%
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [文檔：將文檔移到新項目時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [工作負載平衡器：一次使用多個篩選器時產生的結果不正確](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [組：子組不根據組事件通知設定來檢查通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [群組：子群組未收到根據群組事件通知設定的通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [文件：按一下三點選單時「摘要」面板返回頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [文件：&quot;開啟或下載文件時出現「此頁面不存在」錯誤](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
