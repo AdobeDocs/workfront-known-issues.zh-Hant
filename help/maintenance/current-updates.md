@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 98%
+source-wordcount: '1482'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,16 @@ ht-degree: 98%
 +++**（計畫）2023年2月9日的維護更新**
 
 此更新僅包含微幅或較少的顯著錯誤修正。 [!DNL Workfront]當您提交的問題得到修復時，支援人員會通知您。
+
++++
+
++++**於 2023 年 8 月 2 日維護更新**
+
+**進氣列中的過濾按鈕**
+
+_面板_
+
+板上的進料柱現在包含 **新增篩選** 按鈕。 按鈕會開啟設定區域，您可在此新增篩選器，將工作和問題納入進入欄。
 
 +++
 
