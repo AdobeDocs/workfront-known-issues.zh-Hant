@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
-workflow-type: ht
-source-wordcount: '1436'
-ht-degree: 100%
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+workflow-type: tm+mt
+source-wordcount: '1444'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [用戶：用戶無法編輯自己的通知設定](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Workload Balancer：一次使用多個篩選器時結果會不準確](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [群組：子群組未收到根據群組事件通知設定的通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)

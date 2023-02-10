@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+workflow-type: tm+mt
+source-wordcount: '615'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [用戶：用戶無法編輯自己的通知設定](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 2023 年 10 月 2 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 | [文件：按一下三點選單時「摘要」面板返回頂端](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
