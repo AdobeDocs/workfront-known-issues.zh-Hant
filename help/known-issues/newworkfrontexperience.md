@@ -3,7 +3,7 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
+source-git-commit: d91c84f60680c78b9e34481bd6435f5dad234358
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 97%
@@ -39,7 +39,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：評論重新導向連結至「詳細資訊」頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 10 月 2 日 |
+| [更新：將評論重新導向連結至 [!UICONTROL 詳細資料] 頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 10 月 2 日 |
 | [[!UICONTROL 設定]：稽核記錄未匯出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
 | [使用者：排程的停用未停用使用者](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
 | [文件：無法恢復已刪除的文件](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
