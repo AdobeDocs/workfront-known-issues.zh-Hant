@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
+source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1462'
 ht-degree: 98%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [用戶：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [更新：將評論重新導向連結至 [!UICONTROL 詳細資料] 頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [用戶：用戶無法編輯自己的通知設定](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
