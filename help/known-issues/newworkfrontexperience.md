@@ -3,7 +3,7 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
+source-git-commit: a02311dcf01d961cc55e4faa7b26661154055578
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 95%
@@ -39,6 +39,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 14 月 2 日 |
 | [用戶：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023 年 13 月 2 日 |
 | [更新：將評論重新導向連結至 [!UICONTROL 詳細資料] 頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 10 月 2 日 |
 | [[!UICONTROL 設定]：稽核記錄未匯出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
@@ -56,7 +57,6 @@ ht-degree: 95%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023 年 1 月 20 日 |
-| [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 1 月 12 日 |
 | [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023 年 1 月 6 日 |
 | [專案：專案狀態未依群組專案偏好設定來設定](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023 年 1 月 6 日 |
