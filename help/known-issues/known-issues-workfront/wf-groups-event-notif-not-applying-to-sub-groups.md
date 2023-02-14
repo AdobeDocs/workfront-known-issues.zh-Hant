@@ -1,16 +1,16 @@
 ---
-title: '"組：子組不會根據組事件通知設定接收通知」'
+title: 「群組：子群組未收到根據群組事件通知設定的通知」
 description: 「當發生觸發通知 (根據群組事件通知設定) 的事件時，該群組的子群組未收到通知。在 Workfront 中，這些子群組沒有繼承群組通知設定。」
 hidefromtoc: true
 source-git-commit: 209a6610fec9743c817ecb8bb9899f21a1c4762e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
-# 組：子組不會根據組事件通知設定接收通知
+# 群組：子群組未收到根據群組事件通知設定的通知
 
 >[!NOTE]
 >
