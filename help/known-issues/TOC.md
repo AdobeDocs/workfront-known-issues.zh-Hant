@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1075'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,9 +16,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [用戶：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [更新：將評論重新導向連結至 [!UICONTROL 詳細資料] 頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [用戶：用戶無法編輯自己的通知設定](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [[!UICONTROL 展示板]:套用分組時無法新增資訊卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [使用者：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [更新：評論的連結重新導向至[!UICONTROL 詳細資訊]頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [使用者：使用者無法編輯自己的通知設定](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Workload Balancer：一次使用多個篩選器時結果會不準確](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [群組：子群組未收到根據群組事件通知設定的通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
