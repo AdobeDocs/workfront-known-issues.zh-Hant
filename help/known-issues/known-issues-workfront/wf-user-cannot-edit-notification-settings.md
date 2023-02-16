@@ -1,18 +1,18 @@
 ---
-title: 「用戶：用戶無法編輯自己的通知設定」
-description: 「使用者若 [!UICONTROL 工作人員] 許可證會嘗試編輯自己的通知設定， [!UICONTROL 通知] 選項不會顯示在 [!UICONTROL 編輯] ，而用戶無法編輯設定。」
+title: 「使用者：使用者無法編輯自己的通知設定」
+description: “當具有[!UICONTROL 工作者]授權的使用者嘗試編輯自己的通知設定時，[!UICONTROL 通知]選項在[!UICONTROL 編輯]視窗中不會顯示，因此使用者無法編輯該設定。」
 hidefromtoc: true
 source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 用戶：用戶無法編輯自己的通知設定
+# 使用者：使用者無法編輯自己的通知設定
 
-若使用者具有 [!UICONTROL 工作人員] 許可證會嘗試編輯自己的通知設定， [!UICONTROL 通知] 選項不會顯示在 [!UICONTROL 編輯] ，而使用者無法編輯設定。
+當具有[!UICONTROL 工作者]授權的使用者嘗試編輯自己的通知設定時，[!UICONTROL 通知]選項在[!UICONTROL 編輯]視窗中不會顯示，因此使用者無法編輯該設定。
 
-_首次回報於 2023 年 2 月 9 日。_
+_於 2023 年 2 月 9 日首次回報。_
 
