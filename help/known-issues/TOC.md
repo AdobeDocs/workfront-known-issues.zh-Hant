@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
 source-wordcount: '1088'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [專案：專案標題中504錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL 展示板]:套用分組時無法新增資訊卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [[!UICONTROL 展示板]：套用分組時無法新增卡片](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [使用者：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [更新：評論的連結重新導向至[!UICONTROL 詳細資訊]頁面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [使用者：使用者無法編輯自己的通知設定](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -143,7 +143,7 @@ ht-degree: 98%
       + [[!DNL Adobe Workfront Fusion]：Workfront 模組中的 404 錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：無法建立與  [!DNL Google] 的連線](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 疊代器]模組中的陣列元素顯示為「[!UICONTROL object 物件]」](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
-      + [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
+      + [[!DNL Workfront Fusion]：檢視案例執行歷史記錄中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront]  > [!UICONTROL 自訂 API 呼叫] 模組傳回 404 或 422 錯誤](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
