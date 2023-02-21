@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
-workflow-type: ht
-source-wordcount: '1582'
-ht-degree: 100%
+source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
+workflow-type: tm+mt
+source-wordcount: '1693'
+ht-degree: 98%
 
 ---
 
@@ -20,6 +20,24 @@ ht-degree: 100%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 2 月更新
+
++++**(預計) 2023 年 2 月 23 日維護更新**
+
+**將評論重新導向連結至 [!UICONTROL 詳細資料] 頁面**
+
+_更新_
+
+當使用者在 Workfront 中點選指向對某個物件評論的連結時，更新流會短暫載入，然後使用者會被重新導向到該物件的[!UICONTROL 詳細資訊]區域。如果使用者點選電子郵件中的連結或將連結貼到他們的瀏覽器中，即可能會發生這種情況。
+
+這目前僅影響文件物件。
+
+**用戶無法編輯自己的通知設定**
+
+_使用者_
+
+當具有[!UICONTROL 工作者]授權的使用者嘗試編輯自己的通知設定時，[!UICONTROL 通知]選項在[!UICONTROL 編輯]視窗中不會顯示，因此使用者無法編輯該設定。
+
++++
 
 +++**於 2023 年 2 月 16 日維護更新**
 
@@ -78,6 +96,8 @@ _設定_
 當使用者嘗試建立或編輯電子郵件範本時，[!UICONTROL 保存]按鈕沒有回應，使用者無法儲存範本。
 
 +++
+
+## 2023年1月更新
 
 +++**於 2023 年 1 月 30 日維護更新**
 
