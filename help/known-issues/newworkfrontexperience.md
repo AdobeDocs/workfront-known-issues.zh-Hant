@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '617'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [專案：專案標題中504錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
+| [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
 | [[!UICONTROL 展示板]：套用分組時無法新增卡片](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023 年 2 月 16 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
