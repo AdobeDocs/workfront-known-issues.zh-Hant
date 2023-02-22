@@ -3,7 +3,7 @@ title: "文件：按一下三點選單時「摘要」面板返回頂端"
 description: ""
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
