@@ -3,7 +3,7 @@ title: "Adobe Workfront Fusion：Workfront 模組中的 404 錯誤"
 description: “Workfront 模組偶爾會傳回 404 錯誤。 模組中的 404 錯誤會導致情境執行失敗。”
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
