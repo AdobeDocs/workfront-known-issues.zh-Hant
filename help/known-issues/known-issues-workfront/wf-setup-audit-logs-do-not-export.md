@@ -3,7 +3,7 @@ title: "設定：稽核記錄未匯出"
 description: "當使用者嘗試匯出稽核記錄時，稽核記錄未匯出。 Workfront 中沒有稽核記錄未匯出的跡象，但預期的匯出檔案從未出現。"
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
