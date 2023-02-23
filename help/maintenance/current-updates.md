@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1693'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 98%
 
 +++**(預計) 2023 年 2 月 23 日維護更新**
 
-**將評論重新導向連結至 [!UICONTROL 詳細資料] 頁面**
+**評論的連結重新導向至[!UICONTROL 詳細資訊]頁面**
 
 _更新_
 
@@ -31,7 +31,7 @@ _更新_
 
 這目前僅影響文件物件。
 
-**用戶無法編輯自己的通知設定**
+**使用者無法編輯自己的通知設定**
 
 _使用者_
 
@@ -97,7 +97,7 @@ _設定_
 
 +++
 
-## 2023年1月更新
+## 2023 年 1 月更新
 
 +++**於 2023 年 1 月 30 日維護更新**
 
