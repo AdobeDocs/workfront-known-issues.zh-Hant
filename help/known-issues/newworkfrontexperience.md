@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 97%
+source-wordcount: '564'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：登入時發生錯誤 [!DNL Workfront] 從 [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2023 年 2 月 24 日 |
 | [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
 | [[!UICONTROL 展示板]：套用分組時無法新增卡片](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023 年 2 月 16 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |

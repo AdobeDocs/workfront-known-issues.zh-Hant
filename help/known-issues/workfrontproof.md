@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 95%
+source-wordcount: '263'
+ht-degree: 92%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：登入時發生錯誤 [!DNL Workfront] 從 [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md) | 2023 年 2 月 24 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
