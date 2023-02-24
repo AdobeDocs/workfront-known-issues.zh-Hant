@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
+workflow-type: tm+mt
+source-wordcount: '153'
 ht-degree: 100%
 
 ---
@@ -46,7 +46,6 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022 年 11 月 4 日 |
 | [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022 年 29 月 9 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |
 
