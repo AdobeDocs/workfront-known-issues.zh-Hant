@@ -1,20 +1,20 @@
 ---
-title: 「Workfront Fusion：檢視案例執行歷程中的錯誤時發生錯誤」
-description: 「當使用者檢視案例執行歷程，並嘗試按一下錯誤來查看更多錯誤詳細資訊，詳細資訊未開啟而使用者看到錯誤訊息。」
+title: '''Workfront聚變：查看方案執行歷史記錄中的錯誤時出錯'
+description: 當使用者檢視案例執行歷史記錄，並嘗試按一下錯誤以查看有關錯誤的詳細資訊時，詳細資料不會開啟，且使用者會看見錯誤訊息。
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: c997469f-b80c-4438-b353-897f9cdb9481
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 64%
 
 ---
 
-
-# [!DNL Workfront Fusion]：檢視案例執行歷程中的錯誤時發生錯誤
+# [!DNL Workfront Fusion]：檢視案例執行歷史記錄中的錯誤時發生錯誤
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>此問題已在 2023 年 1 月 25 日修正。
 
 當使用者檢視案例執行歷程，並嘗試按一下錯誤來查看更多錯誤詳細資訊，詳細資訊未開啟而使用者看到下列資訊錯誤訊息：
 
@@ -25,4 +25,3 @@ ht-degree: 100%
 按一下「[!UICONTROL 前往原始記錄]」並在那裡檢視錯誤。
 
 _於 2022 年 8 月 22 日首次通報。_
-

@@ -2,9 +2,9 @@
 title: 「專案：從範本建立專案時出現效能問題和錯誤訊息。」
 description: 「當使用者從範本建立專案並儲存專案時，專案的建立時間是平時的 3-5 倍。此外，使用者會看到「擷取失敗」訊息，此訊息表示專案未建立，儘管專案實際上已建立。」
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: ht
-source-wordcount: '158'
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>此問題已在 2023 年 1 月 11 日修正。
 
 當使用者從範本建立專案並儲存專案時，專案的建立時間是平時的 3 至 5 倍。此外，使用者會看到「[!UICONTROL 擷取失敗]」訊息，此訊息表示專案未建立，儘管專案實際上已建立。
 

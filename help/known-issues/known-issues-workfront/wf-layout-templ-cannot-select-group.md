@@ -3,9 +3,9 @@ title: 「版面設定範本：建立版面設定範本時無法選擇群組」
 description: 當作為群組管理員的使用者嘗試在設定的[!UICONTROL 介面]區域中建立版面設定範本時，系統會提示使用者在[!UICONTROL 管理存取]欄位中選擇一個群組。使用者鍵入群組名稱，但該群組未出現在下拉式清單中且無法選擇。因此，使用者無法儲存版面設定範本。
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
-source-wordcount: '191'
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '169'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>此問題已在 2022 年 6 月 6 日修正。
 
 當作為群組管理員的使用者嘗試在[!UICONTROL 設定]的[!UICONTROL 介面]區域中建立版面設定範本時，系統會提示使用者在[!UICONTROL 管理存取]欄位中選擇一個群組。使用者鍵入群組名稱，但該群組未出現在下拉式清單中且無法選擇。因此，使用者無法儲存版面設定範本。
 
