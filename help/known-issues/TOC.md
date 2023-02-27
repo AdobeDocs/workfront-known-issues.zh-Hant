@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1115'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校樣：校樣角色已變更為 [!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [整合：登入時發生錯誤 [!DNL Workfront] 從 [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 展示板]：套用分組時無法新增卡片](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
@@ -120,7 +121,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [校樣：在校樣註解中加上標籤時，使用者不會收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [校訂：在校訂評論中被標記時，使用者不會收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof]API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
