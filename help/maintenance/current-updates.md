@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
-workflow-type: ht
-source-wordcount: '1692'
-ht-degree: 100%
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+workflow-type: tm+mt
+source-wordcount: '1870'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,34 @@ ht-degree: 100%
 >這些更新還包括其他次要或不太重要的錯誤修復。[!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
+
+## 2023 年 3 月更新
+
++++**（計畫）2023年3月2日維護更新**
+
+**套用分組時無法新增資訊卡**
+
+_展示板_
+
+使用者檢視套用了分組的展示板並嘗試新增卡片時，使用者僅能輸入卡片的名稱。其餘的卡片欄位被停用，包括[!UICONTROL 儲存]按鈕。
+
+如果使用者將分組變更為[!UICONTROL 無]，問題仍然存在。使用者必須將分組變更為[!UICONTROL 無]，然後重新整理頁面，即可恢復新增卡片的功能。
+
+**評論的連結重新導向至[!UICONTROL 詳細資訊]頁面**
+
+_更新_
+
+當使用者在 Workfront 中點選指向對某個物件評論的連結時，更新流會短暫載入，然後使用者會被重新導向到該物件的[!UICONTROL 詳細資訊]區域。如果使用者點選電子郵件中的連結或將連結貼到他們的瀏覽器中，即可能會發生這種情況。
+
+這目前僅影響文件物件。
+
+**未載入打印摘要**
+
+_[!UICONTROL Workfront Proof]_
+
+當用戶嘗試載入「打印摘要」頁時，頁面似乎正在載入，但從未載入。
+
++++
 
 ## 2023 年 2 月更新
 
