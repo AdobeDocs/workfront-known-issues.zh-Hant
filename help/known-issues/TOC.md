@@ -3,8 +3,8 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1124'
+ht-degree: 97%
 
 ---
 
