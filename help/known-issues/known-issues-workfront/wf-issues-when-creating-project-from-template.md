@@ -3,7 +3,7 @@ title: 「專案：從範本建立專案時出現效能問題和錯誤訊息。�
 description: 「當使用者從範本建立專案並儲存專案時，專案的建立時間是平時的 3-5 倍。此外，使用者會看到「擷取失敗」訊息，此訊息表示專案未建立，儘管專案實際上已建立。」
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
