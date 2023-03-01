@@ -3,7 +3,7 @@ title: 「專案：專案狀態未依群組專案偏好設定來設定」
 description: 「當使用者使用範本建立專案時，新專案不會採用群組專案偏好設定中的狀態設定。如果未使用範本來建立專案，則狀態會依預期反映群組專案偏好設定。」
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已在 2023 年 23 月 2 日修正。
+>此問題已在 2023 年 2 月 23 日修正。
 
 「當使用者使用範本建立專案時，新專案不會採用群組專案偏好設定中的狀態設定。如果未使用範本來建立專案，則狀態會依預期反映群組專案偏好設定。
 
