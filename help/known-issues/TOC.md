@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '1135'
 ht-degree: 99%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 99%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [[!DNL Workfront Proof]: [!UICONTROL 報表] 不再支援區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 打印摘要] 未載入](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md)
