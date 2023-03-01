@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 93%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 2023 年 2 月 24 日 |
-| [校樣：無法將用戶或組添加到校樣工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
-| [校樣：校樣角色已變更為 [!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
+| [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
+| [校訂：校訂角色變更為[!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -49,7 +49,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：在校訂評論中被標記時，使用者不會收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
+| [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023 年 2 月 2 日 |
 | [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [校訂：[!UICONTROL 文件]清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)中的校訂狀態不會更新 | 2022 年 12 月 5 日 |

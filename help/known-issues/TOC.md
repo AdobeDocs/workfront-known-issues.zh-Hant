@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
 source-wordcount: '1129'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [校樣：無法將用戶或組添加到校樣工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [校樣：校樣角色已變更為 [!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [整合：登入時發生錯誤 [!DNL Workfront] 從 [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [校訂：校訂角色變更為「[!UICONTROL 唯讀]」](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [整合：登入  [!DNL Workfront]  時 (從  [!DNL Jira]) 發生錯誤](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 展示板]：套用分組時無法新增卡片](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [使用者：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -92,7 +92,7 @@ ht-degree: 97%
       + [整合：從  [!DNL Outlook]  提交請求時發生錯誤](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [請求：無法開啟第一頁之外的請求清單頁面](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
       + [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
-      + [通知：使用者在評論中被提及時不會收到電子郵件通知](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
+      + [通知：使用者在評論中被提及時沒有收到電子郵件通知](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [儀表板：在儀表板中檢視的報告圖表使用的顏色與在報告中檢視時不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [敏捷：在「敏捷」展示板上移動卡片時發生問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [首頁：自訂術語未套用於首頁區域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -123,7 +123,7 @@ ht-degree: 97%
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
       + [[!DNL Workfront Proof]: [!UICONTROL 打印摘要] 未載入](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [校訂：在校訂評論中被標記時，使用者不會收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof]API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
