@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1870'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,17 +19,24 @@ ht-degree: 98%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
-## 2023 年 3 月更新
+## 2023 年 3 月份更新
 
-+++**（計畫）2023年3月2日維護更新**
++++**於 2023 年 2 月 3 日維護更新**
 
-**套用分組時無法新增資訊卡**
+**套用分組時無法新增卡片**
 
 _展示板_
 
 使用者檢視套用了分組的展示板並嘗試新增卡片時，使用者僅能輸入卡片的名稱。其餘的卡片欄位被停用，包括[!UICONTROL 儲存]按鈕。
 
 如果使用者將分組變更為[!UICONTROL 無]，問題仍然存在。使用者必須將分組變更為[!UICONTROL 無]，然後重新整理頁面，即可恢復新增卡片的功能。
+
+**未根據狀態將已連接的卡添加到列**
+
+_展示板_
+
+即使已對狀態應用列策略，新連接的卡也會出現在最左側的列中，而不會出現在與其狀態對應的列中。
+
 
 **評論的連結重新導向至[!UICONTROL 詳細資訊]頁面**
 
@@ -39,15 +46,15 @@ _更新_
 
 這目前僅影響文件物件。
 
-**未載入打印摘要**
+**Print Summary 未載入**
 
 _[!UICONTROL Workfront Proof]_
 
-當用戶嘗試載入「打印摘要」頁時，頁面似乎正在載入，但從未載入。
+當使用者嘗試載入 Print Summary 頁面時，該頁面看似載入中，但從未載入。
 
 +++
 
-## 2023 年 2 月更新
+## 2023 年 2 月份更新
 
 +++**於 2023 年 2 月 23 日維護更新**
 
@@ -180,7 +187,7 @@ _校訂_
 
 為了修正桌面校訂檢視器的凍結問題，我們部署了新版本的桌面校訂檢視器。已安裝桌面校訂檢視器的使用者將自動取得此更新。
 
-使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hant)。
+使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en)。
 
 * 舊版本：2.1.19
 * 新版本：2.1.20

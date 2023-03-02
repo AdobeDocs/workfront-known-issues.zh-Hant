@@ -2,15 +2,19 @@
 title: 「展示板：套用分組時無法新增卡片」
 description: 「使用者檢視套用了分組的展示板並嘗試新增卡片時，使用者僅能輸入卡片的名稱。其餘的卡片欄位被停用，包括儲存按鈕。」
 hidefromtoc: true
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL 展示板]：套用分組時無法新增卡片
+
+>[!NOTE]
+>
+>此問題已在 2023 年 3 月 2 日修正
 
 使用者檢視套用了分組的展示板並嘗試新增卡片時，使用者僅能輸入卡片的名稱。其餘的卡片欄位被停用，包括[!UICONTROL 儲存]按鈕。
 

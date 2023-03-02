@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [校訂：校訂角色變更為「[!UICONTROL 唯讀]」](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [整合：登入  [!DNL Workfront]  時 (從  [!DNL Jira]) 發生錯誤](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
@@ -65,7 +66,7 @@ ht-degree: 99%
       + [報告：新增問題至問題報告時出現「糟糕」錯誤訊息](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [報告：組合圖表顯示相同資料兩次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [校訂：新增自訂訊息導致校訂檢視器發生問題](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [校訂：列印摘要未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [校訂：Print Summary 未顯示影像縮圖](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [整合：[!UICONTROL 首頁行事曆]顯示事件的時間比  [!DNL Outlook] 晚一小時](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [版面配置範本：隱藏項目會隱藏不正確的項目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [敏捷：任務的看板待辦項目順序為 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
@@ -123,11 +124,11 @@ ht-degree: 99%
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
       + [[!DNL Workfront Proof]: [!UICONTROL 報表] 不再支援區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL 打印摘要] 未載入](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL Print Summary] 未載入](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof]API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [校訂：列印摘要未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
+      + [校訂：Print Summary 未顯示校訂的所有頁面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [校訂：校訂未分享給校訂工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [校訂：從  [!DNL Workfront]  Proof 新增校訂到  [!DNL Workfront]  時發生錯誤](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]：每日摘要電子郵件不包含「查看詳細資訊」按鈕](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
@@ -145,6 +146,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [[!DNL Workfront Fusion]:方案執行歷史記錄不會顯示整個歷史記錄](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中的逾時錯誤](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模組中的 404 錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：無法建立與  [!DNL Google] 的連線](known-issues-workfront-fusion/fusion-google-connection-fails.md)
