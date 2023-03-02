@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1167'
+ht-degree: 96%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [[!DNL Workfront Proof]:使用「[!UICONTROL 前往校樣]電子郵件通知的「 」按鈕](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 報表] 不再支援區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]：[!UICONTROL Print Summary] 未載入](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
