@@ -3,7 +3,7 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
+source-git-commit: b5172e5c4991f4ea6a5bf05b92bfb419c1e95a35
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 97%
@@ -38,7 +38,7 @@ ht-degree: 97%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [整合：登入  [!DNL Workfront]  時 (從  [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)) 發生錯誤 | 2023年3月2日 |
-| [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023 年 3 月 23 日 |
+| [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023年3月2日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
 | [使用者：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023 年 2 月 13 日 |
 | Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
