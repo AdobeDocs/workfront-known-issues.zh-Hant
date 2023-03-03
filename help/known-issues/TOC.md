@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 96%
+source-wordcount: '1192'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [工時單： [!UICONTROL 小時類型] 下拉式清單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [校訂：校訂角色變更為「[!UICONTROL 唯讀]」](known-issues-workfront/wf-proof-roles-set-to-read-only.md)

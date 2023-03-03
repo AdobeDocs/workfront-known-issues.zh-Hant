@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 96%
+source-wordcount: '604'
+ht-degree: 93%
 
 ---
 
@@ -37,6 +37,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工時單： [!UICONTROL 小時類型] 下拉式清單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年3月3日 |
+| [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日 |
 | [校樣：自訂訊息未出現在電子郵件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023年3月3日 |
 | [整合：登入  [!DNL Workfront]  時 (從  [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)) 發生錯誤 | 2023年3月2日 |
 | [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023年3月2日 |
