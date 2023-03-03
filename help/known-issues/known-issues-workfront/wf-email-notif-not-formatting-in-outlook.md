@@ -3,14 +3,16 @@ title: 「電子郵件通知：Outlook 中的電子郵件格式不正確」
 description: 當具有 Outlook 電子郵件地址的使用者將其電子郵件設定為不允許自動下載影像，且他們收到來自  [!DNL Workfront] 的電子郵件通知時，通知中的使用者設定檔影像無法正常顯示，影像名稱有時會垂直顯示。手動下載這些影像並不能解決格式問題。
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 
 ---
 
 # 電子郵件通知：[!DNL Outlook] 中的電子郵件格式不正確
+
+<!--Issue created by request-->
 
 >[!NOTE]
 >
