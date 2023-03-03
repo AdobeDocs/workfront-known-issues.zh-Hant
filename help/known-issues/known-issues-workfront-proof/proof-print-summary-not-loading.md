@@ -4,8 +4,8 @@ description: 「當使用者嘗試載入 Print Summary 頁面時，該頁面看�
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 100%
 
 ---
 
