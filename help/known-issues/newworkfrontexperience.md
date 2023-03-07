@@ -3,7 +3,7 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 92%
@@ -27,7 +27,6 @@ ht-degree: 92%
 | [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
 | [校訂：校訂角色變更為[!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 | [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
-| [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 
 {style="table-layout:auto"}
 
@@ -54,6 +53,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日 |
 | [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 2 月 24 日 |
 | [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023 年 1 月 20 日 |

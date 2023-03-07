@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 93%
 
 ---
@@ -27,9 +27,8 @@ ht-degree: 93%
 |  | 2023 年 2 月 24 日 |
 | [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
 | [校訂：校訂角色變更為[!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
-| [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 進行中
 
@@ -40,7 +39,7 @@ ht-degree: 93%
 | [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日 |
 | [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 無修正
 
@@ -48,6 +47,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] 不再支援區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日 |
 | [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023 年 2 月 2 日 |
@@ -61,5 +61,5 @@ ht-degree: 93%
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 

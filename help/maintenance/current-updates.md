@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '1905'
-ht-degree: 98%
+source-wordcount: '1979'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 98%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 3 月份更新
+
++++**(預計) 於 2023 年 3 月 9 日維護更新**
+
+**重新啟動使用者時未指派存取層級**
+
+_使用者_
+
+當使用者重新啟動已停用的使用者，並嘗試在[!UICONTROL 重新啟動使用者]視窗中為他們指派存取層級時，存取層級下拉選單不會隨著使用者輸入而填入，並且使用者無法選取存取層級。如果使用者輸入存取層級並儲存，則該存取層級不會指派給重新啟動的使用者。
+
++++
 
 +++**於 2023 年 2 月 3 日維護更新**
 
