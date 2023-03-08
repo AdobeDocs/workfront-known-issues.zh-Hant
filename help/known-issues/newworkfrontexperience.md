@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
 workflow-type: tm+mt
-source-wordcount: '579'
-ht-degree: 92%
+source-wordcount: '571'
+ht-degree: 95%
 
 ---
 
@@ -36,11 +36,10 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [工時單： [!UICONTROL 小時類型] 下拉式清單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年3月3日 |
-| [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日 |
-| [校樣：自訂訊息未出現在電子郵件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023年3月3日 |
-| [整合：登入  [!DNL Workfront]  時 (從  [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)) 發生錯誤 | 2023年3月2日 |
-| [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023年3月2日 |
+| [工時單： [!UICONTROL 小時類型] 下拉式清單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 3 日 |
+| [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 3 日 |
+| [校樣：自訂訊息未出現在電子郵件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023 年 3 月 3 日 |
+| [專案：問題轉換為專案時缺少自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023 年 3 月 2 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
 | [使用者：重新啟動使用者時未指派存取層級](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023 年 2 月 13 日 |
 | Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
@@ -53,7 +52,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日 |
+| [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 2 月 24 日 |
 | [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [自訂表單：在計算欄位參照「[!UICONTROL 所有者]」時，出現「[!UICONTROL 自訂運算式無效]」訊息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023 年 1 月 20 日 |
