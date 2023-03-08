@@ -1,26 +1,26 @@
 ---
-title: 「Workfront校樣：在電子郵件通知中使用「前往校樣」按鈕時無法載入校樣」
-description: 「當使用者嘗試使用電子郵件通知中的Go to proof按鈕來前往校樣時，會將使用者帶至空白的灰色頁面。 校樣未載入。」
+title: 「Workfront Proof：使用電子郵件通知中的「前往校訂」按鈕時未載入校訂」
+description: 「當用戶嘗試使用電子郵件通知中的「前往校訂」按鈕來前往校訂時，用戶將被帶到一個空白的灰色頁面。」校訂未載入。」
 hidefromtoc: true
 source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]:使用「[!UICONTROL 前往校樣]電子郵件通知的「 」按鈕
+# [!DNL Workfront Proof]：在電子郵件通知使用「[!UICONTROL 前往校訂]」按鈕時未載入校訂
 
 >[!NOTE]
 >
 >此問題已在 2023 年 3 月 2 日修正
 
-當使用者嘗試使用「[!UICONTROL 前往校樣]「 」按鈕，會將使用者帶至空白的灰色頁面。 校樣未載入。
+當用戶嘗試使用電子郵件通知中的「[!UICONTROL 前往校訂]」按鈕來前往校訂時，用戶將被帶到一個空白的灰色頁面。校訂未載入。
 
 **因應措施：**
 
-在中存取校樣 [!DNL Workfront Proof] 直接。
+直接存取 [!DNL Workfront Proof] 中的校訂。
 
 _於 2023 年 2 月 20 日首次回報。_
 
