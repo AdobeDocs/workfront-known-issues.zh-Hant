@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 94%
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [工時單： [!UICONTROL 小時類型] 下拉式清單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [專案：問題轉換為專案時遺失自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [專案：問題轉換為專案時缺少自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [校訂：校訂角色變更為「[!UICONTROL 唯讀]」](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [整合：登入  [!DNL Workfront]  時 (從  [!DNL Jira]) 發生錯誤](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
@@ -126,8 +126,8 @@ ht-degree: 94%
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
       + [校樣：自訂訊息未出現在電子郵件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]:使用「[!UICONTROL 前往校樣]電子郵件通知的「 」按鈕](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL 報表] 不再支援區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]：在電子郵件通知使用「[!UICONTROL 前往校訂]」按鈕時未載入校訂](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]：不再支援「[!UICONTROL 報告]」區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]：[!UICONTROL Print Summary] 未載入](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md)
@@ -150,7 +150,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Workfront Fusion]:方案執行歷史記錄不會顯示整個歷史記錄](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]：情境執行歷史記錄不會顯示整個歷史記錄](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中的逾時錯誤](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模組中的 404 錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：無法建立與  [!DNL Google] 的連線](known-issues-workfront-fusion/fusion-google-connection-fails.md)
