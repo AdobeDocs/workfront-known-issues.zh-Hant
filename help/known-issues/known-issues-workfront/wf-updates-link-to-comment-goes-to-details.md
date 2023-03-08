@@ -3,9 +3,9 @@ title: 「更新：評論的連結重新導向至詳細資訊頁面」
 description: 「當使用者在 Workfront 中點選指向對某個物件評論的連結時，更新流會短暫載入，然後使用者會被重新導向到該物件的詳細資訊區域。如果使用者點選電子郵件中的連結或將連結貼到他們的瀏覽器中，即可能會發生這種情況。」
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '132'
+ht-degree: 100%
 
 ---
 
