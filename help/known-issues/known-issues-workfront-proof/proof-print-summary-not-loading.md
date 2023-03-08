@@ -3,7 +3,7 @@ title: 「Workfront Proof：Print Summary 未載入」
 description: 「當使用者嘗試載入 Print Summary 頁面時，該頁面看似載入中，但從未載入。」
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
