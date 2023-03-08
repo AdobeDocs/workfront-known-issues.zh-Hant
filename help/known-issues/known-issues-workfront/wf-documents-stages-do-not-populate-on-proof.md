@@ -3,7 +3,7 @@ title: 「校訂：[!UICONTROL 主動校訂階段]欄位為空白」
 description: 「當使用者建立校訂，然後在報告中查看該校訂時 (例如[!UICONTROL 文件版本]或[!UICONTROL 校訂核准]報告)，[!UICONTROL 主動校訂階段]欄位顯示為空白。在上傳文件後建立校訂時，無論是[!UICONTROL 簡單校訂]，還是具有[!UICONTROL 基本工作流程]的[!UICONTROL 進階校訂]都有可能會發生這種情況。
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
