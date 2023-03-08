@@ -3,9 +3,9 @@ title: 「展示板：套用分組時無法新增卡片」
 description: 「使用者檢視套用了分組的展示板並嘗試新增卡片時，使用者僅能輸入卡片的名稱。其餘的卡片欄位被停用，包括儲存按鈕。」
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '148'
+ht-degree: 100%
 
 ---
 
