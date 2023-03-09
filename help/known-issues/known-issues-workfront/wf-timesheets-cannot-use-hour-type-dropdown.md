@@ -2,15 +2,19 @@
 title: 「工時單：「小時類型」下拉清單未開啟「
 description: 「當用戶嘗試在時間表上開啟「小時類型」下拉清單時，螢幕會閃爍，但下拉清單未開啟。 當監視器設為異常解析度，或瀏覽器視窗的縮放未設為100%時，就會發生此情況。」
 hidefromtoc: true
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 3%
+source-wordcount: '140'
+ht-degree: 11%
 
 ---
 
 
 # 工時單： [!UICONTROL 小時類型] 下拉式清單未開啟
+
+>[!NOTE]
+>
+>由於無法重現，此問題已關閉。
 
 當使用者嘗試開啟 [!UICONTROL 小時類型] 時間表上的下拉式清單會閃爍，但下拉式清單未開啟。 當監視器設為異常解析度，或瀏覽器視窗的縮放未設為100%時，就會發生此情況。
 
