@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+source-git-commit: 5e967c740d4facb3cb2f401aecb057d78f074da0
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 95%
+source-wordcount: '570'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [報表：按列標題排序將回復為上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 10 日 |
+| [[!UICONTROL 更新]:無法記錄 [!UICONTROL 更新] 區域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 10 日 |
 | [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
 | [校訂：校訂角色變更為[!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 | [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |

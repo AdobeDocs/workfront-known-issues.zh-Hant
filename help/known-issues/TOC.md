@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 97%
+source-wordcount: '1213'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [報表：按列標題排序將回復為上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL 更新]:無法記錄 [!UICONTROL 更新] 區域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [工時單： [!UICONTROL 小時類型] 下拉式清單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [文檔： [!UICONTROL 摘要] 面板內容太寬，不適用於面板](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [專案：問題轉換為專案時缺少自訂欄位](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
