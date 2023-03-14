@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 95%
+source-wordcount: '2223'
+ht-degree: 94%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 95%
 ## 2023 年 3 月份更新
 
 +++**(預計) 於 2023 年 3 月 16 日維護更新**
+
+**複製卡片時未複製檢查清單項目**
+
+_展示板_
+
+複製隨選卡片時（連線的卡片無法複製），檢查清單項目不會複製到新卡片。
 
 **[!UICONTROL 摘要] 面板內容太寬，不適用於面板**
 
