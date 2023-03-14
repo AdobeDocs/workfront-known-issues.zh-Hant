@@ -3,7 +3,7 @@ title: 「自訂表單：如果欄位名稱包含雙引號或單引號，則不�
 description: 「當使用者建立計算欄位運算式並嘗試納入名稱包含雙引號或單引號的預先輸入欄位時，系統將不接受計算，且使用者將看到訊息：此自訂運算式無效，請再試一次。」
 hidefromtoc: true
 source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已在 2023 年 3 月 2 日修正
+>此問題已在 2023 年 3 月 2 日修正。
 
 當使用者建立計算欄位運算式並嘗試納入名稱包含 `'` 或 `"` 的預先輸入欄位時，系統將不接受計算，且使用者將看到訊息：「[!UICONTROL 此自訂運算式無效，請再試一次。]」
 
