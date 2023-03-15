@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
-workflow-type: ht
-source-wordcount: '273'
-ht-degree: 100%
+source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+workflow-type: tm+mt
+source-wordcount: '279'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 2023 年 2 月 24 日 |
+| [[!DNL Workfront Proof]:清單未正確排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 15 日 |
 | [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
 | [校訂：校訂角色變更為[!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 
