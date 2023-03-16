@@ -3,9 +3,9 @@ title: 「文件：當文件移至新專案時，不會繼承權限」
 description: 「當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。文件不會共用給共用專案的使用者。」
 hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 87%
 
 1. 導覽回父物件的共用清單，然後按一下繼承的權限旁邊的&#x200B;**[!UICONTROL 還原]**，以重新加入繼承的權限，然後按一下&#x200B;**[!UICONTROL 儲存]**。
 
-或者，您也可以記下檔案的ID(可在 [!UICONTROL 文檔詳細資訊] 頁面)和聯絡人 [!DNL Workfront] 客戶支援。
+或者，您可以記下文件 ID (位於[!UICONTROL 文件詳細資訊]頁面的 URL)，然後聯絡 [!DNL Workfront] 客戶支援。
 
-_於 2023 年 1 月 6 日首次通報。_
+_於 2023 年 1 月 6 日首次回報。_
 
