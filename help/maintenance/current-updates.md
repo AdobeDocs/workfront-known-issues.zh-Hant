@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
 source-wordcount: '2223'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ _展示板_
 
 _文件_
 
-當使用者檢視文件的[!UICONTROL 摘要]面板時，因為內容太寬無法在面板中完整顯示。面板現在有水準捲軸，使用者必須水準捲動才能看到 [!UICONTROL 摘要] 面板內容。 發生此狀況是因為文件檔案名稱沒有換行。只有檔案名稱的副檔名是 HTML 才會出現此問題。
+當使用者檢視文件的[!UICONTROL 摘要]面板時，因為內容太寬無法在面板中完整顯示。面板現有水平捲軸，使用者必須水平捲動才能看到[!UICONTROL 摘要]面板內容。發生此狀況是因為文件檔案名稱沒有換行。只有檔案名稱的副檔名是 HTML 才會出現此問題。
 
 **問題轉換為專案時遺失自訂欄位**
 
@@ -61,7 +61,7 @@ _使用者_
 
 _[!DNL Workfront Goals]_
 
-現在，當您離開 [!UICONTROL 更新] 目標的頁面，當您正在撰寫訊息時，訊息會在您導覽回時保留。 在此更新之前，未提交的評論將被刪除。
+現在，如果您在撰寫訊息的過程中離開目標的[!UICONTROL 更新]頁面，當您返回時該訊息將被保留。在此更新之前，未提交的評論將被刪除。
 
 +++
 
@@ -231,7 +231,7 @@ _校訂_
 
 為了修正桌面校訂檢視器的凍結問題，我們部署了新版本的桌面校訂檢視器。已安裝桌面校訂檢視器的使用者將自動取得此更新。
 
-使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en)。
+使用者也可以手動下載最新版本。如需詳細資訊，請參閱[安裝桌面校訂檢視器版本](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hant)。
 
 * 舊版本：2.1.19
 * 新版本：2.1.20
