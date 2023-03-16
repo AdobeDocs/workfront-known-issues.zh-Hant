@@ -4,7 +4,7 @@ description: 「當使用者將計算欄位新增至問題層級自訂表單，�
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已在 2023 年 3 月 9 日修正
+>此問題已在 2023 年 3 月 9 日修正。
 
 <!--
 >[!NOTE]
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 即使運算式有效，也會發生此狀況。
 
-_於 2022 年 11 月 8 日首次通報。_
+_於 2022 年 11 月 8 日首次回報。_
