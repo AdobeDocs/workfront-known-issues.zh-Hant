@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
+source-wordcount: '2148'
 ht-degree: 97%
 
 ---
@@ -28,12 +28,6 @@ ht-degree: 97%
 _展示板_
 
 複製隨選卡片時（連線的卡片無法複製），檢查清單項目不會複製到新卡片。
-
-**[!UICONTROL 摘要] 面板內容太寬，不適用於面板**
-
-_文件_
-
-當使用者檢視文件的[!UICONTROL 摘要]面板時，因為內容太寬無法在面板中完整顯示。面板現有水平捲軸，使用者必須水平捲動才能看到[!UICONTROL 摘要]面板內容。發生此狀況是因為文件檔案名稱沒有換行。只有檔案名稱的副檔名是 HTML 才會出現此問題。
 
 **問題轉換為專案時遺失自訂欄位**
 

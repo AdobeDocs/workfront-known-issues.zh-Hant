@@ -2,15 +2,19 @@
 title: 「校訂：自訂訊息未出現在電子郵件通知中」
 description: 「當使用者分享校訂並新增自訂訊息時，該自訂訊息未出現在寄送給收件者的電子郵件通知中。主旨是校訂名稱，訊息未出現在電子郵件中。」
 hidefromtoc: true
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 
 # 校訂：自訂訊息未出現在電子郵件通知中
+
+>[!NOTE]
+>
+>此問題已在 2023 年 3 月 16 日修正。
 
 當使用者分享校訂並新增自訂訊息時，該自訂訊息未出現在寄送給收件者的電子郵件通知中。主旨是校訂名稱，訊息未出現在電子郵件中。
 
