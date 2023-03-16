@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '555'
 ht-degree: 98%
 
 ---
@@ -24,12 +24,9 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 16 日 |
 | [[!UICONTROL 工作負載平衡器]：時數不會根據使用者休假時間進行調整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 13 日 |
-| [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 10 日 |
 | [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 10 日 |
-| [校訂：無法將使用者或群組新增到校訂工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
-| [校訂：校訂角色變更為[!UICONTROL 唯讀]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
-| [專案：專案標題中的 504 錯誤](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +36,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [篩選器：重新整理頁面時未套用篩選](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
 | [文件：[!UICONTROL 摘要]面板內容太寬，無法完整顯示](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 3 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
