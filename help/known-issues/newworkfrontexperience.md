@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b2270697c3d01883a6680a67cd20d34db85db2a4
+source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
 workflow-type: tm+mt
-source-wordcount: '612'
-ht-degree: 90%
+source-wordcount: '619'
+ht-degree: 89%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文檔：文檔清單問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 22 日 |
 | [校樣：當前階段截止日期過後，校樣階段不會激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 21 日 |
 | [用戶：由系統更改的訪問級別，沒有更改記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
 | [文檔：404存取從連結的檔案時發生錯誤 [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023 年 3 月 17 日 |
