@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '1297'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校樣：已從校樣工作流程停用使用者並取得「[!UICONTROL 不允許訪問]訪問校樣時](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文檔：文檔清單問題](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [校樣：當前階段截止日期過後，校樣階段不會激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [用戶：由系統更改的訪問級別，沒有更改記錄](known-issues-workfront/wf-users-access-level-is-changed.md)

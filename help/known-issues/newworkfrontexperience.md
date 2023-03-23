@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,9 +42,9 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：已從校樣工作流程停用使用者並取得「[!UICONTROL 不允許訪問]訪問校樣時](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
 | [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [篩選：重新整理頁面時未套用篩選](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
-| [文件：[!UICONTROL 摘要]面板內容太寬，無法完整顯示](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 3 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
 | Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 

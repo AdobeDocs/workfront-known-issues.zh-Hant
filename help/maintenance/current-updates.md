@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 100%
+source-wordcount: '2297'
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,26 @@ ht-degree: 100%
 
 ## 2023 年 3 月份更新
 
-+++**(預計) 於 2023 年 3 月 23 日維護更新**
++++**於 2023 年 3 月 23 日維護更新**
 
 **[!UICONTROL 摘要]面板內容太寬，無法完整顯示**
 
 _文件_
 
 當使用者檢視文件的[!UICONTROL 摘要]面板時，因為內容太寬無法在面板中完整顯示。面板現有水平捲軸，使用者必須水平捲動才能看到[!UICONTROL 摘要]面板內容。發生此狀況是因為文件檔案名稱沒有換行。只有檔案名稱的副檔名是 HTML 才會出現此問題。
+
+**新桌面校訂檢視器版本**
+
+_校訂_
+
+若要修正 [!UICONTROL 案頭打樣影片]r，我們部署了新版案頭測試檢視器。
+
+已擁有 [!UICONTROL 案頭校對檢視器] 已安裝將自動取得此更新。
+
+使用者也可以手動下載最新版本。如需詳細資訊，請參閱 [安裝 [!UICONTROL 案頭校對檢視器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* 舊版本：2.1.22
+* 新版本：2.1.23
 
 +++
 
