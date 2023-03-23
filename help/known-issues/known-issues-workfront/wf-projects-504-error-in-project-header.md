@@ -2,7 +2,7 @@
 title: 「專案：專案標題中的 504 錯誤」
 description: 「當使用者檢視專案時，專案標題中沒有名稱或資料。 使用者反而會看到錯誤。」
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -19,5 +19,5 @@ ht-degree: 100%
 
 「504：未定義 /internal/qs/customizableHeaderData?objCode=PROJ&amp;objectID=xxxxxxxxxxxxxxx」
 
-_於 2023 年 2 月 3 日首次回報。_
+_於 2023 年 2 月 3 日首次通報。_
 
