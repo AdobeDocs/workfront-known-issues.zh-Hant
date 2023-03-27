@@ -3,8 +3,8 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1312'
+ht-degree: 98%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 0%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [校樣：已從校樣工作流程停用使用者並取得「[!UICONTROL 不允許訪問]訪問校樣時](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
-      + [文檔：文檔清單問題](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [校樣：當前階段截止日期過後，校樣階段不會激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
-      + [用戶：由系統更改的訪問級別，沒有更改記錄](known-issues-workfront/wf-users-access-level-is-changed.md)
+      + [文件：文件清單問題](known-issues-workfront/wf-documents-list-missing-elements.md)
+      + [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
+      + [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [更新：代表使用者進行的更新顯示為直接來自使用者](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
@@ -69,9 +69,9 @@ ht-degree: 0%
       + [[!UICONTROL 首頁]：無法移除[!UICONTROL 首頁]的問題指派](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [時程表：沒有產生時程表](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [整合：無法存取  [!DNL Workfront for Jira]  整合元素](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [「自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位」](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [敏捷：將工作項移動到疊代時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [時程表：選擇時程表核准者時可選用的已停用用戶](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [時程表：選擇時程表核准者時可選用的已停用使用者](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)

@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
 source-wordcount: '624'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [用戶：由系統更改的訪問級別，沒有更改記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
+| [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 | [更新：代表使用者進行的更新顯示為直接來自使用者](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023 年 3 月 17 日 |
 | [[!UICONTROL 工作負載平衡器]：時數不會根據使用者休假時間進行調整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 13 日 |
@@ -39,12 +39,12 @@ ht-degree: 92%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
-| [校樣：當前階段截止日期過後，校樣階段不會激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
+| [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [校樣：已從校樣工作流程停用使用者並取得「[!UICONTROL 不允許訪問]訪問校樣時](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
 | [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [篩選：重新整理頁面時未套用篩選](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
-| Experience League 的[[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
 
@@ -55,13 +55,13 @@ ht-degree: 92%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [文件：存取連結自  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 的文件時出現 404 錯誤 | 2023 年 3 月 23 日 |
-| [文檔：文檔清單問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
+| [文件：文件清單問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 9 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | [整合：無法開啟 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 2 月 24 日 |
 | [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
-| [校訂：[!UICONTROL 文件]清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)中的校訂狀態不會更新 | 2022 年 12 月 5 日 |
+| [校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [任務：在任務中輸入時數時不保存時數[!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 12 月 2 日 |
 | [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
 | [通知：當使用者在評論中被提及或內含時，未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |

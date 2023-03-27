@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：當前階段截止日期過後，校樣階段不會激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
+| [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 
 {style="table-layout:auto"}
@@ -46,14 +46,14 @@ ht-degree: 94%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [文件：存取連結自  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 的文件時出現 404 錯誤 | 2023 年 3 月 23 日 |
-| [文檔：文檔清單問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
+| [文件：文件清單問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof]：清單排序不正確](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 23 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | 不再支援 [[!DNL Workfront Proof]: [!UICONTROL Reports] 區域。](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 1 日 |
 | [校訂：使用者在校訂評論中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [校訂：由於截止日期與現有階段的截止日期不相符而建立了新階段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023 年 2 月 2 日 |
 | [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
-| [校訂：[!UICONTROL 文件]清單](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)中的校訂狀態不會更新 | 2022 年 12 月 5 日 |
+| [校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [校訂：校訂未分享給校訂工作流程的使用者](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：無法透過在評論中標記使用者來將使用者新增到校訂中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
