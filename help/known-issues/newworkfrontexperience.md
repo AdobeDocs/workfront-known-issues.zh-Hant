@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 97%
+source-wordcount: '652'
+ht-degree: 93%
 
 ---
 
@@ -38,6 +38,9 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [搜尋： [!DNL Workfront] 搜索超時](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
+| [校樣：查看校樣時無法切換校樣版本](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 2023 年 3 月 27 日 |
+| [校樣：將使用者新增至校樣時，系統不會開啟下拉式清單](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023 年 3 月 27 日 |
 | [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [校樣：已從校樣工作流程停用使用者並取得「[!UICONTROL 不允許訪問]訪問校樣時](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
