@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '2297'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 98%
 
 ## 2023 年 3 月份更新
 
++++**(預計) 於 2023 年 3 月 23 日維護更新**
+
+**查看校樣時無法切換校樣版本**
+
+_校訂_
+
+當使用者在 [!UICONTROL 校對檢視器]，接著切換至另一個版本，版本下拉式清單會變為停用，且使用者無法切換回其正在檢視的原始版本，或切換至校樣的其他版本。
+
+**匯出報表時出錯504**
+
+_報告_
+
+當使用者嘗試匯出項目數較多的報表時，會看到504錯誤，且無法匯出報表。
+
++++
+
 +++**於 2023 年 3 月 23 日維護更新**
 
 **[!UICONTROL 摘要]面板內容太寬，無法完整顯示**
@@ -33,11 +49,11 @@ _文件_
 
 _校訂_
 
-若要修正 [!UICONTROL 案頭打樣影片]r，我們部署了新版案頭測試檢視器。
+為了修正[!UICONTROL 桌面校訂檢視器]的註解問題，我們部署了新版本的桌面校訂檢視器。
 
-已擁有 [!UICONTROL 案頭校對檢視器] 已安裝將自動取得此更新。
+已安裝[!UICONTROL 桌面校訂檢視器]的使用者將自動取得此更新。
 
-使用者也可以手動下載最新版本。如需詳細資訊，請參閱 [安裝 [!UICONTROL 案頭校對檢視器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+使用者也可以手動下載最新版本。如需詳細資訊，[請安裝[!UICONTROL 桌面校訂檢視器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html)。
 
 * 舊版本：2.1.22
 * 新版本：2.1.23
