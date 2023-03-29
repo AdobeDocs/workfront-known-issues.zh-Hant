@@ -44,7 +44,7 @@ ht-degree: 0%
 | [校樣：將使用者新增至校樣時，系統不會開啟下拉式清單](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023 年 3 月 27 日 |
 | [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
-| [校訂：使用者已從校訂工作流程停用，並在存取校訂時收到「[!UICONTROL 不允許存取]」](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
+| [校訂：已從校訂工作流程停用使用者，並在存取校訂時收到「[!UICONTROL 不允許存取]」](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)的訊息 | 2023 年 3 月 23 日 |
 | [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [篩選：重新整理頁面時未套用篩選](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
 | [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |

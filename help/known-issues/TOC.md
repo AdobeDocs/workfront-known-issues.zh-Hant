@@ -21,7 +21,7 @@ ht-degree: 0%
       + [搜尋： [!DNL Workfront] 搜索超時](known-issues-workfront/wf-search-search-times-out.md)
       + [校樣：查看校樣時無法切換校樣版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [校樣：將使用者新增至校樣時，系統不會開啟下拉式清單](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [校訂：使用者已從校訂工作流程停用，並在存取校訂時收到「[!UICONTROL 不允許存取]」](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [校訂：已從校訂工作流程停用使用者，並在存取校訂時收到「[!UICONTROL 不允許存取]」的訊息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文件：文件清單問題](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md)
