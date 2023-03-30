@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '650'
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 0%
 | [校樣：對校樣進行注釋時無法使用折線圖工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 3 月 28 日 |
 | [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
-| [更新：代表使用者進行的更新顯示為直接來自使用者](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023 年 3 月 17 日 |
 | [[!UICONTROL 工作負載平衡器]：時數不會根據使用者休假時間進行調整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 13 日 |
 | [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 10 日 |
 
@@ -40,7 +39,6 @@ ht-degree: 0%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [搜尋： [!DNL Workfront] 搜索超時](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
-| [校樣：查看校樣時無法切換校樣版本](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 2023 年 3 月 27 日 |
 | [校樣：將使用者新增至校樣時，系統不會開啟下拉式清單](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023 年 3 月 27 日 |
 | [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
