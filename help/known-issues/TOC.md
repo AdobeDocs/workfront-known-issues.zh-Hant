@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1371'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案： [!UICONTROL 家庭組] 從範本建立專案時無法使用自訂狀態](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [校樣：對校樣進行注釋時無法使用折線圖工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [校樣：測量工具不接受小數點](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [搜尋： [!DNL Workfront] 搜索超時](known-issues-workfront/wf-search-search-times-out.md)
