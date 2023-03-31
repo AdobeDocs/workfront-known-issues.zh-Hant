@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '1371'
-ht-degree: 95%
+source-wordcount: '1377'
+ht-degree: 98%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [專案： [!UICONTROL 家庭組] 從範本建立專案時無法使用自訂狀態](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
-      + [校樣：對校樣進行注釋時無法使用折線圖工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
-      + [校樣：測量工具不接受小數點](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [搜尋： [!DNL Workfront] 搜索超時](known-issues-workfront/wf-search-search-times-out.md)
-      + [校樣：查看校樣時無法切換校樣版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [校樣：將使用者新增至校樣時，系統不會開啟下拉式清單](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
+      + [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
+      + [校訂：測量工具不接受小數點](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
+      + [搜尋： [!DNL Workfront] 搜尋逾時](known-issues-workfront/wf-search-search-times-out.md)
+      + [校訂：檢視校訂時無法切換校訂版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [校訂：將使用者新增至校訂時下拉選單未開啟](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [校訂：已從校訂工作流程停用使用者，並在存取校訂時收到「[!UICONTROL 不允許存取]」的訊息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文件：文件清單問題](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
@@ -142,6 +142,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [校樣：文本選項框顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：清單排序不正確](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [校訂：自訂訊息未出現在電子郵件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：在電子郵件通知使用「[!UICONTROL 前往校訂]」按鈕時未載入校訂](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
