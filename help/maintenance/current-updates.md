@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: ht
-source-wordcount: '2423'
-ht-degree: 100%
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+workflow-type: tm+mt
+source-wordcount: '2493'
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,21 @@ ht-degree: 100%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2023 年 4 月更新
+
++++**於 2023 年 4 月 4 日維護更新**
+
+**將使用者新增至校樣時，不會開啟下拉式清單**
+
+_校訂_
+
+當使用者將另一個使用者新增至[!UICONTROL 校訂檢視器]中的校訂時，「[!UICONTROL 校訂角色]」和「[!UICONTROL 電子郵件警示]」下拉選單無法開啟。使用者無法指派校訂角色或電子郵件警示。當透過評論新增使用者或與使用者共用校訂時，可能會發生這種情況。
+
++++
+
 ## 2023 年 3 月份更新
 
-+++**於 2023 年 3 月 23 日維護更新**
++++**於 2023 年 3 月 30 日維護更新**
 
 **檢視校訂時無法切換校訂版本**
 
