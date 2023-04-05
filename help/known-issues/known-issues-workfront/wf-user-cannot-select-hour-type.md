@@ -1,18 +1,18 @@
 ---
-title: 「用戶：無法選擇預設小時類型或可用小時類型」
-description: 「管理員在編輯使用者時，若嘗試選取「預設小時類型」或「可用小時類型」，他們會看到這些欄位的下拉式清單已停用，且無法選取小時類型。 」
+title: 「使用者：無法選取預設時數類型或可用時數類型」
+description: 「當管理員正在編輯使用者並嘗試選取預設時數類型或可用時數類型時，他們看到這些欄位的下拉選單已停用，而且無法選取時數類型。 」
 hidefromtoc: true
 source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 用戶：無法選擇 [!UICONTROL 預設小時類型] 或 [!UICONTROL 可用小時類型]
+# 使用者無法選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]」
 
-管理員編輯使用者並嘗試選取 [!UICONTROL 預設小時類型] 或 [!UICONTROL 可用小時類型]，則會看到這些欄位的下拉式清單已停用，且無法選取小時類型。
+當管理員正在編輯使用者並嘗試選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]」時，他們看到這些欄位的下拉選單已停用，而且無法選取時數類型。
 
 _於 2023 年 3 月 30 日首次通報。_
 
