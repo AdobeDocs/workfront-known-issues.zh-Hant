@@ -3,8 +3,8 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -79,7 +79,7 @@ ht-degree: 99%
       + [整合：無法存取  [!DNL Workfront for Jira]  整合元素](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [自訂表單：如果欄位名稱包含單引號或雙引號，則不能在計算中使用欄位](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [敏捷：將工作項移動到疊代時出錯](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [時程表：選擇時程表核准者時可選用的已停用使用者](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [時程表：選取時程表核准者時可選用的已停用使用者](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [校訂：校訂檢視器顯示的校訂不如原始影像清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自訂表單：編輯自訂表單時出現「[!UICONTROL 您沒有足夠存取權限]」錯誤](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
@@ -119,7 +119,7 @@ ht-degree: 99%
       + [敏捷：在「敏捷」展示板上移動卡片時發生問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [首頁：自訂術語未套用於首頁區域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：無法從卡片上的自訂表單中編輯欄位](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
-      + [版面配置範本：建立版面配置範本時無法選擇群組](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
+      + [版面配置範本：建立版面配置範本時無法選取群組](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
       + [核准：核准委派設定的天數不正確](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)
       + [[!UICONTROL 首頁]：使用  [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL 首頁]摘要問題](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 首頁]：新任務選項在[!UICONTROL 指派給]欄位中顯示已停用的使用者](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
