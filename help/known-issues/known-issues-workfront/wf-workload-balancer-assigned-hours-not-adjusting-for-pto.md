@@ -2,15 +2,19 @@
 title: 「工作負載平衡器：時數不會根據使用者休假時間進行調整」
 description: 「如果使用者已排程休假並已指派任務，工作負載平衡器不會根據休假時間更新時間表。相反地，工作負載平衡器顯示使用者在他們計劃休假的日子有過度分配的狀況。若要調整時數，管理員必須進入專案並重新計算時間表。
 hidefromtoc: true
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
-workflow-type: ht
-source-wordcount: '138'
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+workflow-type: tm+mt
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL 工作負載平衡器]：時數不會根據使用者休假時間進行調整
+
+>[!NOTE]
+>
+>此問題已關閉，因為這不是問題。
 
 如果使用者已排程休假並已指派任務，工作負載平衡器不會根據休假時間更新時間表。相反地，[!UICONTROL 工作負載平衡器]顯示使用者在他們計劃休假的日子有過度分配的狀況。若要調整時數，管理員必須進入專案並重新計算時間表。
 

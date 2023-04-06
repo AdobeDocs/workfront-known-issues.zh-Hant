@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 97%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 3 月 31 日 |
-| [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 3 月 28 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
@@ -36,7 +35,9 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：無法在校樣之間切換 [!UICONTROL 校樣檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023 年 3 月 31 日 |
+| [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4月6日 |
+| [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
+| [校訂：在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中無法切換校訂 | 2023 年 3 月 31 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 

@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 97%
+source-wordcount: '660'
+ht-degree: 98%
 
 ---
 
@@ -24,13 +24,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [使用者無法選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)」 | 2023 年 4 月 3 日 |
-| [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 3 月 31 日 |
-| [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 3 月 28 日 |
 | [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
-| [[!UICONTROL 工作負載平衡器]：時數不會根據使用者休假時間進行調整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 13 日 |
-| [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 10 日 |
 
 {style="table-layout:auto"}
 
@@ -40,8 +35,11 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [使用者無法選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)」 | 2023 年 4 月 6 日 |
+| [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
+| [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
 | [自訂表單：自訂下拉式清單欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
-| [校樣：無法在校樣之間切換 [!UICONTROL 校樣檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023 年 3 月 31 日 |
+| [校訂：在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中無法切換校訂 | 2023 年 3 月 31 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [搜尋： [!DNL Workfront] 搜尋逾時](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
 | [時程表：[!UICONTROL 時數類型]下拉選單未開啟](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
