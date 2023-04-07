@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2493'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 99%
 
 +++**於 2023 年 4 月 4 日維護更新**
 
-**將使用者新增至校樣時，不會開啟下拉式清單**
+**將使用者新增至校訂時下拉選單未開啟**
 
 _校訂_
 
