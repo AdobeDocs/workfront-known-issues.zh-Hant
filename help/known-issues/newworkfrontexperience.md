@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '672'
 ht-degree: 98%
 
 ---
@@ -35,10 +35,11 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 首頁]:在中按一下縮圖附近 [!UICONTROL 工作清單] 導致空白頁面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 10 日 |
 | [使用者無法選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)」 | 2023 年 4 月 6 日 |
 | [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
 | [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
-| [自訂表單：自訂下拉式清單欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
+| [自訂表單：自訂下拉欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
 | [校訂：在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中無法切換校訂 | 2023 年 3 月 31 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [搜尋： [!DNL Workfront] 搜尋逾時](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |

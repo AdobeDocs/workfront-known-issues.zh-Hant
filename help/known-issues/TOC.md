@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '1402'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [自訂表單：自訂下拉式清單欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
+      + [[!UICONTROL 首頁]:在中按一下縮圖附近 [!UICONTROL 工作清單] 導致空白頁面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [自訂表單：自訂下拉欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [校訂：在[!UICONTROL 校訂檢視器]中無法切換校訂](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [使用者無法選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]」](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
