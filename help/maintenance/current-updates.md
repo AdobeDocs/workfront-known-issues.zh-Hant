@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
-workflow-type: ht
-source-wordcount: '2493'
-ht-degree: 100%
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+workflow-type: tm+mt
+source-wordcount: '2573'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +21,22 @@ ht-degree: 100%
 
 ## 2023 年 4 月更新
 
-+++**於 2023 年 4 月 4 日維護更新**
++++**於 2023 年 13 月 4 日維護更新**
+
+**篩選器沒有套用至請求清單**
+
+_請求_
+
+當使用者檢視已套用篩選的請求清單時，清單會包含篩選應排除的請求。
+
+**無法選擇 [!UICONTROL 預設小時類型] 或 [!UICONTROL 可用小時類型]**
+
+_使用者_
+
+當管理員正在編輯使用者並嘗試選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]」時，他們看到這些欄位的下拉選單已停用，而且無法選取時數類型。
++++
+
++++**於 2023 年 6 月 4 日維護更新**
 
 **將使用者新增至校訂時下拉選單未開啟**
 
