@@ -2,7 +2,7 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
 ht-degree: 98%
@@ -34,6 +34,7 @@ _請求_
 _使用者_
 
 當管理員正在編輯使用者並嘗試選取「[!UICONTROL 預設時數類型]」或「[!UICONTROL 可用時數類型]」時，他們看到這些欄位的下拉選單已停用，而且無法選取時數類型。
+
 +++
 
 +++**於 2023 年 6 月 4 日維護更新**
