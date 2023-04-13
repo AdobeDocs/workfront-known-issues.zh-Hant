@@ -2,15 +2,19 @@
 title: 「報告：依欄標題排序後恢復到先前的排序」
 description: 「當使用者嘗試按一下欄標題來排序報告時，報告會根據該欄進行排序，但隨後會迅速恢復為先前的排序。」
 hidefromtoc: true
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 報告：依欄標題排序後恢復到先前的排序
+
+>[!NOTE]
+>
+>此問題已在 2023 年 4 月 6 日解決。
 
 當使用者嘗試按一下欄標題來排序報告時，報告會根據該欄進行排序，但隨後會迅速恢復為先前的排序。
 
