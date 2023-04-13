@@ -4,8 +4,8 @@ description: 「當使用者嘗試在首頁工作清單中按一下縮圖來檢�
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 100%
 
 ---
 
