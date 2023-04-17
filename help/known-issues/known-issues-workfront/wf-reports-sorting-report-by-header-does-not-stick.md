@@ -3,9 +3,9 @@ title: 「報告：依欄標題排序後恢復到先前的排序」
 description: 「當使用者嘗試按一下欄標題來排序報告時，報告會根據該欄進行排序，但隨後會迅速恢復為先前的排序。」
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 
