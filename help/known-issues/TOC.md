@@ -3,8 +3,8 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1431'
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [範本：無法從中選擇模板 [!UICONTROL 最喜愛的範本]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [篩選器：無法從控制面板上的報表共用篩選器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [範本：無法從「[!UICONTROL 最愛的範本]」中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL 首頁]：在[!UICONTROL 工作清單]中的縮圖附近按一下會導向到空白頁面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [自訂表單：自訂下拉欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [校訂：在[!UICONTROL 校訂檢視器]中無法切換校訂](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
