@@ -3,9 +3,9 @@ title: 「使用者：無法選取預設時數類型或可用時數類型」
 description: 「當管理員正在編輯使用者並嘗試選取預設時數類型或可用時數類型時，他們看到這些欄位的下拉選單已停用，而且無法選取時數類型。 」
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '102'
+ht-degree: 100%
 
 ---
 
