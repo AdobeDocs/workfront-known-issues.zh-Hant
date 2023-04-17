@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: ht
-source-wordcount: '664'
-ht-degree: 100%
+source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+workflow-type: tm+mt
+source-wordcount: '672'
+ht-degree: 98%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣： [!UICONTROL 校樣活動] 標籤開啟 [!UICONTROL 校樣詳細資料]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023 年 4 月 17 日 |
 | [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 4 月 13 日 |
 | [範本：無法從「[!UICONTROL 最愛的範本]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)」中選取範本 | 2023 年 4 月 12 日 |
 | [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
