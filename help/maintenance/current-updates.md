@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
+source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2657'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 0%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 4 月更新
+
++++**於 2023 年 4 月 17 日維護更新**
+
+**在 [!UICONTROL 更新] 問題區段（新的評論測試版體驗）和 [!UICONTROL 目標]**
+
+_更新_
+
+我們已為 [!UICONTROL 更新] 區段，通知使用者某個項目上是否有較新注釋，而該注釋可能位於畫面上的可見區域之外。 此更新目前可在 [!UICONTROL 更新] 區段，以及針對問題啟用新評論測試版體驗時的問題。
+
++++
 
 +++**於 2023 年 4 月 13 日維護更新**
 
