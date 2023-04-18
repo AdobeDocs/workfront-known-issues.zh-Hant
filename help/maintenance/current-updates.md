@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 97%
+source-wordcount: '2757'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,25 @@ ht-degree: 97%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 4 月更新
+
++++**（計畫）2023年4月20日的維護更新**
+
+**自訂下拉式清單欄位中的問題**
+
+_自訂表單_
+
+當作複選欄位啟用的自訂下拉欄位可能會顯示下列問題：
+
+* 當表單不在編輯模式下時，沒有「+[!UICONTROL 新增]」按鈕。
+* 沒有值的欄位顯示「--[!UICONTROL 無標籤]--」選項。
+
+**文本選項框顯示「textAnnotations」**
+
+_校訂_
+
+當使用者檢視校訂、開始新增評論並開啟文字工具時，「textAnnotation」一詞出現在該工具的選項旁邊。文字工具仍按預期執行，而「textAnnotation」在發表評論後消失。」
+
++++
 
 +++**於 2023 年 4 月 17 日維護更新**
 
