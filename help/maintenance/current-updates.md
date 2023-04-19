@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 96%
+source-wordcount: '2859'
+ht-degree: 93%
 
 ---
 
@@ -37,6 +37,14 @@ _自訂表單_
 _校訂_
 
 當使用者檢視校訂、開始新增評論並開啟文字工具時，「textAnnotation」一詞出現在該工具的選項旁邊。文字工具仍按預期執行，而「textAnnotation」在發表評論後消失。」
+
+## 離開目標更新和評論測試版體驗中問題的更新時，將影像保留為草稿
+
+>[!NOTE]
+>
+>此功能已於2023年4月19日發行並預覽。 預計於2023年4月20日發行至生產環境。
+
+現在，當您在撰寫附加影像的訊息時離開「更新」頁面時，當您導覽返回時，訊息和影像會保留。 此更新前，會保留未提交的留言，但影像已刪除。 您可以在「更新」區段取得，了解目標，以及啟用評論測試版體驗時遇到的問題。
 
 +++
 
