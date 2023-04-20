@@ -2,15 +2,19 @@
 title: 「自訂表單：自訂下拉欄位中的問題」
 description: 「當作複選欄位啟用的自訂下拉欄位可能會顯示問題。」
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 自訂表單：自訂下拉欄位中的問題
+
+>[!NOTE]
+>
+>此問題已在 2023 年 4 月 20 日解決。
 
 當作複選欄位啟用的自訂下拉欄位可能會顯示下列問題：
 
