@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
-workflow-type: ht
-source-wordcount: '672'
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '631'
 ht-degree: 100%
 
 ---
@@ -35,11 +35,7 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校訂：「[!UICONTROL 校訂活動]」標籤會開啟「[!UICONTROL 校訂詳細資訊]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)」 | 2023 年 4 月 17 日 |
-| [使用者：系統變更存取層級，但該變更沒有記錄](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 4 月 13 日 |
 | [範本：無法從「[!UICONTROL 最愛的範本]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)」中選取範本 | 2023 年 4 月 12 日 |
-| [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
-| [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
-| [自訂表單：自訂下拉欄位中的問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
 | [校訂：在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中無法切換校訂 | 2023 年 3 月 31 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [搜尋： [!DNL Workfront] 搜尋逾時](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
