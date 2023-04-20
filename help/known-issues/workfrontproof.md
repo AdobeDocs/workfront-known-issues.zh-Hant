@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
-workflow-type: ht
-source-wordcount: '337'
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '317'
 ht-degree: 100%
 
 ---
@@ -36,8 +36,6 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校訂：「[!UICONTROL 校訂活動]」標籤會開啟「[!UICONTROL 校訂詳細資訊]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)」 | 2023 年 4 月 17 日 |
-| [校訂：對校訂進行評論時無法使用聚合線工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4 月 6 日 |
-| [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
 | [校訂：在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中無法切換校訂 | 2023 年 3 月 31 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
