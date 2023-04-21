@@ -1,9 +1,9 @@
 ---
 title: 「時程表：沒有產生時程表」
-description: 「儘管設定了時程表設定檔，仍未產生時程表。
+description: 「儘管設定了時程表設定檔，仍未產生時程表。」
 hidefromtoc: true
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: ht
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
