@@ -3,9 +3,9 @@ title: 「校訂：對校訂進行評論時無法使用聚合線工具」
 description: 「當使用者在校訂檢視器中檢視校訂並嘗試使用聚合線工具進行評論時，該工具不會標記校訂。」
 hidefromtoc: true
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
