@@ -3,9 +3,9 @@ title: 「自訂表單：自訂下拉欄位中的問題」
 description: 「當作複選欄位啟用的自訂下拉欄位可能會顯示問題。」
 hidefromtoc: true
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
