@@ -3,9 +3,9 @@ title: 「校訂：文字選項方塊顯示「textAnnotations」」
 description: 「當使用者檢視校訂、開始新增評論並開啟文字工具時，textAnnotation 一詞出現在該工具的選項旁邊。文字工具仍按預期執行，而 textAnnotation 在發表評論後消失。」
 hidefromtoc: true
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
