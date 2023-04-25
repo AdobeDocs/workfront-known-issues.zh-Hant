@@ -3,8 +3,8 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1454'
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [校樣：鎖定的校樣批准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
-      + [[!UICONTROL 資源計畫員]:添加時間後無法保存](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
+      + [[!UICONTROL 資源規劃工具]：新增時間後無法儲存](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [校訂：「[!UICONTROL 校訂活動]」標籤會開啟「[!UICONTROL 校訂詳細資訊]」](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [範本：無法從「[!UICONTROL 最愛的範本]」中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
