@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '634'
 ht-degree: 98%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [工時單：重新整理頁面時未套用篩選](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023 年 4 月 25 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 4 月 21 日 |
-| [[!UICONTROL 資源規劃工具]：新增時間後無法儲存](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023 年 4 月 20 日 |
 
 {style="table-layout:auto"}
 

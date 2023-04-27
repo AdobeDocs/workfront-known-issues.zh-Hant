@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
 description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [校訂：「[!UICONTROL 校訂活動]」標籤會開啟「[!UICONTROL 校訂詳細資訊]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)」 | 2023 年 4 月 17 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
-| [[!DNL Workfront Proof] API：「[!UICONTROL 正文不是有效的 XML]」錯誤](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 
 {style="table-layout:auto"}
 
