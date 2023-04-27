@@ -1,20 +1,19 @@
 ---
-title: 「證明：鎖定的校樣批准仍顯示在工作清單中」
-description: 「已超過其截止日期且已鎖定的校樣核准仍會顯示在核准者的「首頁工作清單」上，而不是在截止日期過後從清單中刪除。」
+title: '校訂：鎖定的校訂核准仍顯示在工作清單中'
+description: 已超過期限並已鎖定的校訂核准仍顯示在核准者的首頁工作清單中，而不是在期限過後從清單中移除。
 hidefromtoc: true
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 
-
-# 校樣：鎖定的校樣批准仍顯示在工作清單中
+# 校訂：鎖定的校訂核准仍顯示在工作清單中
 
 <!--This issue is on the WF and WFP TOC-->
 
-已超過其截止日期且已鎖定的校樣核准仍會顯示在核准者的「首頁工作清單」上，而非在截止日期過後從清單中刪除。
+已超過期限並已鎖定的校訂核准仍顯示在核准者的首頁工作清單中，而不是在期限過後從清單中移除。
 
 _於 2023 年 2 月 27 日首次通報。_
-
