@@ -1,16 +1,20 @@
 ---
-title: 「校訂：在校訂檢視器中無法切換校訂」
-description: 「當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換到另一個版本時，版本下拉選單變成停用，使用者無法切換回之前檢視的原始版本或另一個校訂版本」
+title: '校訂：在校訂檢視器中無法切換校訂'
+description: 當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換到另一個版本時，版本下拉選單變成停用，使用者無法切換回之前檢視的原始版本或另一個校訂版本
 hidefromtoc: true
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 94%
 
 ---
 
-
 # 校訂：在[!UICONTROL 校訂檢視器]中無法切換校訂
+
+>[!NOTE]
+>
+>此問題已於2023年4月27日修正
 
 當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換到另一個校訂時，切換校訂按鈕沒有反應。使用者無法切換回之前檢視的原始校訂或另一個校訂。
 

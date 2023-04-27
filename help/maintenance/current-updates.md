@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3167'
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,19 @@ ht-degree: 0%
 
 ## 2023 年 4 月更新
 
-+++**(預計) 2023 年 4 月 27 日維護更新**
++++**於 2023 年 4 月 27 日維護更新**
 
 **無法在校樣之間切換 [!UICONTROL 校樣檢視器]**
 
 _校訂_
 
 當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換到另一個校訂時，切換校訂按鈕沒有反應。使用者無法切換回之前檢視的原始校訂或另一個校訂。
+
+**編輯注釋時編輯附加的影像**
+
+_更新_
+
+您現在可以在編輯留言時編輯附加至留言的影像。 這可在Workfront目標的更新區段，以及啟用評論測試版體驗時的問題中取得。
 
 +++
 
