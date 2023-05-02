@@ -4,7 +4,7 @@ description: ' [!DNL Workfront Fusion]  中的說明連結目前未導向到預�
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 
