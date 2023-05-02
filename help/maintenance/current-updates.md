@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '3167'
+source-wordcount: '3246'
 ht-degree: 98%
 
 ---
@@ -19,11 +19,23 @@ ht-degree: 98%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2023 年 5 月更新
+
++++**（計畫）2023年5月4日的維護更新**
+
+**無法從中選擇模板 [!UICONTROL 最喜愛的範本]**
+
+_範本_
+
+當使用者嘗試從「動作」(三點) 選單中選取範本時，範本清單在使用者將滑鼠移至清單時消失，並且使用者無法選取範本。這是因為捲軸位於選單和範本清單之間，當滑鼠移動到範本清單時滑鼠會聚焦在捲軸上。
+
++++
+
 ## 2023 年 4 月更新
 
 +++**於 2023 年 4 月 27 日維護更新**
 
-**無法在校樣之間切換 [!UICONTROL 校樣檢視器]**
+**在[!UICONTROL 校訂檢視器]**&#x200B;中無法切換校訂
 
 _校訂_
 
