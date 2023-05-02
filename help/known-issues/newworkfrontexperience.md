@@ -4,7 +4,7 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '601'
 ht-degree: 100%
 
