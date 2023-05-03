@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: f63f33c4038da13d36d522754b9174b799c48599
+source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1136'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [任務：在中重新排序任務時沒有錯誤訊息 [!UICONTROL 待批准] 狀態](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [時程表：重新整理頁面時未套用篩選器](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 資源規劃工具]：新增時間後無法儲存](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
