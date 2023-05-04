@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: 0a1b37c657f460ba5d6773e36e69de60f1efdddd
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '605'
 ht-degree: 98%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [任務：在中重新排序任務時沒有錯誤訊息 [!UICONTROL 待批准] 狀態](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月3日 |
 | [校訂：「[!UICONTROL 校訂活動]」標籤會開啟「[!UICONTROL 校訂詳細資訊]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)」 | 2023 年 4 月 17 日 |
-| [範本：無法從「[!UICONTROL 最愛的範本]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)」中選取範本 | 2023 年 4 月 12 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [搜尋： [!DNL Workfront] 搜尋逾時](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
 | [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
