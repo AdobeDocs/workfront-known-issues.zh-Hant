@@ -1,18 +1,21 @@
 ---
-title: 「Workfront校樣：搜索不返回任何結果」
-description: 「使用者在Workfront校樣中搜尋校樣時，搜尋不會傳回任何結果。 搜尋可能會建議供使用者選取的校樣，但如果使用者完成搜尋，這些建議就不會出現在結果中。」
+title: 'Workfront Proof：搜尋未傳回任何結果'
+description: 當使用者在 Workfront Proof 中搜尋校訂時，搜尋未傳回任何結果。 搜尋可能建議校訂供使用者選擇，但如果使用者完成搜尋，這些建議不會出現在結果中。
 hidefromtoc: true
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+exl-id: d00c9e40-49f9-4d7b-a6f8-9b506b5c5bc5
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Proof]：搜尋未傳回任何結果
 
-# [!DNL Workfront Proof]:搜索不返回任何結果
+>[!NOTE]
+>
+>此問題已在 2023 年 4 月 27 日解決。
 
-當使用者在 [!DNL Workfront Proof]，則搜尋不會傳回任何結果。 搜尋可能會建議供使用者選取的校樣，但如果使用者完成搜尋，這些建議就不會出現在結果中。
+當使用者在 [!DNL Workfront Proof] 中搜尋校訂時，搜尋未傳回任何結果。 搜尋可能建議校訂供使用者選擇，但如果使用者完成搜尋，這些建議不會出現在結果中。
 
 _於 2023 年 4 月 26 日首次通報。_
-

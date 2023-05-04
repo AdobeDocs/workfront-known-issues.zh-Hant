@@ -1,16 +1,20 @@
 ---
-title: 「篩選：重新整理頁面時未套用篩選」
-description: 「當使用者檢視已套用篩選的清單並重新整理頁面時，重新整理後的頁面顯示的結果未套用篩選。」
+title: '篩選：重新整理頁面時未套用篩選器'
+description: 當使用者檢視已套用篩選的清單並重新整理頁面時，重新整理後的頁面顯示的結果未套用篩選。
 hidefromtoc: true
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: ht
-source-wordcount: '91'
+exl-id: 8a57b310-d23e-4751-a2e2-703ba7d94c0e
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
+# 篩選：重新整理頁面時未套用篩選器
 
-# 篩選：重新整理頁面時未套用篩選
+>[!NOTE]
+>
+>此問題已在 2023 年 4 月 27 日解決。
 
 當使用者檢視已套用篩選的清單並重新整理頁面時，重新整理後的頁面顯示的結果未套用篩選。
 
@@ -23,4 +27,3 @@ ht-degree: 100%
 移除並重新套用篩選。
 
 _於 2023 年 3 月 13 日首次通報。_
-
