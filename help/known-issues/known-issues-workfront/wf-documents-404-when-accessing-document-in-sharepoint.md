@@ -1,12 +1,12 @@
 ---
-title: 「文檔：404存取從SharePoint連結的檔案時發生錯誤
-description: 當使用者嘗試存取透過SharePoint連結的檔案時，系統會將他們帶往出現404錯誤的頁面。
+title: '文件：存取連結自 SharePoint 的文件時出現 404 錯誤'
+description: 當使用者嘗試存取透過 SharePoint 連結的文件時，被導向顯示 404 錯誤的頁面。
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
