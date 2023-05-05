@@ -1,12 +1,12 @@
 ---
 title: '文件：當文件移至新專案時，不會繼承權限'
-description: 「當用戶將文檔移動到其他項目時，該文檔不會繼承新項目的共用權限。 文件不會共用給共用專案的使用者。'
+description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。 文件不會共用給共用專案的使用者。'
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
