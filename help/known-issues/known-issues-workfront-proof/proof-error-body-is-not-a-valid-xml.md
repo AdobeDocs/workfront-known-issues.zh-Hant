@@ -1,12 +1,12 @@
 ---
-title: 'Workfront校樣API:Body不是有效的XML錯誤'
-description: 呼叫Workfront校樣API會傳回錯誤。
+title: 'Workfront Proof API：正文不是有效的 XML 錯誤'
+description: 對 Workfront Proof API 的呼叫傳回錯誤。
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
