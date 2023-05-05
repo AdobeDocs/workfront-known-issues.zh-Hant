@@ -4,9 +4,9 @@ description: 當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
 source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已於2023年4月27日修正
+>此問題已在 2023 年 4 月 27 日解決
 
 當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換到另一個校訂時，切換校訂按鈕沒有反應。使用者無法切換回之前檢視的原始校訂或另一個校訂。
 
