@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '1136'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：使用 [!UICONTROL 里程碑] 檢視](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [任務：在中重新排序任務時沒有錯誤訊息 [!UICONTROL 待批准] 狀態](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [時程表：重新整理頁面時未套用篩選器](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
@@ -118,7 +119,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [[!DNL Workfront Proof]:搜索不返回任何結果](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]：搜尋未傳回任何結果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：清單排序不正確](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [校訂：自訂訊息未出現在電子郵件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
