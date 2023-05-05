@@ -1,12 +1,12 @@
 ---
 title: '資源規劃工具：新增時間後無法儲存'
-description: 當使用者在[!UICONTROL 資源規劃工具]中新增時間然後嘗試儲存時，[!UICONTROL 儲存]按鈕沒有反應。如果使用者點按 [!UICONTROL 取消]，則會看到有關未儲存變更的訊息。
+description: 當使用者在[!UICONTROL 資源規劃工具]中新增時間然後嘗試儲存時，[!UICONTROL 儲存]按鈕沒有反應。如果使用者按一下「[!UICONTROL 取消]」，他們會看到一則關於變更未儲存的訊息。
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
