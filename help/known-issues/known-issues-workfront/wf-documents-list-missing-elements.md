@@ -1,12 +1,12 @@
 ---
 title: '文件：文件清單問題 '
-description: 本文介紹有關「文檔清單」的最新報告問題。
+description: 這篇文章描述最近回報的文件清單問題。
 hidefromtoc: true
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
