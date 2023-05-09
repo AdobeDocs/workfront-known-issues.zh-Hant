@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
-workflow-type: ht
-source-wordcount: '3245'
-ht-degree: 100%
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+workflow-type: tm+mt
+source-wordcount: '3456'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,52 @@ ht-degree: 100%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 5 月更新
+
++++**(預計) 2023 年 5 月 11 日維護更新**
+
+**[!DNL Workfront]搜索超時**
+
+_搜尋_
+
+[!DNL Workfront] 搜尋逾時。搜尋可能會傳回一些結果，或者不傳回任何結果。
+
+此問題也會影響 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 搜尋]模組的功能。
+
+**檢視校訂時無法切換校訂版本**
+
+_校訂_
+
+當使用者在「[!UICONTROL 校訂檢視器]」中檢視校訂並切換到另一個版本時，版本下拉選單變成停用，使用者無法切換回之前檢視的原始版本或另一個校訂版本。
+
++++
+
++++**（已規劃） [!DNL Adobe Workfront Fusion] 2023年5月11日的維護更新**
+
+**中的逾時錯誤[!DNL Workfront Fusion]**
+
+_Adobe Workfront融合_
+
+當情境執行時，它可能會發生逾時錯誤。來自發生錯誤之模組的資訊未到達其目的地。
+
+**[!DNL Workfront]搜索超時**
+
+_搜尋_
+
+[!DNL Workfront] 搜尋逾時。搜尋可能會傳回一些結果，或者不傳回任何結果。
+
+此問題也會影響 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 搜尋]模組的功能。
+
++++
+
++++**於 2023 年 9 月 5 日維護更新**
+
+**在展示板進入欄中可用的已儲存篩選**
+
+_展示板_
+
+您現在可以在設定展示板的接收欄時，使用現有的Workfront任務和問題篩選。 不過，現有的進氣欄篩選器現在在設定面板中為唯讀。 現有的篩選器仍會套用至攝入欄，但如果要編輯，您必須重新建立篩選器。
+
++++
 
 +++**於 2023 年 4 月 5 日維護更新**
 
