@@ -4,7 +4,7 @@ description: 當使用者在 Workfront Proof 中搜尋校訂時，搜尋未傳�
 hidefromtoc: true
 exl-id: d00c9e40-49f9-4d7b-a6f8-9b506b5c5bc5
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
