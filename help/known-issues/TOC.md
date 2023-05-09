@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
 workflow-type: tm+mt
-source-wordcount: '1151'
+source-wordcount: '1161'
 ht-degree: 100%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [專案：使用[!UICONTROL 里程碑]檢視時發生錯誤](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
