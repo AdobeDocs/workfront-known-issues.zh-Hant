@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
 source-wordcount: '1142'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [專案：使用 [!UICONTROL 里程碑] 檢視](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [任務：在中重新排序任務時沒有錯誤訊息 [!UICONTROL 待批准] 狀態](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [專案：使用[!UICONTROL 里程碑]檢視時發生錯誤](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [時程表：重新整理頁面時未套用篩選器](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL 資源規劃工具]：新增時間後無法儲存](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
