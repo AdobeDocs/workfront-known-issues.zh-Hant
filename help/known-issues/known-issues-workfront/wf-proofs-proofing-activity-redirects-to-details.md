@@ -1,12 +1,12 @@
 ---
-title: '''校樣：校樣活動索引標籤會開啟校樣詳細資料'
+title: 「校訂：校訂活動標籤會開啟校訂詳細資訊」
 description: 當使用者檢視校訂並按一下「校訂活動」標籤時，開啟的是「校訂詳細資訊」標籤。當手動將校訂階段新增到工作流程時，就會發生這種情況。
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->這個問題已解決.
+>這個問題已解決。
 
 當使用者檢視校訂並按一下「[!UICONTROL 校訂活動]」標籤時，開啟的是「[!UICONTROL 校訂詳細資訊]」標籤。當手動將校訂階段新增到工作流程時，就會發生這種情況。
 
