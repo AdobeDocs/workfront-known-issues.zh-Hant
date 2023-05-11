@@ -2,15 +2,19 @@
 title: 「專案：使用里程碑檢視時發生錯誤」
 description: 「當使用者查看專案清單並嘗試使用里程碑檢視時，檢視並未載入且使用者看到錯誤。」
 hidefromtoc: true
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 
 # 專案：使用[!UICONTROL 里程碑]檢視時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在 2023 年 5 月 4 日解決。
 
 當使用者查看專案清單並嘗試使用[!UICONTROL 里程碑]檢視時，檢視並未載入且使用者看到以下錯誤：
 
