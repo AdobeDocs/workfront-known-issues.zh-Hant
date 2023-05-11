@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3456'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
 
 +++**(預計) 2023 年 5 月 11 日維護更新**
 
-**[!DNL Workfront]搜索超時**
+**[!DNL Workfront]搜尋逾時**
 
 _搜尋_
 
@@ -39,15 +39,15 @@ _校訂_
 
 +++
 
-+++**（已規劃） [!DNL Adobe Workfront Fusion] 2023年5月11日的維護更新**
++++**(預計) [!DNL Adobe Workfront Fusion] 2023 年 5 月 11 日維護更新**
 
-**中的逾時錯誤[!DNL Workfront Fusion]**
+**[!DNL Workfront Fusion]** 中的逾時錯誤
 
-_Adobe Workfront融合_
+_Adobe Workfront Fusion_
 
 當情境執行時，它可能會發生逾時錯誤。來自發生錯誤之模組的資訊未到達其目的地。
 
-**[!DNL Workfront]搜索超時**
+**[!DNL Workfront]搜尋逾時**
 
 _搜尋_
 
@@ -59,11 +59,11 @@ _搜尋_
 
 +++**於 2023 年 9 月 5 日維護更新**
 
-**在展示板進入欄中可用的已儲存篩選**
+**已儲存的篩選條件可在展示板的輸入欄中使用**
 
 _展示板_
 
-您現在可以在設定展示板的接收欄時，使用現有的Workfront任務和問題篩選。 不過，現有的進氣欄篩選器現在在設定面板中為唯讀。 現有的篩選器仍會套用至攝入欄，但如果要編輯，您必須重新建立篩選器。
+您現在可以使用現有的 Workfront 任務並在為展示板配置輸入欄時發布篩選條件。但是，現有的輸入欄篩選條件現在在配置面板中是唯讀。現有篩選條件仍會套用於輸入欄，但如果要編輯它們，則必須重新建立篩選條件。
 
 +++
 
