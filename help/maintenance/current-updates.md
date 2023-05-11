@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: ht
-source-wordcount: '3456'
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+workflow-type: tm+mt
+source-wordcount: '3454'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,13 @@ ht-degree: 100%
 
 ## 2023 年 5 月更新
 
-+++**(預計) 2023 年 5 月 11 日維護更新**
++++**於 2023 年 11 月 5 日維護更新**
+
+**檢視校訂時無法切換校訂版本**
+
+_校訂_
+
+當使用者在「[!UICONTROL 校訂檢視器]」中檢視校訂並切換到另一個版本時，版本下拉選單變成停用，使用者無法切換回之前檢視的原始版本或另一個校訂版本。
 
 **[!DNL Workfront]搜尋逾時**
 
@@ -31,15 +37,9 @@ _搜尋_
 
 此問題也會影響 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 搜尋]模組的功能。
 
-**檢視校訂時無法切換校訂版本**
-
-_校訂_
-
-當使用者在「[!UICONTROL 校訂檢視器]」中檢視校訂並切換到另一個版本時，版本下拉選單變成停用，使用者無法切換回之前檢視的原始版本或另一個校訂版本。
-
 +++
 
-+++**(預計) [!DNL Adobe Workfront Fusion] 2023 年 5 月 11 日維護更新**
++++**[!DNL Adobe Workfront Fusion]於 2023 年 11 月 5 日維護更新**
 
 **[!DNL Workfront Fusion]** 中的逾時錯誤
 

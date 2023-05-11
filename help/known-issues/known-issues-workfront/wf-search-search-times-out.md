@@ -3,9 +3,9 @@ title: '搜尋：Workfront 搜尋逾時'
 description: Workfront 搜尋逾時。 搜尋可能會傳回一些結果，或者不傳回任何結果。
 hidefromtoc: true
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: ht
-source-wordcount: '54'
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 100%
 # 搜尋：[!DNL Workfront] 搜尋逾時
 
 <!--this issue is on WF and WFF TOCs. Valid issue, won't fix-->
+
+>[!NOTE]
+>
+>此問題已在 2023 年 5 月 11 日解決。
 
 [!DNL Workfront] 搜尋逾時。搜尋可能會傳回一些結果，或者不傳回任何結果。
 
