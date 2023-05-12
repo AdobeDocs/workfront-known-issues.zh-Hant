@@ -3,14 +3,16 @@ title: 「敏捷：疊代完成點的差異」
 description: 故事板上顯示的已完成點有時與疊代中故事的實際完成點不相符
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 # 敏捷：疊代完成點的差異
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

@@ -3,16 +3,16 @@ title: '篩選器：無法從儀表板上的報表共用篩選器'
 description: 當使用者在儀表板上檢視報表並嘗試共用該報表的篩選器時，他們無法共用篩選器。按一下三點會使儀表板跳到下一個報表，當使用者向上捲動到預期的報表時，他們看到「共用」選項尚未開啟。
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: ht
-source-wordcount: '187'
-ht-degree: 100%
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 篩選器：無法從儀表板上的報表共用篩選器
 
-<!--Valid issue, won't fix-->
+<!--Requested article: Valid issue, won't fix:-->
 
 當使用者在儀表板上檢視報表並嘗試共用該報表的篩選器時，他們無法共用篩選器。按一下三點會使儀表板跳到下一個報表，當使用者向上捲動到預期的報表時，他們看到「[!UICONTROL 共用]」選項尚未開啟。
 

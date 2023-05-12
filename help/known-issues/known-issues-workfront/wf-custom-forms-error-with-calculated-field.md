@@ -3,7 +3,7 @@ title: 「自訂表單：設定計算欄位時出現糟糕錯誤」
 description: 當使用者在自訂表單上建立或編輯計算欄位並在計算欄位的運算式中包含自訂欄位時，該運算式被視為無效。「儲存」按鈕被停用，使用者無法離開自訂欄位。此外，使用者會在該欄位下方看到一則糟糕錯誤訊息。
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 96%
@@ -12,7 +12,7 @@ ht-degree: 96%
 
 # 自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤
 
-<!--Do not delete without approval from Alex Beach-->
+<!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >

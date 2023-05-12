@@ -3,14 +3,16 @@ title: 「儀表板：在儀表板中查看的報告圖表使用的顏色與在�
 description: 當使用者在儀表板中查看報告圖表時，使用的顏色與使用者查看報告本身時不同。如果使用者希望指定的顏色具有特定含義，這可能會導致混淆。
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
 ---
 
 # 儀表板：在儀表板中查看的報告圖表使用的顏色與在報告中查看時不同
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

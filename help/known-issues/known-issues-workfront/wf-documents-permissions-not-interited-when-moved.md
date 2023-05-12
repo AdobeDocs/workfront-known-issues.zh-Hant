@@ -3,8 +3,8 @@ title: '文件：當文件移至新專案時，不會繼承權限'
 description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。 文件不會共用給共用專案的使用者。'
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--Valid issue, won't fix.-->
+<!--Won't fix tab: Valid issue, won't fix.-->
 
 當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。文件不會共用給共用專案的使用者。
 
