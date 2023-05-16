@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 100%
+source-wordcount: '3533'
+ht-degree: 98%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 100%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 5 月更新
+
++++**(預計)  2023 年 5 月 18 日維護更新**
+
+
+**依自訂欄位排序時，報表無法正確排序**
+
+_報表_
+使用者執行任務報表時，報表在載入時似乎可正確排序，但在載入完成後，使用者會看到報表未正確排序。
+
+如果滿足以下所有情況，這似乎會發生：
+
+* 報告是任務報告
+* 報告按自訂欄位排序
+* 此報告套用了分組
+
++++
 
 +++**於 2023 年 11 月 5 日維護更新**
 
