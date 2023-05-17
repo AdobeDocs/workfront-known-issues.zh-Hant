@@ -4,9 +4,9 @@ description: 建立新校訂時，可以以 15 分鐘為增量設定截止日期
 hidefromtoc: true
 exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '192'
+ht-degree: 100%
 
 ---
 
