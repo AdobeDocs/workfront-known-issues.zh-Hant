@@ -4,9 +4,9 @@ description: 當用戶使用僅允許「管理」或「編輯」存取權的跨�
 hidefromtoc: true
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '184'
+ht-degree: 100%
 
 ---
 
