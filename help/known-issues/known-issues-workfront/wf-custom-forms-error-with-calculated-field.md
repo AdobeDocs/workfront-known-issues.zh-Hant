@@ -4,9 +4,9 @@ description: 當使用者在自訂表單上建立或編輯計算欄位並在計�
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此問題已於2023年1月12日修正
+>此問題已在 2023 年 1 月 12 日修正
 
 當使用者在自訂表單上建立或編輯計算欄位並在計算欄位的運算式中包含自訂欄位時，該運算式被視為無效。「[!UICONTROL 儲存]」按鈕被停用，使用者無法離開自訂欄位。此外，使用者會在該欄位下方看到下列訊息：
 
