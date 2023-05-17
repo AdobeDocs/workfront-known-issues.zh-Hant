@@ -4,7 +4,7 @@ description: 當使用者在評論中標記另一個目前不在校訂中的使�
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
