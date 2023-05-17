@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [報表：依任何欄位排序時，報表無法正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 5 月 15 日 |
+| [報表：依任何欄位排序時，報表無法正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 15 月 5 日 |
 
 {style="table-layout:auto"}
 
@@ -34,9 +34,9 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [報表：依自訂欄位排序時，報表無法正確排序](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023 年 5 月 11 日 |
-| [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 11 日 |
-| [工作負載平衡器：意外重新分配小時數](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 5 月 11 日 |
+| [報表：依自訂欄位排序時，報表無法正確排序](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023 年 11 月 5 日 |
+| [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 11 月 5 日 |
+| [工作負載平衡器：意外重新分配小時數](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 11 月 5 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
