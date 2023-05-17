@@ -4,7 +4,7 @@ description: 當使用者在儀表板中查看報告圖表時，使用的顏色�
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 hidefromtoc: true
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 
