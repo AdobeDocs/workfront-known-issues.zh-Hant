@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 97%
+source-wordcount: '128'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [[!DNL Workfront Fusion]:執行被卡住或延遲](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023 年 17 月 5 日 |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 5 月 15 日 |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 15 月 5 日 |
 
 {style="table-layout:auto"}
 
