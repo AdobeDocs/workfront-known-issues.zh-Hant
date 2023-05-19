@@ -1,10 +1,10 @@
 ---
 title: 「敏捷：看板板在編輯卡時變為空白」
-description: '"當用戶在看板板上編輯卡，然後從看板板點開卡時，看板板將變為空白，而不是通過編輯刷新。 如果用戶手動刷新頁面，看板板將返回，顯示正確的編輯。」'
+description: 「當使用者變更 [!UICONTROL 看板] 董事會， [!UICONTROL 看板] 展示板會空白，而非隨著變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL 看板] 展示板返回，顯示正確的變更。」
 hidefromtoc: true
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 0463aa5cf7f786af9464ad3efb1d3d3929bcb1af
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---
@@ -12,7 +12,12 @@ ht-degree: 7%
 
 # 敏捷： [!UICONTROL 看板] 編輯卡片時展示板為空白
 
-當使用者在 [!UICONTROL 看板] 然後從卡上點開， [!UICONTROL 看板] 展示板會空白，而非透過編輯重新整理。 如果使用者手動重新整理頁面， [!UICONTROL 看板] 展示板返回，顯示正確的編輯。
+當使用者變更 [!UICONTROL 看板] 董事會， [!UICONTROL 看板] 展示板會空白，而非隨著變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL 看板] 展示板返回，顯示正確的變更。
+
+此情況已於下列情況下報告：
+
+* 編輯資訊卡
+* 移動資訊卡
 
 **因應措施**
 
