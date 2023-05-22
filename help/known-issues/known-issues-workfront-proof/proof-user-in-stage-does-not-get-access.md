@@ -4,7 +4,7 @@ description: 當校訂到達工作流程中使用者當初建立校訂時新增�
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
