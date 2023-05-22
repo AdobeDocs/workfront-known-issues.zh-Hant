@@ -1,12 +1,12 @@
 ---
-title: '''校樣：已從校樣工作流程停用使用者，且在存取校樣時無法取得存取權。'
-description: 當使用者嘗試存取被指派給工作流程的校樣時，他們會看到「不允許存取」訊息。
+title: 「校訂：已從校訂工作流程停用使用者，並在存取校訂時收到不允許存取的訊息」
+description: 當使用者嘗試存取他們被指派到工作流程的校訂時，他們會看到「不允許存取」訊息。
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 64%
 
 >[!NOTE]
 >
->此問題已於2023年5月4日修正。
+>此問題已在 2023 年 5 月 4 日解決。
 
 當使用者嘗試存取他們被指派到工作流程的校訂時，他們會看到以下訊息：
 
