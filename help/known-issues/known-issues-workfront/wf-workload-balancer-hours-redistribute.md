@@ -1,18 +1,18 @@
 ---
-title: '"工作負載平衡器：意外重新分配小時數」'
-description: 「當對特定任務進行小時分配時，這些小時可能會意外地重新計算和重新分配。 這可能發生在日期或頁面之間的Tab鍵瀏覽，或是重新整理頁面之後。」
+title: 「Workload Balancer：時數意外重新分配」
+description: 「當為特定任務分配時數時，這些時數可能會意外重新計算和重新分配。在日期或頁面之間按 Tab 鍵之後，或是重新整理頁面之後，可能會發生這種情況。」
 hidefromtoc: true
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 工作負載平衡器：意外重新分配小時數
+# Workload Balancer：時數意外重新分配
 
-對特定任務進行小時分配時，這些小時可能會意外地重新計算和重新分配。 這可能發生在日期或頁面之間的Tab鍵瀏覽後，或重新整理頁面後。
+當為特定任務分配時數時，這些時數可能會意外重新計算和重新分配。在日期或頁面之間按 Tab 鍵之後，或是重新整理頁面之後，可能會發生這種情況。
 
 _於 2023 年 4 月 25 日首次通報。_
 
