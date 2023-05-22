@@ -1,12 +1,12 @@
 ---
-title: 'Workfront校樣：清單未正確排序'
-description: 當使用者檢視已套用排序的Workfront校樣中的清單時（例如名稱），排序不準確。
+title: 「Workfront Proof：清單排序不正確」
+description: 當使用者在 Workfront Proof 檢視已套用排序的清單時 (例如名稱)，排序不正確。
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
