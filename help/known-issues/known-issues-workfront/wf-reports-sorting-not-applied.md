@@ -1,16 +1,16 @@
 ---
-title: 「報告：依自訂欄位排序時，報表無法正確排序
-description: 「使用者執行任務報表時，報表在載入時似乎可正確排序，但在載入完成後，使用者會看到報表未正確排序。
+title: 「報告：按自訂欄位排序時報告未正確排序
+description: 「當使用者執行任務報告時，報告在載入時似乎排序正確，但在完成載入後使用者會看到報告排序不正確。
 hidefromtoc: true
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 
-# 報表：依自訂欄位排序時，報表無法正確排序
+# 報告：按自訂欄位排序時報告未正確排序
 
 >[!NOTE]
 >

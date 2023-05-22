@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 15 月 5 日 |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] ，透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 15 月 5 日 |
 
 {style="table-layout:auto"}
 
