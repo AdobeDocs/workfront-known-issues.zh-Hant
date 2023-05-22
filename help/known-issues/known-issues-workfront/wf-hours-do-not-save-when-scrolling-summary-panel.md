@@ -4,7 +4,7 @@ description: 「當使用者嘗試在該任務的摘要面板中輸入任務時�
 hidefromtoc: true
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
