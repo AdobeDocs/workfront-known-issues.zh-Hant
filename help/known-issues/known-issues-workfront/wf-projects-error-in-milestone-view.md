@@ -3,7 +3,7 @@ title: 「專案：使用里程碑檢視時發生錯誤」
 description: 「當使用者查看專案清單並嘗試使用里程碑檢視時，檢視並未載入且使用者看到錯誤。」
 hidefromtoc: true
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
