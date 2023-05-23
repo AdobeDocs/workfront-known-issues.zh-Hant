@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 98%
+source-wordcount: '3646'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 98%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 5 月更新
+
++++**(預計)  2023 年 5 月 25 日維護更新**
+
+**[!UICONTROL 看板] 編輯卡時板為空**
+
+_敏捷_
+
+當用戶更改有關 [!UICONTROL 看板] 董事會， [!UICONTROL 看板] 該更改不會刷新，而是將板變為空白。 如果用戶手動刷新頁面， [!UICONTROL 看板] 板返回，顯示正確的更改。
+
+在以下情況下報告了這種情況：
+
+* 編輯卡
+* 移動卡
+
+
++++
 
 +++**於 2023 年 22 月 5 日維護更新**
 
