@@ -2,9 +2,9 @@
 title: 「報告：按任一欄位排序時報告未正確排序」
 description: 「」
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # 報告：按任一欄位排序時報告未正確排序
 
+>[!NOTE]
+>
+>此問題已關閉，因為這不是問題。
 
 當使用者執行任務報告時，報告在載入時似乎排序正確，但在完成載入後使用者會看到報告排序不正確。
 
