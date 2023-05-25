@@ -1,23 +1,27 @@
 ---
-title: 「敏捷：看板板在編輯卡時變為空白」
-description: 「當使用者變更 [!UICONTROL 看板] 董事會， [!UICONTROL 看板] 展示板會空白，而非隨著變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL 看板] 展示板返回，顯示正確的變更。」
+title: 「敏捷：編輯卡片時Kanban板變為空白」
+description: 「當使用者變更上的卡片內容時 [!UICONTROL Kanban] 展示板， [!UICONTROL Kanban] 展示板會變成空白，而不是以變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL Kanban] 板會傳回，顯示正確的變更。」
 hidefromtoc: true
-source-git-commit: 97538739d474bd79b28362b1f21527d9dbe1486b
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
 
-# 敏捷： [!UICONTROL 看板] 編輯卡片時展示板為空白
+# 敏捷： [!UICONTROL Kanban] 編輯卡片時展示板變為空白
 
-當使用者變更 [!UICONTROL 看板] 董事會， [!UICONTROL 看板] 展示板會空白，而非隨著變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL 看板] 展示板返回，顯示正確的變更。
+>[!NOTE]
+>
+>此問題已在 2023 年 5 月 25 日解決。
 
-此情況已於下列情況下報告：
+當使用者變更上的卡片內容時 [!UICONTROL Kanban] 展示板， [!UICONTROL Kanban] 展示板會變成空白，而不是以變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL Kanban] 板會傳回，顯示正確的變更。
 
-* 編輯資訊卡
-* 移動資訊卡
+這已在以下情況下報告：
+
+* 編輯卡片
+* 移動卡片
 
 **因應措施**
 
