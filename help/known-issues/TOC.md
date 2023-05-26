@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [自訂表單：在新表單設計工具（測試版）中編輯自訂表單時，顯示邏輯會遺失](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [敏捷： [!UICONTROL Kanban] 編輯卡片時展示板變為空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [敏捷：[!UICONTROL 看板]在編輯卡片時變成一片空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Workload Balancer：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -151,7 +151,7 @@ ht-degree: 97%
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
       + [[!DNL Workfront Fusion]：未傳送通知電子郵件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]：執行停滯或延遲](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]執行停滯或延後](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：情境執行歷史記錄不會顯示整個歷史記錄](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中的逾時錯誤](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模組中的 404 錯誤](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
