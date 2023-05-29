@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 99%
 
 +++**(預計)  2023 年 5 月 25 日維護更新**
 
-**[!UICONTROL Kanban] 編輯卡片時展示板變為空白**
+**[!UICONTROL 看板]在編輯卡片時變成一片空白**
 
 _敏捷_
 
