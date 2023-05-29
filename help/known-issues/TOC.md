@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1217'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [自訂表單：在新表單設計工具（測試版）中編輯自訂表單時，顯示邏輯會遺失](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
+      + [自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表單時，遺失顯示邏輯](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [敏捷：[!UICONTROL 看板]在編輯卡片時變成一片空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Workload Balancer：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
@@ -116,7 +116,7 @@ ht-degree: 98%
       + [電子郵件通知： [!DNL Outlook] 中的電子郵件格式不正確](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]中的文件影像](known-issues-workfront/wf-home-unable-to-view-document-image.md)
       + [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL 首頁]：重新整理後核准委派日期發生變化並發送 2 封電子郵件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL 首頁]：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
       + [行事曆：任務未顯示](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
 
 
