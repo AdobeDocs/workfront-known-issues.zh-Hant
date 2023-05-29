@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '560'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [自訂表單：在新表單設計工具（測試版）中編輯自訂表單時，顯示邏輯會遺失](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023 年 5 月 24 日 |
+| [自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表單時，遺失顯示邏輯](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023 年 5 月 24 日 |
 | [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 11 月 5 日 |
 | [Workload Balancer：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 11 月 5 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
@@ -86,7 +86,7 @@ ht-degree: 97%
 | [電子郵件通知： [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) 中的電子郵件格式不正確 | 2021 年 3 月 30 日 |
 | [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]](known-issues-workfront/wf-home-unable-to-view-document-image.md)中的文件影像 | 2020 年 11 月 9 日 |
 | [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 9 日 |
-| [首頁：重新整理後核准委派日期發生變化並發送 2 封電子郵件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 9 日 |
+| [首頁：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 9 日 |
 | [行事曆：任務未顯示](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |
 
 {style="table-layout:auto"}
