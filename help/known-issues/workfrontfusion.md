@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
