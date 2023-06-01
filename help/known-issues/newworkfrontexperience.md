@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
-source-wordcount: '560'
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+workflow-type: tm+mt
+source-wordcount: '548'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表單時，遺失顯示邏輯](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023 年 5 月 24 日 |
-| [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 11 月 5 日 |
 | [Workload Balancer：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 11 月 5 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
