@@ -291,7 +291,7 @@ _校訂_
 
 已安裝[!UICONTROL 桌面校訂檢視器]的使用者將自動取得此更新。
 
-使用者也可以手動下載最新版本。如需詳細資訊，[請安裝[!UICONTROL 桌面校訂檢視器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html)。
+使用者也可以手動下載最新版本。如需詳細資訊，[請安裝[!UICONTROL 桌面校訂檢視器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hant)。
 
 * 舊版本：2.1.22
 * 新版本：2.1.23
