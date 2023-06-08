@@ -2,9 +2,9 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 042b4dcda4486461b8b95a86a32d5d92b19ae0d4
+source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
 workflow-type: tm+mt
-source-wordcount: '3846'
+source-wordcount: '3845'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## 2023 年 6 月更新
 
-+++**(預計) 2023 年 6 月 8 日維護更新
++++**2023 年 6 月 8 日維護更新**
 
 此更新僅包含次要或較不顯著的錯誤修正。 [!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
 

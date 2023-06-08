@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
-workflow-type: ht
-source-wordcount: '1217'
-ht-degree: 100%
+source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+workflow-type: tm+mt
+source-wordcount: '1221'
+ht-degree: 99%
 
 ---
 
@@ -150,6 +150,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [[!DNL Workfront Fusion]： &quot;[!UICONTROL 無法執行UPDATE]「錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：未傳送通知電子郵件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]執行停滯或延後](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：情境執行歷史記錄不會顯示整個歷史記錄](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
