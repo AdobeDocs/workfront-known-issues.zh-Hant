@@ -3,7 +3,7 @@ title: 「任務：重新排序待核准狀態的任務時沒有出現錯誤訊�
 description: 「當使用者嘗試重新排序任務清單中[!UICONTROL 待核准]狀態的任務時，任務有在任務清單中移動。重新整理後，使用者看到該任務沒有移動。該任務無法移動，因為它處於[!UICONTROL 待核准]狀態，但沒有出現訊息告訴使用者該任務無法移動，這可能會讓使用者困惑。」
 hidefromtoc: true
 source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已在 2023 年 1 月 6 日修正。
+>此問題已在 2023 年 6 月 1 日修正。
 
 當使用者嘗試重新排序任務清單中[!UICONTROL 待核准]狀態的任務時，任務有在任務清單中移動。重新整理後，使用者看到該任務沒有移動。該任務無法移動，因為它處於[!UICONTROL 待核准]狀態，但沒有出現訊息告訴使用者該任務無法移動，這可能會讓使用者困惑。
 
