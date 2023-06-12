@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1264'
 ht-degree: 96%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!UICONTROL 首頁]：專案未出現在 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [報告： 」[!UICONTROL 糟糕]「檢視矩陣報告時發生錯誤](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)

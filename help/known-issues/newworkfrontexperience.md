@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 95%
+source-wordcount: '578'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 首頁]：專案未出現在 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023年6月12日 |
 | [報告： 」[!UICONTROL 糟糕]「檢視矩陣報告時發生錯誤](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023年6月9日 |
 | [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023年6月9日 |
 
