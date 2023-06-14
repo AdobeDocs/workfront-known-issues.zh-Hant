@@ -3,7 +3,7 @@ title: "Workfront Fusion：未傳送通知電子郵件"
 description: “當 Workfront Fusion 中發生應觸發通知電子郵件的事件時 (例如遇到錯誤的情況)，未傳送電子郵件。”
 hidefromtoc: true
 source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
