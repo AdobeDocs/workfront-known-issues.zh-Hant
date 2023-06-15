@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
+source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
-source-wordcount: '3914'
-ht-degree: 98%
+source-wordcount: '3912'
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 98%
 
 [!DNL Fusion] 已部署一項修正，以防止在使用者移除或停用時，移除使用者的連線。 [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] 團隊管理員仍然能夠從移除不需要的連線 [!UICONTROL 連線] 頁首頁首[!DNL]ion.
+[!DNL Fusion] 團隊管理員仍然能夠從移除不需要的連線 [!UICONTROL 連線] 第頁於 [!DNL Fusion].
 
 +++
 
