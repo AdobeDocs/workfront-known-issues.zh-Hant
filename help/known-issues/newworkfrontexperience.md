@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '578'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 首頁]：專案未出現在 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023年6月12日 |
-| [報告： 」[!UICONTROL 糟糕]「檢視矩陣報告時發生錯誤](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023年6月9日 |
-| [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023年6月9日 |
+| [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 6 月 12 日 |
+| [報告：查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023 年 6 月 9 日 |
+| [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023 年 6 月 9 日 |
 
 {style="table-layout:auto"}
 
@@ -50,7 +50,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日 |
+| [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023 年 5 月 5 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
