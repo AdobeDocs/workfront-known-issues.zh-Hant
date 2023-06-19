@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1264'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,10 +16,10 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [[!UICONTROL 首頁]：專案未出現在 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [報告： 」[!UICONTROL 糟糕]「檢視矩陣報告時發生錯誤](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
+      + [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]中](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
+      + [報告：查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表單時，遺失顯示邏輯](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [敏捷：[!UICONTROL 看板]在編輯卡片時變成一片空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
@@ -129,7 +129,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [校訂：校訂在預覽環境中建立緩慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
+      + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion] 存取  [!DNL Workfront Proof]  時出現 500 錯誤](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：搜尋未傳回任何結果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [校訂：文字選項方塊顯示「textAnnotations」](known-issues-workfront-proof/proof-text-shows-textannotation.md)
@@ -155,7 +155,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Workfront Fusion]： &quot;[!UICONTROL 無法執行UPDATE]「錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
+      + [[!DNL Workfront Fusion]：「[!UICONTROL 無法執行更新]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：未傳送通知電子郵件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]執行停滯或延後](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：情境執行歷史記錄不會顯示整個歷史記錄](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
