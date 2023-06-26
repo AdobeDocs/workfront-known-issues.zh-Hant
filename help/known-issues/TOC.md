@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
-source-wordcount: '1264'
-ht-degree: 100%
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+workflow-type: tm+mt
+source-wordcount: '1287'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [報告：使用情況報告未載入](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [校樣：核准選項未出現在 [!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [時程表：在時程表上記錄時數時發生錯誤](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]中](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [報告：查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
