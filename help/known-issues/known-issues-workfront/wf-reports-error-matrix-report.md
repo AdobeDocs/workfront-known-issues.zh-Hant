@@ -2,15 +2,19 @@
 title: 「報告：查看矩陣報告時發生『糟糕』錯誤」
 description: 「使用者查看矩陣報告時發生『糟糕』錯誤。」
 hidefromtoc: true
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
 
 # 報告：查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤
+
+>[!NOTE]
+>
+> 此文章已在2023年6月22日修正
 
 使用者查看矩陣報告時發生下列錯誤：
 
