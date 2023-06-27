@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 96%
+source-wordcount: '604'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [專案/任務/問題：時間表未重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023 年 6 月 27 日 |
 | [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 6 月 12 日 |
 
 {style="table-layout:auto"}
@@ -34,6 +35,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [篩選器：「 」[!UICONTROL 在整個系統內啟用]「和」[!UICONTROL 檢視系統範圍]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
 | [報告：使用情況報告未載入](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023 年 6 月 26 日 |
 | [校樣：核准選項未出現在 [!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
 | [時程表：在時程表上記錄時數時發生錯誤](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 2023 年 6 月 26 日 |

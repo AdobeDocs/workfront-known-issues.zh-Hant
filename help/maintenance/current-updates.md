@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
 workflow-type: tm+mt
-source-wordcount: '4010'
-ht-degree: 99%
+source-wordcount: '4036'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,15 @@ ht-degree: 99%
 
 ## 2023 年 6 月更新
 
++++**(預計) 於 2023 年 6 月 29 日維護更新**
+
+此更新僅包含次要或較不顯著的錯誤修正。 [!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
+
++++
+
 +++**於 2023 年 6 月 22 日維護更新**
 
-**&quot;[!UICONTROL 糟糕]「檢視矩陣報告時發生錯誤**
+**查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤**
 
 _報告_
 
@@ -33,7 +39,7 @@ _報告_
 
 此問題是在報告依照日期排序且啟用「[!UICONTROL 顯示沒有結果的週數]」選項時回報。
 
-**日期在矩陣報告中顯示不正確**
+**矩陣報告日期顯示不正確**
 
 _報告_
 
