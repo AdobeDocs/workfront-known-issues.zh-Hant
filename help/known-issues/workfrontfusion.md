@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
 description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：「[!UICONTROL 無法執行更新]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md) | 2023 年 6 月 8 日 |
+| 無 |  |
 
 {style="table-layout:auto"}
 

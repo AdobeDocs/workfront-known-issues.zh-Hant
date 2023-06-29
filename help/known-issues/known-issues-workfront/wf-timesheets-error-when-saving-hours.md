@@ -2,15 +2,19 @@
 title: 「時程表：在時程表上記錄時數時發生錯誤」
 description: 「當使用者嘗試將時數記錄在其時程表上的任務時，時數未儲存，且使用者會看到錯誤訊息。」
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # 時程表：在時程表上記錄時數時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在 2023 年 29 月 6 日修正。
 
 當使用者嘗試將時數記錄到其時程表中的任務時數時，時數未儲存，並且使用者會看到以下訊息：
 
