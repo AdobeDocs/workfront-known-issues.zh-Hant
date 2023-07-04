@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [面板：水準卷軸不存在](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [專案/任務/問題：時間表未重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [篩選器：「 」[!UICONTROL 在整個系統內啟用]「和」[!UICONTROL 檢視系統範圍]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
-      + [報告：使用情況報告未載入](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [校樣：核准選項未出現在 [!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [時程表：在時程表上記錄時數時發生錯誤](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [專案/任務/問題：時間表不會重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [報告：未載入使用情況報告](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [時程表：在時程表記錄時間時發生錯誤](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]中](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [報告：查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
