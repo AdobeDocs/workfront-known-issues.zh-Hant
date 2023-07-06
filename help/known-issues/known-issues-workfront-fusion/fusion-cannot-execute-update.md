@@ -3,7 +3,7 @@ title: 「Workfront Fusion：『無法執行更新』錯誤」
 description: 「情境執行失敗且發生錯誤，無法在唯讀異動中執行更新。」
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
