@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [面板：水準卷軸不存在](known-issues-workfront/wf-board-no-scrollbar.md)
+      + [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md)
       + [專案/任務/問題：時間表不會重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [報告：未載入使用情況報告](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
@@ -27,9 +27,9 @@ ht-degree: 99%
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表單時，遺失顯示邏輯](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [敏捷：[!UICONTROL 看板]在編輯卡片時變成一片空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [敏捷：[!UICONTROL 展示板]在編輯卡片時變成一片空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [Workload Balancer：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [工作負載平衡器：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [專案：使用[!UICONTROL 里程碑]檢視時發生錯誤](known-issues-workfront/wf-projects-error-in-milestone-view.md)
