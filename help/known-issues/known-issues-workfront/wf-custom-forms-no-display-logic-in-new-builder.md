@@ -3,7 +3,7 @@ title: “自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表�
 description: 「」
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
