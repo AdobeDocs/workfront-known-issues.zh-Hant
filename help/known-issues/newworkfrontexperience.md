@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+source-git-commit: f532612231727185f457a86250e1e80ce519cc63
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 100%
+source-wordcount: '592'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：無法編輯工作角色成本/小時或帳單/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023年7月10日 |
 | [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
 | [報告：未載入使用情況報告](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023 年 6 月 26 日 |
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
