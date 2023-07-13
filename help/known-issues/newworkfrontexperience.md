@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
-source-wordcount: '592'
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
-| [專案/任務/問題：時間表不會重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023 年 6 月 27 日 |
 | [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 6 月 12 日 |
 
 {style="table-layout:auto"}
@@ -38,10 +37,8 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [設定：無法編輯職務角色的成本/小時或計費/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 10 日 |
 | [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
-| [報告：未載入使用情況報告](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023 年 6 月 26 日 |
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
 | [工作負載平衡器：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 11 月 5 日 |
-| [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 

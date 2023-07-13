@@ -2,15 +2,19 @@
 title: 「報告：未載入使用情況報告」
 description: 「在客戶嘗試檢視使用情況報告時，使用者會看到旋轉的載入進度指標，但是不會載入報告。該報告傳回 500 錯誤，但使用者沒有看到報告失敗的指示。」
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 
 # 報告：未載入使用情況報告
+
+>[!NOTE]
+>
+>此問題已在 2023 年 7 月 13 日修正。
 
 在客戶嘗試檢視使用情況報告時，使用者會看到旋轉的載入進度指標，但是不會載入報告。該報告傳回 500 錯誤，但使用者沒有看到報告失敗的指示。
 
