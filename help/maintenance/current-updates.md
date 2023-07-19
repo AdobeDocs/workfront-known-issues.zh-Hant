@@ -2,10 +2,10 @@
 title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
 workflow-type: tm+mt
-source-wordcount: '4219'
-ht-degree: 99%
+source-wordcount: '4259'
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,11 @@ ht-degree: 99%
 
 +++**（預計） 2023年7月20日維護更新**
 
-此更新僅包含次要或較不顯著的錯誤修正。 [!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
+**透過設定子項週期性任務的計畫時數 [!UICONTROL 簡單] 沒有指派的期間型別**
+
+_任務_
+
+現在，當您使用在新的父週期性任務上設定計畫時數時 [!UICONTROL 簡單] 期間型別和無指派，小時也會新增到個別遞回中。 在此變更之前，當父任務被取消指派時，沒有儲存遞回的時數。
 
 +++
 
