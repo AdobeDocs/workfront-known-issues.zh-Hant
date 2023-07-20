@@ -1,14 +1,15 @@
 ---
-title: 「專案：從範本建立專案時「主群組」自訂狀態不可用」
-description: ""
+title: '專案：從範本建立專案時「主群組」自訂狀態不可用'
+description: '"'
 hidefromtoc: true
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
-workflow-type: ht
+exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # 專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 儲存專案，然後編輯狀態。專案儲存後，「[!UICONTROL 主群組]」自訂狀態可見。
 
 _於 2023 年 3 月 30 日首次通報。_
-

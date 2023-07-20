@@ -2,9 +2,10 @@
 title: 「整合：無法開啟 Workfront for G Suite」
 description: 「當使用者在 G Suite 應用程式中嘗試開啟 Workfront for G Suite 附加元件時，該附加元件沒有開啟，而且使用者看到訊息：發生問題，請重試。重試無效。」
 hidefromtoc: true
+feature: Workfront Integrations and Apps
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
-source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
-workflow-type: ht
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 

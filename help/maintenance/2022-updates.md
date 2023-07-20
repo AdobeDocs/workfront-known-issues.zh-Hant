@@ -1,8 +1,10 @@
 ---
 title: Workfront 維護更新 (2022 年)
 description: 2022 年維護更新 [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ ht-degree: 100%
 * 部分新增至疊代的任務其子任務未出現在[!UICONTROL 疊代]頁面。
 * 當使用者嘗試將缺少的任務新增至疊代時，任務沒有新增，且使用者會看到以下訊息：
 
-   「[!UICONTROL 發生以下錯誤：無法移動選取的項目，因為它們未指派給敏捷團隊或不是敏捷項目]」
+  「[!UICONTROL 發生以下錯誤：無法移動選取的項目，因為它們未指派給敏捷團隊或不是敏捷項目]」
 
 **透過大量編輯所指派的任務未出現在團隊的待辦項目中**
 

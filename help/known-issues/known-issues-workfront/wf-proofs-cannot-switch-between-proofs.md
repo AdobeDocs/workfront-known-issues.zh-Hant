@@ -3,8 +3,9 @@ title: '校訂：在校訂檢視器中無法切換校訂'
 description: 當使用者在[!UICONTROL 校訂檢視器]中檢視校訂並切換到另一個版本時，版本下拉選單變成停用，使用者無法切換回之前檢視的原始版本或另一個校訂版本
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

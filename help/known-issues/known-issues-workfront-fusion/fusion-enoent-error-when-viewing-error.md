@@ -3,8 +3,9 @@ title: 'Workfront Fusion：檢視案例執行歷史記錄中的錯誤時發生�
 description: 當使用者檢視案例執行歷史記錄，並嘗試按一下錯誤來查看更多錯誤詳細資訊，詳細資訊未開啟而使用者看到錯誤訊息。
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 

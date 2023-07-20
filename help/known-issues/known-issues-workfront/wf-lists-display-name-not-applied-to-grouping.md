@@ -3,8 +3,9 @@ title: 「清單：顯示名稱未套用於自訂欄位分組」
 description: 當使用者按自訂欄位對清單進行分組並在文字模式下變更顯示名稱時，將顯示該欄位的原始名稱。
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Text Mode Reporting
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 

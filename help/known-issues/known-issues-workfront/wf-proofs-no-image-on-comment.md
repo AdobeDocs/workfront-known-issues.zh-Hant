@@ -2,7 +2,8 @@
 title: 「校樣：按一下校樣時沒有影像訊息」
 description: 「當使用者在案頭校訂檢視器按一下評論，與評論相關聯的影像未開啟，且使用者看到一則訊息。」
 hidefromtoc: true
-source-git-commit: 79ebbfd795616da4431fcbcca7676e03b5e2d927
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 4%

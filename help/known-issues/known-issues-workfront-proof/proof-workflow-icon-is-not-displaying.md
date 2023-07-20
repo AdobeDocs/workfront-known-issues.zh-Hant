@@ -3,8 +3,9 @@ title: 「文件：校訂工作流程圖示未顯示」
 description: 當使用者在新  [!DNL Workfront]  體驗建立校訂，在使用者重新整理頁面之前，校訂狀態圖示「SOCD」有時未顯示在文件清單中。
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

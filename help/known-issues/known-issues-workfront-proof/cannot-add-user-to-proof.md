@@ -3,8 +3,9 @@ title: 「校訂：無法透過在評論中標記使用者來將使用者新增�
 description: 當使用者在評論中標記另一個目前不在校訂中的使用者時，他們無法為使用者選擇工作角色或電子郵件，因此無法將使用者新增到校訂中。
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 

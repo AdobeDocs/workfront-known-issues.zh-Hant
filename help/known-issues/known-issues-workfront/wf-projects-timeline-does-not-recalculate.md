@@ -2,8 +2,9 @@
 title: 「專案/任務/問題：時間表不會重新計算」
 description: 「在發生應該觸發時間表計算的事件時，時間表不會重新計算。這會影響在變更時發生的重新計算，以及已排程的重新計算。這可能會影響工作負載平衡器的準確性。」
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Projects, Tasks
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

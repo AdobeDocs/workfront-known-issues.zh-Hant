@@ -1,14 +1,15 @@
 ---
-title: 「使用者：重新啟動使用者時未指派存取層級」
-description: 「當使用者重新啟動已停用的使用者，並嘗試在重新啟動使用者視窗中為他們指派存取層級時，存取層級下拉選單不會隨著使用者輸入而填入，並且使用者無法選取存取層級。如果使用者輸入存取層級並儲存，則該存取層級不會指派給重新啟動的使用者。」
+title: '使用者：重新啟動使用者時未指派存取層級'
+description: 當使用者重新啟動已停用的使用者，並嘗試在重新啟動使用者視窗中為他們指派存取層級時，存取層級下拉選單不會隨著使用者輸入而填入，並且使用者無法選取存取層級。如果使用者輸入存取層級並儲存，則該存取層級不會指派給重新啟動的使用者。
 hidefromtoc: true
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: ht
+exl-id: 190e77c4-4409-4c24-b32c-9d92401aecd4
+feature: People Teams and Groups
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
 ---
-
 
 # 使用者：重新啟動使用者時未指派存取層級
 
@@ -23,4 +24,3 @@ ht-degree: 100%
 重新啟動使用者，然後在[!UICONTROL 編輯人物]視窗指派存取層級。
 
 _於 2023 年 2 月 9 日首次回報。_
-

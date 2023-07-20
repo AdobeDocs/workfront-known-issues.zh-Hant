@@ -2,7 +2,8 @@
 title: 「報告：按自訂欄位排序時報告未正確排序
 description: 「當使用者執行任務報告時，報告在載入時似乎排序正確，但在完成載入後使用者會看到報告排序不正確。
 hidefromtoc: true
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%

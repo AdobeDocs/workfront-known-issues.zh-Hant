@@ -1,16 +1,17 @@
 ---
-title: 「顯示的校樣不如原始影像清晰」
-description: 「當使用者建立校樣，然後在校樣檢視器中查看該校樣時，校樣不如原始影像清晰 (較模糊)。」
+title: 顯示的校樣不如原始影像清晰
+description: 當使用者建立校樣，然後在校樣檢視器中查看該校樣時，校樣不如原始影像清晰 (較模糊)。
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
+exl-id: b9ab4de1-7e89-4577-8fd5-7c87855dea86
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-
-# 校樣：校樣檢視器顯示的校樣不如原始影像清晰
+# 校訂：校訂檢視器顯示的校訂不如原始影像清晰
 
 <!--This is on both the WF and WFP TOCs-->
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 當使用者建立校樣，然後在校樣檢視器中查看該校樣時，校樣不如原始影像清晰 (較模糊)。
 
 _於 2022 年 11 月 1 日首次通報。_
-

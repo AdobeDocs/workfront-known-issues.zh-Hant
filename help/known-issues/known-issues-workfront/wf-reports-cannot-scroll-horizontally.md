@@ -3,8 +3,9 @@ title: 「報告：在儀表板上查看時無法水平捲動報告」
 description: 如果使用者在儀表板上查看報告並嘗試水平捲動報告，報告沒有捲動，或欄標題落後於實際欄。如果報告有大量欄，水平捲動可能會鎖定頁面。
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 

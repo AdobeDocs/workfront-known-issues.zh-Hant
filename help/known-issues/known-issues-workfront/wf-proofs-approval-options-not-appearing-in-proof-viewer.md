@@ -2,8 +2,9 @@
 title: 「校訂：核准選項沒有顯示在校訂檢視器」
 description: 「當使用者嘗試在桌面校訂檢視器中核准校訂時，在請求核准之後，核准選項很快就不可見，且使用者無法核准校訂。在請求核准幾個小時後，核准選項就會出現。」
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

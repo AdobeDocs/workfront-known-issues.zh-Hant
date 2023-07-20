@@ -3,8 +3,9 @@ title: 'Workfront Proof：搜尋未傳回任何結果'
 description: 當使用者在 Workfront Proof 中搜尋校訂時，搜尋未傳回任何結果。 搜尋可能建議校訂供使用者選擇，但如果使用者完成搜尋，這些建議不會出現在結果中。
 hidefromtoc: true
 exl-id: d00c9e40-49f9-4d7b-a6f8-9b506b5c5bc5
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

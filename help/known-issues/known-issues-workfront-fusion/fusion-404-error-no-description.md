@@ -3,8 +3,9 @@ title: 「Workfront Fusion：Fusion 模組傳回 404 錯誤，沒有更多資訊
 description: 當 Workfront Fusion 模組傳回 404 錯誤時，該錯誤未提供有關導致錯誤之原因的進一步詳細資訊。這是因為 404 錯誤是從模組連接到的應用程式發送到 Workfront Fusion，而該應用程式沒有向 Workfront Fusion 提供其他詳細資訊。
 hidefromtoc: true
 exl-id: 07a93454-2647-4c60-bdfd-3779e3c6f9b3
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

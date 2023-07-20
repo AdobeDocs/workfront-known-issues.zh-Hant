@@ -3,8 +3,9 @@ title: '範本：無法從「最愛的範本」中選取範本'
 description: 當使用者嘗試從「動作」(三點) 選單中選取範本時，範本清單在使用者將滑鼠移至清單時消失，並且使用者無法選取範本。這是因為捲軸位於選單和範本清單之間，當滑鼠移動到範本清單時滑鼠會聚焦在捲軸上。
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Projects
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 

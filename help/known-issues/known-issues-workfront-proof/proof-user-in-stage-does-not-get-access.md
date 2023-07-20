@@ -3,8 +3,9 @@ title: '校訂：校訂未分享給校訂工作流程的使用者'
 description: 當校訂到達工作流程中使用者當初建立校訂時新增的階段時，校訂分享給使用者，且使用者無法存取校訂。
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 

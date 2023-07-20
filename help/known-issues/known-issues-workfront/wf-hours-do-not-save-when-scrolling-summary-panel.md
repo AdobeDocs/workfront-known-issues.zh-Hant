@@ -2,9 +2,10 @@
 title: '任務：在任務中輸入時數時，時數未儲存[!UICONTROL 摘要面板]'
 description: 「當使用者嘗試在該任務的摘要面板中輸入任務時數時，時數未儲存。當使用者將游標移出時數輸入所在方格並捲動[!UICONTROL 摘要面板]時，就會出現此問題。」
 hidefromtoc: true
+feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 

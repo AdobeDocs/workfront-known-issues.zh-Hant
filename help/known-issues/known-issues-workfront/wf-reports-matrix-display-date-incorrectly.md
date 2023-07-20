@@ -2,8 +2,9 @@
 title: 「報告：矩陣報告日期顯示不正確」
 description: 「依照日期將圖表或矩陣報告分組時，接近分組邊緣的日期可能會顯示在正確的分組、上一個/下一個分組中，或兩者都顯示。」
 hidefromtoc: true
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

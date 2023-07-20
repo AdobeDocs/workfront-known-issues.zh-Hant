@@ -3,8 +3,9 @@ title: '搜尋：Workfront 搜尋逾時'
 description: Workfront 搜尋逾時。 搜尋可能會傳回一些結果，或者不傳回任何結果。
 hidefromtoc: true
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 

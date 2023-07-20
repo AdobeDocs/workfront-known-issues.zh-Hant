@@ -1,14 +1,15 @@
 ---
-title: 「時程表：時數類型下拉選單未開啟」
-description: 「當使用者嘗試開啟時程表上的時數類型下拉選單時，畫面會閃爍但下拉選單不會開啟。當顯示器設為異常解析度，或者瀏覽器視窗的縮放比例未設為 100% 時，就會發生這種情況。」
+title: '時程表：時數類型下拉選單未開啟'
+description: 「當使用者嘗試開啟時程表上的時數類型下拉選單時，畫面會閃爍但下拉選單不會開啟。當顯示器設為異常解析度，或者瀏覽器視窗的縮放比例未設為 100% 時，就會發生這種情況。
 hidefromtoc: true
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
-workflow-type: ht
+exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
-
 
 # 時程表：[!UICONTROL 時數類型]下拉選單未開啟
 
@@ -26,4 +27,3 @@ ht-degree: 100%
 * 調整顯示器解析度
 
 _於 2023 年 1 月 30 日首次回報。_
-

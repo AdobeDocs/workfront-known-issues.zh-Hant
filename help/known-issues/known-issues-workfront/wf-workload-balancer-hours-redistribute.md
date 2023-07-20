@@ -2,8 +2,9 @@
 title: 「Workload Balancer：時數意外重新分配」
 description: 「當為特定任務分配時數時，這些時數可能會意外重新計算和重新分配。在日期或頁面之間按 Tab 鍵之後，或是重新整理頁面之後，可能會發生這種情況。」
 hidefromtoc: true
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

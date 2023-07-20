@@ -3,8 +3,9 @@ title: 「校訂：已從校訂工作流程停用使用者，並在存取校訂�
 description: 當使用者嘗試存取他們被指派到工作流程的校訂時，他們會看到「不允許存取」訊息。
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

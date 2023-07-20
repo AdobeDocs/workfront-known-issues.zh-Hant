@@ -3,8 +3,9 @@ title: 「校訂：自動存取校訂延遲」
 description: 當使用者被指派為具有自動化工作流程之校訂的檢閱者和核准者時，存取會延遲，且他們無法存取校訂。
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 

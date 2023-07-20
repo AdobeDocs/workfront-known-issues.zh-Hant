@@ -3,8 +3,9 @@ title: '工作負載平衡器：時數不會根據使用者休假時間進行調
 description: 如果使用者已排程休假並已指派任務，工作負載平衡器不會根據休假時間更新時間表。相反地，工作負載平衡器顯示使用者在他們計劃休假的日子有過度分配的狀況。若要調整時數，管理員必須進入專案並重新計算時間表。
 hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

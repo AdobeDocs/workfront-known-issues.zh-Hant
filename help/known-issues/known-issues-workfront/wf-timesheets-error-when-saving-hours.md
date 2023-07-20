@@ -2,8 +2,9 @@
 title: 「時程表：在時程表記錄時間時發生錯誤」
 description: 「使用者嘗試在其時間表的任務上記錄時數時，時數沒有儲存，且使用者看到錯誤訊息。
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

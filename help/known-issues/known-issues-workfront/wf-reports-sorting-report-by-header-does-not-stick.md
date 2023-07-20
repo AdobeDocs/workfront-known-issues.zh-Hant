@@ -1,14 +1,15 @@
 ---
-title: 「報告：依欄標題排序後恢復到先前的排序」
-description: 「當使用者嘗試按一下欄標題來排序報告時，報告會根據該欄進行排序，但隨後會迅速恢復為先前的排序。」
+title: '報告：依欄標題排序後恢復到先前的排序'
+description: 當使用者嘗試按一下欄標題來排序報告時，報告會根據該欄進行排序，但隨後會迅速恢復為先前的排序。
 hidefromtoc: true
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: ht
+exl-id: aac9543e-a7ab-4147-88ca-247ea12a7698
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
 ---
-
 
 # 報告：依欄標題排序後恢復到先前的排序
 
@@ -23,4 +24,3 @@ ht-degree: 100%
 在 Report Builder 中設定排序順序。
 
 _於 2023 年 2 月 21 日首次回報。_
-

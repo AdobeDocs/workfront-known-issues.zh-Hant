@@ -2,8 +2,9 @@
 title: 「設定：無法編輯職務角色的成本/小時或計費/小時」
 description: 「當使用者編輯職務角色並嘗試編輯成本/小時或計費/小時欄位時，這些欄位為空白，使用者無法編輯欄位。」
 hidefromtoc: true
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

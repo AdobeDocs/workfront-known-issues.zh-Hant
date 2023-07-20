@@ -3,8 +3,9 @@ title: 「工作負載平衡器：一次使用多個篩選器時結果會不準�
 description: 當使用者檢視工作負載平衡器並同時使用多個篩選器時，結果會不準確。例如，使用篩選器 A 和使用篩選器 B 時顯示的結果在同時使用篩選器 A 和 B 時不會顯示。
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

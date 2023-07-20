@@ -3,8 +3,9 @@ title: 「首頁：完成的校訂卡在工作清單」
 description: 使用者完成校訂後，它仍會出現在[!UICONTROL 工作清單]中。
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
 hidefromtoc: true
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 

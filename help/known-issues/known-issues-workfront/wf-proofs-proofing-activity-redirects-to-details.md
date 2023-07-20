@@ -3,8 +3,9 @@ title: 「校訂：校訂活動標籤會開啟校訂詳細資訊」
 description: 當使用者檢視校訂並按一下「校訂活動」標籤時，開啟的是「校訂詳細資訊」標籤。當手動將校訂階段新增到工作流程時，就會發生這種情況。
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

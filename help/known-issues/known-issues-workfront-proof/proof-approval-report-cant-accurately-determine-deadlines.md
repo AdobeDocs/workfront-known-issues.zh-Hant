@@ -3,8 +3,9 @@ title: 「校訂：校訂核准報告無法準確確定截止日期」
 description: 當使用者建立包含校訂截止日期的[!UICONTROL 校訂核准]報告，報告中顯示的日期不正確，導致報告計算錯誤和結果中的資訊不准確。
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: 'Workfront Proof API：正文不是有效的 XML 錯誤'
 description: 對 Workfront Proof API 的呼叫傳回錯誤。
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 

@@ -1,14 +1,15 @@
 ---
-title: 「整合：從 Jira 登入 Workfront 時發生錯誤」
-description: 「當使用者嘗試使用 Workfront for Jira 整合從 Jira 登入 Workfront 時，頁面未載入，並且使用者看到錯誤。」
+title: 「整合：從Jira登入Workfront時發生錯誤」
+description: 當使用者嘗試使用用於Jira整合的Workfront從Jira登入Workfront時，頁面未載入，且使用者會看到錯誤。
 hidefromtoc: true
-source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: ht
+feature: Workfront Integrations and Apps
+exl-id: 8d3b2563-8ab8-4136-9ba1-fe7a0c4654f5
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # 整合：登入 [!DNL Workfront] 時 (從 [!DNL Jira]) 發生錯誤
 
@@ -23,4 +24,3 @@ ht-degree: 100%
 使用者無法登入 [!DNL Workfront]。
 
 _於 2023 年 2 月 24 日首次回報。_
-
