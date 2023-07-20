@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
 description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 97%
+source-wordcount: '604'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
+| [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 | [[!UICONTROL 首頁]： [!UICONTROL 首頁工作清單] 空白/載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023 年 7 月 18 日 |
 | [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
 | [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 6 月 12 日 |
