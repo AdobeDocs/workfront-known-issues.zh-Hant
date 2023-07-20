@@ -1,9 +1,10 @@
 ---
 title: 「展示板：水平捲軸未出現」
 description: 「當使用者檢視展示板並嘗試水平捲動時，水平捲軸未出現，使用者無法水平捲動。」
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

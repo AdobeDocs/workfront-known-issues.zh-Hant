@@ -3,8 +3,9 @@ title: 「行事曆：休假行事曆發生問題」
 description: 已報告有關休假行事曆的問題。
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
-source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

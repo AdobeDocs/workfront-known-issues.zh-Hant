@@ -1,8 +1,9 @@
 ---
 title: 「檔案整合：無法在OneDrive中看到所有資料夾」
 description: 「當使用者嘗試透過Workfront中的OneDrive整合存取檔案時，使用者無法看到所有OneDrive資料夾，也無法存取遺失資料夾中的檔案。」
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 27%

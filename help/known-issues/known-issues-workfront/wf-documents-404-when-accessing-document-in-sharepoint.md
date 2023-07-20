@@ -2,9 +2,10 @@
 title: '文件：存取連結自 SharePoint 的文件時出現 404 錯誤'
 description: 當使用者嘗試存取透過 SharePoint 連結的文件時，被導向顯示 404 錯誤的頁面。
 hidefromtoc: true
+feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

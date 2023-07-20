@@ -1,14 +1,15 @@
 ---
-title: 「文件：上傳大型檔案時發生錯誤」
-description: 「當使用者嘗試上傳大型檔案 (超過 25 MB) 時，檔案沒有上傳，使用者將看到「無法上傳檔案」錯誤。」
+title: '文件：上傳大型檔案時發生錯誤'
+description: 當使用者嘗試上傳大型檔案（超過25 MB）時，檔案沒有上傳，使用者將看到「無法上傳檔案」錯誤。
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 69%
 
 ---
-
 
 # 文件：上傳大型檔案時發生錯誤
 
@@ -25,4 +26,3 @@ ht-degree: 100%
 上傳文件作為證明。
 
 _於 2022 年 11 月 14 日首次通報。_
-

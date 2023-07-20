@@ -1,14 +1,15 @@
 ---
-title: 「自訂表單：自訂下拉欄位中的問題」
-description: 「當作複選欄位啟用的自訂下拉欄位可能會顯示問題。」
+title: '自訂表單：自訂下拉欄位中的問題'
+description: 啟用為多選欄位的自訂下拉欄位可能會顯示問題。
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: ht
+feature: Custom Forms
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
-
 
 # 自訂表單：自訂下拉欄位中的問題
 
@@ -29,4 +30,3 @@ ht-degree: 100%
 * 設定預設值。
 
 _於 2023 年 3 月 30 日首次通報。_
-

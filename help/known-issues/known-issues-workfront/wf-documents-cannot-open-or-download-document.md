@@ -1,16 +1,17 @@
 ---
 title: "文件：開啟或下載文件時出現「此頁面不存在」錯誤"
-description: “當使用者嘗試在 Workfront 中開啟或下載文件時，他們無法開啟或下載它，並且看到錯誤”
+description: 當使用者嘗試在Workfront中開啟或下載檔案時，他們無法開啟或下載，並且會看到一個錯誤
 hidefromtoc: true
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 8d25c1a4-bd9d-48cf-8ebe-a9ff49335173
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
-
-# 文件：&quot;開啟或下載文件時出現「此頁面不存在」錯誤
+# 文件：開啟或下載文件時出現「此頁面不存在」錯誤
 
 <!--This article is on the WF and WFP TOC-->
 

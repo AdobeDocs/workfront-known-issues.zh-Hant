@@ -1,9 +1,10 @@
 ---
 title: 「首頁：項目未出現在首頁工作清單中」
 description: 「使用者查看他們的首頁工作清單時，應出現在工作清單中的項目不存在。例如，使用者可能會前往專案並看到他們獲指派專案任務，但這些任務並未出現在使用者的首頁工作清單中。」
+feature: Get Started with Workfront
 hidefromtoc: true
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: '文件：文件清單問題 '
 description: 這篇文章描述最近回報的文件清單問題。
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 

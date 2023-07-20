@@ -3,8 +3,9 @@ title: 「首頁：使用 Chrome 以外的瀏覽器時出現的首頁摘要問�
 description: 當使用者查看他們的首頁並使用 Chrome 以外的瀏覽器時，他們可能會看到各種問題。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
