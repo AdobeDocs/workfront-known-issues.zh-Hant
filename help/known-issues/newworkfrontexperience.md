@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 94%
+source-wordcount: '626'
+ht-degree: 93%
 
 ---
 
@@ -29,9 +29,7 @@ ht-degree: 94%
 | [專案/問題：專案無法正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 21 日 |
 | [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
 | [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
-| [[!UICONTROL 首頁]：[!UICONTROL 首頁工作清單]是空白的 / 載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023 年 7 月 18 日 |
 | [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
-| [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 6 月 12 日 |
 
 {style="table-layout:auto"}
 
@@ -41,10 +39,11 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [設定：無法編輯職務角色的成本/小時或計費/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 10 日 |
+| [檔案：目前不支援EPS檔案](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023 年 7 月 21 日 |
+| [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
+| [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 7 月 21 日 |
 | [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
-| [工作負載平衡器：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 11 月 5 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
@@ -56,6 +55,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：無法編輯職務角色的成本/小時或計費/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [文件整合：無法查看  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 中的所有資料夾 | 2023 年 7 月 18 日 |
 | [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |

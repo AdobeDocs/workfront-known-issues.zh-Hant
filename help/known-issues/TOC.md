@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1376'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [檔案：目前不支援EPS檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [專案/問題：專案無法正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
