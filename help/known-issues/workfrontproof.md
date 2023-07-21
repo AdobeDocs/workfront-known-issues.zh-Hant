@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 94%
+source-wordcount: '318'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 7 月 21 日 |
 | [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
 | [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 

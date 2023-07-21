@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1370'
 ht-degree: 97%
 
 ---
@@ -17,11 +17,13 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [專案/問題：專案無法正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [檔案整合：無法看見所有資料夾 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL 首頁]： [!UICONTROL 首頁工作清單] 空白/載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [文件整合：無法查看  [!DNL OneDrive] 中的所有資料夾](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [[!UICONTROL 首頁]：[!UICONTROL 首頁工作清單]是空白的 / 載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：無法編輯職務角色的成本/小時或計費/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md)
       + [專案/任務/問題：時間表不會重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
