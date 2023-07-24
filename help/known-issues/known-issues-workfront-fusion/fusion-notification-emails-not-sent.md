@@ -4,7 +4,7 @@ description: “當 Workfront Fusion 中發生應觸發通知電子郵件的事�
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
