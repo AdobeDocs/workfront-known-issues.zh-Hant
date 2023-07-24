@@ -24,7 +24,7 @@ ht-degree: 97%
       + [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [文件整合：無法查看  [!DNL OneDrive] 中的所有資料夾](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL 首頁]：[!UICONTROL 首頁工作清單]是空白的 / 載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [[!UICONTROL 首頁]：[!UICONTROL 首頁工作清單]是空白的/載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：無法編輯職務角色的成本/小時或計費/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md)
       + [專案/任務/問題：時間表不會重新計算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
