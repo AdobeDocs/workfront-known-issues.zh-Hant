@@ -4,7 +4,7 @@ description: 「當使用者在 [!UICONTROL 看板] 上變更卡片內容，[!UI
 feature: Agile
 hidefromtoc: true
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
