@@ -4,7 +4,7 @@ description: 「在客戶嘗試檢視使用情況報告時，使用者會看到�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 
