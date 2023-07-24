@@ -4,7 +4,7 @@ description: 「使用者嘗試在其時間表的任務上記錄時數時，時�
 hidefromtoc: true
 feature: Timesheets
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
