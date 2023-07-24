@@ -4,7 +4,7 @@ description: 「使用者在預覽環境中建立校訂時，建立的速度非�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
