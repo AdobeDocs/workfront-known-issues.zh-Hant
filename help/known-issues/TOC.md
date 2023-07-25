@@ -2,7 +2,7 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 96%
@@ -17,7 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [檔案：檔案核准未出現在核准區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [檔案：檔案核准未出現在 [!UICONTROL 核准] 區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [檔案：目前不支援EPS檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [專案/問題：專案無法正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md)
