@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 96%
+source-wordcount: '1392'
+ht-degree: 95%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 96%
       + [檔案：檔案核准未出現在 [!UICONTROL 核准] 區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [檔案：目前不支援EPS檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [專案/問題：專案無法正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [專案/問題：專案未正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
@@ -172,6 +172,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [[!DNL Workfront Fusion]：無法在中輸入值 [!DNL Workfront] > [!UICONTROL 觀看活動] 篩選](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 無法執行更新]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：未傳送通知電子郵件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]執行停滯或延後](known-issues-workfront-fusion/fusion-stuck-executions.md)
