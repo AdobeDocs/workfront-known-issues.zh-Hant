@@ -4,7 +4,7 @@ description: 「當為特定任務分配時數時，這些時數可能會意外�
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
