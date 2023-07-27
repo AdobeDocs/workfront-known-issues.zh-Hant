@@ -1,13 +1,13 @@
 ---
-title: 「通知：當使用者在評論中被提及或內含時，未收到電子郵件或應用程式內通知」
+title: 通知：當使用者在評論中被提及或內含時，未收到電子郵件或應用程式內通知
 description: 當物件更新流上的評論或更新中有提及或包含使用者時，他們可能不會收到有關評論的預期電子郵件或應用程式內通知。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
