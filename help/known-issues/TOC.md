@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 95%
+source-wordcount: '1402'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [任務/問題：指派的使用者沒有物件的存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [檔案：檔案核准未出現在 [!UICONTROL 核准] 區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [檔案：目前不支援EPS檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [文件：目前不支援 EPS 檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [文件：下載時發生 XML 錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [專案/問題：專案未正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [文件整合：無法查看  [!DNL OneDrive] 中的所有資料夾](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL 首頁]：[!UICONTROL 首頁工作清單]是空白的/載入緩慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：無法編輯職務角色的成本/小時或計費/小時](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
