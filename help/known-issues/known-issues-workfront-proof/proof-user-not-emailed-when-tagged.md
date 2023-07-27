@@ -1,11 +1,11 @@
 ---
-title: '校訂：使用者在校訂評論中被標記時，沒有收到電子郵件'
+title: 「校訂：使用者在校訂評論中被標記時，沒有收到電子郵件」
 description: 當使用者在校訂評論中使用 @名稱格式被標記時，他們沒有收到有關評論的電子郵件通知。
 hidefromtoc: true
 exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30
 feature: Workfront Proof
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
