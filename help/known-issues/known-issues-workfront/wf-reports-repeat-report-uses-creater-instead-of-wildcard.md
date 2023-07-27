@@ -1,13 +1,13 @@
 ---
-title: '報告：報告使用了報告建立工具，而非萬用字元 $$USERID'
-description: 當報告為重複傳遞且包含萬用字元$$USERID時，報告會使用報告建立工具而非萬用字元執行。 這僅發生在重複傳遞時。該報告在手動執行或使用「立即傳送」時會依預期運作。"
+title: 「報告：報告使用了報告建立工具，而非萬用字元 $$USERID」
+description: 當報告為重複傳遞且包含萬用字元 $$USERID 時，報告會使用報告建立工具而非萬用字元執行。這僅發生在重複傳遞時。該報告在手動執行或使用「立即傳送」時會依預期運作。
 hidefromtoc: true
 exl-id: d46cdb4a-5aba-4225-a440-30f45d59a7e4
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
