@@ -1,11 +1,11 @@
 ---
-title: '專案：從範本建立專案時「主群組」自訂狀態不可用'
-description: '"'
+title: 「專案：從範本建立專案時「主群組」自訂狀態不可用」
+description: 」
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
