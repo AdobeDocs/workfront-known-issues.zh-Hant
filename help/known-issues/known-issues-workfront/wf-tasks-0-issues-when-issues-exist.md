@@ -1,13 +1,13 @@
 ---
-title: 「問題：出現問題時顯示左側導覽(0)問題」
-description: 當使用者檢視出現問題的任務時，任務左側導覽的問題區域顯示(0)，表示沒有問題。 如果使用者檢視任務的問題區域，他們會看到問題。
+title: 「問題：出現問題時左側導覽會顯示 (0) 個問題」
+description: 當使用者檢視出現問題的任務時，任務左側導覽的問題區域顯示 (0)，表示沒有問題。如果使用者檢視任務的問題區域，他們會看到問題。
 hidefromtoc: true
 exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
