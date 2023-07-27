@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 89%
+source-wordcount: '332'
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,8 @@ ht-degree: 89%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [檔案：檔案核准未出現在 [!UICONTROL 核准] 區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
-| [檔案：下載時出現XML錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 7 月 21 日 |
-| [校訂：校訂未顯示在核准的報表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
-| [校樣：按一下校樣時出現「沒有影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
+| [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
+| [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +37,6 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [檔案：目前不支援EPS檔案](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023 年 7 月 21 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
 

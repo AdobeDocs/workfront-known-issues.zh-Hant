@@ -1,24 +1,28 @@
 ---
-title: 「檔案：下載時出現XML錯誤」
-description: 「當使用者嘗試下載檔案時，檔案未下載，且使用者看到一個頁面，其中訊息後面接著XML文字。」
+title: 「文件：下載時發生 XML 錯誤」
+description: 「當使用者嘗試下載文件時，該文件未下載，使用者看到頁面出現，其中包含一則訊息，後面接著 XML 文字。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '100'
+ht-degree: 100%
 
 ---
 
 
-# 檔案：下載時出現XML錯誤
+# 文件：下載時發生 XML 錯誤
 
 <!--WF, WFP TOCs-->
 
-當使用者嘗試下載檔案時，檔案未下載，且使用者會看到一個頁面，其中包含以下訊息，然後是XML文字。
+>[!NOTE]
+>
+>此問題已在 2023 年 7 月 21 日修正。
 
-&quot;[!UICONTROL XML檔案似乎沒有任何相關聯的樣式資訊。 檔案樹狀結構如下。]&quot;
+當使用者嘗試下載文件時，該文件未下載，使用者看到頁面出現，其中包含以下訊息，後面接著 XML 文字。
 
-已報告檔案超過25 MB的情況。
+「[!UICONTROL  XML 檔案似乎沒有任何關聯的樣式資訊。文件樹如下。]」
+
+超過 25 MB 的檔案有回報此問題。
 
 _於 2023 年 7 月 20 日首次通報。_

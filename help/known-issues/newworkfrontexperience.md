@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '647'
-ht-degree: 97%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 
@@ -27,10 +27,7 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [任務/問題：指派的使用者沒有物件的存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
 | [檔案：檔案核准未出現在 [!UICONTROL 核准] 區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
-| [文件：下載時發生 XML 錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 7 月 21 日 |
-| [專案/問題：專案未正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 21 日 |
-| [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
-| [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
+| s | [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 | [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
 
 {style="table-layout:auto"}
@@ -41,10 +38,9 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：目前不支援 EPS 檔案](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023 年 7 月 21 日 |
+| [專案/問題：專案未正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 27 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 7 月 21 日 |
-| [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
