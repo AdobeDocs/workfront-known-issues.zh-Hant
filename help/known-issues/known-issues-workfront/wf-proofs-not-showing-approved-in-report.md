@@ -4,7 +4,7 @@ description: 「當使用者查看包含校訂核准決策的報告時，該報�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 9e9989098f6a67ebbc90de87d64219f71aba56ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
