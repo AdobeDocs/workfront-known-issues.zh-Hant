@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 99%
+source-wordcount: '4451'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 99%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
-## 2023 年 7 月更新
+## 2023 年 8 月更新
 
-+++**(預計) 2023 年 7 月 27 日維護更新**
++++**（預計） 2023年8月3日維護更新**
 
 **專案無法正確解決問題**
 
@@ -45,6 +45,12 @@ _報告_
 ## 2023 年 7 月更新
 
 +++**2023 年 7 月 27 日進行更新維護**
+
+**標籤和檢查清單專案在專案面板檢視中無法正常運作**
+
+_展示板_
+
+標籤和檢查清單專案已從專案的面板檢視中移除，因為這些專案不是Workfront任務的一部分，且無法在使用者之間共用。
 
 **「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能**
 
