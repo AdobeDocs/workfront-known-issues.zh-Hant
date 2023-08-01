@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
