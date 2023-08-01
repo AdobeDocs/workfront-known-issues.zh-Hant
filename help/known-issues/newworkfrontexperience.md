@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [任務/問題：指派的使用者沒有物件的存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
-| [檔案：檔案核准未出現在 [!UICONTROL 核准] 區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
+| [任務/問題：獲指派的使用者未獲得物件存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
+| [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 | s | [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 | [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
 

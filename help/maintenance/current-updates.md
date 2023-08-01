@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
 source-wordcount: '4303'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 +++**2023 年 7 月 27 日進行更新維護**
 
-**&quot;[!UICONTROL 在整個系統內啟用]「和」[!UICONTROL 檢視系統範圍]」代表不同的功能**
+**「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能**
 
 _篩選器_
 
@@ -724,7 +724,7 @@ _團隊_
 
 >[!NOTE]
 >
->此更新已於 2022 年 11 月 3 日發佈到預覽環境，現在可在生產環境中使用。
+>此更新已在 2022 年 11 月 3 日發佈到預覽環境，現在可在生產環境中使用。
 
 _Workfront_
 
