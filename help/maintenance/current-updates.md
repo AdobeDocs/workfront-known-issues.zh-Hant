@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 98%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ ht-degree: 98%
 ## 2023 年 8 月更新
 
 +++**（預計） 2023年8月3日維護更新**
+
+**在輸入欄中尋找專案困難**
+
+_展示板_
+
+看板上的輸入欄先前是按任務和問題上定義的優先順序排序，這使得尋找特定專案變得困難。
+
+預設順序現在如下所示：
+
+任務:
+
+* 主要訂單：專案名稱
+* 次要順序：工作細目結構
+
+問題
+
+* 主要訂單：專案名稱
+* 次要訂單：參考編號
 
 **專案無法正確解決問題**
 

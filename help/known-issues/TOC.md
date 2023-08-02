@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
-workflow-type: ht
-source-wordcount: '1001'
-ht-degree: 100%
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+workflow-type: tm+mt
+source-wordcount: '1046'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校訂：建立新校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [校訂：核准的校訂仍保留在核准者的上 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [校樣：最上方有截斷的校樣顯示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [首頁：無法刪除 [!UICONTROL 待辦事項] 新增專案 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [校訂：無法在清單或專案符號中選取文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [任務/問題：獲指派的使用者未獲得物件存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [文件：目前不支援 EPS 檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
