@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 93%
 
 ---
@@ -43,7 +43,6 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [校訂：建立新校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
 | [首頁：無法刪除 [!UICONTROL 待辦事項] 新增專案 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023 年 8 月 2 日 |
-| [專案/問題：專案未正確解決問題](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 27 日 |
 | [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)中 | 2023 年 7 月 21 日 |
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
