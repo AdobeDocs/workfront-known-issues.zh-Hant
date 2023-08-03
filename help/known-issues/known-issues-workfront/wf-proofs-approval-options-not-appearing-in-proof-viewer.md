@@ -3,15 +3,19 @@ title: 「校訂：核准選項沒有顯示在校訂檢視器」
 description: 「當使用者嘗試在桌面校訂檢視器中核准校訂時，在請求核准之後，核准選項很快就不可見，且使用者無法核准校訂。在請求核准幾個小時後，核准選項就會出現。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
 
 
 # 校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]
+
+>[!NOTE]
+>
+>此問題已關閉因為無法重現它。
 
 「當使用者嘗試在[!UICONTROL 桌面校訂檢視器]中核准校訂時，在請求核准之後，核准選項很快就不可見，且使用者無法核准校訂。在請求核准幾個小時後，核准選項就會出現。
 
