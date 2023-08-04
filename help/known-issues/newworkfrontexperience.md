@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 90%
+source-wordcount: '661'
+ht-degree: 89%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [專案：釘選專案未在某些欄中顯示資訊](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 2023年8月4日 |
 | [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年8月3日 |
 | [校訂：無法調整校訂標籤](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日 |
 | [校訂：建立新校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
