@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 89%
+source-wordcount: '668'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [看板：載入看板時的問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023年8月7日 |
 | [校訂：校訂無法產生](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023年8月3日 |
 | [校訂：核准的校訂仍保留在核准者的上 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 8 月 2 日 |
 | [校樣：最上方有截斷的校樣顯示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 2 日 |

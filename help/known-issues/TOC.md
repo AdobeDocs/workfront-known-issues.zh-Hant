@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '1078'
+source-wordcount: '1084'
 ht-degree: 92%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板：載入看板時的問題](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [專案：釘選專案未在某些欄中顯示資訊](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [校訂：無法調整校訂標籤](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [校訂：校訂無法產生](known-issues-workfront/wf-proofs-fail-to-generate.md)
