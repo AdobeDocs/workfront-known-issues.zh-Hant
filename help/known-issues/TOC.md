@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 92%
+source-wordcount: '1095'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：無法透過使用的URL導覽至專案 [!UICONTROL 參考ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [看板：載入看板時的問題](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [專案：釘選專案未在某些欄中顯示資訊](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
-      + [校訂：無法調整校訂標籤](known-issues-workfront/wf-proof-markup-tools-not-working.md)
-      + [校訂：校訂無法產生](known-issues-workfront/wf-proofs-fail-to-generate.md)
-      + [校訂：建立新校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [校訂：核准的校訂仍保留在核准者的上 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [校樣：最上方有截斷的校樣顯示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [首頁：無法刪除 [!UICONTROL 待辦事項] 新增專案 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-home-cannot-delete-todo.md)
-      + [校訂：無法在清單或專案符號中選取文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [校訂：無法調整校訂標記](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md)
+      + [校訂：建立新的校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [校訂：已核准校訂仍保留在核准者的[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [校訂：校訂顯示時頂端被切掉](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [首頁：無法在新的 [!UICONTROL 首頁]體驗中刪除[!UICONTROL 待辦事項]項目](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [校訂：無法選取清單或項目要點中的文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [任務/問題：獲指派的使用者未獲得物件存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [文件：目前不支援 EPS 檔案](known-issues-workfront/wf-documents-not-supporting-eps.md)
@@ -141,8 +142,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Workfront Fusion]：造成案例擱置的睡眠模組](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]：案例失敗於&quot;[!UICONTROL 讀取ECONNESET]「錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]：睡眠模組造成情境被擱置](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]：情境失敗並出現「[!UICONTROL 讀取 ECONNRESET]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：無法在 [!DNL Workfront] >[!UICONTROL 觀看活動]」篩選單中輸入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 無法執行更新]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：未傳送通知電子郵件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
