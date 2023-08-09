@@ -4,7 +4,7 @@ description: 「當使用者嘗試在桌面校訂檢視器中核准校訂時，�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
