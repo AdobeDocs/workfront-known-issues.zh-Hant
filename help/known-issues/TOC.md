@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 95%
+source-wordcount: '1127'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!UICONTROL 工作負載平衡器]： [!UICONTROL 總時數] 不符合總和 [!UICONTROL 計畫時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [報告：載入Matrix報告時的問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [校樣：校樣上重疊的文字](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [校樣： &quot;[!UICONTROL 停用校訂電子郵件通知]「設定顯示不正確](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
