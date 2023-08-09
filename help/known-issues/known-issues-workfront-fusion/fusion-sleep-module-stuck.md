@@ -1,19 +1,19 @@
 ---
-title: 「Workfront Fusion：造成案例擱置的睡眠模組」
-description: 「案例中的「工具>睡眠模組」可能會導致案例執行擱置。 這些執行在「情境歷史記錄」中顯示「執行中」狀態，但未完成。」
+title: 「Workfront Fusion：睡眠模組造成情境被擱置」
+description: 「情境中的工具 > 睡眠模組可能會造成情境執行被擱置。這些執行在情境歷史記錄中顯示執行中狀態，並且未完成。」
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]：造成案例擱置的睡眠模組
+# [!DNL Workfront Fusion]：睡眠模組造成情境被擱置
 
-此 [!UICONTROL 工具] > [!UICONTROL 睡眠] 案例中的模組可能會導致案例執行擱置。 這些執行在中顯示「執行中」狀態 [!UICONTROL 案例歷史記錄]，且請勿完成。
+情境中的[!UICONTROL 工具] > [!UICONTROL 睡眠]模組可能會造成情境執行被擱置。這些執行在[!UICONTROL 情境歷史記錄]中顯示「執行中」狀態，並且未完成。
 
 _於 2023 年 7 月 26 日首次通報。_
 
