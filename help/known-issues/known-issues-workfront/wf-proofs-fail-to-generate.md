@@ -1,21 +1,21 @@
 ---
-title: 「校訂：校訂無法產生」
-description: 「當使用者嘗試從上傳到Workfront的檔案建立校訂時，校訂無法產生。」
+title: 「校訂：無法產生校訂」
+description: 「當使用者嘗試從上傳到 Workfront 的文件建立校訂時，無法產生校訂。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# 校訂：校訂無法產生
+# 校訂：無法產生校訂
 
 <!--Wf and WFP TOCs-->
 
-當使用者嘗試從上傳到的檔案建立校訂時 [!DNL Workfront]，無法產生校訂。
+當使用者嘗試從上傳到 [!DNL Workfront] 的文件建立校訂時，無法產生校訂。
 
 _於 2023 年 7 月 28 日首次通報。_
 
