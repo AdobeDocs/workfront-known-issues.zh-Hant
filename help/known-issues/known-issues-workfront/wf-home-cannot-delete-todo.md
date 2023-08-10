@@ -3,15 +3,19 @@ title: 「首頁：無法在新的首頁體驗中刪除待辦事項」
 description: 「當使用者在新的首頁體驗嘗試從待辦事項 Widget 中刪除項目時，該項目不會被刪除，並且使用者會看到錯誤。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 94%
 
 ---
 
 
 # 首頁：無法在新的 [!UICONTROL 首頁]體驗中刪除[!UICONTROL 待辦事項]項目
+
+>[!NOTE]
+>
+>此問題已在2023年8月10日解決。
 
 當使用者在新的[!UICONTROL 首頁]體驗嘗試從[!UICONTROL 待辦事項] Widget 中刪除項目時，該項目不會被刪除，並且使用者會看到錯誤。
 
