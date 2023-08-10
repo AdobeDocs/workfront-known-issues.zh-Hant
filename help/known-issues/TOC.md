@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 94%
+source-wordcount: '1147'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校樣：校樣顏色顯示不正確](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL 首頁]： &quot;[!UICONTROL 提及]「 widget in new [!UICONTROL 首頁] 不限於已標籤使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作負載平衡器]： [!UICONTROL 總時數] 不符合總和 [!UICONTROL 計畫時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [報告：載入Matrix報告時的問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [校樣：校樣上重疊的文字](known-issues-workfront/wf-proofs-overlapping-text.md)

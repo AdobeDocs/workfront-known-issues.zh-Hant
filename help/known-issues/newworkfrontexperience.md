@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '695'
-ht-degree: 92%
+source-wordcount: '717'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校樣：校樣顏色顯示不正確](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 10 日 |
+| [[!UICONTROL 首頁]： &quot;[!UICONTROL 提及]「 widget in new [!UICONTROL 首頁] 不限於已標籤使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 10 日 |
 | [[!UICONTROL 工作負載平衡器]： [!UICONTROL 總時數] 不符合總和 [!UICONTROL 計畫時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 2023 年 8 月 9 日 |
 | [報告：載入Matrix報告時的問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 8 日 |
 | [看板：載入看板時的問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 7 日 |
