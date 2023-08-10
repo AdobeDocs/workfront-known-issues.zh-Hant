@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '380'
 ht-degree: 95%
 
 ---
@@ -27,11 +27,7 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [校樣：校樣顏色顯示不正確](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 10 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 3 日 |
-| [校訂：已核准校訂仍保留在核准者的[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 8 月 2 日 |
-| [校訂：校訂顯示時頂端被切掉](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 2 日 |
-| [校訂：無法選取清單或項目要點中的文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
 | [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
-| [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
 
 {style="table-layout:auto"}
 
@@ -41,6 +37,10 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：校訂顯示時頂端被切掉](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 10 日 |
+| [校訂：已核准校訂仍保留在核准者的[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 8 月 10 日 |
+| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 10 日 |
+| [校訂：無法選取清單或項目要點中的文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 10 日 |
 | [校樣：校樣上重疊的文字](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
 | [校樣： &quot;[!UICONTROL 停用校訂電子郵件通知]「設定顯示不正確](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 8 日 |
 | [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 3 日 |
