@@ -5,8 +5,8 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 98%
 
 ## 2023 年 8 月更新
 
-+++**（預計） 2023年8月10日維護更新**
++++**(預計) 2023 年 8 月 10 日維護更新**
 
-**無法刪除 [!UICONTROL 待辦事項] 新增專案 [!UICONTROL 首頁] 體驗**
+**無法在新的[!UICONTROL 首頁]體驗中刪除[!UICONTROL 待辦事項]項目**
 
 _首頁_
 
@@ -34,13 +34,13 @@ _首頁_
 
 將小時數記錄到[!UICONTROL 待辦事項]項目時，可能會發生這種情況。
 
-**釘選專案未在某些欄中顯示資訊**
+**釘選的專案在某些欄中未顯示資訊**
 
 _專案_
 
-當使用者使用圖釘導覽到釘選專案時，物件清單（例如任務清單）可能會顯示空白欄。 例如， [!UICONTROL 指定任務] 即使已執行指派，欄也可能不顯示任何指派。
+當使用者使用圖釘導覽至釘選的專案時，物件清單 (例如任務清單) 可能顯示空白欄。 例如，即使已進行指派，「[!UICONTROL 指派]」欄也可能未顯示任何指派。
 
-**造成案例擱置的睡眠模組**
+**睡眠模組造成情境被擱置**
 
 _[!DNL Workfront Fusion]_
 

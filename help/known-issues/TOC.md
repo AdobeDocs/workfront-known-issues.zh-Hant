@@ -4,8 +4,8 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1147'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 93%
       + [校樣：校樣顏色顯示不正確](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 首頁]： &quot;[!UICONTROL 提及]「 widget in new [!UICONTROL 首頁] 不限於已標籤使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作負載平衡器]： [!UICONTROL 總時數] 不符合總和 [!UICONTROL 計畫時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
-      + [報告：載入Matrix報告時的問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [校樣：校樣上重疊的文字](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [校樣： &quot;[!UICONTROL 停用校訂電子郵件通知]「設定顯示不正確](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [專案：無法透過使用的URL導覽至專案 [!UICONTROL 參考ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
-      + [看板：載入看板時的問題](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [專案：釘選專案未在某些欄中顯示資訊](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [報告：載入矩陣報告時出現問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [校訂：校訂上文字重疊](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [校訂：「[!UICONTROL 停用校訂電子郵件通知]」設定未正確顯示](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [專案：無法透過使用「[!UICONTROL 參考 ID]」的 URL 導覽至專案](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [展示板：載入展示板時出現問題](known-issues-workfront/wf-boards-issues-with-loading.md)
+      + [專案：釘選的專案在某些欄中未顯示資訊](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [校訂：無法調整校訂標記](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [校訂：建立新的校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
