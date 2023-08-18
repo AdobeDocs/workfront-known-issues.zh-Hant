@@ -1,19 +1,19 @@
 ---
-title: 「工作負載平衡器：總時數不符合計畫時數的總和」
-description: 「當使用者檢視工作負載平衡器並加總計畫時數的啞時，總計不符合頂列的總時數。 時間表重新計算沒有解決問題。」
+title: 「工作負載平衡器：總時數與規劃時數的總和不匹配」
+description: 「當使用者檢視工作負載平衡器並將規劃時數的數字相加時，其總和與頂端列中的總時數不匹配。重新計算時間表並不能解決問題。」
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL 工作負載平衡器]： [!UICONTROL 總時數] 不符合總和 [!UICONTROL 計畫時數]
+# [!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]的總和不匹配
 
-當使用者檢視 [!UICONTROL 工作負載平衡器] 並累加以下專案的數目： [!UICONTROL 計畫時數]，總計不符合 [!UICONTROL 總時數] 在頂端列中。 時間表重新計算沒有解決問題。
+當使用者檢視[!UICONTROL 工作負載平衡器]並將[!UICONTROL 規劃時數]的數字相加時，其總和與頂端列中的[!UICONTROL 總時數]不匹配。重新計算時間表並不能解決問題。
 
 _於 2023 年 6 月 8 日首次回報。_
 
