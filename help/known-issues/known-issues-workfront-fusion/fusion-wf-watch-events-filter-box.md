@@ -4,7 +4,7 @@ description: 「當使用者指定一個 [!DNL Workfront] > [!DNL Watch Events] 
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
