@@ -4,9 +4,9 @@ description: 「當使用者在新的首頁體驗嘗試從待辦事項 Widget �
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2023年8月10日解決。
+>此問題已在 2023 年 8 月 10 日解決。
 
 當使用者在新的[!UICONTROL 首頁]體驗嘗試從[!UICONTROL 待辦事項] Widget 中刪除項目時，該項目不會被刪除，並且使用者會看到錯誤。
 
