@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '723'
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 0%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：校樣顏色顯示不正確](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 10 月 8 日 |
-| [[!UICONTROL 首頁]： &quot;[!UICONTROL 提及]「 widget in new [!UICONTROL 首頁] 不限於已標籤使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 10 月 8 日 |
-| [[!UICONTROL 工作負載平衡器]： [!UICONTROL 總時數] 不符合總和 [!UICONTROL 計畫時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 2023 年 9 月 8 日 |
+| [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 10 月 8 日 |
+| [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 10 月 8 日 |
+| [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不匹配 | 2023 年 9 月 8 日 |
 | [報告：載入矩陣報告時出現問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 8 日 |
 | [展示板：載入展示板時出現問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 7 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 3 日 |
