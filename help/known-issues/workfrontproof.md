@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '380'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：校樣顏色顯示不正確](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 10 月 8 日 |
+| [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 10 月 8 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 3 日 |
 | [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 
