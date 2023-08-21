@@ -4,7 +4,7 @@ description: 「當使用者嘗試使用包含參考 ID 編號的 URL 導覽至�
 hidefromtoc: true
 feature: Projects
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
