@@ -4,7 +4,7 @@ description: 「當使用者在校訂檢視器中進行評論並在校訂上做�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
