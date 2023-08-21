@@ -4,7 +4,7 @@ description: 「當使用者檢視校訂設定時，停用校訂電子郵件通�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
