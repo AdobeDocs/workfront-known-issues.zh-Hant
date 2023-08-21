@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: ht
-source-wordcount: '380'
-ht-degree: 100%
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
+workflow-type: tm+mt
+source-wordcount: '387'
+ht-degree: 98%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：無法從PDF建立校訂](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md) | 2023 年 21 月 8 日 |
 | [校訂：校訂顯示時頂端被切掉](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 10 月 8 日 |
 | [校訂：已核准校訂仍保留在核准者的[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 10 月 8 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 10 月 8 日 |
