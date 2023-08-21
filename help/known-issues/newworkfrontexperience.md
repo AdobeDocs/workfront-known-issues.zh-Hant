@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1c3330160603619726529e903e917653bda64f93
+source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 97%
+source-wordcount: '707'
+ht-degree: 98%
 
 ---
 
@@ -42,7 +42,6 @@ ht-degree: 97%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 資源規劃工具]：套用篩選器時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 21 月 8 日 |
-| [校訂：無法從PDF建立校訂](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md) | 2023 年 21 月 8 日 |
 | [校訂：校訂顯示時頂端被切掉](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 10 月 8 日 |
 | [校訂：已核准校訂仍保留在核准者的[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 10 月 8 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 10 月 8 日 |

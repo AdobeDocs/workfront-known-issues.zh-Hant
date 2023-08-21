@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 1c3330160603619726529e903e917653bda64f93
+source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 98%
+source-wordcount: '1157'
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,6 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [[!UICONTROL 資源規劃工具]：套用篩選器時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md)
-      + [校訂：無法從PDF建立校訂](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]的總和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
