@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 99%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校訂：無法從PDF建立校訂](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 資源規劃工具]：套用篩選器時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
