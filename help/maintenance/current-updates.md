@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4799'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,21 +22,21 @@ ht-degree: 99%
 
 ## 2023 年 8 月更新
 
-+++**2023年8月17日維護更新**
++++**於 2023 年 8 月 17 日維護更新**
 
-**無法透過使用的URL導覽至專案 [!UICONTROL 參考ID]**
+**無法透過使用「[!UICONTROL 參考 ID]**」的 URL 導覽至專案
 
 _專案_
 
 「當使用者嘗試使用包含「[!UICONTROL 參考 ID]」編號的 URL 導覽至專案時，系統將他們重新導向至顯示錯誤訊息的頁面。使用包含「[!UICONTROL 參考 ID]」的 URl 導覽至任務可以正常運作。”
 
-**&quot;[!UICONTROL 停用校訂電子郵件通知]「設定顯示不正確**
+**「[!UICONTROL 停用校訂電子郵件通知]」設定未正確顯示**
 
 _校訂_
 
 當使用者在 [!DNL Workfront] 中檢視校訂設定時，「[!UICONTROL 停用校訂電子郵件通知]」核取方塊未準確顯示正確的目前設定。 當選取該方塊時，指出校訂電子郵件通知已停用，而通知實際上已啟用。 反之亦然。
 
-**無法調整校樣標籤**
+**無法調整校訂標記**
 
 _校訂_
 
@@ -44,7 +44,7 @@ _校訂_
 
 +++
 
-+++**2023年8月10日維護更新**
++++**於 2023 年 8 月 10 日維護更新**
 
 **無法在新的[!UICONTROL 首頁]體驗中刪除[!UICONTROL 待辦事項]項目**
 
