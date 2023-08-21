@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: ht
-source-wordcount: '723'
+source-wordcount: '696'
 ht-degree: 100%
 
 ---
@@ -47,10 +47,7 @@ ht-degree: 100%
 | [校訂：無法選取清單或項目要點中的文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 10 月 8 日 |
 | [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 10 月 8 日 |
 | [校訂：校訂上文字重疊](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
-| [校訂：「[!UICONTROL 停用校訂電子郵件通知]」設定未正確顯示](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 8 日 |
-| [專案：無法透過使用「[!UICONTROL 參考 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)」的 URL 導覽至專案 | 2023 年 8 月 8 日 |
 | [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 3 日 |
-| [校訂：無法調整校訂標記](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 3 日 |
 | [校訂：建立新的校訂版本會刪除所有版本的校訂](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
 | [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
