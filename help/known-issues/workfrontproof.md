@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '368'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 10 月 8 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 3 日 |
 | [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 
@@ -37,14 +36,13 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 22 月 8 日 |
 | [校訂：無法從PDF建立校訂](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 21 月 8 日 |
 | [校訂：校訂顯示時頂端被切掉](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 10 月 8 日 |
-| [校訂：已核准校訂仍保留在核准者的[!UICONTROL 首頁工作清單]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 10 月 8 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 10 月 8 日 |
 | [校訂：無法選取清單或項目要點中的文字](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 10 月 8 日 |
 | [校訂：校訂上文字重疊](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
 | [校訂：「[!UICONTROL 停用校訂電子郵件通知]」設定未正確顯示](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 8 日 |
-| [校訂：按一下校訂時出現「無影像」訊息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 3 日 |
 | [校訂：無法調整校訂標記](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 3 日 |
 
 {style="table-layout:auto"}
