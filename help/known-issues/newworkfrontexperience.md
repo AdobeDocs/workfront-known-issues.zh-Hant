@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '673'
 ht-degree: 97%
 
 ---
@@ -25,11 +25,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 首頁]：篩選器不適用於新增 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 23 日 |
 | [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 10 日 |
-| [報告：載入矩陣報告時出現問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 8 日 |
-| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 3 日 |
-| [任務/問題：獲指派的使用者未獲得物件存取權](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +35,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 首頁]：篩選器不適用於新增 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 25 日 |
+| [報告：載入矩陣報告時出現問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 25 日 |
 | [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不匹配 | 2023 年 8 月 22 日 |
 | [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 23 日 |
 | [首頁：無法在新的[!UICONTROL 首頁]體驗中刪除[!UICONTROL 待辦事項]項目](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
@@ -49,7 +47,6 @@ ht-degree: 97%
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 10 日 |
 | [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 8 月 10 日 |
 | [校訂：校訂上文字重疊](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
-| [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}

@@ -3,15 +3,19 @@ title: 「任務/問題：獲指派的使用者未獲得物件存取權」
 description: 「當使用者被指派至工作物件時，該使用者可能未獲得物件存取權，並且無法完成指派。該使用者可以請求存取權，但這會增加完成工作項目的時間和複雜性。」
 hidefromtoc: true
 feature: Tasks
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # 任務/問題：獲指派的使用者未獲得物件存取權
+
+>[!NOTE]
+>
+>這個問題已解決。
 
 當使用者被指派至工作物件時，該使用者可能未獲得物件存取權，並且無法完成指派。該使用者可以請求存取權，但這會增加完成工作項目的時間和複雜性。
 
