@@ -4,7 +4,7 @@ description: 「當使用者核准校訂時，校訂核准仍保留在使用者�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
