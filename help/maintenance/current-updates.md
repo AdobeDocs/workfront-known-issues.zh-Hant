@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4917'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 99%
 
 +++**於 2023 年 8 月 24 日維護更新**
 
-**無法選取清單或專案符號中的文字**
+**無法選取清單或項目要點中的文字**
 
 _校訂_
 
 當使用者在校訂檢視器中查看校訂並嘗試選取清單或項目要點中的文字時，文字選取工具無效，無法選取文字。
 
-**建立新校訂版本會刪除所有版本的校訂**
+**建立新的校訂版本會刪除所有版本的校訂**
 
 _校訂_
 
