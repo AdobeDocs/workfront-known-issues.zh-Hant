@@ -5,7 +5,7 @@ role: User
 source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
 workflow-type: tm+mt
 source-wordcount: '1183'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [[!UICONTROL 首頁]：篩選器不適用於新增 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [版面配置範本：版面配置範本造成報表不一致](known-issues-workfront/wf-layout-templates-classic.md)
+      + [[!UICONTROL 首頁]：篩選器未套用至全新[!UICONTROL 首頁]體驗中的 Widget](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [版面範本：版面範本導致報告不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [校訂：無法從 PDF 建立校訂](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 資源規劃工具]：套用篩選條件時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [校訂：校訂顏色未正確顯示](known-issues-workfront/wf-proof-inaccurate-colors.md)
