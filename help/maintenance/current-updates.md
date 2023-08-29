@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: ht
-source-wordcount: '4917'
-ht-degree: 100%
+source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
+workflow-type: tm+mt
+source-wordcount: '5068'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,35 @@ ht-degree: 100%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 8 月更新
+
++++**（預計） 2023年8月31日維護更新**
+
+**篩選器不適用於新增 [!UICONTROL 首頁] 體驗**
+
+_[!UICONTROL 首頁]_
+
+當使用者在全新「[!UICONTROL 首頁]」體驗中將篩選器套用至 Widget 時，Widget 顯示了篩選器應排除的項目。
+
+這已在自訂沙箱環境中報告。 預覽和生產環境中相同的 Widget 如預期進行篩選。
+
+**載入Matrix報告時的問題**
+
+_報告_
+
+當使用者嘗試將矩陣報告載入為圖表時，可能會發生以下情況之一：
+
+* 報告中的某些資訊未載入
+* 報告提供錯誤「[!UICONTROL 無法從伺服器載入內容]」
+
+**套用篩選器時規劃工具未載入**
+
+_[!UICONTROL 資源規劃工具]_
+
+當使用者嘗試載入[!UICONTROL 資源規劃工具]時，規劃工具未載入，且出現錯誤訊息：
+
+「[!UICONTROL 發生以下錯誤：連接到 WorkPerDay 服務時出現問題]」
+
++++
 
 +++**於 2023 年 8 月 24 日維護更新**
 
