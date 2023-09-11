@@ -3,7 +3,7 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
+source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
 workflow-type: tm+mt
 source-wordcount: '5189'
 ht-degree: 97%
@@ -22,7 +22,7 @@ ht-degree: 97%
 
 ## 2023 年 9 月更新
 
-+++**於 2023 年 9 月 11 日維護更新**&#39;
++++**於 2023 年 9 月 11 日維護更新**
 
 **個人任務未顯示在時程表中**
 
