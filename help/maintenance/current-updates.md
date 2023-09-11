@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
 workflow-type: tm+mt
-source-wordcount: '5068'
-ht-degree: 99%
+source-wordcount: '5189'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,35 @@ ht-degree: 99%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2023 年 9 月更新
+
++++**於 2023 年 9 月 11 日維護更新**&#39;
+
+**個人任務未顯示在時程表中**
+
+_時程表_
+
+個人任務預設不再顯示在時程表中。 個人任務被釘選或記錄時數時，便會在時程表上顯示。 在此變更之前，個人工作依預設會顯示在時程表中。
+
++++
+
++++**於 2023 年 9 月 7 日維護更新**
+
+**從新載入專案時為空白 [!UICONTROL 首頁] 體驗**
+
+_專案_
+
+當使用者按一下他們的 [!UICONTROL 首頁] 頁面的新首頁體驗，專案的頁面無法載入。
+
+當使用者以其他使用者身份登入，然後以其他使用者身份登出並返回他們自己的時，就會發生這種情況 [!UICONTROL 首頁] 頁面。
+
++++
+
+**篩選器不適用於新增 [!UICONTROL 首頁] 體驗**
+
 ## 2023 年 8 月更新
 
-+++**（預計） 2023年8月31日維護更新**
++++**於 2023 年 8 月 31 日維護更新**
 
 **篩選器不適用於新增 [!UICONTROL 首頁] 體驗**
 
