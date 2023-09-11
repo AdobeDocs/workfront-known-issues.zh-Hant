@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 100%
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!UICONTROL 首頁]：新增 [!UICONTROL 首頁] Widget預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 首頁]： [!UICONTROL 請求] Widget不會顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [自訂表單：無法刪除自訂欄位](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL 首頁]：舊版中的搜尋功能無法運作 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [校訂：靜態校訂中的文字格式不符合網站中的格式](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [專案：從新載入專案時為空白 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL 首頁]：篩選器未套用至全新[!UICONTROL 首頁]體驗中的 Widget](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [版面範本：版面範本導致報告不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [校訂：無法從 PDF 建立校訂](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

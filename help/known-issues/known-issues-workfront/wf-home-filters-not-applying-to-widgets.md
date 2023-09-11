@@ -3,15 +3,19 @@ title: 「首頁：篩選器未套用至全新首頁體驗中的 Widget」
 description: 「當使用者在全新首頁體驗中將篩選器套用至 Widget 時，Widget 顯示了篩選器應排除的項目。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # 「[!UICONTROL 首頁]」：篩選器未套用至全新「[!UICONTROL 首頁]」體驗中的 Widget
+
+>[!NOTE]
+>
+>此問題已在 2023 年 8 月 31 日修正。
 
 當使用者在全新「[!UICONTROL 首頁]」體驗中將篩選器套用至 Widget 時，Widget 顯示了篩選器應排除的項目。
 
