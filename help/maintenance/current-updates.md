@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 97%
+source-wordcount: '5290'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,28 @@ ht-degree: 97%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 9 月更新
+
++++**（預計） 2023年9月14日維護更新**
+
+**&quot;[!UICONTROL 無工廠]「新增檔案時發生錯誤**
+
+_文件_
+
+當使用者嘗試從外部來源新增檔案時， [!DNL Workfront] 無法存取來源，且使用者看到以下錯誤：
+
+&quot;[!UICONTROL 發生下列錯誤：找不到驗證型別null的工廠]&quot;
+
+**矩陣報告上出現「糟糕」錯誤**
+
+_報告_
+
+當使用者嘗試檢視矩陣報告時，沒有載入報告，且使用者會看到以下錯誤：
+
+「[!UICONTROL 糟糕！發生錯誤。請聯絡 Workfront，以便我們找出問題並加以修正。]」
+
+依日期範圍分組報表時會發生這種情況。
+
++++
 
 +++**於 2023 年 9 月 11 日維護更新**
 
