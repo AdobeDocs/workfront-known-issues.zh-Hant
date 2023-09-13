@@ -3,17 +3,17 @@ title: 「版面範本：版面範本導致報告不一致」
 description: 「傳統 Workfront 體驗中的版面範本在 Workfront 介面中不再可用，但仍可能影響 Workfront 資料。 這可能會導致報告或儀表板上受版面範本 (例如共用對象) 影響的欄位出現不一致。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # 版面範本：版面範本導致報告不一致
 
-傳統 Workfront 體驗中的版面範本在 Workfront 介面中不再可用，但仍可能影響 Workfront 資料。 這可能會導致報告或儀表板上受版面範本 (例如共用對象) 影響的欄位出現不一致。
+從傳統版面配置範本 [!DNL Workfront] 中不再提供體驗 [!DNL Workfront] 介面，但仍可能影響 [!DNL Workfront] 資料。 這可能會造成受版面配置範本影響的欄位不一致(例如 [!UICONTROL 共用對象])。
 
 **因應措施**
 
