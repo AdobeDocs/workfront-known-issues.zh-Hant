@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1297'
 ht-degree: 95%
 
 ---
@@ -17,12 +17,18 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [[!UICONTROL 首頁]：新增 [!UICONTROL 首頁] Widget預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 首頁]： [!UICONTROL 請求] Widget不會顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [檔案：無法將檔案移至其他資料夾](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
+      + [校樣：校樣看起來像是去飽和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [更新：在新註解體驗中所做的評論未顯示在舊版體驗中](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [更新：評論顯示為從錯誤使用者傳送](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [看板：無法在工作流程上將使用者指派到看板](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [篩選器：標示為&quot;的按鈕[!UICONTROL 已棄用]&quot;共用篩選器時](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
+      + [[!UICONTROL 首頁]：新的[!UICONTROL 首頁] Widget 預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [自訂表單：無法刪除自訂欄位](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL 首頁]：舊版中的搜尋功能無法運作 [!UICONTROL 首頁工作清單]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [[!UICONTROL 首頁]：搜尋功能在舊版[!UICONTROL 首頁工作清單]中無法運作](known-issues-workfront/wf-home-search-not-working-legacy.md)
       + [校訂：靜態校訂中的文字格式不符合網站中的格式](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [專案：從新載入專案時為空白 [!UICONTROL 首頁] 體驗](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [專案：從新的[!UICONTROL 首頁]體驗載入時，專案為空白](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL 首頁]：篩選器未套用至全新[!UICONTROL 首頁]體驗中的 Widget](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [版面範本：版面範本導致報告不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [校訂：無法從 PDF 建立校訂](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
