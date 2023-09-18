@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '709'
-ht-degree: 92%
+source-wordcount: '726'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [看板：未命名的卡片顯示並出現在待處理專案中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023 年 9 月 15 日 |
 | [篩選器：標示為&quot;的按鈕[!UICONTROL 已棄用]&quot;共用篩選器時](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023 年 9 月 15 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
 | [專案：從新的[!UICONTROL 首頁]體驗載入時，專案為空白](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023 年 9 月 1 日 |
@@ -38,6 +39,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：校訂產生時間過長](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023 年 9 月 18 日 |
 | [檔案：無法將檔案移至其他資料夾](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 15 日 |
 | [校樣：校樣看起來像是去飽和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 15 日 |
 | [更新：在新註解體驗中所做的評論未顯示在舊版體驗中](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 95%
+source-wordcount: '352'
+ht-degree: 94%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：校訂產生時間過長](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023 年 9 月 18 日 |
 | [檔案：無法將檔案移至其他資料夾](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 15 日 |
 | [校樣：校樣看起來像是去飽和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 15 日 |
 | [文件：下載時發生 XML 錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 14 日 |

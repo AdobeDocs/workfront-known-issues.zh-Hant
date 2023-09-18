@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '1297'
-ht-degree: 95%
+source-wordcount: '1312'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板：未命名的卡片顯示並出現在待處理專案中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
+      + [校訂：校訂產生時間過長](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [檔案：無法將檔案移至其他資料夾](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
       + [校樣：校樣看起來像是去飽和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
       + [更新：在新註解體驗中所做的評論未顯示在舊版體驗中](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
