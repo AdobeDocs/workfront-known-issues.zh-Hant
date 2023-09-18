@@ -4,9 +4,9 @@ description: 「當使用者編輯職務角色並嘗試編輯成本/小時或計
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2023年8月24日修正
+>此問題已在 2023 年 8 月 24 日修正
 
 當使用者編輯職務角色並嘗試編輯成本/小時或計費/小時欄位時，這些欄位為空白，使用者無法編輯欄位。
 

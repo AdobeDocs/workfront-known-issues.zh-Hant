@@ -4,7 +4,7 @@ description: 「當使用者嘗試下載文件時，該文件未下載，使用�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 

@@ -4,7 +4,7 @@ description: 「當使用者在校訂檢視器中查看校訂時，校訂的頂�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 
