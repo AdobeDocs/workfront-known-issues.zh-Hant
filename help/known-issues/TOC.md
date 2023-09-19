@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '1312'
-ht-degree: 94%
+source-wordcount: '1326'
+ht-degree: 93%
 
 ---
 
@@ -144,6 +144,8 @@ ht-degree: 94%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [Workfront Proof：儀表板資料並非總是準確](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof：搜尋資料並不一定準確](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion] 存取  [!DNL Workfront Proof]  時出現 500 錯誤](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：搜尋未傳回任何結果](known-issues-workfront-proof/proof-search-returns-no-results.md)
