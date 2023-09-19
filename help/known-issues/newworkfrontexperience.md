@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 90%
+source-wordcount: '738'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：對校訂進行評論時產生額外、空白的評論](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [看板：未命名的卡片顯示並出現在待處理專案中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023 年 9 月 15 日 |
 | [篩選器：標示為&quot;的按鈕[!UICONTROL 已棄用]&quot;共用篩選器時](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023 年 9 月 15 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
