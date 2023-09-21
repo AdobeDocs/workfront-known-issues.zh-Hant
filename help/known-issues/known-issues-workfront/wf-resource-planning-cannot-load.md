@@ -3,9 +3,9 @@ title: 「資源規劃工具：套用篩選條件時規劃工具未載入」
 description: 「當使用者嘗試載入資源規劃工具時，規劃工具未載入，且出現錯誤訊息。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
-workflow-type: ht
-source-wordcount: '79'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 100%
 
 # [!UICONTROL 資源規劃工具]：套用篩選條件時規劃工具未載入
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on August 31, 2023.
--->
+>此問題已在 2023 年 9 月 21 日修正。
 
 當使用者嘗試載入[!UICONTROL 資源規劃工具]時，規劃工具未載入，且出現錯誤訊息：
 
