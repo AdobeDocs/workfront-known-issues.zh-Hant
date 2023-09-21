@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5601'
-ht-degree: 94%
+source-wordcount: '5631'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 94%
 
 ## 2023 年 9 月更新
 
-+++**（預計） 2023年9月21日維護更新**
++++**於 2023 年 9 月 21 日維護更新**
 
 **無法在工作流程上的展示板上指派使用者**
 
@@ -31,6 +31,12 @@ _展示板_
 當使用者嘗試將另一個使用者指派到屬於工作流程一部分的展示板上的任務，並開始輸入使用者的名稱時，該使用者未出現在可用使用者的下拉式清單中。 即使使用者處於作用中狀態且同時是展示板和工作流程的成員，也會發生這種情況。
 
 使用者可能也會注意到已停用的使用者出現在下拉式清單中。
+
+**無法刪除檢查清單專案**
+
+_展示板_
+
+當使用者嘗試從展示板上的卡片中刪除清單專案時， [!UICONTROL 刪除] 按鈕無回應，且專案未刪除。
 
 **自訂表單載入緩慢**
 

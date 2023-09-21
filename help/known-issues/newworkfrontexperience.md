@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 88%
+source-wordcount: '703'
+ht-degree: 92%
 
 ---
 
@@ -41,13 +41,8 @@ ht-degree: 88%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]：物件頁面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 20 日 |
-| [校訂：校訂產生時間過長](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023 年 9 月 18 日 |
-| [檔案：無法將檔案移至其他資料夾](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 15 日 |
-| [校樣：校樣看起來像是去飽和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 15 日 |
 | [更新：在新註解體驗中所做的評論未顯示在舊版體驗中](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
-| [看板：無法在工作流程上將使用者指派到看板](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023 年 9 月 15 日 |
 | [更新：評論顯示為從錯誤使用者傳送](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023 年 9 月 15 日 |
-| [文件：下載時發生 XML 錯誤](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 14 日 |
 | [校訂：靜態校訂中的文字格式不符合網站中的格式](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 14 日 |
 | [[!UICONTROL 資源規劃工具]：套用篩選條件時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 7 日 |
 | [自訂表單：無法刪除自訂欄位](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 1 日 |

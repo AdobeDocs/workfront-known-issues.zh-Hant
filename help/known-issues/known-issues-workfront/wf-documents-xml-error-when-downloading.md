@@ -3,9 +3,9 @@ title: 「文件：下載時發生 XML 錯誤」
 description: 「當使用者嘗試下載文件時，該文件未下載，使用者看到頁面出現，其中包含一則訊息，後面接著 XML 文字。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # 文件：下載時發生 XML 錯誤
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>此問題已在 2023 年 9 月 21 日修正。
 
 當使用者嘗試下載文件時，該文件未下載，使用者看到頁面出現，其中包含以下訊息，後面接著 XML 文字。
 
