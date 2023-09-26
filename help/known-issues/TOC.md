@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 92%
+source-wordcount: '1352'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [工作負載平衡器：由於容量不準確，使用者顯示為過度指派](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]：物件頁面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [校訂：對校訂進行評論時產生額外、空白的評論](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [看板：未命名的卡片顯示並出現在待處理專案中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)

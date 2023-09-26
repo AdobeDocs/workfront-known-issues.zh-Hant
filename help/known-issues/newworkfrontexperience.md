@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 95%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 9 月 26 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工作負載平衡器：由於容量不準確，使用者顯示為過度指派](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
 | [校訂：對校訂進行評論時產生額外、空白的評論](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [[!DNL Workfront]：物件頁面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 20 日 |
 | [更新：在新註解體驗中所做的評論未顯示在舊版體驗中](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
