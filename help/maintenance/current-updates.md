@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ ht-degree: 93%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 9 月更新
+
++++**（預計） 2023年9月28日維護更新**
+
+**無法刪除自訂欄位**
+
+_自訂表單_
+
+當使用者嘗試刪除自訂欄位時，他們無法刪除欄位，且會看到「[!UICONTROL 由於違反限制，出現資料庫錯誤]」的訊息。
+
+**在新註解體驗中所做的評論不會顯示在舊版體驗中**
+
+_更新_
+
+當使用者在新評論體驗中發表評論，並且該評論出現在新體驗的評論區域中時，相同的評論可能不會出現在舊版評論體驗中。 這可能會造成使用舊版體驗的使用者遺漏評論。
+
+**物件頁面缺少元素**
+
+_Workfront_
+
+當使用者導覽到中物件的自訂區段 [!DNL Workfront]，載入的頁面可能遺漏某些元素。 這些元素可能包括：
+
+* 左側導覽面板
+* 自訂區段所屬的物件名稱
+* 標題中的欄位和資訊
+
++++
 
 +++**於 2023 年 9 月 21 日維護更新**
 
