@@ -1,17 +1,21 @@
 ---
-title: 「展示板：載入展示板時出現問題」
-description: 「當使用者嘗試載入展示板時，可能會出現問題。」
+title: '展示板：載入展示板時出現問題'
+description: 當使用者嘗試載入展示板時，可能會出現問題。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 61%
+source-wordcount: '100'
+ht-degree: 53%
 
 ---
 
-
 # 展示板：載入展示板時出現問題
+
+>[!NOTE]
+>
+>此問題已在 2023 年 9 月 28 日修正。
 
 當使用者嘗試載入展示板時，可能會發生以下情況之一：
 
@@ -21,4 +25,3 @@ ht-degree: 61%
 此問題似乎僅限於位於工作流中的展示板。
 
 _於 2023 年 7 月 28 日首次通報。_
-

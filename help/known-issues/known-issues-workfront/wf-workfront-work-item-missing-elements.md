@@ -3,15 +3,19 @@ title: '"[!DNL Workfront]：物件頁面缺少元素」'
 description: 「當使用者導覽到中物件的自訂區段 [!DNL Workfront]，載入的頁面可能遺漏某些元素。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 15%
 
 ---
 
 
 # [!DNL Workfront]：物件頁面缺少元素
+
+>[!NOTE]
+>
+>此問題已在 2023 年 9 月 28 日修正。
 
 當使用者導覽到中物件的自訂區段 [!DNL Workfront]，載入的頁面可能遺漏某些元素。 這些元素可能包括：
 

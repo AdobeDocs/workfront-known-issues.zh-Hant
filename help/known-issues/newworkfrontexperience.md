@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '651'
-ht-degree: 93%
+source-wordcount: '628'
+ht-degree: 95%
 
 ---
 
@@ -37,12 +37,9 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 資源規劃工具]：套用篩選條件時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 28 日 |
 | [工作負載平衡器：由於容量不準確，使用者顯示為過度指派](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
 | [校訂：對校訂進行評論時產生額外、空白的評論](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
-| [[!DNL Workfront]：物件頁面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 20 日 |
-| [更新：在新註解體驗中所做的評論未顯示在舊版體驗中](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
-| [自訂表單：無法刪除自訂欄位](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 1 日 |
-| [展示板：載入展示板時出現問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
