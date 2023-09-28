@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
 workflow-type: tm+mt
-source-wordcount: '1384'
+source-wordcount: '1392'
 ht-degree: 89%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [通知：未傳送自動提醒電子郵件](known-issues-workfront/wf-notifications-overdue-error.md)
       + [檔案整合：將資產拖曳至Experience Manager Assets整合中的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [使用者：提醒使用者註冊時顯示的錯誤訊息不正確](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [共用：共用物件時發生錯誤](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
