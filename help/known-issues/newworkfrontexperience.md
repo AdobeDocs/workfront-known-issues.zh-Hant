@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 90%
+source-wordcount: '676'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [看板：卡片未顯示正確清單專案計數](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
 | [通知：未傳送自動提醒電子郵件](known-issues-workfront/wf-notifications-overdue-error.md) | 2023 年 9 月 28 日 |
 | [檔案整合：將資產拖曳至Experience Manager Assets整合中的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
 | [共用：共用物件時發生錯誤](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023 年 9 月 27 日 |
