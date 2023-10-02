@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 89%
+source-wordcount: '686'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [主機板：主機板載入緩慢](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2023年10月2日 |
+| [看板：無法移動卡片](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2023年10月2日 |
 | [使用者：提醒使用者註冊時顯示的錯誤訊息不正確](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |
 | [[!UICONTROL 資源規劃工具]：套用篩選條件時規劃工具未載入](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 28 日 |
 | [工作負載平衡器：由於容量不準確，使用者顯示為過度指派](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |

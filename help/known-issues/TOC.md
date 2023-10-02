@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1410'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [主機板：主機板載入緩慢](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [看板：無法移動卡片](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [看板：卡片未顯示正確清單專案計數](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [通知：未傳送自動提醒電子郵件](known-issues-workfront/wf-notifications-overdue-error.md)
       + [檔案整合：將資產拖曳至Experience Manager Assets整合中的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
