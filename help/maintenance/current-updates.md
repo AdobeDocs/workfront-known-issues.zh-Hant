@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '5776'
+source-wordcount: '5802'
 ht-degree: 91%
 
 ---
@@ -20,9 +20,21 @@ ht-degree: 91%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2023 年 10 月更新
+
++++**(預計) 2023 年 10 月 5 日維護更新**
+
+**未傳送自動提醒電子郵件**
+
+_通知_
+
+未傳送自動電子郵件提醒。 這項作業已於2023年9月14日開始。
+
++++
+
 ## 2023 年 9 月更新
 
-+++**（預計） 2023年9月28日維護更新**
++++**於 2023 年 9 月 28 日維護更新**
 
 **無法刪除自訂欄位**
 

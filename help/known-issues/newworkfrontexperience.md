@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 88%
+source-wordcount: '732'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：從電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月3日 |
+| [登入：雖然動作已成功，但重設密碼時仍顯示錯誤](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023年10月3日 |
 | [看板：卡片未顯示正確清單專案計數](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
 | [通知：未傳送自動提醒電子郵件](known-issues-workfront/wf-notifications-overdue-error.md) | 2023 年 9 月 28 日 |
 | [檔案整合：將資產拖曳至Experience Manager Assets整合中的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
@@ -40,6 +42,8 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日 |
+| [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日 |
 | [主機板：主機板載入緩慢](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2023年10月2日 |
 | [看板：無法移動卡片](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2023年10月2日 |
 | [使用者：提醒使用者註冊時顯示的錯誤訊息不正確](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |

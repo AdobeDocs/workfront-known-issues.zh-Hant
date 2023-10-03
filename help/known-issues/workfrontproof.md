@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 87%
+source-wordcount: '347'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：從電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月3日 |
 | [檔案整合：將資產拖曳至Experience Manager Assets整合中的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
 
 {style="table-layout:auto"}

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [校訂：從電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [登入：雖然動作已成功，但重設密碼時仍顯示錯誤](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [主機板：主機板載入緩慢](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [看板：無法移動卡片](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [看板：卡片未顯示正確清單專案計數](known-issues-workfront/wf-boards-checklist-item-count.md)
