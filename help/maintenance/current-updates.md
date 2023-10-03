@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -166,8 +166,6 @@ _專案_
 當使用者以另一個使用者身分登入，然後以另一個使用者身分登出並返回到自己的[!UICONTROL 首頁]時，就會發生這種情況。
 
 +++
-
-**篩選器未套用至全新[!UICONTROL 首頁]體驗中的 Widget**
 
 ## 2023 年 8 月更新
 
