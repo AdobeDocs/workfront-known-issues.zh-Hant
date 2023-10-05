@@ -1,17 +1,21 @@
 ---
 title: 「通知：未傳送自動提醒電子郵件」
-description: 「未傳送自動電子郵件提醒。 這項作業已於2023年9月14日開始。」
+description: 未傳送自動電子郵件提醒。 這項作業已於2023年9月14日開始。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+exl-id: 15075849-a0c4-4bbb-9206-df8e3d156d8d
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 9%
+source-wordcount: '48'
+ht-degree: 20%
 
 ---
 
-
 # 通知：未傳送自動提醒電子郵件
+
+>[!NOTE]
+>
+>此問題已在 2023 年 10 月 5 日修正。
 
 未傳送自動電子郵件提醒。 這項作業已於2023年9月14日開始。
 

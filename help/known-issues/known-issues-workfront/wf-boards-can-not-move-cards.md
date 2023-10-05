@@ -1,17 +1,21 @@
 ---
 title: 「看板：無法移動卡片」
-description: 「當使用者嘗試在展示板上移動卡片時，卡片未移動。」
+description: 當使用者嘗試在展示板上移動卡片時，卡片未移動。
 hidefromtoc: true
 feature: Agile
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+exl-id: cfdd7d96-7861-4671-af02-028dfb0a90a4
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
-
 # 看板：無法移動卡片
+
+>[!NOTE]
+>
+>此問題已在 2023 年 10 月 5 日修正。
 
 當使用者嘗試在展示板上移動卡片時，卡片未移動。 此問題會在以下情況發生：
 
