@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60959758457f54f6120171639b0c6abcce581310
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '725'
 ht-degree: 86%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不匹配 | 2023年10月6日 |
 | [報告：私有更新顯示在值運算式欄位中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023年10月6日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模組](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023年10月5日 |
 | [校訂：從電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月3日 |
