@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '725'
-ht-degree: 86%
+source-wordcount: '749'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：完成的校訂仍保留 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023年10月9日 |
+| [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023年10月9日 |
 | [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不匹配 | 2023年10月6日 |
 | [報告：私有更新顯示在值運算式欄位中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023年10月6日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模組](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023年10月5日 |
@@ -44,6 +46,7 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月9日 |
 | [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日 |
 | [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日 |
 | [使用者：提醒使用者註冊時顯示的錯誤訊息不正確](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |

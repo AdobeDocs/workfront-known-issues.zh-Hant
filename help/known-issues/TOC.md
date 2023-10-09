@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 60959758457f54f6120171639b0c6abcce581310
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '1467'
-ht-degree: 92%
+source-wordcount: '1488'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
+      + [校訂：完成的校訂仍保留 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
       + [報告：私有更新顯示在值運算式欄位中](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
