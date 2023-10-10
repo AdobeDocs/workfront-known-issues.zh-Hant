@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5929'
-ht-degree: 97%
+source-wordcount: '6044'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,26 @@ ht-degree: 97%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 10 月更新
+
++++**(預計) 2023 年 10 月 12 日維護更新**
+
+**問題轉換為任務時，計算欄位未保留值**
+
+_自訂表單_
+
+將問題轉換為任務時，參考本身的計算欄位不會保留其值。
+
+將問題轉換為任務時，所需的值會在編輯視窗中正確顯示。但是，轉換完成後，計算欄位會顯示「N/a」。
+
+**變更中的篩選器時發生錯誤 [!UICONTROL 首頁]**
+
+_首頁_
+
+當使用者變更篩選器於 [!UICONTROL 首頁]，則 [!UICONTROL 首頁] 區域未載入，且使用者看到以下錯誤：
+
+「[!UICONTROL 已發生錯誤，而我們正在努力解決此問題。若要繼續您的工作，請嘗試重新整理此瀏覽器頁面。]」
+
++++
 
 +++**於 2023 年 10 月 5 日維護更新**
 

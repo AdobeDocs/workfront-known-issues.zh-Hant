@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 83%
+source-wordcount: '756'
+ht-degree: 82%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 83%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [時程表：個人任務出現在時程表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年10月10日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月9日 |
 | [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日 |
 | [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日 |
