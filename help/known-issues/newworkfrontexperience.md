@@ -51,8 +51,8 @@ ht-degree: 82%
 | [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日 |
 | [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日 |
 | [使用者：提醒使用者註冊時顯示的錯誤訊息不正確](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |
-| [工作負載平衡器：由於容量不準確，使用者顯示為過度指派](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
-| [校訂：對校訂進行評論時產生額外、空白的評論](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
+| [工作負載平衡器：由於容量不準確，使用者顯示為過度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
+| [校訂：在校訂加上註解時，出現額外、空白的註解](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
@@ -96,7 +96,7 @@ ht-degree: 82%
 | [敏捷：疊代[!UICONTROL 完成點]的差異](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 22 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 在校訂中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [電子郵件通知：顯示「[!UICONTROL 我受指派問題]」設定](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 2 日 |
-| [電子郵件通知：使用者未導向到評論對話串](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
+| [電子郵件通知：使用者未導向到註解對話串](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
 | [行事曆： [!DNL OR] 篩選器陳述式不包括篩選規則](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021 年 4 月 23 日 |
 | [[!UICONTROL Workfront Proof]：[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [報告：在儀表板上查看時無法水平捲動報告](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021 年 3 月 30 日 |
