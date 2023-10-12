@@ -1,20 +1,20 @@
 ---
-title: 「Workfront Proof：儀表板資料並非總是準確」
-description: 「校樣中儀表板區域上顯示的資料，並不一定顯示最新的資訊。 建議您建立自訂檢視，並使用檢視來取得資料的最新資訊。」
+title: 「Workfront 校訂：儀表板資料並不總是準確的」
+description: 「校訂儀表板區域顯示的資料並不總是顯示最新資訊。建議您建立自訂檢視並使用該檢視取得您資料的最新資訊。」
 hidefromtoc: true
 feature: Workfront Proof
 source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Proof：儀表板資料並非總是準確
+# Workfront 校訂：儀表板資料並不總是準確的
 
-在校訂中儀表板區域上顯示的資料，並不一定顯示最新的資訊。
+校訂儀表板區域顯示的資料並不總是顯示最新資訊。
 
-建議您建立自訂檢視，並使用它來取得資料的最新資訊。
+建議您建立自訂檢視並使用該檢視取得您資料的最新資訊。
 
-_於 2023 年 3 月 1 日首次通報。_
+_於 2023 年 3 月 1 日首次回報。_

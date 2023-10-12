@@ -4,7 +4,7 @@ description: 「當使用者嘗試下載文件時，該文件未下載，使用�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 「[!UICONTROL  XML 檔案似乎沒有任何關聯的樣式資訊。文件樹如下。]」
 
-_於 2023 年 8 月 16 日首次通報。_
+_於 2023 年 8 月 16 日首次回報。_

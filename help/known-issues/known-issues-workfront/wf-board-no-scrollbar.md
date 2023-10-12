@@ -4,7 +4,7 @@ description: 「當使用者檢視展示板並嘗試水平捲動時，水平捲�
 feature: Agile
 hidefromtoc: true
 source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 

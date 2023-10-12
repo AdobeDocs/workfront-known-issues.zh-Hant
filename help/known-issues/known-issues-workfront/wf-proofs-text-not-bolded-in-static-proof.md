@@ -4,7 +4,7 @@ description: 「當使用者從網站建立靜態校訂時，網站上的粗體�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -21,5 +21,5 @@ ht-degree: 100%
 
 當使用者從網站建立靜態校訂時，網站上的粗體文字在校訂上沒有顯示為粗體。
 
-_於 2023 年 8 月 23 日首次通報。_
+_於 2023 年 8 月 23 日首次回報。_
 

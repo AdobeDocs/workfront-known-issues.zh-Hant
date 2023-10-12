@@ -4,7 +4,7 @@ description: 「當使用者在新的首頁體驗中檢視提及 Widget 時，�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
 ht-degree: 100%
 
@@ -26,5 +26,5 @@ ht-degree: 100%
 * 使用者建立了任務或問題
 * 使用者是任務或問題的主要聯絡人
 
-_於 2023 年 8 月 1 日首次通報。_
+_於 2023 年 8 月 1 日首次回報。_
 

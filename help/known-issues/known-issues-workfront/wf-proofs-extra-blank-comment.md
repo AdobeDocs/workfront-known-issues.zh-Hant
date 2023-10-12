@@ -1,22 +1,22 @@
 ---
-title: 「校訂：對校訂進行評論時出現額外、空白的評論」
-description: 「當使用者對校訂進行評論時，校訂也會產生另一個評論，這是空白的。」
+title: 「校訂：在校訂加上註解時，出現額外、空白的註解」
+description: 「當使用者在校訂加上註解時，校訂會產生另一個註解，其為空白的。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 校訂：對校訂進行評論時產生額外、空白的評論
+# 校訂：在校訂加上註解時，出現額外、空白的註解
 
 <!--WF, WFP TOCs-->
 
-當使用者對校訂進行評論時，校訂也會產生另一個評論，這是空白的。
+當使用者在校訂加上註解時，校訂會產生另一個註解，其為空白的。
 
-這已在視訊校樣上報告。
+已針對影片校訂回報此問題。
 
 _於 2023 年 9 月 14 日首次回報。_
