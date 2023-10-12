@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
-ht-degree: 96%
+source-wordcount: '6083'
+ht-degree: 95%
 
 ---
 
@@ -22,7 +22,13 @@ ht-degree: 96%
 
 ## 2023 年 10 月更新
 
-+++**(預計) 2023 年 10 月 12 日維護更新**
++++**於 2023 年 10 月 12 日維護更新**
+
+**已針對未使用工作資料流的帳戶移除工作資料流**
+
+_展示板_
+
+對於從未在面板應用程式中建立工作流程的帳戶，工作流程區域已從面板控制面板中移除。 使用工作流程的帳戶仍可存取工作流程。
 
 **問題轉換為任務時，計算欄位未保留值**
 
