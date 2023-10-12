@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 89%
+source-wordcount: '1328'
+ht-degree: 88%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 89%
       + [篩選器：「[!UICONTROL 系統範圍內啟用]」和「[!UICONTROL 系統範圍內檢視]」代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [報告：未載入使用情況報告](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [時程表：在時程表記錄時間時發生錯誤](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 首頁]：項目未出現在[!UICONTROL 首頁工作清單]中](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [報告：查看矩陣報告時發生「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [自訂表單：在新表單設計工具 (Beta 版) 中編輯自訂表單時，遺失顯示邏輯](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [敏捷：[!UICONTROL 展示板]在編輯卡片時變成一片空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [工作負載平衡器：時數意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [報告：依欄標題排序後恢復到先前的排序](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [專案：使用[!UICONTROL 里程碑]檢視時發生錯誤](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [任務：重新排序[!UICONTROL 待核准]狀態的任務時沒有出現錯誤訊息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [時程表：重新整理頁面時未套用篩選器](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [校訂：鎖定的校訂核准仍顯示在工作清單中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [校訂：「[!UICONTROL 校訂活動]」索引標籤會開啟「[!UICONTROL 校訂詳細資訊]」](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [範本：無法從「[!UICONTROL 最愛的範本]」中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [專案：從範本建立專案時「[!UICONTROL 主群組]」自訂狀態不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [校訂：測量工具不接受小數點](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [搜尋： [!DNL Workfront] 搜尋逾時](known-issues-workfront/wf-search-search-times-out.md)
-      + [校訂：檢視校訂時無法切換校訂版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [校訂：已從校訂工作流程停用使用者，並在存取校訂時收到「[!UICONTROL 不允許存取]」的訊息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文件：文件清單問題](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [校訂：前一個階段期限過去時，校訂階段未啟動](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [篩選器：重新整理頁面時未套用篩選器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 工作負載平衡器]：時數不會根據使用者休假時間進行調整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [工作負載平衡器：一次使用多個篩選器時結果會不準確](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [專案：從問題轉換的專案沒有從專案組合或程式繼承權限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [文件：上傳大型檔案時發生錯誤](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [文件：無法從  [!DNL Google Drive] 新增文件](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [文件：當文件的父問題轉換為專案時，不會繼承文件權限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 89%
       + [[!UICONTROL 首頁]：使用  [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL 首頁]摘要問題](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 首頁]：新任務選項在[!UICONTROL 指派給]欄位中顯示已停用的使用者](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：團隊名稱未出現在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [行事曆：[!UICONTROL 休假]行事曆發生問題](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [敏捷：疊代[!UICONTROL 完成點]的差異](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [電子郵件通知：顯示「[!UICONTROL 我受指派問題]」設定](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [電子郵件通知：使用者未導向到註解對話串](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 89%
       + [Workfront 校訂：搜尋資料並不總是準確的](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion] 存取  [!DNL Workfront Proof]  時出現 500 錯誤](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]：搜尋未傳回任何結果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]：清單排序不正確](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]：不再支援「[!UICONTROL 報告]」區域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [校訂：使用者在校訂註解中被標記時，沒有收到電子郵件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 89%
       + [[!DNL Workfront Fusion]：睡眠模組造成情境被擱置](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：情境失敗並出現「[!UICONTROL 讀取 ECONNRESET]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：無法在 [!DNL Workfront] >[!UICONTROL 觀看活動]」篩選單中輸入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]：「[!UICONTROL 無法執行更新]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]：未傳送通知電子郵件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]：執行停滯或延後](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中的逾時錯誤](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront]  > [!UICONTROL 自訂 API 呼叫] 模組傳回 404 或 422 錯誤](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
