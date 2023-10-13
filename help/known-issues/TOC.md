@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 88%
+source-wordcount: '1335'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校樣： [!UICONTROL 校訂活動] 索引標籤未開啟](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [工作： [!UICONTROL 計畫時數] 當有其他使用者指派至任務時，就會重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [時程表：個人任務出現在時程表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
