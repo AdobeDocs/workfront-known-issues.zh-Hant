@@ -4,22 +4,20 @@ description: 當使用者嘗試產生校訂時，校訂未建立，並且使用�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
 # 校訂：無法產生校訂
 
->[!NOTE]
->
->此問題已在 2023 年 10 月 12 日修正。
-
 當使用者嘗試產生校訂時，校訂未建立，並且使用者會看到以下錯誤：
 
 &quot;[!UICONTROL 產生校訂時發生錯誤]&quot;
+
+當使用者的存取層級設定時，就會發生這種情況[!UICONTROL  檢視聯絡資訊] 設為「已停用」。
 
 **因應措施**
 
