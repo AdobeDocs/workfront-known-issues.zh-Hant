@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 95%
+source-wordcount: '6211'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,30 @@ ht-degree: 95%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 10 月更新
+
++++**(預計) 2023 年 10 月 19 日維護更新**
+
+評論對話串上的回覆不會通知使用者
+
+_通知_
+
+當使用者回複評論時，其他應接收回覆通知的使用者未收到通知。 有些使用者可能會收到通知，有些則不會。
+
+**對校訂進行評論時出現額外、空白的評論**
+
+_校訂_
+
+當使用者在校訂加上註解時，校訂會產生另一個註解，其為空白的。
+
+已針對影片校訂回報此問題。
+
+**[!UICONTROL 計畫時數] 當有其他使用者指派至任務時，就會重新分配**
+
+_任務_
+
+當使用者被指派給具有 [!UICONTROL 計畫時數] 已分配給任務的其他受指派人，任務的 [!UICONTROL 計畫時數] 平均分配給任務的所有被指定者。
+
++++
 
 +++**於 2023 年 10 月 12 日維護更新**
 
