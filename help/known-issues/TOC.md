@@ -5,7 +5,7 @@ role: User
 source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
 source-wordcount: '1361'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -22,21 +22,21 @@ ht-degree: 86%
       + [展示板：展示板檢視位置 [!UICONTROL 任務] 專案區域未載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [校樣： [!UICONTROL 校訂活動] 索引標籤未開啟](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [工作： [!UICONTROL 計畫時數] 當有其他使用者指派至任務時，就會重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
-      + [時程表：個人任務出現在時程表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
+      + [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [校訂：完成的校訂仍保留 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [報告：私有更新顯示在值運算式欄位中](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [工作負載平衡器：頁面重新整理後手動小時變更不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [首頁：委派的任務未共用且未出現在首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
-      + [校訂：從電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [登入：雖然動作已成功，但重設密碼時仍顯示錯誤](known-issues-workfront/wf-login-whoops-resetting-password.md)
-      + [主機板：主機板載入緩慢](known-issues-workfront/wf-boards-board-loads-slowly.md)
-      + [看板：無法移動卡片](known-issues-workfront/wf-boards-can-not-move-cards.md)
-      + [看板：卡片未顯示正確清單專案計數](known-issues-workfront/wf-boards-checklist-item-count.md)
+      + [報告：valueexpression 欄位顯示私人更新](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [工作負載平衡器：頁面重新整理之後手動變更的小時數不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [首頁：委派的任務不會共用，也不會出現於首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [登入：儘管動作執行成功，但重設密碼時顯示錯誤](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [展示板：展示板載入緩慢](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [展示板：無法移動卡片](known-issues-workfront/wf-boards-can-not-move-cards.md)
+      + [展示板：卡片並未顯示正確的檢查清單項目計數](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [通知：未傳送自動提醒電子郵件](known-issues-workfront/wf-notifications-overdue-error.md)
-      + [檔案整合：將資產拖曳至Experience Manager Assets整合中的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [使用者：提醒使用者註冊時顯示的錯誤訊息不正確](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [文件整合：將資產拖曳到 Experience Manager Assets 整合的資料夾時發生錯誤](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
+      + [使用者：在提醒使用者註冊時顯示不正確的錯誤訊息](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [共用：共用物件時發生錯誤](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [工作負載平衡器：由於容量不準確，使用者顯示為過度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]：物件頁面遺失元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
@@ -174,7 +174,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [[!DNL Workfront Fusion]：使用傳送邀請時發生錯誤 [!DNL Workfront] > [!UICONTROL 其他動作] 模組](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]：透過「 [!DNL Workfront]  > [!UICONTROL 其他動作]」模組傳送邀請時發生錯誤](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模組造成情境被擱置](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：情境失敗並出現「[!UICONTROL 讀取 ECONNRESET]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：無法在 [!DNL Workfront] >[!UICONTROL 觀看活動]」篩選單中輸入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

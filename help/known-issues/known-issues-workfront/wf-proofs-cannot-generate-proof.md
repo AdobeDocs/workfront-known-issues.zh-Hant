@@ -1,26 +1,26 @@
 ---
 title: 「校訂：無法產生校訂」
-description: 當使用者嘗試產生校訂時，校訂未建立，並且使用者會看到錯誤。
+description: 在使用者嘗試產生校訂時，校訂並未建立且使用者看到一則錯誤訊息。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 8%
+ht-degree: 83%
 
 ---
 
 # 校訂：無法產生校訂
 
-當使用者嘗試產生校訂時，校訂未建立，並且使用者會看到以下錯誤：
+在使用者嘗試產生校訂時，校訂未建立，且使用者會看到以下錯誤訊息：
 
-&quot;[!UICONTROL 產生校訂時發生錯誤]&quot;
+「[!UICONTROL 產生校訂時發生錯誤]」
 
 當使用者的存取層級設定時，就會發生這種情況[!UICONTROL  檢視聯絡資訊] 設為「已停用」。
 
 **因應措施**
 
-新增您想從建立校訂的檔案 [!DNL Workfront]，然後從中的檔案建立校訂 [!UICONTROL Workfront].
+將您要建立校訂的文件新增至 [!DNL Workfront]，然後使用 [!UICONTROL Workfront] 中的文件建立校訂。
 
-_於 2023 年 10 月 2 日首次通報。_
+_於 2023 年 10 月 2 日首次回報。_
