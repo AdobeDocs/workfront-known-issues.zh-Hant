@@ -4,9 +4,9 @@ description: 「當使用者在新的註解體驗中加上註解，且該註解�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2023年9月28日修正。
+>此問題已在 2023 年 9 月 28 日修正。
 
 當使用者在新的註解體驗中加上註解，且該註解出現在新體驗的註解區域，相同的註解可能不會出現在舊的註解體驗中。這可能造成使用舊的體驗的使用者遺漏註解。
 

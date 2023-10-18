@@ -4,7 +4,7 @@ description: 「當使用者檢視工作負載平衡器並將規劃時數的數�
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 

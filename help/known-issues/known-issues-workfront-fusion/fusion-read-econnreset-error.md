@@ -1,13 +1,13 @@
 ---
-title: 「Workfront Fusion：案例因讀取ECONNRESET錯誤而失敗」
-description: 情境可能會間歇性失敗。當使用者檢視失敗案例的執行時，他們會看到提及讀取ECONNRESET的錯誤訊息
+title: 「Workfront Fusion：情境失敗並出現讀取 ECONNRESET 錯誤」
+description: 情境可能會間歇性失敗。在使用者查看失敗情境的執行時，看到提及「讀取 ECONNRESET」的錯誤訊息
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: e1140018-d308-422d-9019-ae5be7e147b2
 source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

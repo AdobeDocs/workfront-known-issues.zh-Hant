@@ -1,13 +1,13 @@
 ---
-title: '展示板：載入展示板時出現問題'
-description: 當使用者嘗試載入展示板時，可能會出現問題。
+title: 「展示板：載入展示板時出現問題」
+description: 在使用者嘗試載入展示板時，可能出現問題。
 hidefromtoc: true
 feature: Agile
 exl-id: 5417ba49-890d-4590-aeae-61a4e8e9fead
 source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
