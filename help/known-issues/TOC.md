@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 96%
+source-wordcount: '1385'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新： 」[!UICONTROL 已刪除]「當問題轉換為任務時，在系統更新中顯示為使用者名稱](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [登入：登入頁面重新導向以登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [通知：使用者在評論對話串上收到回覆時不會收到通知](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]：未套用品牌](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [展示板：展示板檢視位置 [!UICONTROL 任務] 專案區域未載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)

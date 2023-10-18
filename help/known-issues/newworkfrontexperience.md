@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 93%
+source-wordcount: '799'
+ht-degree: 91%
 
 ---
 
@@ -44,6 +44,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新： 」[!UICONTROL 已刪除]「當問題轉換為任務時，在系統更新中顯示為使用者名稱](known-issues-workfront/wf-updates-deleted-requested-team.md) | 2023 年 10 月 18 日 |
+| [登入：登入頁面重新導向以登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [通知：使用者在評論對話串上收到回覆時不會收到通知](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023 年 10 月 13 日 |
 | [校樣： [!UICONTROL 校訂活動] 索引標籤未開啟](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023 年 10 月 13 日 |
 | [工作： [!UICONTROL 計畫時數] 當有其他使用者指派至任務時，就會重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 12 日 |
