@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 97%
+source-wordcount: '6298'
+ht-degree: 96%
 
 ---
 
@@ -38,11 +38,23 @@ _校訂_
 
 已針對影片校訂回報此問題。
 
+**[!UICONTROL 校訂活動] 索引標籤未開啟**
+
+_校訂_
+
+當使用者檢視校訂並按一下 [!UICONTROL 校訂活動] 索引標籤會將使用者傳回 [!UICONTROL 校訂詳細資訊] 標籤。
+
 **[!UICONTROL 計畫時數] 當有其他使用者指派至任務時，就會重新分配**
 
 _任務_
 
 當使用者被指派給具有 [!UICONTROL 計畫時數] 已分配給任務的其他受指派人，任務的 [!UICONTROL 計畫時數] 平均分配給任務的所有被指定者。
+
+**&quot;[!UICONTROL 已刪除]「當問題轉換為任務時，在系統更新中顯示為使用者名稱**
+
+_更新_
+
+當以其他使用者身份登入的使用者將問題轉換為任務，並且問題被指派到團隊時，系統更新顯示&quot;[!UICONTROL 已刪除]」作為要求團隊處理任務的使用者。
 
 +++
 
