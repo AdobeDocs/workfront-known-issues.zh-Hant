@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
 workflow-type: tm+mt
-source-wordcount: '753'
-ht-degree: 94%
+source-wordcount: '717'
+ht-degree: 96%
 
 ---
 
@@ -27,14 +27,7 @@ ht-degree: 94%
 | -----------------------------------------------------------------| ----------------- |
 | [檔案：共用按鈕無法運作](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 19 日 |
 | [檔案： &quot;[!UICONTROL 傳送至]」選項導致空白頁面和錯誤訊息](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 19 日 |
-| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 16 日 |
 | [[!DNL Workfront]：未套用品牌](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023 年 10 月 13 日 |
-| [展示板：展示板檢視位置 [!UICONTROL 任務] 專案區域未載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023 年 10 月 13 日 |
-| [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
-| [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模組](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
-| [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
-| [展示板：卡片並未顯示正確的檢查清單項目計數](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
 | [共用：共用物件時發生錯誤](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023 年 9 月 27 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
 
@@ -45,10 +38,13 @@ ht-degree: 94%
 目前正在修正這些問題，或已排定在不久的將來進行。
 
 | **問題** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
+|----------------------------------| ----------------- |
+| [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
+| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
+| [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 19 日 |
+| [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [登入：登入頁面重新導向以登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不相符 | 2023 年 10 月 12 日 |
-| [登入：儘管動作執行成功，但重設密碼時顯示錯誤](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 12 日 |
 | [報告：valueexpression 欄位顯示私人更新](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 12 日 |
 | [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 10 日 |
 | [工作負載平衡器：頁面重新整理之後手動變更的小時數不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |

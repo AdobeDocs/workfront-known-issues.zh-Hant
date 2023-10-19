@@ -4,14 +4,18 @@ description: 在使用者重設密碼時，系統已傳送重設密碼電子郵�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
-source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # 登入：儘管動作執行成功，但重設密碼時顯示錯誤
+
+>[!NOTE]
+>
+>此問題已在 2023 年 10 月 12 日修正。
 
 在使用者重設密碼時，系統已傳送重設密碼電子郵件，但使用者看到以下錯誤：
 

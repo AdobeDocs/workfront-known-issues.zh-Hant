@@ -4,14 +4,18 @@ description: 在 Fusion 情境執行設定為 sendInvitationEmail 動作的「 [
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 67147ca0-1f40-4688-9164-ba492aa78b13
-source-git-commit: 90e0c5739fa95c9216038582b9f355b6646a3b44
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Fusion]：透過「[!DNL Workfront] > [!UICONTROL 其他動作]」模組傳送邀請時發生錯誤
+
+>[!NOTE]
+>
+>這個問題已解決。
 
 在 [!DNL Fusion] 情境執行一個「[!DNL Workfront] > [!UICONTROL 其他動作]」模組 (設定為 `[!UICONTROL sendInvitationEmail]` 動作) 時，模組傳回以下錯誤：
 

@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
-workflow-type: ht
-source-wordcount: '125'
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模組](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
+| 無 |  |
 
 {style="table-layout:auto"}
 
