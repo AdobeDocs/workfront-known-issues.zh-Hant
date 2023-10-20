@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 93%
+source-wordcount: '1421'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md)
+      + [看板：預期的卡片未顯示在看板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [首頁：專案和任務未載入首頁](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [檔案：共用按鈕無法運作](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [檔案： &quot;[!UICONTROL 傳送至]」選項導致空白頁面和錯誤訊息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [更新： 」[!UICONTROL 已刪除]「當問題轉換為任務時，在系統更新中顯示為使用者名稱](known-issues-workfront/wf-updates-deleted-requested-team.md)
