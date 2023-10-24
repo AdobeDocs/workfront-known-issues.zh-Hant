@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [Workfront Fusion：從單一模組建立的重複專案](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 
 {style="table-layout:auto"}
 

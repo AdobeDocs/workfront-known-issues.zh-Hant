@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 92%
+source-wordcount: '1429'
+ht-degree: 95%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 92%
       + [檔案： &quot;[!UICONTROL 傳送至]」選項導致空白頁面和錯誤訊息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [更新： 」[!UICONTROL 已刪除]「當問題轉換為任務時，在系統更新中顯示為使用者名稱](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [登入：登入頁面重新導向以登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [通知：使用者在評論對話串上收到回覆時不會收到通知](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [通知：使用者沒有收到評論對話串回覆通知](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]：未套用品牌](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [展示板：展示板檢視位置 [!UICONTROL 任務] 專案區域未載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
-      + [校樣： [!UICONTROL 校訂活動] 索引標籤未開啟](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [工作： [!UICONTROL 計畫時數] 當有其他使用者指派至任務時，就會重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [展示板：專案[!UICONTROL 任務]區域中的展示板視圖沒有載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [校訂：[!UICONTROL 校訂活動]標籤未開啟](known-issues-workfront/wf-proof-activities-tab-not-working.md)
+      + [任務：將任務指派給其他使用者時，[!UICONTROL 規劃時數]會重新分配。](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -181,6 +181,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：從單一模組建立的重複專案](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]：透過「 [!DNL Workfront]  > [!UICONTROL 其他動作]」模組傳送邀請時發生錯誤](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模組造成情境被擱置](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：情境失敗並出現「[!UICONTROL 讀取 ECONNRESET]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)

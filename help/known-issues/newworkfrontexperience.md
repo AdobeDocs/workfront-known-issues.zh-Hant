@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '749'
 ht-degree: 93%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：從單一模組建立的重複專案](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 | [看板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 | [看板：預期的卡片未顯示在看板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 20 日 |
 | [首頁：專案和任務未載入首頁](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 2023 年 10 月 20 日 |
