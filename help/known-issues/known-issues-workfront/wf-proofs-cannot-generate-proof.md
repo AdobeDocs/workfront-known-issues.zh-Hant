@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 
 「[!UICONTROL 產生校訂時發生錯誤]」
 
-當使用者的存取層級設定時，就會發生這種情況[!UICONTROL  檢視聯絡資訊] 設為「已停用」。
+當使用者的存取等級設定將「[!UICONTROL 查看聯絡資訊]」設定為停用時，就會發生這種情況。
 
 **因應措施**
 

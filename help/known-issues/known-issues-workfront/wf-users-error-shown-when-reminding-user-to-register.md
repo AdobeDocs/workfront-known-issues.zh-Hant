@@ -4,7 +4,7 @@ description: 「在使用者提醒其他使用者註冊時，提醒電子郵件�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 
