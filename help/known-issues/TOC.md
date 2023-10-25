@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1444'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [任務：「[!UICONTROL 糟糕]「任務標題發生錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [登入：登入時出現錯誤訊息](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [看板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md)
       + [看板：預期的卡片未顯示在看板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [首頁：專案和任務未載入首頁](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
@@ -158,6 +160,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校訂：儀表板資料並不總是準確的](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校訂：搜尋資料並不總是準確的](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
