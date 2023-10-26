@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: b684aea3ae421aa26b45a54a394a581e14d65e82
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 94%
+source-wordcount: '371'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 | [檔案：共用按鈕無法運作](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 19 日 |
 | [檔案： &quot;[!UICONTROL 傳送至]」選項導致空白頁面和錯誤訊息](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 19 日 |
 

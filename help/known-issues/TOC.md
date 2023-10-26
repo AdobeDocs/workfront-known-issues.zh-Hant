@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 94%
+source-wordcount: '1450'
+ht-degree: 93%
 
 ---
 
@@ -160,6 +160,7 @@ ht-degree: 94%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校訂：儀表板資料並不總是準確的](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校訂：搜尋資料並不總是準確的](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
