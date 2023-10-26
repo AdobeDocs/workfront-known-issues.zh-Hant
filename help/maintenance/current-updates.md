@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
+source-wordcount: '6537'
 ht-degree: 96%
 
 ---
@@ -38,6 +38,13 @@ _校訂_
 
 &quot;[!UICONTROL 缺少Key-Pair-Id查詢引數或Cookie值]&quot;
 
+**無法建立新版本的校訂**
+
+_校訂_
+
+當使用者嘗試建立新版本的校訂時，並未產生新版本且使用者看到以下錯誤訊息：
+
+「[!UICONTROL 產生校訂時發生錯誤]」
 
 **共用請求時使用者重複**
 
@@ -46,6 +53,14 @@ _請求_
 共用請求時，如果與其共用請求的使用者存取層級被修改，則清單中該使用者正上方的使用者會成為該使用者。
 
 例如，如果要求與使用者A和使用者B共用，並且使用者B的存取權被修改，則使用者A會變更為使用者B，並且清單中現在有兩個使用者B。 此外，僅修改了頂端使用者B的存取權。
+
+**&quot;[!UICONTROL 糟糕]「任務標題發生錯誤**
+
+_任務_
+
+當使用者檢視任務時，任務標題不包含任何資訊。 相反地，使用者會看到以下錯誤訊息：
+
+「[!UICONTROL 糟糕！發生錯誤。請聯絡 Workfront，以便我們找出問題並加以修正。]」
 
 +++
 
