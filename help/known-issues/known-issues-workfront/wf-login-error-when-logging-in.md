@@ -3,15 +3,19 @@ title: 「登入：登入時出現錯誤訊息」
 description: 「當使用者嘗試登入 [!DNL Workfront]，他們會看到錯誤訊息。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # 登入：登入時出現錯誤訊息
+
+>[!NOTE]
+>
+>此問題已在 2023 年 10 月 26 日修正。
 
 當使用者嘗試登入 [!DNL Workfront]，他們會看到以下錯誤訊息：
 

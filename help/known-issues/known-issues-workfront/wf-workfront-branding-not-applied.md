@@ -3,15 +3,23 @@ title: 「Workfront：未套用品牌」
 description: 「當使用者將檔案上傳到設定的品牌區域時，檔案看起來已正確上傳。但如果使用者查看主選單，他們沒有看到該標誌。而是看到錯誤訊息。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 86%
 
 ---
 
 
 # [!DNL Workfront]：未套用品牌
+
+>[!NOTE]
+>
+>此問題已關閉，因為這不是問題。
+
+>[!IMPORTANT]
+>
+>如果您的組織已移轉至Adobe Admin Console或AdobeUnified Shell，則無法使用品牌推廣。
 
 當使用者將檔案上傳到設定的[!UICONTROL 品牌]區域時，檔案看起來已正確上傳。但如果使用者查看[!UICONTROL 主選單]，他們沒有看到該標誌。而是看到以下訊息：
 
