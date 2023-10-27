@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '753'
-ht-degree: 92%
+source-wordcount: '759'
+ht-degree: 91%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [[!DNL Workfront Proof]：上的時間戳記不準確 [!UICONTROL 校訂摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023 年 10 月 27 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [檔案：共用按鈕無法運作](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 26 日 |
 | [看板：預期的卡片未顯示在看板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 26 日 |
