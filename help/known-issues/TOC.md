@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1455'
-ht-degree: 93%
+source-wordcount: '1484'
+ht-degree: 96%
 
 ---
 
@@ -17,15 +17,18 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [請求：新請求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md)
+      + [報告：使用率報告中的預算時數不符合透過API報告的預算時數](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [儀表板：使用者無法存取 [!UICONTROL 畫布控制面板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [任務：「[!UICONTROL 糟糕]「任務標題發生錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [登入：登入時出現錯誤訊息](known-issues-workfront/wf-login-error-when-logging-in.md)
-      + [看板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md)
-      + [看板：預期的卡片未顯示在看板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [首頁：專案和任務未載入首頁](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
-      + [檔案：共用按鈕無法運作](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [檔案： &quot;[!UICONTROL 傳送至]」選項導致空白頁面和錯誤訊息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [更新： 」[!UICONTROL 已刪除]「當問題轉換為任務時，在系統更新中顯示為使用者名稱](known-issues-workfront/wf-updates-deleted-requested-team.md)
-      + [登入：登入頁面重新導向以登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md)
+      + [展示板：展示板上未顯示預期的卡片](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [首頁：首頁中未載入專案和任務](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [文件：共用按鈕沒有作用](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [文件：「[!UICONTROL 傳送至]」選項導致空白頁面和錯誤訊息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [更新：當問題轉換為任務時，「[!UICONTROL 已刪除]」會在系統更新中顯示為使用者名稱](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [登入：登入頁面重新導向至登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [通知：使用者沒有收到評論對話串回覆通知](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]：未套用品牌](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [展示板：專案[!UICONTROL 任務]區域中的展示板視圖沒有載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
@@ -186,7 +189,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [Workfront Fusion：從單一模組建立的重複專案](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]：透過「 [!DNL Workfront]  > [!UICONTROL 其他動作]」模組傳送邀請時發生錯誤](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模組造成情境被擱置](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：情境失敗並出現「[!UICONTROL 讀取 ECONNRESET]」錯誤](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
