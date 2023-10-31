@@ -4,7 +4,7 @@ description: 「當使用者獲指派的任務已將規劃時數分配給該任�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 

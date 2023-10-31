@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 947b1d9b-1f09-4bd0-9bd9-bed352b85dcb
 source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在10月19日修正。 4 月 20 日解決。
+>此問題已在 2023 年 10 月 19 日修正。
 
 在使用者檢視看展示板上的卡片時，檢查清單項目計數顯示為 0/0。在使用者點選該卡片時，可以看到現有的檢查清單項目。
 
