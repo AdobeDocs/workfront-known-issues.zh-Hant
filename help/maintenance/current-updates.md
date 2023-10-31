@@ -3,7 +3,7 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
 ht-degree: 99%
@@ -24,11 +24,11 @@ ht-degree: 99%
 
 +++**(預計) 2023 年 11 月 2 日維護更新**
 
-**私人更新會顯示在值運算式欄位中**
-_報表_
+**私密更新會顯示在值運算式欄位中**
+
+_報告_
 
 當報告欄位包含參照私人更新的 valueexpression 時，未包含在私人更新中的使用者可以在報表中看到此欄位。
-
 
 **由於容量不準確，使用者顯示為過度分配**
 
