@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
 workflow-type: tm+mt
-source-wordcount: '6537'
+source-wordcount: '6638'
 ht-degree: 99%
 
 ---
@@ -20,9 +20,29 @@ ht-degree: 99%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2023 年 11 月更新
+
++++**(預計) 2023 年 11 月 2 日維護更新**
+
+**私人更新會顯示在值運算式欄位中**
+_報表_
+
+當報告欄位包含參照私人更新的 valueexpression 時，未包含在私人更新中的使用者可以在報表中看到此欄位。
+
+
+**由於容量不準確，使用者顯示為過度分配**
+
+_工作負載平衡器_
+
+使用者可能會在工作負載平衡器中顯示為過度分配。如果使用者將滑鼠懸停在過度分配上，他們會看到使用者的容量設定為 0。
+
+如果使用者變更日期範圍，則分配是準確的。但是，如果使用者重新整理頁面，容量可能又會不準確。
+
++++
+
 ## 2023 年 10 月更新
 
-+++**(預計) 2023 年 10 月 26 日維護更新**
++++**於 2023 年 10 月 26 日維護更新**
 
 **搜尋無法運作**
 
