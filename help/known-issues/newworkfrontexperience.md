@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '801'
 ht-degree: 90%
 
 ---
@@ -55,12 +55,10 @@ ht-degree: 90%
 | [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [登入：登入頁面重新導向至登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不相符 | 2023 年 10 月 12 日 |
-| [報告：valueexpression 欄位顯示私人更新](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 12 日 |
 | [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 10 日 |
 | [工作負載平衡器：頁面重新整理之後手動變更的小時數不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |
 | [首頁：委派的任務不會共用，也不會出現於首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |
-| [工作負載平衡器：由於容量不準確，使用者顯示為過度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  支援案例，發生在 Experience League 上](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
+| [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
 
