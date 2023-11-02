@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 93%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2日 |
 
 {style="table-layout:auto"}
 
@@ -46,8 +46,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] ，透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 5 月 25 日 |
+| [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 存取  [!DNL Workfront Proof]  時出現 500 錯誤 | 2023 年 5 月 25 日 |
 | [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022 年 9 月 29 日 |
-| [[!DNL Workfront Fusion]: [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |
+| [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |
 
 {style="table-layout:auto"}

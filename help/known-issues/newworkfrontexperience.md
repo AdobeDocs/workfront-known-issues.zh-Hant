@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 744835ec6f1f9af2d536b8f4e3fbc4ef1660fa27
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
-source-wordcount: '765'
-ht-degree: 91%
+source-wordcount: '775'
+ht-degree: 89%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2日 |
 | [請求：新請求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
 | [報告：使用率報告中的預算時數不符合透過API報告的預算時數](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
 | [儀表板：使用者無法存取 [!UICONTROL 畫布控制面板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 30 日 |

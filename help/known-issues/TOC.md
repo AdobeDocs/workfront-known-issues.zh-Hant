@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
-source-wordcount: '1507'
+source-wordcount: '1516'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [面板：卡片的「評論」區段發生錯誤](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL 工作負載平衡器]： [!UICONTROL 工作負載平衡器] 載入緩慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
