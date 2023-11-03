@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 89%
+source-wordcount: '805'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [請求：將檔案新增至請求時清除的欄位](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023年11月3日 |
 | [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
 | [面板：卡片的「評論」區段發生錯誤](known-issues-workfront/wf-boards-comment-section-error.md) | 2023年11月1日 |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
@@ -39,13 +40,15 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
+| [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
+| [校訂：從電子郵件連結存取校訂時遺失階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日 |
 | [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2日 |
 | [請求：新請求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
 | [報告：使用率報告中的預算時數不符合透過API報告的預算時數](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
 | [儀表板：使用者無法存取 [!UICONTROL 畫布控制面板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 30 日 |
 | [[!DNL Workfront Proof]：上的時間戳記不準確 [!UICONTROL 校訂摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023 年 10 月 27 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
-| [文件：共用按鈕沒有作用](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 26 日 |
 | [展示板：展示板上未顯示預期的卡片](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 26 日 |
 | [任務：「[!UICONTROL 糟糕]「任務標題發生錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
 | [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |

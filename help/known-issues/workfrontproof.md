@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 96%
+source-wordcount: '390'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 96%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
-| [文件：共用按鈕沒有作用](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 19 日 |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,9 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
+| [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
+| [校訂：從電子郵件連結存取校訂時遺失階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日 |
 | [[!DNL Workfront Proof]：上的時間戳記不準確 [!UICONTROL 校訂摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023 年 10 月 27 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
