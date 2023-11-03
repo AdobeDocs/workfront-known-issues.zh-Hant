@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 93%
+source-wordcount: '150'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023年11月3日 |
 | [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 
 {style="table-layout:auto"}

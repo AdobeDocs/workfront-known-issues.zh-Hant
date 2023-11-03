@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
-source-wordcount: '1516'
-ht-degree: 94%
+source-wordcount: '1554'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [校訂：從電子郵件連結存取校訂時遺失階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [請求：將檔案新增至請求時清除的欄位](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
       + [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [面板：卡片的「評論」區段發生錯誤](known-issues-workfront/wf-boards-comment-section-error.md)
@@ -193,6 +197,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]：透過「 [!DNL Workfront]  > [!UICONTROL 其他動作]」模組傳送邀請時發生錯誤](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模組造成情境被擱置](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
