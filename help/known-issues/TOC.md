@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '1554'
+source-wordcount: '1566'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [範本：子任務在父任務下移動時顯示混亂](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [校訂：從電子郵件連結存取校訂時遺失階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md)

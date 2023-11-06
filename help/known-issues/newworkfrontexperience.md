@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已通報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '805'
-ht-degree: 85%
+source-wordcount: '818'
+ht-degree: 84%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 85%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [範本：子任務在父任務下移動時顯示混亂](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 2023年11月6 |
 | [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
 | [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
 | [校訂：從電子郵件連結存取校訂時遺失階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日 |
