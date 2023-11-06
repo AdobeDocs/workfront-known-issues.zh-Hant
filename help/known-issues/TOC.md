@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 91%
+source-wordcount: '1585'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：專案中狀態為「已核准」或「計畫」的任務未包含在「我的任務」或「首頁工作清單」中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [範本：子任務在父任務下移動時顯示混亂](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)
