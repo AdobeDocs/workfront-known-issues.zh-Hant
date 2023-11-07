@@ -1,26 +1,26 @@
 ---
-title: 「儀表板：使用者無法存取 [!UICONTROL 畫布控制面板]"
-description: 「當使用者應該有權存取 [!UICONTROL 畫布控制面板] 嘗試存取 [!UICONTROL 畫布控制面板]，儀表板未載入，使用者看到一則訊息。」
+title: 「儀表板：使用者無法存取[!UICONTROL 畫布儀表板]」
+description: 「當應該有權存取[!UICONTROL 畫布儀表板]的使用者嘗試存取[!UICONTROL 畫布儀表板]時，儀表板沒有載入，且使用者會看到一則訊息。」
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# 儀表板：使用者無法存取 [!UICONTROL 畫布控制面板]
+# 儀表板：使用者無法存取[!UICONTROL 畫布儀表板]
 
-當使用者應該有權存取 [!UICONTROL 畫布控制面板] 嘗試存取 [!UICONTROL 畫布控制面板]，儀表板未載入，且使用者看到以下訊息：
+當應該有權存取[!UICONTROL 畫布儀表板]的使用者嘗試存取[!UICONTROL 畫布儀表板]時，儀表板沒有載入，且使用者會看到以下訊息：
 
-&quot;[!UICONTROL 您無權存取畫布控制面板，請聯絡您的管理員以取得存取權。]&quot;
+「[!UICONTROL 您無權存取畫布儀表板，請聯絡您的管理員以取得存取權。]」
 
-當以下所有存取層級選項在中停用時，就會發生這種情況 [!UICONTROL 報表]：
+當「[!UICONTROL 報告]」底下的以下所有存取等級選項都停用時，就會發生這種情況：
 
 * [!UICONTROL 刪除]
 * [!UICONTROL 公開共用報告]
 * [!UICONTROL 共用系統範圍]
 
-_於 2023 年 25 月 10 日首次回報。_
+_於 2023 年 10 月 25 日首次回報。_

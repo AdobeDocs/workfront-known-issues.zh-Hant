@@ -1,13 +1,13 @@
 ---
 title: '首頁：首頁中未載入專案和任務'
-description: 專案和任務未載入首頁
+description: 首頁中未載入專案和任務
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 01498e80-af59-44c8-990b-69a6332bb72e
 source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 89%
 * 全新的首頁體驗：「我的專案」和「我的任務」Widget 未填入。
 * 傳統首頁體驗：首頁工作清單未填入。
 
-_於 2023 年 19 月 10 日首次回報。_
+_於 2023 年 10 月 19 日首次回報。_
