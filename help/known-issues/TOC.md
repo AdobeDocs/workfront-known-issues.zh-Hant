@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '1585'
-ht-degree: 90%
+source-wordcount: '1594'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [儀表板：將儀表板列印到PDF時產生大量空白邊界](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [首頁：專案中狀態為「已核准」或「計畫」的任務未包含在「我的任務」或「首頁工作清單」中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [範本：子任務在父任務下移動時顯示混亂](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
@@ -27,10 +28,10 @@ ht-degree: 90%
       + [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [面板：卡片的「評論」區段發生錯誤](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL 工作負載平衡器]： [!UICONTROL 工作負載平衡器] 載入緩慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
-      + [請求：新請求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md)
-      + [報告：使用率報告中的預算時數不符合透過API報告的預算時數](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [儀表板：使用者無法存取 [!UICONTROL 畫布控制面板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [任務：「[!UICONTROL 糟糕]「任務標題發生錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [要求：新要求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md)
+      + [報告：使用情況報告中的預算工時與透過 API 報告的預算工時不相符](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [儀表板：使用者無法存取[!UICONTROL 畫布儀表板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [任務：任務標題出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [登入：登入時出現錯誤訊息](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md)
       + [展示板：展示板上未顯示預期的卡片](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
@@ -173,7 +174,7 @@ ht-degree: 90%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [[!DNL Workfront Proof]：上的時間戳記不準確 [!UICONTROL 校訂摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校訂：儀表板資料並不總是準確的](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
