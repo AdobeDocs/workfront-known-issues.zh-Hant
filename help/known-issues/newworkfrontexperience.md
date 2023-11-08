@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 88%
+source-wordcount: '842'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日 |
 | [請求：將檔案新增至請求時清除的欄位](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023年11月3日 |
 | [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
 | [面板：卡片的「評論」區段發生錯誤](known-issues-workfront/wf-boards-comment-section-error.md) | 2023年11月1日 |

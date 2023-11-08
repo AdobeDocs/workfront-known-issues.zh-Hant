@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 93%
+source-wordcount: '1600'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [儀表板：將儀表板列印到PDF時產生大量空白邊界](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [首頁：專案中狀態為「已核准」或「計畫」的任務未包含在「我的任務」或「首頁工作清單」中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [範本：子任務在父任務下移動時顯示混亂](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
