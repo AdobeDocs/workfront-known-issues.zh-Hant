@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 849127dbab413a1fd7e8a6f85b9dd284f665807e
 workflow-type: tm+mt
-source-wordcount: '831'
-ht-degree: 87%
+source-wordcount: '810'
+ht-degree: 88%
 
 ---
 
@@ -27,9 +27,7 @@ ht-degree: 87%
 | -----------------------------------------------------------------| ----------------- |
 | [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日 |
 | [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
-| [面板：卡片的「評論」區段發生錯誤](known-issues-workfront/wf-boards-comment-section-error.md) | 2023年11月1日 |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
-| [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 | [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
 {style="table-layout:auto"}
@@ -48,12 +46,11 @@ ht-degree: 87%
 | [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2日 |
 | [要求：新要求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
 | [報告：使用情況報告中的預算工時與透過 API 報告的預算工時不相符](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
-| [儀表板：使用者無法存取[!UICONTROL 畫布儀表板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 30 日 |
 | [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的時間戳記不準確 | 2023 年 10 月 27 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [展示板：展示板上未顯示預期的卡片](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 26 日 |
 | [任務：任務標題出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
-| [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
+| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [登入：登入頁面重新導向至登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不相符 | 2023 年 10 月 12 日 |
@@ -68,6 +65,7 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日 |
 | [儀表板：將儀表板列印到PDF時產生大量空白邊界](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023年11月7 |
 | [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 10 月 26 日 |
 | [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |

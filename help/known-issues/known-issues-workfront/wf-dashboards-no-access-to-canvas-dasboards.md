@@ -3,15 +3,19 @@ title: 「儀表板：使用者無法存取[!UICONTROL 畫布儀表板]」
 description: 「當應該有權存取[!UICONTROL 畫布儀表板]的使用者嘗試存取[!UICONTROL 畫布儀表板]時，儀表板沒有載入，且使用者會看到一則訊息。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
 # 儀表板：使用者無法存取[!UICONTROL 畫布儀表板]
+
+>[!NOTE]
+>
+>此問題已在 2023 年 11 月 7 日修正。
 
 當應該有權存取[!UICONTROL 畫布儀表板]的使用者嘗試存取[!UICONTROL 畫布儀表板]時，儀表板沒有載入，且使用者會看到以下訊息：
 
