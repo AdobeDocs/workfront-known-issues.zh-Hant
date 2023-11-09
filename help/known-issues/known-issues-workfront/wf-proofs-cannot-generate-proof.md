@@ -4,14 +4,18 @@ description: 在使用者嘗試產生校訂時，校訂並未建立且使用者�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # 校訂：無法產生校訂
+
+>[!NOTE]
+>
+>此問題已在 2023 年 11 月 9 日修正。
 
 在使用者嘗試產生校訂時，校訂未建立，且使用者會看到以下錯誤訊息：
 
