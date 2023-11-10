@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 849127dbab413a1fd7e8a6f85b9dd284f665807e
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 88%
+source-wordcount: '828'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [面板：無法編輯標籤顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023年11月10日 |
 | [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日 |
 | [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
@@ -38,6 +39,7 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [任務：重新計算時間表時，任務日期因延長時間而變灰](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日 |
 | [通知：當使用者在評論中被標籤時未收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日 |
 | [首頁：專案中狀態為「已核准」或「計畫」的任務未包含在「我的任務」或「首頁工作清單」中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6 |
 | [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |

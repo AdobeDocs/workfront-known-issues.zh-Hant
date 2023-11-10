@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '1612'
-ht-degree: 92%
+source-wordcount: '1628'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [任務：重新計算時間表時，任務日期因延長時間而變灰](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [面板：無法編輯標籤顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [通知：當使用者在評論中被標籤時未收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md)
       + [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [儀表板：將儀表板列印到PDF時產生大量空白邊界](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
