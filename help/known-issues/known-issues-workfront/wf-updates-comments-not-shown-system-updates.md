@@ -1,17 +1,17 @@
 ---
-title: 「更新：未顯示附加到系統更新的評論」
-description: 「當使用者對系統動作（例如狀態變更）發表評論時，該評論未顯示在更新區域。 」
+title: 「更新：附加在系統更新的評論未顯示」
+description: 「當使用者對系統動作 (例如狀態變更) 發表評論時，該評論不會顯示在「更新」區域中。」
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 更新：未顯示附加到系統更新的評論
+# 更新：附加在系統更新的評論未顯示
 
 <!--
 
@@ -21,8 +21,8 @@ ht-degree: 5%
 
 -->
 
-當使用者對系統動作（例如狀態變更）發表評論時，該評論未顯示在更新區域。
+當使用者對系統動作 (例如狀態變更) 發表評論時，該評論不會顯示在「更新」區域中。
 
-此問題已在新評論體驗中報告。
+新的評論體驗有回報此問題。
 
-_於 2023 年 27 月 10 日首次回報。_
+_於 2023 年 10 月 27 日首次回報。_

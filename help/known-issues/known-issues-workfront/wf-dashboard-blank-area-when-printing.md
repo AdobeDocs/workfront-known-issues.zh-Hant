@@ -1,22 +1,22 @@
 ---
-title: 「儀表板：將儀表板列印到PDF時產生大量空白邊界」
-description: 「當使用者列印儀表板以使用橫向進行PDF時，PDF在右側顯示很大的空白邊界。」
+title: 「儀表板：將儀表板列印為 PDF 時空白邊界很大」
+description: 「當使用者以橫向模式將儀表板列印為 PDF 時，PDF 右側的空白邊界很大。」
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# 儀表板：將儀表板列印到PDF時產生大量空白邊界
+# 儀表板：將儀表板列印為 PDF 時空白邊界很大
 
-當使用者列印儀表板以使用橫向PDF時，PDF在右側顯示較大的空白邊界。
+當使用者以橫向模式將儀表板列印為 PDF 時，PDF 右側的空白邊界很大。
 
-**因應措施**
+**解決方法**
 
-以直向模式列印會顯示正確的邊界。
+以直向模式列印可顯示正確的邊界。
 
-_於 2023 年 23 月 10 日首次回報。_
+_於 2023 年 10 月 23 日首次回報。_
