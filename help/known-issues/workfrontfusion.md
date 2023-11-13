@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023年11月9日 |
-| [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2日 |
+| [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 9 日 |
+| [更新：透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) 發表的評論中出現額外的行 | 2023 年 11 月 2 日 |
 
 {style="table-layout:auto"}
 

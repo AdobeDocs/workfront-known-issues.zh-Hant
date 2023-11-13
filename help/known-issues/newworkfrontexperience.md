@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 86%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [面板：無法編輯標籤顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023年11月10日 |
-| [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日 |
-| [更新：未顯示附加到系統更新的評論](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
+| [面板：無法編輯標籤顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
+| [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
+| [更新：附加在系統更新的評論未顯示](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 1 日 |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 | [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
@@ -39,13 +39,13 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [任務：重新計算時間表時，任務日期因延長時間而變灰](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日 |
-| [通知：當使用者在評論中被標籤時未收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日 |
-| [首頁：專案中狀態為「已核准」或「計畫」的任務未包含在「我的任務」或「首頁工作清單」中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6 |
-| [首頁：核准卡在 [!UICONTROL 等待我的核准] Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
-| [校樣：中繼啟動的問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
-| [校訂：從電子郵件連結存取校訂時遺失階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日 |
-| [更新：透過API或進行的註解中的額外行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2日 |
+| [任務：重新計算時間表時，任務日期因延長時間而變灰](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
+| [通知：當使用者在評論中被標籤時未收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 8 日 |
+| [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
+| [首頁：核准卡在「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 3 日 |
+| [校訂：階段啟動發生問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
+| [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
+| [更新：透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) 發表的評論中出現額外的行 | 2023 年 11 月 2 日 |
 | [要求：新要求頁面上顯示的自訂貨幣不正確](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
 | [報告：使用情況報告中的預算工時與透過 API 報告的預算工時不相符](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
 | [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的時間戳記不準確 | 2023 年 10 月 27 日 |
@@ -55,7 +55,7 @@ ht-degree: 86%
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [登入：登入頁面重新導向至登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
-| [[!UICONTROL 工作負載平衡器]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不相符 | 2023 年 10 月 12 日 |
+| [[!UICONTROL 工作量平衡工具]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)的總和不相符 | 2023 年 10 月 12 日 |
 | [首頁：委派的任務不會共用，也不會出現於首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
@@ -67,9 +67,9 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日 |
-| [儀表板：將儀表板列印到PDF時產生大量空白邊界](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023年11月7 |
-| [[!UICONTROL 首頁]：[!UICONTROL 請求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 10 月 26 日 |
+| [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |
+| [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 7 日 |
+| [[!UICONTROL 首頁]：[!UICONTROL 要求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 10 月 26 日 |
 | [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 首頁]：新的[!UICONTROL 首頁] Widget 預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
@@ -104,7 +104,7 @@ ht-degree: 86%
 | [敏捷：疊代[!UICONTROL 完成點]的差異](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 22 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 在校訂中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [電子郵件通知：顯示「[!UICONTROL 我受指派問題]」設定](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 2 日 |
-| [電子郵件通知：使用者未導向到註解對話串](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
+| [電子郵件通知：使用者未導向到評論對話串](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
 | [行事曆： [!DNL OR] 篩選器陳述式不包括篩選規則](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021 年 4 月 23 日 |
 | [[!UICONTROL Workfront Proof]：[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [報告：在儀表板上查看時無法水平捲動報告](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021 年 3 月 30 日 |
