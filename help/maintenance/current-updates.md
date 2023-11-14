@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6903'
+source-wordcount: '7087'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,32 @@ ht-degree: 99%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 11 月更新
+
++++**(預計) 2023 年 11 月 16 日維護更新**
+
+**使用報告中的預算時數不符合透過API報告的預算時數**
+
+_報告_
+
+當使用者對指定項目的 RPBGHR 物件進行 API 呼叫，並將該呼叫的結果與該專案的使用情況報告進行比較時，結果不相符。
+
+**新請求頁面上顯示的自訂貨幣不正確**
+
+_要求_
+
+當使用者提交要求，且做出的選擇會變更要求表單上的顯示邏輯時，顯示的貨幣將恢復為預設貨幣，而非顯示在要求佇列代表的專案上所設定的自訂貨幣。
+
+當使用者提交他們的請求時，貨幣顯示為請求佇列代表的專案的正確自訂貨幣
+
+**透過API或進行的註解中的額外行[!DNL Workfront Fusion]**
+
+_更新_
+
+當使用者透過 API 或 [!DNL Workfront Fusion] 提交評論時，「更新」區域顯示的評論會出現額外的行。有時有太多行，使用者必須向下捲動才能看到評論內容。
+
+新的評論體驗有回報此問題。
+
++++
 
 +++**於 2023 年 11 月 9 日維護更新**
 
