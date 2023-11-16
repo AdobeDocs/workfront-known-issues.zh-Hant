@@ -4,7 +4,7 @@ description: 「當使用者在範本上建立任務，然後將這些任務移�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
 ht-degree: 100%
 
