@@ -3,15 +3,19 @@ title: 「要求：新要求頁面上顯示的自訂貨幣不正確」
 description: 「當使用者提交要求，且做出的選擇會變更要求表單上的顯示邏輯時，顯示的貨幣將恢復為預設貨幣，而非顯示在要求佇列代表的專案上所設定的自訂貨幣。」
 hidefromtoc: true
 feature: Requests
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 
 # 要求：新要求頁面上顯示的自訂貨幣不正確
+
+>[!NOTE]
+>
+>此問題已在 2023 年 11 月 16 日修正。
 
 當使用者提交要求，且做出的選擇會變更要求表單上的顯示邏輯時，顯示的貨幣將恢復為預設貨幣，而非顯示在要求佇列代表的專案上所設定的自訂貨幣。
 
