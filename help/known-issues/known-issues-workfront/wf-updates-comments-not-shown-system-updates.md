@@ -3,9 +3,9 @@ title: 「更新：附加在系統更新的評論未顯示」
 description: 「當使用者對系統動作 (例如狀態變更) 發表評論時，該評論不會顯示在「更新」區域中。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 100%
 >This issue has been closed because it is working as designed.
 
 -->
+
+>[!NOTE]
+>
+>此問題已關閉，因為它已如期工作。
 
 當使用者對系統動作 (例如狀態變更) 發表評論時，該評論不會顯示在「更新」區域中。
 

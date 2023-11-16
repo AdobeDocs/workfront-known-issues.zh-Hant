@@ -4,14 +4,18 @@ description: 與訪客共用校訂時，若該訪客嘗試使用電子郵件中�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
-source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
-workflow-type: ht
-source-wordcount: '143'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
 
 # 校訂：透過電子郵件連結共用校訂時發生錯誤
+
+>[!NOTE]
+>
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
 與訪客共用校訂時，若該訪客嘗試使用電子郵件中「與其他人共用此校訂」選項，他們在嘗試提交要共用校訂的電子郵件地址時會收到錯誤訊息。電子郵件欄位變為紅色，且使用者看到以下錯誤：
 

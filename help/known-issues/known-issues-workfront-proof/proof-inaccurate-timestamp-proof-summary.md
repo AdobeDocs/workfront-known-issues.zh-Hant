@@ -4,14 +4,18 @@ description: 當使用者點選校訂的「列印摘要」選項時，顯示的�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: ht
-source-wordcount: '54'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '65'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確
+
+>[!NOTE]
+>
+>此問題因為無法重現已遭關閉。
 
 當使用者點選校訂的「[!UICONTROL 列印摘要]」選項時，顯示的時間戳記增加了 30 分鐘。
 
