@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [[!UICONTROL 首頁]：任務未出現在 [!UICONTROL 我的工作] Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
-      + [任務：重新計算時間表時，任務日期因延長時間而變灰](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
-      + [面板：無法編輯標籤顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
-      + [通知：當使用者在評論中被標籤時未收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md)
-      + [面板：檢視子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
+      + [通知：使用者在評論中被標記時沒有收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md)
+      + [展示板：查看子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [範本：當子任務移至父任務下方時，子任務未依順序顯示](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
