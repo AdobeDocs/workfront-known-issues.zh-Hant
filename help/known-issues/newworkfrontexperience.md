@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 98%
+source-wordcount: '786'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [範本：無法從中選取範本 [!UICONTROL 我的最愛] 清單](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
 | [[!UICONTROL 首頁]：任務未出現在 [!UICONTROL 我的工作] Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 13 日 |
 | [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
 | [展示板：查看子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
