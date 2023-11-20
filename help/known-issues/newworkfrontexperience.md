@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 97%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [範本：無法從中選取範本 [!UICONTROL 我的最愛] 清單](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
-| [[!UICONTROL 首頁]：任務未出現在 [!UICONTROL 我的工作] Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 13 日 |
+| [[!UICONTROL 首頁]：任務未出現在「[!UICONTROL 我的工作]」Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 13 日 |
 | [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
 | [展示板：查看子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
