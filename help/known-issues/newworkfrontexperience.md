@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 41df80641db82b225753338d8564e12b90566c40
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 98%
+source-wordcount: '814'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [看板：卡片會出現在多個短跑中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023 年 11 月 21 日 |
 | [範本：無法從中選取範本 [!UICONTROL 我的最愛] 清單](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
 | [[!UICONTROL 首頁]：任務未出現在「[!UICONTROL 我的工作]」Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 13 日 |
 | [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
@@ -40,6 +41,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [自訂表單：無法在範本任務上大量新增或移除自訂表單](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [報告：匯出報告時出現500錯誤](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 2023 年 11 月 20 日 |
 | [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
 | [通知：使用者在評論中被標記時沒有收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 8 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 8f575eb5ae601f5adc6f4c454ca0a8807c2ab6ef
 workflow-type: tm+mt
-source-wordcount: '1650'
-ht-degree: 99%
+source-wordcount: '1669'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：無法在範本任務上大量新增或移除自訂表單](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [看板：卡片會出現在多個短跑中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [報告：匯出報告時出現500錯誤](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [範本：無法從中選取範本 [!UICONTROL 我的最愛] 清單](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL 首頁]：任務未出現在「[!UICONTROL 我的工作]」Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
