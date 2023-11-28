@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ ht-degree: 100%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2023 年 11 月更新
+
++++**(預計) 2023 年 11 月 30 日維護更新**
+
+**任務未出現在 [!UICONTROL 我的工作] Widget**
+
+_[!UICONTROL 首頁]_
+
+當使用者在「[!UICONTROL 首頁]」查看其「[!UICONTROL 我的工作]」Widget 時，某些指派給他們的任務未出現在 Widget 中。例如，使用者可能會前往專案並看到他們獲指派專案任務，但這些任務並未出現在使用者的「[!UICONTROL 我的工作]」Widget 中。
+
+**登入頁面重新導向以登出登陸頁面**
+
+_登入_
+
+當使用者嘗試登入 [!DNL Workfront] 時，系統將他們導向至登出時登陸的頁面，而不是登入頁面。
+
+**匯出報告時出現500錯誤**
+
+_報告_
+
+當使用者嘗試匯出報告時，匯出失敗並出現以下錯誤：
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+這已在使用 `valueexpression` 以參照 `lastNote` 附註文字。
+
++++
 
 +++**於 2023 年 11 月 16 日維護更新**
 
@@ -48,7 +76,7 @@ _更新_
 
 +++
 
-    +++**於 2023 年 11 月 9 日維護更新**
++++**於 2023 年 11 月 9 日維護更新**
 
 **「我的工作」Widget 不在頁面頂端時遺失物件**
 
