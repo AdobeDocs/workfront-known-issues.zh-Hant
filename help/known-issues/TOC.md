@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 97%
+source-wordcount: '1705'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [面板：卡片移動到欄在重新整理後返回到原始欄](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [校訂：待核准的校訂不會出現在報表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [任務：複製任務導致任務顯示順序錯誤](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [檔案：無法存取 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
