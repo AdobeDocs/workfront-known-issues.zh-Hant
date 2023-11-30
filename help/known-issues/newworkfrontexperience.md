@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '837'
-ht-degree: 93%
+source-wordcount: '845'
+ht-degree: 92%
 
 ---
 
@@ -26,13 +26,10 @@ ht-degree: 93%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [面板：卡片移動到欄在重新整理後返回到原始欄](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023 年 11 月 29 日 |
-| [任務：複製任務導致任務顯示順序錯誤](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 28 日 |
 | [檔案：無法存取 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
 | [看板：卡片會出現在多個短跑中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023 年 11 月 21 日 |
 | [範本：無法從「[!UICONTROL 我的最愛]」清單中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
-| [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
 | [展示板：查看子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
-| [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 | [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
 {style="table-layout:auto"}
@@ -43,6 +40,9 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 11 月 30 日 |
+| [報告：使用情況報告中的預算工時與透過 API 報告的預算工時不相符](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 11 月 30 日 |
+| [任務：複製任務導致任務顯示順序錯誤](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [校訂：待核准的校訂不會出現在報表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023 年 11 月 29 日 |
 | [自訂表單：無法在範本任務上大量新增或移除自訂表單](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
@@ -50,7 +50,6 @@ ht-degree: 93%
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
 | [首頁：核准卡在「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 3 日 |
 | [校訂：階段啟動發生問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
-| [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 | [任務：任務標題出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
@@ -67,6 +66,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：無法使用 [!UICONTROL Kick-Starts] 若要設定群組](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |
 | [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 7 日 |
