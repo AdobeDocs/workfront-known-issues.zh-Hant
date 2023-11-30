@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 92%
+source-wordcount: '837'
+ht-degree: 93%
 
 ---
 
@@ -30,7 +30,6 @@ ht-degree: 92%
 | [檔案：無法存取 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
 | [看板：卡片會出現在多個短跑中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023 年 11 月 21 日 |
 | [範本：無法從「[!UICONTROL 我的最愛]」清單中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
-| [[!UICONTROL 首頁]：任務未出現在「[!UICONTROL 我的工作]」Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 13 日 |
 | [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
 | [展示板：查看子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
 | [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
@@ -46,7 +45,6 @@ ht-degree: 92%
 |----------------------------------| ----------------- |
 | [校訂：待核准的校訂不會出現在報表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023 年 11 月 29 日 |
 | [自訂表單：無法在範本任務上大量新增或移除自訂表單](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
-| [報告：匯出報告時出現500錯誤](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 2023 年 11 月 20 日 |
 | [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
 | [通知：使用者在評論中被標記時沒有收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 8 日 |
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
