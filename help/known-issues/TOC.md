@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
+source-wordcount: '1743'
 ht-degree: 96%
 
 ---
