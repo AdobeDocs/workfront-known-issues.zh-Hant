@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '7226'
-ht-degree: 99%
+source-wordcount: '7401'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,32 @@ ht-degree: 99%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2023 年 12 月更新
+
++++**2023年12月7日維護更新**
+
+**核准卡在 [!UICONTROL 等待我的核准] Widget**
+
+_首頁_
+
+當上傳文件的新版本且舊版本的核准未完成時，文件的舊版本會卡在核准者的「[!UICONTROL 正等待我的核准]」Widget。由於有新版本，因此核准無法完成，並且無法將其從 Widget 中移除。
+
+**在任務或問題的面板檢視中新增工作專案時的問題**
+
+_任務/問題_
+
+當使用者檢視面板檢視專案中的任務或問題區域並嘗試新增任務或問題時，可能會出現以下問題：
+
+* 彈出式視窗會在兩種不同的視窗樣式之間來回切換
+* 使用者無法關閉快顯視窗
+
+據報導，當使用者在輸入任何資訊之前從彈出式視窗的左側導覽選擇區域。
+
++++
+
 ## 2023 年 11 月更新
 
-+++**於 2023 年 11 月 30 日維護更新**
++++**2023年11月30日維護更新**
 
 **任務未出現在 [!UICONTROL 我的工作] Widget**
 
@@ -46,7 +69,7 @@ _報告_
 500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
 ```
 
-這已在使用 `valueexpression` 以參照 `lastNote` 附註文字。
+使用 `valueexpression` 來參考 `lastNote` 註釋文字的報告被回報出現此問題。
 
 +++
 
@@ -238,7 +261,7 @@ _首頁_
 
 在使用者變更[!UICONTROL 首頁]的篩選器時，[!UICONTROL 首頁]區域未載入，且使用者看到以下錯誤：
 
-「[!UICONTROL 已發生錯誤，而我們正在努力解決此問題。若要繼續您的工作，請重新整理此瀏覽器頁面。]」
+&quot;[!UICONTROL 已發生錯誤，而我們正在努力解決此問題。 要繼續您的工作，請嘗試重新整理此瀏覽器頁面。]」
 
 +++
 
