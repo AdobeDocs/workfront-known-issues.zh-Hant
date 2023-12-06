@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 90%
+source-wordcount: '889'
+ht-degree: 89%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [狀態： [!UICONTROL 糟糕] 隱藏狀態時發生錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日 |
 | [更新：新評論體驗中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日 |
 | [任務/問題：在任務或問題的面板檢視中新增工作專案時的問題](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023年12月1日 |
 | [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日 |
