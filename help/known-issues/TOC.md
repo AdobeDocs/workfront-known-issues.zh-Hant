@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 96%
+source-wordcount: '1753'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：新評論體驗中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [任務/問題：在任務或問題的面板檢視中新增工作專案時的問題](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [看板：錯誤 [!UICONTROL 註解] 卡片部分](known-issues-workfront/wf-boards-comments-section-error.md)
       + [設定：無法使用 [!UICONTROL Kick-Starts] 若要設定群組](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
