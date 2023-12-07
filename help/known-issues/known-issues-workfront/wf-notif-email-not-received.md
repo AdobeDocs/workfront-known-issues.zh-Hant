@@ -1,17 +1,21 @@
 ---
-title: 「通知：使用者在評論中被標記時沒有收到電子郵件通知」
-description: 「當使用者在評論中被標記時，他們未收到有關評論的電子郵件通知。」
+title: 「通知：當使用者在評論中被標籤時未收到電子郵件通知」
+description: 當使用者在評論中被標記時，他們未收到有關評論的電子郵件通知。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+exl-id: a97849b4-206d-43c1-a83b-843d3ecfdbf6
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-
 # 通知：使用者在評論中被標記時沒有收到電子郵件通知
+
+>[!NOTE]
+>
+>此問題已在 2023 年 11 月 30 日修正。
 
 當使用者在評論中被標記時，他們未收到有關評論的電子郵件通知。
 
