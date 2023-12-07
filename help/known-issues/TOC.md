@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 95%
+source-wordcount: '1792'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,18 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [設定：設定中某些問題型別遺漏預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [看板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [首頁：「我的專案」和「我的任務」Widget僅顯示25個專案](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [狀態： [!UICONTROL 糟糕] 隱藏狀態時發生錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新評論體驗中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [任務/問題：在任務或問題的面板檢視中新增工作專案時的問題](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [看板：錯誤 [!UICONTROL 註解] 卡片部分](known-issues-workfront/wf-boards-comments-section-error.md)
-      + [設定：無法使用 [!UICONTROL Kick-Starts] 若要設定群組](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
-      + [面板：卡片移動到欄在重新整理後返回到原始欄](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
-      + [校訂：待核准的校訂不會出現在報表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [任務：複製任務導致任務顯示順序錯誤](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
-      + [檔案：無法存取 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
+      + [任務/問題：在任務或問題的展示板視圖中新增工作項目時出現問題](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [展示板：卡片的「[!UICONTROL 評論]」區段顯示錯誤](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
+      + [展示板：移至某個欄的卡片在重新整理後回到原始欄中](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
+      + [校訂：待核准的校訂未出現在報告中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
+      + [任務：重複任務會導致任務以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [文件：無法存取  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [自訂表單：無法在範本任務中大量新增或大量刪除自訂表單](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [展示板：卡片出現在多個衝刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-when-exporting.md)
@@ -193,7 +196,7 @@ ht-degree: 95%
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Workfront Proof]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!UICONTROL Workfront 校訂]：延遲的電子郵件和通知](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校訂：儀表板資料並不總是準確的](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校訂：搜尋資料並不總是準確的](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
