@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2023年11月30日修正。
+>此問題已在 2023 年 11 月 30 日修正。
 
 當使用者嘗試匯出報告時，匯出失敗並出現以下錯誤：
 
