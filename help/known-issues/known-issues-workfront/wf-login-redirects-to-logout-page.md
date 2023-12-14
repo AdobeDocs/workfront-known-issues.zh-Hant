@@ -1,17 +1,21 @@
 ---
-title: 「登入：登入頁面重新導向至登出登陸頁面」
-description: 「當使用者嘗試登入 Workfront 時，系統將他們導向至登出時登陸的頁面，而不是登入頁面。」
+title: 「登入：登入頁面重新導向以登出登陸頁面」
+description: 當使用者嘗試登入Workfront （而不是登入頁面）時，系統會將他們導向如果他們要登出將會著陸的頁面。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 6f7550db-7e21-4bfa-9daa-0efeb9296a57
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 59%
 
 ---
 
-
 # 登入：登入頁面重新導向至登出登陸頁面
+
+>[!NOTE]
+>
+>此問題已在 2023 年 11 月 30 日修正。
 
 當使用者嘗試登入 [!DNL Workfront] 時，系統將他們導向至登出時登陸的頁面，而不是登入頁面。
 
