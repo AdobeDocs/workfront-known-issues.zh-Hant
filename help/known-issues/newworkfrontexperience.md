@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 93%
+source-wordcount: '864'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [看板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日 |
+| [報告：預算時數報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日 |
+| [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023 年 12 月 7 日 |
 | [展示板：卡片的「[!UICONTROL 評論]」區段顯示錯誤](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 1 日 |
 | [展示板：移至某個欄的卡片在重新整理後回到原始欄中](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023 年 11 月 29 日 |
 | [文件：無法存取  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
@@ -42,13 +43,13 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [設定：設定中某些問題型別遺漏預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日 |
-| [首頁：「我的專案」和「我的任務」Widget僅顯示25個專案](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日 |
-| [狀態： [!UICONTROL 糟糕] 隱藏狀態時發生錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日 |
-| [更新：新評論體驗中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日 |
+| [更新：以新的註解體驗建立的註解在舊的體驗中看不到](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023年12月14日 |
+| [設定：在設定中某些問題類型缺少預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023 年 12 月 7 日 |
+| [首頁：「我的專案」和「我的任務」Widget 僅顯示 25 個項目](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023 年 12 月 7 日 |
+| [狀態：隱藏狀態時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023 年 12 月 6 日 |
+| [更新：新的評論體驗缺少一些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023 年 12 月 6 日 |
 | [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 11 月 30 日 |
 | [任務：重複任務會導致任務以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
-| [校訂：待核准的校訂未出現在報告中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023 年 11 月 29 日 |
 | [自訂表單：無法在範本任務中大量新增或大量刪除自訂表單](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |

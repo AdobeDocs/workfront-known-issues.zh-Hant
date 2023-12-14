@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
+source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
 workflow-type: tm+mt
-source-wordcount: '1792'
-ht-degree: 97%
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -17,12 +17,13 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [設定：設定中某些問題型別遺漏預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
-      + [看板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [首頁：「我的專案」和「我的任務」Widget僅顯示25個專案](known-issues-workfront/wf-home-widgets-show-25-items.md)
-      + [狀態： [!UICONTROL 糟糕] 隱藏狀態時發生錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
-      + [更新：新評論體驗中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [任務/問題：在任務或問題的展示板視圖中新增工作項目時出現問題](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [報告：預算時數報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md)
+      + [設定：在設定中某些問題類型缺少預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [首頁：「我的專案」和「我的任務」Widget 僅顯示 25 個項目](known-issues-workfront/wf-home-widgets-show-25-items.md)
+      + [狀態：隱藏狀態時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
+      + [更新：新的評論體驗缺少一些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
+      + [任務/問題：在任務或問題的展示板檢視中新增工作項目時出現問題](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [展示板：卡片的「[!UICONTROL 評論]」區段顯示錯誤](known-issues-workfront/wf-boards-comments-section-error.md)
       + [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [展示板：移至某個欄的卡片在重新整理後回到原始欄中](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
@@ -63,7 +64,7 @@ ht-degree: 97%
       + [登入：登入頁面重新導向至登出登陸頁面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [通知：使用者沒有收到評論對話串回覆通知](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]：未套用品牌](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [展示板：專案[!UICONTROL 任務]區域中的展示板視圖沒有載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [展示板：專案[!UICONTROL 任務]區域中的展示板檢視沒有載入](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [校訂：[!UICONTROL 校訂活動]標籤未開啟](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [任務：將任務指派給其他使用者時，[!UICONTROL 規劃時數]會重新分配。](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [時程表：時程表上出現個人任務](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
