@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 98%
+source-wordcount: '846'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [範本：將範本附加到專案時發生錯誤](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023年12月15日 |
 | [報告：預算時數報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日 |
 | [文件：無法存取  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
 | [展示板：卡片出現在多個衝刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023 年 11 月 21 日 |

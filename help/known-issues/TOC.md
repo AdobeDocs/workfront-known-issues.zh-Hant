@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 6897dca57ec645ee9de00188d52cd9f9bc42d2af
+source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1808'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [範本：將範本附加到專案時發生錯誤](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [報告：預算時數報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md)
       + [設定：在設定中某些問題類型缺少預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
