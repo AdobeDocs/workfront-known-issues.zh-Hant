@@ -1,19 +1,19 @@
 ---
-title: 「版面範本：版面範本導致報告不一致」
-description: 「傳統 Workfront 體驗中的版面範本在 Workfront 介面中不再可用，但仍可能影響 Workfront 資料。 這可能會導致報告或儀表板上受版面範本 (例如共用對象) 影響的欄位出現不一致。」
+title: 「版面配置範本：版面配置範本造成報表不一致」
+description: 傳統 Workfront 體驗中的版面範本在 Workfront 介面中不再可用，但仍可能影響 Workfront 資料。 這可能會導致報告或儀表板上受版面範本 (例如共用對象) 影響的欄位出現不一致。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 86%
 
 ---
 
-
 # 版面範本：版面範本導致報告不一致
 
-傳統 [!DNL Workfront] 體驗的版面範本在 [!DNL Workfront] 介面不再可用，但仍可能影響 [!DNL Workfront] 資料這可能會導致報告或儀表板上受版面範本 (例如[!UICONTROL 共用對象]) 影響的欄位出現不一致。
+從傳統版面配置範本 [!DNL Workfront] 中不再提供體驗 [!DNL Workfront] 介面，但仍可能影響 [!DNL Workfront] 資料。 這可能會導致報告或儀表板上受版面範本 (例如[!UICONTROL 共用對象]) 影響的欄位出現不一致。
 
 **因應措施**
 
@@ -38,4 +38,3 @@ ht-degree: 100%
 1. 將步驟 4 中的 API 呼叫貼入瀏覽器的 URL 列，然後按 Enter 鍵。
 
    這將刪除版面範本。
-
