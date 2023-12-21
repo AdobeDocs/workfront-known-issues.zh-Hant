@@ -3,9 +3,9 @@ title: 「看板：無法將檔案附加到卡片」
 description: 「當使用者嘗試將檔案附加到連線的卡片時，使用者可以選擇要附加的檔案，但檔案未出現在卡片的檔案區域中，並且檔案未附加到卡片連線的物件。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '149'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 3%
 # 看板：無法將檔案附加到卡片
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>此問題已在2023年12月21日修正。
 
 當使用者嘗試將檔案附加到已連線的卡片時，使用者可以選擇要附加的檔案，但檔案未出現在卡片的檔案區域中，並且檔案未附加到卡片所連線的物件。
 

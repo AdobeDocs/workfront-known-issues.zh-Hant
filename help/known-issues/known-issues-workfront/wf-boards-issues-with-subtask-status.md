@@ -1,17 +1,21 @@
 ---
-title: 「展示板：查看子任務狀態時的問題」
-description: 「已報告有關在展示板卡片上查看子任務狀態的問題。」
+title: 「面板：檢視子任務狀態時的問題」
+description: 已報告有關在面板中檢視卡片子任務狀態的問題。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 2fa805dcacc58ce19ddacd32dc51c3139a9432e4
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 75%
 
 ---
 
-
 # 展示板：查看子任務狀態時的問題
+
+>[!NOTE]
+>
+>此問題已在2023年12月21日修正。
 
 已報告有關在展示板卡片上查看子任務狀態的以下問題：
 
