@@ -5,7 +5,7 @@ role: User
 source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
 source-wordcount: '1849'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 96%
       + [看板：無法將檔案附加到卡片](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [範本：將範本附加到專案時發生錯誤](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
-      + [報告：預算時數報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md)
+      + [報告：預算工時報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md)
       + [設定：在設定中某些問題類型缺少預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [首頁：「我的專案」和「我的任務」Widget 僅顯示 25 個項目](known-issues-workfront/wf-home-widgets-show-25-items.md)
