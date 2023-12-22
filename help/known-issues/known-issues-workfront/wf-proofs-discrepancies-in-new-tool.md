@@ -1,12 +1,12 @@
 ---
 title: 「校訂：處理靜態檔案時發生問題」
-description: 「Workfront最近將校訂處理工具從協力廠商提供者變更為內部解決方案，並發現兩個系統的功能有一些差異。 這些差異可能會導致處理靜態檔案時出現問題，特別是PDF、Word和PPT檔案。 此問題有解決辦法。」
+description: 「Workfront 最近將其校訂處理工具從協力廠商提供者變更為內部解決方案，並發現兩個系統的功能存在一些差異。這些差異可能會導致處理靜態檔案時出現問題，尤其是 PDF、Word 和 PPT 檔案。此問題有解決辦法。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: d07005982af8484714e574ee54034f438def6cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 3%
 
 <!--WF and WFP TOCs-->
 
-Workfront最近將校訂處理工具從協力廠商提供者變更為內部解決方案，並發現兩個系統的功能有一些差異。 這些差異可能會導致處理靜態檔案時出現問題，特別是PDF、Word和PPT檔案。
+Workfront 最近將其校訂處理工具從協力廠商提供者變更為內部解決方案，並發現兩個系統的功能存在一些差異。這些差異可能會導致處理靜態檔案時出現問題，尤其是 PDF、Word 和 PPT 檔案。
 
-Workfront正在努力升級其程式庫以符合舊版工具，並將在Workfront發行頁面上通知您所做的變更。
+Workfront 正在努力升級其資料庫以符合舊版工具，並將在 Workfront 發行頁面上通知您有關變更的資訊。
 
 **解決方法**
 
-目前，如果您在處理這類檔案時遇到任何問題，我們建議您將頁面匯出為JPG或PNG，並校樣它們。
+目前，如果您在處理此類檔案時遇到任何問題，我們建議您將頁面匯出為 JPG 或 PNG 並進行校訂。
 
-_首次回報於2023年8月15日。_
+_於 2023 年 8 月 15 日首次通報。_

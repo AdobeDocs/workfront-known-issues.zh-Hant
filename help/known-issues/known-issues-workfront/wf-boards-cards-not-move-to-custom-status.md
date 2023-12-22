@@ -1,13 +1,13 @@
 ---
-title: 「面板：卡片移動到欄在重新整理後返回到原始欄」
+title: 「展示板：移至某個欄的卡片在重新整理後回到原始欄中」
 description: 當使用者將卡片移至不同欄，然後重新整理或回到展示板時，卡片已回到原始欄中。
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
 source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
