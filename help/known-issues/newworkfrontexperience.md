@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 96%
+source-wordcount: '879'
+ht-degree: 93%
 
 ---
 
@@ -41,6 +41,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [看板： 」[!UICONTROL 您沒有存取權]&quot;在卡片上檢視評論時](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日 |
+| [團隊：設定團隊狀態的問題 [!UICONTROL 完成] 按鈕](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日 |
 | [任務：在一或多個任務中取消指派使用者](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [展示板：卡片的「[!UICONTROL 評論]」區段顯示錯誤](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 14 日 |

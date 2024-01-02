@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 98%
+source-wordcount: '1869'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板： 」[!UICONTROL 您沒有存取權]&quot;在卡片上檢視評論時](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [團隊：設定團隊狀態的問題 [!UICONTROL 完成] 按鈕](known-issues-workfront/wf-teams-statuses-missing.md)
       + [校訂：從Word檔案建立的校訂不包含評論或標示](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [任務：在一或多個任務中取消指派使用者](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
