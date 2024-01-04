@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
 source-wordcount: '879'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：從Word檔案建立的校訂不包含評論或標示](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日 |
-| [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023年12月19日 |
+| [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023 年 12 月 19 日 |
+| [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023 年 12 月 19 日 |
 | [範本：將範本附加到專案時發生錯誤](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023 年 12 月 15 日 |
 | [報告：預算工時報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023 年 12 月 14 日 |
 | [文件：無法存取  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
@@ -43,7 +43,7 @@ ht-degree: 93%
 |----------------------------------| ----------------- |
 | [看板： 」[!UICONTROL 您沒有存取權]&quot;在卡片上檢視評論時](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日 |
 | [團隊：設定團隊狀態的問題 [!UICONTROL 完成] 按鈕](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日 |
-| [任務：在一或多個任務中取消指派使用者](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日 |
+| [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [展示板：卡片的「[!UICONTROL 評論]」區段顯示錯誤](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 14 日 |
 | [報告：使用情況報告中的預算工時與透過 API 報告的預算工時不相符](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 12 月 14 日 |

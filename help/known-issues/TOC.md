@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
 source-wordcount: '1869'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 97%
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [看板： 」[!UICONTROL 您沒有存取權]&quot;在卡片上檢視評論時](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [團隊：設定團隊狀態的問題 [!UICONTROL 完成] 按鈕](known-issues-workfront/wf-teams-statuses-missing.md)
-      + [校訂：從Word檔案建立的校訂不包含評論或標示](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [任務：在一或多個任務中取消指派使用者](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
-      + [看板：無法將檔案附加到卡片](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
+      + [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [展示板：無法將文件附加到卡片](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [範本：將範本附加到專案時發生錯誤](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [報告：預算工時報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md)
@@ -46,7 +46,7 @@ ht-degree: 97%
       + [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [展示板：無法編輯標記顏色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [通知：使用者在評論中被標記時沒有收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md)
-      + [展示板：查看子任務狀態時的問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [展示板：檢視子任務狀態時出現問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [範本：當子任務移至父任務下方時，子任務未依順序顯示](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
