@@ -4,9 +4,9 @@ description: 「當使用者在新的評論體驗中查看更新時，一些應�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2023年12月21日修正。
+>此問題已在 2023 年 12 月 21 日修正。
 
 當使用者在新的評論體驗中查看更新時，一些應該顯示的評論未顯示。如果使用者切換到舊的評論體驗，所有評論都會顯示。
 

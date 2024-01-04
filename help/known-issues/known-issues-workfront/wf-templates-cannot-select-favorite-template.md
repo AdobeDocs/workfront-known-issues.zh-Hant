@@ -4,9 +4,9 @@ description: 「當使用者嘗試從[!UICONTROL 我的最愛]清單中選取範
 hidefromtoc: true
 feature: Projects
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2023年12月21日修正。
+>此問題已在 2023 年 12 月 21 日修正。
 
 當使用者嘗試從「[!UICONTROL 我的最愛]」清單中選取範本時，範本清單在使用者將滑鼠移至清單時消失，使用者無法選取範本。
 
-**因應措施**
+**解決方法**
 
 執行下列任一項作業：
 

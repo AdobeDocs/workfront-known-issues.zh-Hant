@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：從Word檔案建立的校訂不包含評論或標示](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日 |
+| [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023 年 12 月 19 日 |
 | [文件：無法存取  [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
 
 {style="table-layout:auto"}
