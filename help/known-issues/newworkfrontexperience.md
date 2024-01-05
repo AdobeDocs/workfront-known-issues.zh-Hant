@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '869'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
 | [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日 |
 | [範本：將範本附加到專案時發生錯誤](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024年1月4日 |
 | [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日 |

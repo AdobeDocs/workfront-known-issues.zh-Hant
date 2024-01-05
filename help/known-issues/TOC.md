@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '1887'
+source-wordcount: '1897'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [新增 [!UICONTROL 首頁]：Widget篩選器和群組預設值未依配置範本執行](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [面板：變更疊代時保留卡片](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [看板： 」[!UICONTROL 您沒有存取權]&quot;在卡片上檢視評論時](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
