@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 99%
+source-wordcount: '389'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
 
 {style="table-layout:auto"}
 
