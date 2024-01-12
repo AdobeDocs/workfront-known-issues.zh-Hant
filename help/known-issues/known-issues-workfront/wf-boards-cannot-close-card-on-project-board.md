@@ -3,9 +3,9 @@ title: 「面板：在專案中使用面板檢視時卡片未關閉」
 description: 「當使用者檢視專案中任務清單上的面板檢視並建立卡片時，卡片未關閉或儲存。 這可防止使用者返回專案。」
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,10 @@ ht-degree: 0%
 
 # 面板：在專案中使用面板檢視時卡片未關閉
 
+<!--
 >[!NOTE]
 >
->此問題已在2024年1月12日修正。
+>This issue was fixed on January 12, 2024.-->
 
 當使用者檢視專案中任務清單上的面板檢視並建立卡片時，卡片未關閉或儲存。 這可防止使用者返回專案。
 
