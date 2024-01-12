@@ -3,15 +3,19 @@ title: 「展示板：無法將文件附加到卡片」
 description: 「當使用者嘗試將文件附加到連接的卡片時，使用者可以選取要附加的文件，但該文件不會出現在卡片的文件區域中，並且該文件不會附加到卡片所連接的物件。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 96%
 
 ---
 
 
 # 展示板：無法將文件附加到卡片
+
+>[!NOTE]
+>
+>此問題已在2024年1月12日修正。
 
 <!--WF and WFP TOCs-->
 
