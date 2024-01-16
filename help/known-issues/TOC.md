@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '1914'
+source-wordcount: '1925'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!UICONTROL 設定]：無法隱藏可選狀態](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md)
       + [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [面板：在專案中使用面板檢視時卡片未關閉](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
