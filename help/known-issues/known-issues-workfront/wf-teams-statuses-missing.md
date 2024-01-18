@@ -3,15 +3,19 @@ title: 「團隊：為『完成』按鈕設定團隊狀態的問題」
 description: 「已報告有關以下專案的狀態的問題： [!UICONTROL 完成] 按鈕來編輯或建立專案團隊。 有可用的因應措施。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 
 # 團隊：設定團隊狀態的問題 [!UICONTROL 完成] 按鈕
+
+>[!NOTE]
+>
+>此問題已在2024年1月18日修正。
 
 已報告有關以下專案的狀態的以下問題 [!UICONTROL 完成] 編輯或建立團隊時的按鈕：
 

@@ -3,15 +3,19 @@ title: 「範本：將範本附加到專案時發生錯誤」
 description: 「當使用者嘗試將範本附加到專案時會收到錯誤。此問題有解決辦法。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 94%
 
 ---
 
 
 # 範本：將範本附加到專案時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年1月18日修正。
 
 當使用者嘗試將範本附加到專案時會收到以下錯誤：
 

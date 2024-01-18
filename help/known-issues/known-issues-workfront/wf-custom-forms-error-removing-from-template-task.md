@@ -4,14 +4,18 @@ description: 如果使用者嘗試在範本任務中大量新增或大量刪除�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 96%
 
 ---
 
 # 自訂表單：無法在範本任務中大量新增或大量刪除自訂表單
+
+>[!NOTE]
+>
+>此問題已在2024年1月18日修正。
 
 如果使用者嘗試在範本任務中大量新增或大量刪除自訂表單，則不會新增或刪除表單，且使用者會看到以下錯誤：
 
