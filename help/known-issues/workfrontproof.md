@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '384'
 ht-degree: 93%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 93%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | 2024年1月17日 |
-| [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月16日 |
 | [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
 
 {style="table-layout:auto"}
@@ -37,8 +36,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日 |
-| [首頁：核准卡在「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2024年1月4日 |
+| [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |

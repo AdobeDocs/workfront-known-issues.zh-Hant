@@ -3,15 +3,19 @@ title: 「校訂：從 Word 文件建立的校訂不包含評論或標記」
 description: 「當使用者從包含標記或內嵌評論的 Word 文件建立校訂時，該校訂不包含評論或標記。即使舊版校訂有包含評論或標記，也可能會發生這種情況。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+workflow-type: tm+mt
+source-wordcount: '116'
+ht-degree: 94%
 
 ---
 
 
 # 校訂：從 Word 文件建立的校訂不包含評論或標記
+
+>[!NOTE]
+>
+>此問題已在2024年1月11日修正。
 
 <!--WF and EFP TOCs-->
 

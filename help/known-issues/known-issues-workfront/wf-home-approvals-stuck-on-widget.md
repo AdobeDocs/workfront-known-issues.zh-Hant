@@ -4,14 +4,18 @@ description: 當上傳文件的新版本且舊版本的核准未完成時，文�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 95%
 
 ---
 
 # 首頁：核准卡在「[!UICONTROL 正等待我的核准]」Widget
+
+>[!NOTE]
+>
+>此問題已在2024年1月18日修正。
 
 <!--on WF and WFP TOCs-->
 

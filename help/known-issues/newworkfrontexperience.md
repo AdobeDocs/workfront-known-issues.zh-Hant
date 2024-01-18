@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '766'
 ht-degree: 94%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月16日 |
 | [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
 | [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
@@ -37,11 +36,10 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
 | [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
-| [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日 |
 | [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日 |
 | [範本：無法從「[!UICONTROL 我的最愛]」清單中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日 |
-| [首頁：核准卡在「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2024年1月4日 |
 | [新增 [!UICONTROL 首頁]：Widget篩選器和群組預設值未依配置範本執行](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日 |
 | [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
