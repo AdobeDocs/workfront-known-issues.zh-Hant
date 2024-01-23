@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '1959'
-ht-degree: 94%
+source-wordcount: '1983'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [整合：無法從Workfront記錄時間以進行Jira整合](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [更新：無法檢視或下載評論中的影像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [通知：將通知標籤為已檢視並不持續存在](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)

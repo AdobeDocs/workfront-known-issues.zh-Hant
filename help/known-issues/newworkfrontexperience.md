@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 91%
+source-wordcount: '821'
+ht-degree: 88%
 
 ---
 
@@ -25,9 +25,12 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：將通知標籤為已檢視並不持續存在](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2023年1月19日 |
-| [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
-| [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
+| [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
+| [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
+| [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月23日 |
+| [通知：將通知標籤為已檢視並不持續存在](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2024年1月19日 |
+| [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
+| [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日 |
 
 {style="table-layout:auto"}
 

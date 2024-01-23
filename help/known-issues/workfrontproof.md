@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 93%
+source-wordcount: '400'
+ht-degree: 90%
 
 ---
 
@@ -25,8 +25,10 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
+| [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
 | [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | 2024年1月17日 |
-| [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
+| [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
 
 {style="table-layout:auto"}
 
