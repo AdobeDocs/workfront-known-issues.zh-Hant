@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 49%
+source-wordcount: '1085'
+ht-degree: 47%
 
 ---
 
@@ -21,6 +21,24 @@ ht-degree: 49%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2024 年 1 月更新
+
++++**於2024年1月25日維護更新**
+
+### 於2024年1月25日維護更新
+
+#### 展示板
+
+**狀態變更時卡片未移動到適當的欄**
+
+當直接在物件上變更已連接卡片的連結物件的狀態時，卡片未移動到適當的欄。如果卡片上的物件狀態發生變更，或將卡片拖曳到新欄，卡片會正常運作。
+
+#### 通知
+
+**將通知標籤為已檢視並不持續存在**
+
+當使用者將其通知標籤為已檢視，然後導覽到內的不同頁面時 [!DNL Workfront]，通知圖示仍會顯示使用者將其標籤為已檢視之前存在的未讀取通知數，而且當使用者按一下圖示時，通知仍會清單。 如果使用者將其標籤為已檢視，並導覽到其他頁面或返回原始頁面，則會繼續此操作。
+
++++
 
 +++**於2024年1月18日維護更新**
 
