@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '2004'
 ht-degree: 93%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：在舊版評論體驗中所做的評論在新體驗中不可見](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [更新：舊版評論體驗中的標籤問題](known-issues-workfront/wf-updates-showing-first-name.md)
       + [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
@@ -30,8 +32,8 @@ ht-degree: 93%
       + [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [新增 [!UICONTROL 首頁]：Widget篩選器和群組預設值未依配置範本執行](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [面板：變更疊代時保留卡片](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [看板： 」[!UICONTROL 您沒有存取權]&quot;在卡片上檢視評論時](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [團隊：設定團隊狀態的問題 [!UICONTROL 完成] 按鈕](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [展示板：「[!UICONTROL 您無權]」檢視卡片上的評論](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [團隊：設定團隊時「[!UICONTROL 完成]」按鈕狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md)
       + [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
