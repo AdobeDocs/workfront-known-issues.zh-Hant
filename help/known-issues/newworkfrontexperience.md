@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '813'
 ht-degree: 87%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 87%
 | -----------------------------------------------------------------| ----------------- |
 | [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
 | [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
-| [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月23日 |
 | [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
 | [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日 |
 
@@ -39,12 +38,13 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [團隊：設定團隊時「[!UICONTROL 完成]」狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
+| [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
+| [面板：變更疊代時保留卡片](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月25日 |
 | [更新：在舊版評論體驗中所做的評論在新體驗中不可見](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日 |
-| [整合：無法從Workfront記錄時間以進行Jira整合](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日 |
 | [更新：無法檢視或下載評論中的影像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日 |
 | [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
 | [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
-| [任務：建立新任務時視窗關閉](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日 |
 | [範本：無法從「[!UICONTROL 我的最愛]」清單中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日 |
 | [新增 [!UICONTROL 首頁]：Widget篩選器和群組預設值未依配置範本執行](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日 |
 | [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
