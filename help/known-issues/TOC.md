@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '2004'
-ht-degree: 93%
+source-wordcount: '2012'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：在舊版評論體驗中所做的評論在新體驗中不可見](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [更新：舊版評論體驗中的標籤問題](known-issues-workfront/wf-updates-showing-first-name.md)
       + [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md)
