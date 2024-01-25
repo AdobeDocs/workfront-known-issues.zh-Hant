@@ -3,15 +3,19 @@ title: 「通知：將通知標籤為已檢視不具持續性」
 description: 「當使用者將其通知標籤為已檢視，然後導覽到Workfront中的其他頁面時，通知圖示仍會顯示使用者將其標籤為已檢視之前存在的未讀取通知數量，並且當使用者按一下圖示時，通知仍會列出。 如果使用者將其標籤為已檢視，並導覽到其他頁面或返回原始頁面，則會繼續此操作。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 
 # 通知：將通知標籤為已檢視並不持續存在
+
+>[!NOTE]
+>
+>此問題已在2024年1月25日修正。
 
 當使用者將其通知標籤為已檢視，然後導覽到內的不同頁面時 [!DNL Workfront]，通知圖示仍會顯示使用者將其標籤為已檢視之前存在的未讀取通知數，而且當使用者按一下圖示時，通知仍會清單。 如果使用者將其標籤為已檢視，並導覽到其他頁面或返回原始頁面，則會繼續此操作。
 
