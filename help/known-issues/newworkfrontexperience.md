@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '807'
 ht-degree: 86%
 
 ---
@@ -28,7 +28,6 @@ ht-degree: 86%
 | [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
 | [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
 | [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
-| [展示板：搜尋無法運作](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日 |
 
 {style="table-layout:auto"}
 
@@ -53,9 +52,7 @@ ht-degree: 86%
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [任務：重複任務會導致任務以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
-| [任務：任務標題出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
 | [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
-| [校訂：無法建立新版本的校訂](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
