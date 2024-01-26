@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '2012'
+source-wordcount: '2017'
 ht-degree: 92%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [範本：複製範本時發生錯誤](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：在舊版評論體驗中所做的評論在新體驗中不可見](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [更新：舊版評論體驗中的標籤問題](known-issues-workfront/wf-updates-showing-first-name.md)

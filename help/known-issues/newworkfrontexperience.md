@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '828'
 ht-degree: 86%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [範本：複製範本時發生錯誤](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024年1月26日 |
 | [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日 |
 | [團隊：設定團隊時「[!UICONTROL 完成]」狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
 | [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
