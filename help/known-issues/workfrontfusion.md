@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 93%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [Workfront Fusion：來自Workfront模組的200回應出現RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024年1月29日 |
 
 {style="table-layout:auto"}
 
