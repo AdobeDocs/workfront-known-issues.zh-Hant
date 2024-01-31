@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 89%
+source-wordcount: '1510'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [問題：問題狀態不在下拉式清單中](known-issues-workfront/wf-issues-status-not-available.md)
+      + [更新：編輯評論時，可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [看板：無法使用移動欄中的卡片 [!UICONTROL 移動] 選項](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [範本：複製範本時發生錯誤](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：在舊版評論體驗中所做的評論在新體驗中不可見](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
