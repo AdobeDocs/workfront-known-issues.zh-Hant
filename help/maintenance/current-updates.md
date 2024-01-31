@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 53%
+source-wordcount: '1333'
+ht-degree: 47%
 
 ---
 
@@ -20,7 +20,43 @@ ht-degree: 53%
 
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
+## 2024 年 2 月份更新
+
++++**（預計） 2024年2月1日維護更新**
+
+### （預計） 2024年2月1日維護更新
+
+#### 登入
+
+**使用SSO的使用者登入時不會重新導向至原始位置**
+
+當使用者在頁面上 [!DNL Workfront] 和使用SSO登入，當登入完成時，它們會被導向到 [!UICONTROL 首頁] 而不是登入前所在的頁面。
+
+#### 範本
+
+**複製範本時發生錯誤**
+
+當使用者嘗試複製新的或現有的範本時，範本未複製，並且使用者會看到以下錯誤：
+
+&quot;[!UICONTROL ID不可為Null]&quot;
+
++++
+
 ## 2024 年 1 月更新
+
++++**2024年1月30日維護更新(Hot Fix)**
+
+### 2024年1月30日維護更新(Hot Fix)
+
+#### 報告
+
+**外部API欄位沒有在清單和報告中顯示所有可用的值**
+
+以前，使用者可以在清單和報告中看到為外部查詢欄位選取的值（並編輯該值），但看不到包含來自API的選項的下拉式清單。
+
+現在，當在清單或報告中使用外部查詢自訂欄位時，包含來自外部API的所有選項的下拉式清單可供使用。
+
++++
 
 +++**於2024年1月25日維護更新**
 
