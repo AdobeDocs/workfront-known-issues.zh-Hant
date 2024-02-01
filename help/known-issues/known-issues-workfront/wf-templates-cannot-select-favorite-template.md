@@ -3,15 +3,19 @@ title: 「範本：無法從[!UICONTROL 我的最愛]清單中選取範本」
 description: 「當使用者嘗試從[!UICONTROL 我的最愛]清單中選取範本時，範本清單在使用者將滑鼠移至清單時消失，使用者無法選取範本。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # 範本：無法從「[!UICONTROL 我的最愛]」清單中選取範本
+
+>[!NOTE]
+>
+>此問題已在 2024 年 1 月 25 日修正。
 
 當使用者嘗試從「[!UICONTROL 我的最愛]」清單中選取範本時，範本清單在使用者將滑鼠移至清單時消失，使用者無法選取範本。
 

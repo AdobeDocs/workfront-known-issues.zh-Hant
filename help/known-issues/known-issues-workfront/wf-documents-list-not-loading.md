@@ -1,25 +1,29 @@
 ---
-title: 「檔案：檢視檔案清單時的問題」
-description: 「已報告有關檢視檔案清單的問題。 請參閱本文章以取得詳細資料。」
+title: 「文件：檢視文件清單時出現問題」
+description: 「有關檢視文件清單的問題已報告。在本文中尋找詳細資料。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 20%
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 
 
-# 檔案：檢視檔案清單時的問題
+# 文件：檢視文件清單時出現問題
 
-已報告有關檢視檔案清單的以下問題：
+>[!NOTE]
+>
+>這個問題已解決。
 
-* **縮圖或標準檢視**：檔案清單未列出。
-* **清單檢視**：檔案清單載入，但使用者看到以下錯誤：
+已報告有關檢視文件清單的以下問題：
+
+* **縮圖或標準檢視**：沒有列出文件清單。
+* **清單檢視**：文件清單已載入，但使用者會看到以下錯誤：
 
   「[!UICONTROL 糟糕！發生錯誤。請聯絡 Workfront，以便我們找出問題並加以修正。]」
 
 這些問題已在沙箱環境中報告。
 
-_首次回報於1月9日。_
+_於 1 月 9 日首次通報。_
