@@ -3,15 +3,19 @@ title: 「範本：複製範本時發生錯誤」
 description: 「當使用者嘗試複製新的或現有的範本時，範本未複製，且使用者會看到一個錯誤。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 
 # 範本：複製範本時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年2月1日修正。
 
 當使用者嘗試複製新的或現有的範本時，範本未複製，並且使用者會看到以下錯誤：
 
