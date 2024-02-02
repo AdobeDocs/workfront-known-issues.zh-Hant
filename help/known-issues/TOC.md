@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 87%
+ht-degree: 96%
 
 ---
 
@@ -22,21 +22,21 @@ ht-degree: 87%
       + [看板：無法使用移動欄中的卡片 [!UICONTROL 移動] 選項](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [範本：複製範本時發生錯誤](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [更新：在舊版評論體驗中所做的評論在新體驗中不可見](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [更新：舊版評論體驗中的標籤問題](known-issues-workfront/wf-updates-showing-first-name.md)
-      + [檔案：無法將檔案從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md)
-      + [校訂：GIF呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [資源管理：由於工作角色問題，財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
-      + [整合：無法從Workfront記錄時間以進行Jira整合](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [更新：在舊評論體驗中發表的評論未顯示在新體驗中](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [更新：舊版評論體驗中的標記問題](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [文件：無法將文件從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [資源管理：由於職務角色問題導致財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [整合：無法記錄 Workfront for Jira 整合的時間](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [更新：無法檢視或下載評論中的影像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
-      + [通知：將通知標籤為已檢視並不持續存在](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
-      + [[!UICONTROL 設定]：無法隱藏可選狀態](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
-      + [檔案：檢視檔案清單時的問題](known-issues-workfront/wf-documents-list-not-loading.md)
-      + [校訂：壓縮校訂無法產生](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [面板：在專案中使用面板檢視時卡片未關閉](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
-      + [問題：大量編輯問題時時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
-      + [新增 [!UICONTROL 首頁]：Widget篩選器和群組預設值未依配置範本執行](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + [面板：變更疊代時保留卡片](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
+      + [通知：將通知標記為已讀並不會持續存在](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
+      + [[!UICONTROL 設定]：無法隱藏選擇性狀態](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [文件：檢視文件清單時出現問題](known-issues-workfront/wf-documents-list-not-loading.md)
+      + [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
+      + [展示板：在專案中使用展示板檢視時，卡片不會關閉](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
+      + [問題：大量編輯問題時，時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
+      + [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [展示板：變更疊代時卡片仍然存在](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [展示板：「[!UICONTROL 您無權]」檢視卡片上的評論](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [團隊：設定團隊時「[!UICONTROL 完成]」按鈕狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md)
       + [校訂：從 Word 文件建立的校訂不包含評論或標記](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)

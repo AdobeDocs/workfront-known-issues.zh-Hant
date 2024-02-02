@@ -1,12 +1,12 @@
 ---
-title: 「Workfront校訂：建立校訂時無法重新排序資產」
-description: 「當使用者在Workfront Proof嘗試重新排序將合併到校訂中的資產時，他們無法拖曳檔案，並且檔案的順序未變更。」
+title: 「Workfront Proof：建立校訂時無法重新排序資產」
+description: 「當 Workfront Proof 中的使用者嘗試重新排序將合併到校訂中的資產時，會無法拖曳檔案，也無法改變檔案的順序。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 5%
 >
 >這個問題已解決。
 
-當使用者在 [!UICONTROL Workfront Proof] 嘗試重新排序將合併到校樣中的資產，他們無法拖曳檔案，並且檔案的順序未變更。
+當 [!UICONTROL Workfront Proof] 中的使用者嘗試重新排序將合併到校訂中的資產時，使用者無法拖曳檔案，也無法改變檔案的順序。
 
-為校訂重新排序資產如預期般運作 [!DNL Workfront].
+依照 [!DNL Workfront] 中的預期重新排序資產以進行校訂工作。
 
-_於2024年1月4日首次通報。_
+_於 2024 年 1 月 4 日首次通報。_
