@@ -4,7 +4,7 @@ description: 「預算工時報告應每小時更新一次，但偶爾會間隔 
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 

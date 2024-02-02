@@ -4,9 +4,9 @@ description: 「當使用者嘗試將文件附加到連接的卡片時，使用�
 hidefromtoc: true
 feature: Agile
 source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此問題已在2024年1月18日修正。
+>此問題已在 2024 年 1 月 18 日修正。
 
 <!--WF and WFP TOCs-->
 

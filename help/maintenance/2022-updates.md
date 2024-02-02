@@ -1,16 +1,16 @@
 ---
 title: 2022 年 Workfront 維護更新
-description: 2022 年維護更新 [!DNL Adobe Workfront]
+description: 2022 年  [!DNL Adobe Workfront] 維護更新
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16797'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront] 2022年維護更新
+# 2022 年 [!DNL Workfront] 維護更新
 
 2022 年進行了以下維護更新。
 

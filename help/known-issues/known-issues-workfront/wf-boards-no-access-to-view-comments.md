@@ -4,9 +4,9 @@ description: 「當使用者嘗試檢視未連接到 Workfront 物件之卡片�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年1月18日修正。
+>此問題已在 2024 年 1 月 18 日修正。
 
 當使用者嘗試檢視未連接到 [!DNL Workfront] 物件之卡片上的評論時，他們會看到錯誤訊息：
 
