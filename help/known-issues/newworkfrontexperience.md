@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,6 @@ ht-degree: 93%
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [任務：重複任務會導致任務以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
-| [校訂：無法產生校訂](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
@@ -74,7 +73,6 @@ ht-degree: 93%
 | [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 8 月 10 日 |
 | [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
-| [文件整合：無法查看  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 中的所有資料夾 | 2023 年 7 月 18 日 |
 | [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023 年 5 月 5 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
