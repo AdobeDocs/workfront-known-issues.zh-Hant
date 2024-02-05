@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
+source-git-commit: aad77d690cef72beb1543c442ee557e768777150
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 89%
+source-wordcount: '167'
+ht-degree: 85%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：模組缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5 |
 | [Workfront Fusion：輸出日期的格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024年1月31日 |
 | [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |

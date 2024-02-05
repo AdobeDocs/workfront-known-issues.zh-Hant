@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
+source-git-commit: aad77d690cef72beb1543c442ee557e768777150
 workflow-type: tm+mt
-source-wordcount: '1516'
-ht-degree: 96%
+source-wordcount: '1523'
+ht-degree: 95%
 
 ---
 
@@ -189,6 +189,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：模組缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：輸出日期的格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：來自Workfront模組的200回應出現RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md)
