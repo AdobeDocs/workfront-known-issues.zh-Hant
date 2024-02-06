@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1523'
-ht-degree: 95%
+source-wordcount: '1532'
+ht-degree: 98%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [問題：問題狀態不在下拉式清單中](known-issues-workfront/wf-issues-status-not-available.md)
-      + [更新：編輯評論時，可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [看板：無法使用移動欄中的卡片 [!UICONTROL 移動] 選項](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md)
+      + [更新：在編輯註解時可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [展示板：無法使用「[!UICONTROL 移動]」選項移動欄中的卡片](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [範本：複製範本時發生錯誤](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [[!UICONTROL 資源管理]：無法變更「[!UICONTROL 使用情況]」區域中的日期](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：在舊評論體驗中發表的評論未顯示在新體驗中](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [更新：舊版評論體驗中的標記問題](known-issues-workfront/wf-updates-showing-first-name.md)
       + [文件：無法將文件從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md)
@@ -95,18 +95,18 @@ ht-degree: 95%
       + [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [共用：共用物件時發生錯誤](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [工作量平衡工具：由於容量不準確，使用者顯示為過度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
-      + [更新：以新的評論體驗建立的評論在舊的體驗中看不到](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [更新：在舊體驗中看不到使用新的註解體驗建立的註解](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL 首頁]：新的[!UICONTROL 首頁] Widget 預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL 首頁]：[!UICONTROL 要求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [版面範本：版面範本導致報告不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作量平衡工具]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]的總和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
-      + [文件：文件核准未顯示在「[!UICONTROL 核准]」區域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [文件：在「[!UICONTROL 核准]」區域未顯示文件核准](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [文件整合：無法查看  [!DNL OneDrive] 中的所有資料夾](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [文件整合：無法查看  [!DNL OneDrive] 中所有資料夾](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [展示板：水平捲軸未出現](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [校訂：[!UICONTROL 校訂檢視器]中沒有顯示核准選項](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -189,11 +189,12 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion： Workfront Proof >觀看校訂模組逾時](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion：模組缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Workfront Fusion：輸出日期的格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion：來自Workfront模組的200回應出現RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion：Workfront 模組發生 RuntimeError 並傳送 200 回應](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md)
-      + [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion：使用單一模組建立重複的專案](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront]  > [!UICONTROL 自訂 API 呼叫] 模組傳回 404 或 422 錯誤](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：「無法驗證連線」錯誤](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)

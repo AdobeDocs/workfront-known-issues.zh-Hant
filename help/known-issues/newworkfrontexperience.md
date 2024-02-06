@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
 source-wordcount: '793'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [看板：無法使用移動欄中的卡片 [!UICONTROL 移動] 選項](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年1月26日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
@@ -37,14 +36,15 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [文件：無法將文件從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日 |
-| [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日 |
-| [問題：問題狀態不在下拉式清單中](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日 |
-| [更新：編輯評論時，可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日 |
-| [[!UICONTROL 資源管理]：無法變更日期 [!UICONTROL 使用率] 區域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日 |
-| [團隊：設定團隊時「[!UICONTROL 完成]」狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
-| [資源管理：由於職務角色問題導致財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
-| [面板：變更疊代時保留卡片](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月25日 |
+| [展示板：無法使用 [!UICONTROL 移動] 選項移動欄中的卡片](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年2月6日 |
+| [文件：無法將文件從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024 年 2 月 1 日 |
+| [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
+| [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
+| [更新：在編輯註解時可以使用停用影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024 年 1 月 31 日 |
+| [[!UICONTROL 資源管理]：無法變更「[!UICONTROL 使用情況]」區域中的日期](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024 年 1 月 25 日 |
+| [團隊：針對「[!UICONTROL 完成]」按鈕設定團隊狀態時發生問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
+| [資源管理：由於職務角色問題導致財務計算不正確](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024 年 1 月 25 日 |
+| [展示板：變更疊代時卡片仍然存在](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024 年 1 月 25 日 |
 | [問題：大量編輯問題時，時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024 年 1 月 5 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
