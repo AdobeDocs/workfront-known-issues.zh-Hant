@@ -4,9 +4,9 @@ description: 「當使用者嘗試將資料夾從使用者建立的資料夾移�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 69%
 
 「[!UICONTROL destinationFolderlD 不能為 Null]」
 
-**解決方法**
+**因應措施**
 
-使用 **移動** 選項。
+使用「**移動**」選項。
 
-1. 選取您要移至根資料夾的檔案。
-1. 按一下 **移動** 圖示。
-1. 選取 **專案**.
-1. 開始輸入專案名稱，然後從清單中選取它。
-1. 按一下 **完成**.
+1. 選取要移動到根資料夾的文件。
+1. 按一下「**移動**」圖示。
+1. 選取「**專案**」。
+1. 開始輸入專案名稱，然後從清單中選取。
+1. 按一下「**完成**」。
 
 _於 2024 年 1 月 18 日首次通報。_

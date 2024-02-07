@@ -1,22 +1,22 @@
 ---
-title: 「看板：無法使用移動選項移動欄中的卡片」
-description: 「當使用者嘗試使用三點選單中的欄頂部或欄底部選項移動欄中的卡片時，卡片未移動。」
+title: 「展示板：無法使用「移動」選項移動欄中的卡片」
+description: 「當使用者使用三點選單中的「欄頂端」或「欄底部」選項來移動欄中的卡片時，該卡片並未移動。」
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# 看板：無法使用移動欄中的卡片 [!UICONTROL 移動] 選項
+# 展示板：無法使用「[!UICONTROL 移動]」選項移動欄中的卡片
 
-當使用者嘗試使用&quot;[!UICONTROL 欄頂端]「或」[!UICONTROL 欄底部]&quot;選項，卡片不會移動。
+當使用者使用三點選單中的「[!UICONTROL 欄頂端]」或「[!UICONTROL 欄底部]」選項移動欄中的卡片時，該卡片並未移動。
 
-**解決方法**
+**因應措施**
 
-將卡片拖放至所需的位置。
+將卡片拖放到所需位置。
 
-_於2024年1月26日首次通報。_
+_於 2024 年 1 月 26 日首次通報。_

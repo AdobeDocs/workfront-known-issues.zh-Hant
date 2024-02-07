@@ -1,17 +1,17 @@
 ---
-title: 「檔案整合：無法在OneDrive中看到所有資料夾」
-description: 當使用者嘗試透過Workfront中的OneDrive整合存取檔案時，使用者無法看到所有OneDrive資料夾，也無法存取缺少的資料夾中的檔案。
+title: 「文件整合：無法查看 OneDrive 中的所有資料夾」
+description: 當使用者想要透過 Workfront 的 OneDrive 整合功能存取文件時，使用者無法查看所有 OneDrive 資料夾，也無法存取遺失資料夾中的文件。
 feature: Digital Content and Documents
 hidefromtoc: true
 exl-id: bcb71d1f-4563-4a87-a068-1f707a3a2e02
 source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
-# 文件整合：無法查看 [!DNL OneDrive] 中的所有資料夾
+# 文件整合：無法查看 [!DNL OneDrive] 中所有資料夾
 
 >[!NOTE]
 >

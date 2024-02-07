@@ -1,21 +1,21 @@
 ---
-title: 「Workfront Fusion：輸出日期的格式」
-description: 「當日期輸出為字串時，日期可以輸出為UTC或ISO字串。 這取決於對應面板中的邏輯。」
+title: 「Workfront Fusion：日期的輸出格式」
+description: 「在以字串輸出日期時，日期可以做為 UTC 或 ISO 字串輸出。這取決於對應面板內的邏輯。」
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Fusion：輸出日期的格式
+# Workfront Fusion：日期的輸出格式
 
-當日期輸出為字串時，日期可以輸出為UTC或ISO字串。 這取決於對應面板中的邏輯：
+在以字串輸出日期時，日期可以做為 UTC 或 ISO 字串輸出。這取決於對應面板內的邏輯：
 
-* 如果函式內的日期已聯結至字串，則字串將會輸出到 **UTC** 格式。
-* 如果Date未聯結在函式中，則會輸出為 **ISO字串**.
+* 如果函數中的日期與字串連結，則字串將以 **UTC** 格式輸出。
+* 如果函數內的日期未有任何連結，則將輸出為 **ISO 字串**。
 
-客戶應使用 `toString` （針對ISO）或 `formatDate` 函式以確保輸出符合所需的格式。
+客戶應使用 `toString`(對於 ISO) 或 `formatDate` 函數以確保輸出的格式符合其需求。
