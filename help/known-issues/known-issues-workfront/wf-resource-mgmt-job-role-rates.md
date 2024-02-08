@@ -3,15 +3,19 @@ title: 「資源管理：由於職務角色問題導致財務計算不正確」
 description: 「工時和財務計算可能不正確，即使在具有成本率的職務角色中記錄了工時，成本也顯示為 0。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
+ht-degree: 95%
 
 ---
 
 
 # 資源管理：由於職務角色問題導致財務計算不正確
+
+>[!NOTE]
+>
+>此問題已在2024年2月8日修正。
 
 工時和財務計算可能不正確，即使在具有成本率的職務角色中記錄了工時，成本也顯示為 0。
 
