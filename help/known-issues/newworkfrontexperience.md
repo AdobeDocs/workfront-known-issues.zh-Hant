@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
 workflow-type: tm+mt
-source-wordcount: '762'
-ht-degree: 100%
+source-wordcount: '773'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [使用者：建立使用者時無法提供較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 

@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
+source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
-source-wordcount: '1532'
+source-wordcount: '1542'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [使用者：建立使用者時無法提供較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：在編輯註解時可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [展示板：無法使用「[!UICONTROL 移動]」選項移動欄中的卡片](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
