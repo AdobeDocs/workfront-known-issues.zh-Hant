@@ -3,15 +3,19 @@ title: 「[!UICONTROL 資源管理]：無法變更「[!UICONTROL 使用情況]�
 description: 「在使用者檢視「[!UICONTROL 資源管理]」的「[!UICONTROL 使用情況]」區域，並嘗試變更日期範圍時，日期並未變更，而使用者看到錯誤。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
-workflow-type: ht
-source-wordcount: '101'
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL 資源管理]：無法變更「[!UICONTROL 使用情況]」區域中的日期
+
+>[!NOTE]
+>
+>此問題已於 2024 年 2 月 1 日修正。
 
 在使用者檢視「[!UICONTROL 資源管理]」的「[!UICONTROL 使用情況]」區域，並嘗試變更日期範圍時，日期並未變更，而使用者看到以下錯誤：
 

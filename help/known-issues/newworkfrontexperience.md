@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '764'
 ht-degree: 98%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 98%
 | [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
 | [更新：在編輯註解時可以使用停用影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024 年 1 月 31 日 |
-| [[!UICONTROL 資源管理]：無法變更「[!UICONTROL 使用情況]」區域中的日期](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024 年 1 月 25 日 |
 | [團隊：針對「[!UICONTROL 完成]」按鈕設定團隊狀態時發生問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
 | [問題：大量編輯問題時，時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024 年 1 月 5 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
