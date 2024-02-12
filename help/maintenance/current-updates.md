@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
 source-wordcount: '1518'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
 
 #### 展示板
 
-**無法使用移動欄中的卡片 [!UICONTROL 移動] 選項**
+**無法使用 [!UICONTROL 移動] 選項移動欄中的卡片**
 
 當使用者使用三點選單中的「[!UICONTROL 欄頂端]」或「[!UICONTROL 欄底部]」選項移動欄中的卡片時，該卡片並未移動。
 
@@ -38,9 +38,9 @@ ht-degree: 96%
 
 #### 報告
 
-**「沒有值」欄未顯示任何結果**
+**「無值」欄不會顯示任何結果**
 
-當圖表報告具有「[!DNL No value]&quot;欄，欄不會顯示任何資料，即使資料應該存在也一樣。
+當圖表報告有「[!DNL No value]」欄時，該欄不會顯示任何資料，即使應該出現資料也一樣。
 
 #### 資源管理
 
@@ -54,7 +54,7 @@ ht-degree: 96%
 
 +++**於 2024 年 2 月 1 日維護更新**
 
-### 2024年2月1日維護更新
+### 於 2024 年 2 月 1 日維護更新
 
 #### 登入
 
