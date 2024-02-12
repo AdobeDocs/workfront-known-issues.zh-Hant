@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1542'
-ht-degree: 99%
+source-wordcount: '1564'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：回覆其他公司的使用者時畫面變成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [看板：篩選多個使用者未傳回所有結果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [使用者：建立使用者時無法提供較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：在編輯註解時可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
