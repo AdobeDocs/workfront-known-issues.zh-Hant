@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
 workflow-type: tm+mt
-source-wordcount: '1564'
-ht-degree: 97%
+source-wordcount: '1594'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [整合：從建立請求時未附加檔案 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [校訂：無法透過建立校訂 [!UICONTROL 進階工作流程] 從 [!DNL SharePoint] 檔案](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [面板：將任務新增到面板時出現400錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：回覆其他公司的使用者時畫面變成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [看板：篩選多個使用者未傳回所有結果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [使用者：建立使用者時無法提供較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
