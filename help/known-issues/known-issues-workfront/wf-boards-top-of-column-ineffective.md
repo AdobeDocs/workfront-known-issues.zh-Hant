@@ -4,9 +4,9 @@ description: 「當使用者使用三點選單中的「欄頂端」或「欄底�
 hidefromtoc: true
 feature: Agile
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年2月8日修正。
+>此問題已於 2024 年 2 月 8 日修正。
 
 當使用者使用三點選單中的「[!UICONTROL 欄頂端]」或「[!UICONTROL 欄底部]」選項移動欄中的卡片時，該卡片並未移動。
 

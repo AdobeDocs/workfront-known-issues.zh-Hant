@@ -4,9 +4,9 @@ description: 「工時和財務計算可能不正確，即使在具有成本率�
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年2月8日修正。
+>此問題已於 2024 年 2 月 8 日修正。
 
 工時和財務計算可能不正確，即使在具有成本率的職務角色中記錄了工時，成本也顯示為 0。
 
