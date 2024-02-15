@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '379'
 ht-degree: 96%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：無法透過建立校訂 [!UICONTROL 進階工作流程] 從 [!DNL SharePoint] 檔案](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月13日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
 {style="table-layout:auto"}
@@ -36,7 +35,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：無法將文件從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024 年 2 月 1 日 |
+| [校訂：無法透過建立校訂 [!UICONTROL 進階工作流程] 從 [!DNL SharePoint] 檔案](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |

@@ -3,15 +3,19 @@ title: 「文件：無法將文件從資料夾移至根目錄」
 description: 「當使用者嘗試將資料夾從使用者建立的資料夾移至專案的文件根資料夾時，該文件沒有移動且使用者會看到錯誤訊息。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
-ht-degree: 100%
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 95%
 
 ---
 
 
 # 文件：無法將文件從資料夾移至根目錄
+
+>[!NOTE]
+>
+>此問題已在2024年1月24日修正。
 
 當使用者嘗試將資料夾從使用者建立的資料夾移至專案的文件根資料夾時，該文件沒有移動且使用者會看到以下錯誤訊息：
 
