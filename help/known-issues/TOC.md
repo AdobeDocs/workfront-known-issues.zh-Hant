@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1606'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：工作區和圖釘未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [看板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [整合：從建立請求時未附加檔案 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [校訂：無法透過建立校訂 [!UICONTROL 進階工作流程] 從 [!DNL SharePoint] 檔案](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

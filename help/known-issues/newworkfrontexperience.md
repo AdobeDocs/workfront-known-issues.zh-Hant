@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '795'
 ht-degree: 92%
 
 ---
@@ -46,11 +46,8 @@ ht-degree: 92%
 | [文件：無法將文件從資料夾移至根目錄](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024 年 2 月 1 日 |
 | [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
-| [更新：在編輯註解時可以使用停用影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024 年 1 月 31 日 |
 | [團隊：針對「[!UICONTROL 完成]」按鈕設定團隊狀態時發生問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
-| [問題：大量編輯問題時，時間欄位儲存的時間不正確](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024 年 1 月 5 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
-| [任務：使用者被解除指派一個或多個任務](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [任務：重複任務會導致任務以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |

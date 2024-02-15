@@ -3,15 +3,19 @@ title: 「問題：大量編輯問題時，時間欄位儲存的時間不正確�
 description: 「當使用者大量編輯問題並在日期欄位選擇日期和時間後進行儲存時，該問題中該欄位儲存的時間不是使用者選擇的時間。在使用者儲存時，時間轉換為 UTC。」
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+workflow-type: tm+mt
+source-wordcount: '141'
+ht-degree: 95%
 
 ---
 
 
 # 問題：大量編輯問題時，時間欄位儲存的時間不正確
+
+>[!NOTE]
+>
+>此問題已在2024年2月15日修正。
 
 當使用者大量編輯問題並在日期欄位選擇日期和時間後進行儲存時，該問題中該欄位儲存的時間不是使用者選擇的時間。在使用者儲存時，時間轉換為 UTC。
 
