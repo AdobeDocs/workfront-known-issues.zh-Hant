@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '1606'
-ht-degree: 96%
+source-wordcount: '1624'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [看板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md)
+      + [看板：檢視卡片詳細資料時畫面變成空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [首頁：工作區和圖釘未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
-      + [看板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [整合：從建立請求時未附加檔案 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [校訂：無法透過建立校訂 [!UICONTROL 進階工作流程] 從 [!DNL SharePoint] 檔案](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
-      + [面板：將任務新增到面板時出現400錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [更新：回覆其他公司的使用者時畫面變成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [看板：篩選多個使用者未傳回所有結果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
+      + [整合：從  [!DNL Outlook] 建立請求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [校訂：無法使用[!UICONTROL 進階工作流程]從  [!DNL SharePoint]  文件建立校訂](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
+      + [更新：回覆另一家公司的使用者時畫面變為空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [展示板：篩選多位使用者不會回傳所有結果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [使用者：建立使用者時無法使用較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：在編輯註解時可以使用已停用的影像選項](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
