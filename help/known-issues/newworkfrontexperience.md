@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 96%
+source-wordcount: '840'
+ht-degree: 93%
 
 ---
 
@@ -42,6 +42,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [自訂表單：將文字貼上到RTF文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 2024年2月21日 |
+| [專案：變更任務日期時，時間表重新計算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日 |
 | [看板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日 |
 | [看板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日 |
 | [看板：檢視卡片詳細資料時畫面變成空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 2024年2月16日 |

@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 92%
+source-wordcount: '1860'
+ht-degree: 91%
 
 ---
 
@@ -45,6 +45,12 @@ ht-degree: 92%
 
 * 存取層級欄位已停用。
 * 群組管理員無法選擇較低的存取層級。
+
+#### 工作負載平衡器
+
+**非工作時間的標籤**
+
+工作負載平衡器和個人休假行事曆現在顯示&quot;[!UICONTROL 非工作時數]」代表使用者起飛的時間。 之前顯示內容為「[!UICONTROL 工作時數]」作為非工作時間。
 
 +++
 
