@@ -3,15 +3,19 @@ title: 「自訂表單：將文字貼上到RTF文字欄位時發生錯誤」
 description: 「當使用者嘗試將其他應用程式（例如Salesforce或Outlook）的文字貼上到Workfront中的RTF文字欄位時，文字未貼入，且使用者會看到錯誤。」
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '114'
 ht-degree: 3%
 
 ---
 
 
 # 自訂表單：將文字貼上到RTF文字欄位時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年2月22日修正。
 
 當使用者嘗試將其他應用程式（例如Salesforce或Outlook）的文字貼上到Workfront中的RTF文字欄位時，文字未貼入，且使用者會看到以下錯誤：
 

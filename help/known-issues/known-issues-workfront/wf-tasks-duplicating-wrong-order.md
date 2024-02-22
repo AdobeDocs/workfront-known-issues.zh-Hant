@@ -3,15 +3,19 @@ title: 「任務：重複任務會導致任務以錯誤順序顯示」
 description: 「當使用者在任務清單中選取一個或多個任務並進行複製時，任務清單就會根據任務順序編號以錯誤的順序顯示任務。任務編號正確，但顯示順序錯誤。此問題有解決辦法。」
 hidefromtoc: true
 feature: Tasks
-source-git-commit: c1551f44eebd810017b035334a21819afe1e8638
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 95%
 
 ---
 
 
 # 任務：重複任務會導致任務以錯誤順序顯示
+
+>[!NOTE]
+>
+>此問題已在2024年2月22日修正。
 
 當使用者在任務清單中選取一個或多個任務並進行複製時，任務清單就會根據任務順序編號以錯誤的順序顯示任務。任務編號正確，但顯示順序錯誤。
 

@@ -3,15 +3,19 @@ title: 「首頁：工作區和圖釘未載入」
 description: 「當使用者登入時，其Home Workspace和pin未載入，且他們會看到錯誤訊息。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 15%
 
 ---
 
 
 # [!UICONTROL 首頁]： [!UICONTROL 工作區] 和圖釘未載入
+
+>[!NOTE]
+>
+>此問題已在2024年2月22日修正。
 
 當使用者登入時，可能會發生以下情況：
 
