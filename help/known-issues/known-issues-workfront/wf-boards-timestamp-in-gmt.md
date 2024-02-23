@@ -1,0 +1,18 @@
+---
+title: 「看板：上傳到卡片的檔案顯示錯誤的時間戳記」
+description: 「」
+hidefromtoc: true
+feature: Agile
+source-git-commit: 890a920dec3062afa8c2e77091f36449efe59ac2
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 6%
+
+---
+
+
+# 看板：上傳到卡片的檔案顯示錯誤的時間戳記
+
+當使用者將檔案上傳到卡片時，時間戳記是GMT (UTC)，而不是使用者的時區。 相對時間（例如「2小時前」）是準確的，但卡片顯示實際時間時並不準確。
+
+_於 2024 年 1 月 30 日首次通報。_
