@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 94%
+source-wordcount: '1699'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [報告：在文字模式中所做的變更不會套用至報告或檢視](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [工作負載平衡器：計畫時數未在工作負載平衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [看板：上傳到卡片的檔案顯示錯誤的時間戳記](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [時程表：檢視摘要面板時發生錯誤](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
@@ -24,10 +25,10 @@ ht-degree: 94%
       + [專案：在產品清單上使用篩選器時發生錯誤](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [自訂表單：將文字貼上到RTF文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [專案：變更任務日期時，時間表重新計算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [看板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
-      + [看板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md)
-      + [看板：檢視卡片詳細資料時畫面變成空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [首頁：工作區和圖釘未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [展示板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md)
+      + [展示板：檢視卡片詳細資料時螢幕變空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
+      + [首頁：工作區和 PIN 未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [整合：從  [!DNL Outlook] 建立請求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [校訂：無法使用[!UICONTROL 進階工作流程]從  [!DNL SharePoint]  文件建立校訂](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
