@@ -4,9 +4,9 @@ description: 「在  [!DNL Workfront]  管理員停用新增影像至註解的�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年2月15日修正。
+>此問題已於 2024 年 2 月 15 日修正。
 
 在 [!DNL Workfront] 管理員停用新增影像至註解的選項之後，建立註解時無法使用該選項。然而，如果使用者編輯現有的註解，則可使用影像選項。
 

@@ -4,9 +4,9 @@ description: 「當使用者大量編輯問題並在日期欄位選擇日期和�
 hidefromtoc: true
 feature: Work Management
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年2月15日修正。
+>此問題已於 2024 年 2 月 15 日修正。
 
 當使用者大量編輯問題並在日期欄位選擇日期和時間後進行儲存時，該問題中該欄位儲存的時間不是使用者選擇的時間。在使用者儲存時，時間轉換為 UTC。
 

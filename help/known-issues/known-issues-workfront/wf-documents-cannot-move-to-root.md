@@ -4,9 +4,9 @@ description: 「當使用者嘗試將資料夾從使用者建立的資料夾移�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年1月24日修正。
+>此問題已在 2024 年 1 月 24 日修正。
 
 當使用者嘗試將資料夾從使用者建立的資料夾移至專案的文件根資料夾時，該文件沒有移動且使用者會看到以下錯誤訊息：
 

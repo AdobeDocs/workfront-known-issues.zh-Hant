@@ -4,9 +4,9 @@ description: 「使用者可能會被自動解除指派給他們的任務。一�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年2月15日修正。
+>此問題已於 2024 年 2 月 15 日修正。
 
 使用者可能會被自動解除指派給他們的任務。一個或多個任務可能會發生這種情況。解除指派不會顯示在任務的系統更新區域中，但會顯示在設定選單的更新摘要區段中。
 
