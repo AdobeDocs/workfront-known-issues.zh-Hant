@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 90%
+source-wordcount: '860'
+ht-degree: 89%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [看板：上傳到卡片的檔案顯示錯誤的時間戳記](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月28日 |
 | [工作負載平衡器：計畫時數未在工作負載平衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日 |
 | [時程表：檢視摘要面板時發生錯誤](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日 |
 | [看板：檢查清單總計不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日 |
