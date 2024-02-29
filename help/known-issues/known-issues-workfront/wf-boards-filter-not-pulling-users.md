@@ -3,15 +3,19 @@ title: 「展示板：篩選多位使用者不會回傳所有結果」
 description: 「當一個使用者在展示板的指派篩選器中篩選多位使用者，不會回傳所有預期的結果。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 91%
 
 ---
 
 
 # 展示板：篩選多位使用者不會回傳所有結果
+
+>[!NOTE]
+>
+>此問題已在2月29日修正。 修正。
 
 當一個使用者在展示板的指派篩選器中篩選多位使用者，不會回傳所有預期的結果。
 

@@ -3,15 +3,19 @@ title: 「更新：回覆另一家公司的使用者時畫面變為空白」
 description: 「當使用者嘗試回覆另一家公司使用者的註解時，畫面會變成空白。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 93%
 
 ---
 
 
 # 更新：回覆另一家公司的使用者時畫面變為空白
+
+>[!NOTE]
+>
+>此問題已在2024年2月29日修正。
 
 當使用者嘗試回覆另一家公司使用者的註解時，畫面會變成空白。
 

@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 89%
+source-wordcount: '810'
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,8 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [任務：建立或複製任務導致任務清單顯示順序錯誤](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日 |
-| [報告：在文字模式中所做的變更不會套用至報告或檢視](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日 |
-| [專案：在產品清單上使用篩選器時發生錯誤](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日 |
+| [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
+| [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
 | [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 2 月 13 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -40,18 +39,14 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [看板：上傳到卡片的檔案顯示錯誤的時間戳記](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月28日 |
-| [工作負載平衡器：計畫時數未在工作負載平衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日 |
-| [時程表：檢視摘要面板時發生錯誤](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日 |
-| [看板：檢查清單總計不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日 |
-| [展示板：篩選多位使用者不會回傳所有結果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月22日 |
-| [整合：建立請求時不會附加文件 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024年2月22日 |
-| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日 |
-| [使用者：建立使用者時無法使用較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日 |
-| [專案：變更任務日期時，時間表重新計算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日 |
+| [工作負載平衡器：工作負載平衡器中的規劃時數未更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024 年 2 月 23 日 |
+| [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
+| [整合：建立請求時不會附加文件 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024 年 2 月 22 日 |
+| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
+| [使用者：建立使用者時無法使用較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 22 日 |
+| [專案：更改任務日期時，時間表重新計算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024 年 2 月 21 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
 | [展示板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024 年 2 月 16 日 |
-| [更新：回覆另一家公司的使用者時畫面變為空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024 年 2 月 12 日 |
 | [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [問題：問題狀態不在下拉選單中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
 | [團隊：針對「[!UICONTROL 完成]」按鈕設定團隊狀態時發生問題](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
