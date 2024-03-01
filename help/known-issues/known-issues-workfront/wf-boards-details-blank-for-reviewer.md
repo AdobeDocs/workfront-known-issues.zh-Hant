@@ -4,9 +4,9 @@ description: 「當使用者按一下展示板中的卡片時，卡片詳細資�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年2月22日修正。
+>此問題已於 2024 年 2 月 22 日修正。
 
 當使用者按一下展示板中的卡片時，卡片詳細資訊會短暫顯示，然後螢幕變空白。
 

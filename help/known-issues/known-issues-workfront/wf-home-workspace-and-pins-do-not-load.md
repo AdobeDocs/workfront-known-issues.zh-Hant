@@ -4,9 +4,9 @@ description: 「當使用者登入時，他們的首頁工作區和 PIN 未載�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年2月22日修正。
+>此問題已於 2024 年 2 月 22 日修正。
 
 當使用者登入時，可能會出現以下情況：
 
