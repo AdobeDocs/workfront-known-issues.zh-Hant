@@ -42,7 +42,7 @@ ht-degree: 98%
 | [校訂：從連結檔案建立的校訂未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日 |
 | [工作負載平衡器：工作負載平衡器中的規劃時數未更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024 年 2 月 23 日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
-| [整合：建立請求時不會附加文件 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024 年 2 月 22 日 |
+| [整合：從  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 建立請求時不會附加文件 | 2024 年 2 月 22 日 |
 | [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [使用者：建立使用者時無法使用較低的存取層級](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 22 日 |
 | [專案：更改任務日期時，時間表重新計算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024 年 2 月 21 日 |
