@@ -4,7 +4,7 @@ description: 「當使用者在任務清單中選取一個或多個任務並進�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: d68b7fa7c3aa816b7d0c83ed172c0728d8031caf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 

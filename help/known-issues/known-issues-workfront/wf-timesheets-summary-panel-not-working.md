@@ -4,9 +4,9 @@ description: 「當使用者查看時程表並嘗試檢視摘要面板時，面�
 hidefromtoc: true
 feature: Timesheets
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年2月26日修正。
+>此問題已於 2024 年 2 月 26 日修正。
 
 當使用者查看時程表並嘗試檢視摘要面板時，面板並未載入且使用者看到下列錯誤訊息：
 

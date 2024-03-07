@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：從連結檔案建立的校訂未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日 |
+| [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024 年 3 月 1 日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |

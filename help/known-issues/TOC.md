@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1711'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [校訂：從連結檔案建立的校訂未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [工作負載平衡器：工作負載平衡器中的規劃時數未更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [展示板：上傳到卡片的文件顯示不正確的時間戳記](known-issues-workfront/wf-boards-timestamp-in-gmt.md)

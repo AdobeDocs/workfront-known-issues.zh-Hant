@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '823'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [校訂：從連結檔案建立的校訂未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日 |
+| [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024 年 3 月 1 日 |
 | [工作負載平衡器：工作負載平衡器中的規劃時數未更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024 年 2 月 23 日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [整合：從  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 建立請求時不會附加文件 | 2024 年 2 月 22 日 |

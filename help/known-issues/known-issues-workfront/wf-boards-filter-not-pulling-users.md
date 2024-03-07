@@ -4,9 +4,9 @@ description: 「當一個使用者在展示板的指派篩選器中篩選多位�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2月29日修正。 修正。
+>此問題已於 2024 年 2 月 29 日修正。
 
 當一個使用者在展示板的指派篩選器中篩選多位使用者，不會回傳所有預期的結果。
 

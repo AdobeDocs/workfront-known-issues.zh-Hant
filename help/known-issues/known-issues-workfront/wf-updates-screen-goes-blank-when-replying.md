@@ -4,9 +4,9 @@ description: 「當使用者嘗試回覆另一家公司使用者的註解時，�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年2月29日修正。
+>此問題已於 2024 年 2 月 29 日修正。
 
 當使用者嘗試回覆另一家公司使用者的註解時，畫面會變成空白。
 

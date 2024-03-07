@@ -4,9 +4,9 @@ description: ""
 hidefromtoc: true
 feature: Agile
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2024年2月16日修正。
+>此問題已於 2024 年 2 月 16 日修正。
 
 當使用者將文件上傳到卡片時，時間戳記會採用 GMT (UTC) 時區，而非使用者的時區。「2 小時前」等相對時間是準確的，但卡片顯示的實際時間不準確。
 
