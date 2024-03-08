@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: ht
-source-wordcount: '823'
-ht-degree: 100%
+source-git-commit: 09091815a09c59f4d15e152d40927072995418be
+workflow-type: tm+mt
+source-wordcount: '821'
+ht-degree: 99%
 
 ---
 
@@ -26,8 +26,6 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
-| [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
-| [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 2 月 13 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
@@ -39,8 +37,10 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
+| [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年3月8日 |
+| [更新：行與行之間有大空格](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日 |
 | [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024 年 3 月 1 日 |
-| [工作負載平衡器：工作負載平衡器中的規劃時數未更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024 年 2 月 23 日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [整合：從  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 建立請求時不會附加文件 | 2024 年 2 月 22 日 |
 | [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
