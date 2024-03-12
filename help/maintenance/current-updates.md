@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 95%
+source-wordcount: '2235'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ ht-degree: 95%
 有關 2023 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2024 年 3 月份更新
+
++++**（預計） 2024年3月14日維護更新**
+
+### （預計） 2024年3月14日維護更新
+
+#### 整合
+
+**從建立請求時未附加檔案[!DNL Outlook]**
+
+「當使用者從 [!DNL Outlook] 建立請求時，電子郵件中附加的文件不會附加到請求中。」
+
+#### 校訂
+
+**從連結檔案建立的校訂未套用校訂範本**
+
+當使用者從連結文件建立校訂時，校訂範本未正確套用，且校訂可能會遺失工作流程等資訊。
+
+這也適用於透過 API 和 Workfront Fusion 建立的校訂。
+
+#### 使用者
+
+**建立使用者時無法使用較低存取層級**
+
+當一個使用者建立另一個使用者時，新建立的使用者只能使用第一個使用者的存取層級。權限低於執行建立使用者的所有存取層級皆可指派給新的使用者。
+
++++
 
 +++**2024年3月7日維護更新**
 
