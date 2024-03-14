@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '1725'
-ht-degree: 99%
+source-wordcount: '1764'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [搜尋：無法從搜尋編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [更新：標籤使用者無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [更新：檔案註釋未出現在父物件的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [更新：請求者使用者無法新增影像至更新](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
