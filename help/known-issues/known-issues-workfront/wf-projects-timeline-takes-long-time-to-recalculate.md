@@ -3,15 +3,19 @@ title: 「專案：更改任務日期時，時間表重新計算的速度非常�
 description: 「當使用者查看專案並更改專案任一任務的日期時，專案中的所有日期都會重新計算。這項程序可能需要幾分鐘才能完成，在此期間專案任務的日期會顯示為灰色並且無回應。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
-workflow-type: ht
-source-wordcount: '114'
-ht-degree: 100%
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 95%
 
 ---
 
 
 # 專案：更改任務日期時，時間表重新計算的速度非常慢
+
+>[!NOTE]
+>
+>此問題已在2024年3月8日修正。
 
 當使用者查看專案並更改專案任一任務的日期時，專案中的所有日期都會重新計算。這項程序可能需要幾分鐘才能完成，在此期間專案任務的日期會顯示為灰色並且無回應。
 

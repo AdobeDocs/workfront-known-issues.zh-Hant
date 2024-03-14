@@ -3,15 +3,19 @@ title: 「使用者：建立使用者時無法使用較低的存取層級」
 description: 「當一個使用者建立另一個使用者時，新建立的使用者只能使用第一個使用者的存取層級。權限低於執行建立使用者的所有存取層級皆可指派給新的使用者。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 6424bc11d6ba773e8973cc5def56cc7ffcb82e89
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 94%
 
 ---
 
 
 # 使用者：建立使用者時無法使用較低的存取層級
+
+>[!NOTE]
+>
+>此問題已在2024年3月14日修正。
 
 當一個使用者建立另一個使用者時，新建立的使用者只能使用第一個使用者的存取層級。權限低於執行建立使用者的所有存取層級皆可指派給新的使用者。
 

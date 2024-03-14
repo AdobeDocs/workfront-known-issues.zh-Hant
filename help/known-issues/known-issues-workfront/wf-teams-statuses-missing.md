@@ -3,9 +3,9 @@ title: 「設定團隊時「完成」按鈕狀態出現問題」
 description: 已報告有關在編輯或建立團隊時「[!UICONTROL 完成]」按鈕狀態出現問題。此問題有解決辦法。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # 團隊：設定團隊時「[!UICONTROL 完成]」按鈕狀態出現問題
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>此問題已關閉，因為這不是問題。
 
 已報告在編輯或建立團隊時「[!UICONTROL 完成]」按鈕狀態出現下列問題：
 

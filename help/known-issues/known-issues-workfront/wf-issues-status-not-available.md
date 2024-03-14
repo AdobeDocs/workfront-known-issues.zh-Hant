@@ -3,15 +3,19 @@ title: 「問題：問題狀態不在下拉選單中」
 description: 「在使用者嘗試在問題標題中變更問題狀態時，下拉選單並未顯示所有可用的問題狀態。」
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 
 # 問題：問題狀態不在下拉選單中
+
+>[!NOTE]
+>
+>此問題已在2024年3月14日修正。
 
 在使用者嘗試在問題標題中變更問題狀態時，下拉選單並未顯示所有可用的問題狀態。
 
