@@ -18,7 +18,7 @@ ht-degree: 99%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [更新：請求者使用者無法新增影像至更新](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [更新：行與行之間有大空格](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
+      + [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [工作負載平衡器：工作負載平衡器中的規劃時數未更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
