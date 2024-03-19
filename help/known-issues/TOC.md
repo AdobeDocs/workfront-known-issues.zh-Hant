@@ -22,7 +22,7 @@ ht-degree: 97%
       + [更新：標籤使用者無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [更新：檔案註釋未出現在父物件的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [更新：請求者使用者無法新增影像至更新](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [更新：請求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md)
