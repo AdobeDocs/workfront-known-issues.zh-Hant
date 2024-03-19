@@ -4,9 +4,9 @@ description: 「當使用者從連結文件建立校訂時，校訂範本未正�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年3月14日修正。
+>此問題已在 2024 年 3 月 14 日修正。
 
 當使用者從連結文件建立校訂時，校訂範本未正確套用，且校訂可能會遺失工作流程等資訊。
 

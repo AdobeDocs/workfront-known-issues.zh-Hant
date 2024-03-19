@@ -4,9 +4,9 @@ description: 「當使用者在任務清單中選取一個或多個任務並進�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年3月11日修正。
+>此問題已在 2024 年 3 月 11 日修正。
 
 「當使用者在任務清單中建立或複製任務時，任務清單就會根據任務順序編號以錯誤的順序顯示任務。任務編號正確，但顯示順序錯誤。
 

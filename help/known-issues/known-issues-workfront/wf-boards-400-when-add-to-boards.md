@@ -4,7 +4,7 @@ description: 「當使用者查看專案並嘗試將任務新增至展示板時�
 hidefromtoc: true
 feature: Agile
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 

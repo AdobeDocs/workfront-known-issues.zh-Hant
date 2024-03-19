@@ -4,9 +4,9 @@ description: 「當一個使用者建立另一個使用者時，新建立的使�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年3月14日修正。
+>此問題已在 2024 年 3 月 14 日修正。
 
 當一個使用者建立另一個使用者時，新建立的使用者只能使用第一個使用者的存取層級。權限低於執行建立使用者的所有存取層級皆可指派給新的使用者。
 
