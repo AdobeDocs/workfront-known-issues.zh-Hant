@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 95%
+source-wordcount: '796'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：檔案註釋未出現在父物件的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024 年 3 月 14 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -38,19 +37,17 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：檔案註釋未出現在父物件的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
 | [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜尋：無法從搜尋編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
 | [更新：將使用者標籤為無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024 年 3 月 14 日 |
 | [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024 年 3 月 14 日 |
-| [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 3 月 14 日 |
 | [更新：請求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
-| [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024 年 3 月 8 日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [整合：從  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 建立請求時不會附加文件 | 2024 年 2 月 22 日 |
 | [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
-| [展示板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024 年 2 月 16 日 |
 | [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [校訂：處理靜態檔案時發生問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
