@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -37,10 +37,10 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：檔案註釋未出現在父物件的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
+| [更新：文件評論未顯示在父物件更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
 | [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
-| [搜尋：無法從搜尋編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
-| [更新：將使用者標籤為無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024 年 3 月 14 日 |
+| [搜尋：無法從搜尋進行編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
+| [更新：標記使用者無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024 年 3 月 14 日 |
 | [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024 年 3 月 14 日 |
 | [更新：請求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
