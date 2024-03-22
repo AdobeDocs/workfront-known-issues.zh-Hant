@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 99%
+source-wordcount: '869'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [敏捷：看板卡不顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月22日 |
+| [任務：前置任務工具提示未顯示任務名稱](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | 2024年3月22日 |
+| [面板：從Kanban面板將任務新增到面板時出現400錯誤](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024年3月22日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -37,6 +40,10 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [校訂：校訂仍保留在我的核准Widget上](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024年3月22日 |
+| [專案：如果已附加Web校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
+| [資源管理：預算時數的差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024年3月22日 |
+| [校訂：新檔案版本的簡單校訂包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日 |
 | [更新：文件評論未顯示在父物件更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
 | [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜尋：無法從搜尋進行編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |

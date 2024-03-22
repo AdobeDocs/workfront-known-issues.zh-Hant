@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [敏捷：看板卡不顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [校訂：校訂仍保留在我的核准Widget上](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [專案：如果已附加Web校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [資源管理：預算時數的差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [校訂：新檔案版本的簡單校訂包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [任務：前置任務工具提示未顯示任務名稱](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [面板：從Kanban面板將任務新增到面板時出現400錯誤](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [搜尋：無法從搜尋進行編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：標記使用者無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
