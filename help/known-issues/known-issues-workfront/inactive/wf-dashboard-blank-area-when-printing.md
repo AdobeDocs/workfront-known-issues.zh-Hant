@@ -4,7 +4,7 @@ description: 當使用者以橫向模式將儀表板列印為 PDF 時，PDF 右�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 87%
@@ -13,7 +13,7 @@ ht-degree: 87%
 
 # 儀表板：將儀表板列印為 PDF 時空白邊界很大
 
-<!--article by request-->
+<!--Article by request-->
 
 當使用者以橫向模式將儀表板列印為 PDF 時，PDF 右側的空白邊界很大。
 

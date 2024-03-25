@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 1f22f63be60fe561d6a14eaa6d87af70a22f6579
+source-git-commit: ed2e5c9068d18b185218fbde53b738097203c98c
 workflow-type: tm+mt
-source-wordcount: '1758'
+source-wordcount: '1724'
 ht-degree: 96%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 96%
       + [報告：預算工時報告未按預期每小時更新](known-issues-workfront/wf-reports-report-not-updating.md)
       + [設定：在設定中某些問題類型缺少預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [首頁：「我的專案」和「我的任務」Widget 僅顯示 25 個項目](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [狀態：隱藏狀態時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新的評論體驗缺少一些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [任務/問題：在任務或問題的展示板檢視中新增工作項目時出現問題](known-issues-workfront/wf-tasks-issues-board-view.md)
@@ -95,7 +94,6 @@ ht-degree: 96%
       + [展示板：卡片出現在多個衝刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [範本：無法從「[!UICONTROL 我的最愛]」清單中選取範本](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL 首頁]：任務未出現在「[!UICONTROL 我的工作]」Widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [任務：重新計算時間表時，任務日期長時間顯示為灰色](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [通知：使用者在評論中被標記時沒有收到電子郵件通知](known-issues-workfront/wf-notif-email-not-received.md)
       + [展示板：檢視子任務狀態時出現問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -119,15 +117,14 @@ ht-degree: 96%
       + [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [報告：valueexpression 欄位顯示私人更新](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [工作量平衡工具：頁面重新整理之後手動變更的小時數不準確](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [首頁：委派的任務不會共用，也不會出現於首頁工作清單中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [共用：共用物件時發生錯誤](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [工作量平衡工具：由於容量不準確，使用者顯示為過度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [更新：在舊體驗中看不到使用新的註解體驗建立的註解](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL 首頁]：新的[!UICONTROL 首頁] Widget 預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 首頁]：[!UICONTROL 要求] Widget 未顯示所有指派的團隊](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL 首頁]：[!UICONTROL 要求] Widget 未顯示所有指派的團隊](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [版面範本：版面範本導致報告不一致](known-issues-workfront/wf-layout-templates-classic.md)
-      + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作量平衡工具]：[!UICONTROL 總時數]與[!UICONTROL 規劃時數]的總和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
@@ -137,7 +134,7 @@ ht-degree: 96%
       + [報告：按任一欄位排序時報告未正確排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [校訂：「[!UICONTROL 校訂活動]」索引標籤會開啟「[!UICONTROL 校訂詳細資訊]」](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [校訂：測量工具不接受小數點](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -157,28 +154,28 @@ ht-degree: 96%
       + [API：無法依動態欄位排序](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [問題：出現問題時左側導覽會顯示「(0)」個問題](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 設定]：清單在[!UICONTROL 設定]中載入緩慢](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [任務：在任務中輸入時數時，時數未儲存[!UICONTROL 摘要面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [任務：在任務中輸入時數時，時數未儲存[!UICONTROL 摘要面板]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [儀表板：在儀表板中檢視的報告圖表使用的顏色與在報告中檢視時不同](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [敏捷：在「敏捷」展示板上移動卡片時發生問題](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [首頁：自訂術語未套用於首頁區域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [首頁：自訂術語未套用於首頁區域](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：無法從卡片上的自訂表單中編輯欄位](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [核准：核准委派設定的天數不正確](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL 首頁]：使用  [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL 首頁]摘要問題](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
-      + [[!UICONTROL 首頁]：新任務選項在[!UICONTROL 指派給]欄位中顯示已停用的使用者](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [[!UICONTROL 首頁]：使用  [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL 首頁]摘要問題](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL 首頁]：新任務選項在[!UICONTROL 指派給]欄位中顯示已停用的使用者](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：團隊名稱未出現在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
       + [敏捷：疊代[!UICONTROL 完成點]的差異](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [電子郵件通知：顯示「[!UICONTROL 我受指派問題]」設定](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [電子郵件通知：使用者未導向到評論對話串](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [行事曆： [!DNL OR] 篩選器陳述式不包括篩選規則](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [報告：在儀表板上查看時無法水平捲動報告](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
-      + [[!UICONTROL 首頁]：專案名稱會在[!UICONTROL 工作清單]中顯示為 GUID](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL 首頁]：專案名稱會在[!UICONTROL 工作清單]中顯示為 GUID](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [報告：行事曆預設為舊日期](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [電子郵件通知： [!DNL Outlook] 中的電子郵件格式不正確](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]中的文件影像](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]中的文件影像](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL 首頁]：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL 首頁]：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [行事曆：任務未顯示](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
