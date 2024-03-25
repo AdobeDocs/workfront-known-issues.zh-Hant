@@ -1,17 +1,19 @@
 ---
-title: 「專案：在產品清單上使用篩選器時發生錯誤」
+title: 「專案：在專案清單上使用篩選器時發生錯誤」
 description: 「如果使用者正在查看專案清單並套用篩選器，該清單就會消失，且使用者看到錯誤訊息。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: ht
+exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
+source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
 
-# 專案：在產品清單上使用篩選器時發生錯誤
+# 專案：在專案清單上使用篩選器時發生錯誤
+
 
 >[!NOTE]
 >
