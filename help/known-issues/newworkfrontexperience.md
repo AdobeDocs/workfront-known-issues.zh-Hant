@@ -44,7 +44,7 @@ ht-degree: 91%
 | [專案：如果已附加Web校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
 | [資源管理：預算時數的差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024年3月22日 |
 | [校訂：新檔案版本的簡單校訂包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日 |
-| [更新：文件評論未顯示在父物件更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
+| [更新：文件評論未顯示在父物件更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024 年 3 月 21 日 |
 | [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜尋：無法從搜尋進行編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
 | [更新：標記使用者無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024 年 3 月 14 日 |
