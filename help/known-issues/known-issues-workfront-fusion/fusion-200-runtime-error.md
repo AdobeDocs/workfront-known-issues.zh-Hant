@@ -1,17 +1,21 @@
 ---
-title: 「Workfront Fusion：Workfront 模組發生 RuntimeError 並傳送 200 回應」
-description: 「Workfront 模組可以傳回 `RuntimeError [200]` 回應。200 意味著回應成功，但錯誤顯示該要求並未成功。」
+title: 「Workfront Fusion：來自Workfront模組的200回應出現RuntimeError」
+description: Workfront模組可傳回「RuntimeError [200]」回應。 200 意味著回應成功，但錯誤顯示該要求並未成功。
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+exl-id: 99967e3b-08bd-4035-b0b2-b90eff8cf1a1
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 73%
 
 ---
 
-
 # Workfront Fusion：Workfront 模組發生 RuntimeError 並傳送 200 回應
+
+>[!NOTE]
+>
+>此問題已在2024年3月28日修正。
 
 Workfront 模組可以傳回 `RuntimeError [200]` 回應。200 意味著回應成功，但錯誤顯示該要求並未成功。
 
