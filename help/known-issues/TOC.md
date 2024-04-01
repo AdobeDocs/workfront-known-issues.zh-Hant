@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1502'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [面板：當使用者的團隊新增到面板時，使用者看不到面板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [敏捷：看板卡不顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [校訂：校訂仍保留在我的核准Widget上](known-issues-workfront/wf-proofs-stuck-on-widget.md)

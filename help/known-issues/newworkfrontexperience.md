@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 93%
+source-wordcount: '796'
+ht-degree: 92%
 
 ---
 
@@ -61,6 +61,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日 |
 | [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |
