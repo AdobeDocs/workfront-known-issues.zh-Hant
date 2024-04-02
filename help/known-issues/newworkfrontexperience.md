@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 96%
+source-wordcount: '805'
+ht-degree: 95%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：更新中的影像預覽模糊](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月2日 |
 | [敏捷：Kanban 卡不會顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
