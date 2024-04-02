@@ -1,19 +1,19 @@
 ---
-title: 「面板：從團隊頁面將任務新增到面板時出現400錯誤」
-description: 「當使用者查看專案並嘗試將任務新增至展示板時，不但無法新增該任務，且使用者會看到錯誤。此問題有解決辦法。」
+title: 「展示板：將任務新增至團隊頁面中的展示板時出現 400 錯誤」
+description: 當使用者查看專案並嘗試將任務新增至展示板時，不但無法新增該任務，且使用者會看到錯誤。此問題有解決辦法。
 hidefromtoc: true
 feature: Agile
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
-workflow-type: tm+mt
+exl-id: 6630fc4a-241b-4699-a076-f04768099372
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 43%
+ht-degree: 100%
 
 ---
 
+# 展示板：將任務新增至 Kanban 展示板時出現 400 錯誤
 
-# 面板：從Kanban面板將任務新增到面板時出現400錯誤
-
-當使用者檢視團隊的Kanban面板頁面並嘗試將任務新增到面板中的面板時，未新增任務，並且使用者會看到以下錯誤：
+當使用者查看團隊 Kanban 展示板頁面並嘗試將任務新增至展示板時，不但無法新增該任務，且使用者會看到以下錯誤：
 
 錯誤：「400: undefined/boards-service/graphql」
 
@@ -21,4 +21,4 @@ ht-degree: 43%
 
 在展示板上建立連接卡片，並將其連接到任務。
 
-_首次回報於2024年3月13日。_
+_於 2024 年 3 月 13 日首次通報。_

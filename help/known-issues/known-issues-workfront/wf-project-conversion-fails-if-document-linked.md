@@ -1,20 +1,20 @@
 ---
-title: 「專案：如果已附加Web校訂，則無法將問題轉換為專案」
-description: 「當問題附加了網頁校訂(使用SharePoint等外部檔案提供者連結的URL校訂)，且使用者嘗試將該問題轉換為專案時，轉換失敗且未建立專案。 使用者看到錯誤。」
+title: 「專案：如果附加網頁校訂，則無法將問題轉換為專案」
+description: 當問題有附加網頁校訂 (使用來自外部文件提供者 (例如 SharePoint) 之連結的 URL 校訂)，並且使用者嘗試將該問題轉換為專案時，轉換會失敗並且不會建立專案。使用者會看到錯誤。
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
-workflow-type: tm+mt
+exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
+# 專案：如果附加網頁校訂，則無法將問題轉換為專案
 
-# 專案：如果已附加Web校訂，則無法將問題轉換為專案
+當問題有附加網頁校訂 (使用來自外部文件提供者 (例如 SharePoint) 之連結的 URL 校訂)，並且使用者嘗試將該問題轉換為專案時，轉換會失敗並且不會建立專案。使用者會看到以下錯誤：
 
-當問題具有附加的網頁校訂(使用SharePoint等外部檔案提供者的連結的URL校訂)，並且使用者嘗試將該問題轉換為專案時，轉換失敗並且未建立專案。 使用者看到以下錯誤：
-
-「複製檔案（檔案GUID）時發生問題。 請移除檔案或連絡支援，然後再試一次。」
+「複製檔案 (檔案 GUID) 時出現問題。請刪除該檔案或聯絡支援人員並重試。」
 
 _於 2024 年 3 月 4 日首次通報。_

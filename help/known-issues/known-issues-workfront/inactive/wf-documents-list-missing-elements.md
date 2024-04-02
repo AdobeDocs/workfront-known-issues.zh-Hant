@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 以下是已回報的文件清單問題：
 
 * 縮圖未顯示。
-* 如果使用者在清單檢視中切換所選資料夾，則篩選、檢視和分組選項不再有效。
+* 如果使用者在清單檢視中切換所選資料夾，篩選、檢視和群組選項將不再作用。
 
 **因應措施**
 

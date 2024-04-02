@@ -1,13 +1,13 @@
 ---
-title: 「儀表板：將儀表板列印到PDF時產生大量空白邊界」
+title: 「儀表板：將儀表板列印為 PDF 時空白邊界很大」
 description: 當使用者以橫向模式將儀表板列印為 PDF 時，PDF 右側的空白邊界很大。
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
 source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
