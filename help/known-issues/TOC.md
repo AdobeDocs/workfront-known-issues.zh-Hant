@@ -5,7 +5,7 @@ role: User
 source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
 source-wordcount: '1502'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 94%
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [面板：當使用者的團隊新增到面板時，使用者看不到面板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [敏捷：看板卡不顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [校訂：校訂仍保留在我的核准Widget上](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [專案：如果已附加Web校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [資源管理：預算時數的差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
-      + [校訂：新檔案版本的簡單校訂包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [任務：前置任務工具提示未顯示任務名稱](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [面板：從Kanban面板將任務新增到面板時出現400錯誤](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [敏捷：Kanban 卡不會顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [校訂：校訂保留在「我的核准」Widget](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [資源管理：預算工時差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [校訂：新文件版本的簡單校訂包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [任務：前置任務工具提示不會顯示任務名稱](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [展示板：將任務新增至 Kanban 展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [搜尋：無法從搜尋進行編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md)
-      + [更新：標記使用者無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [更新：將使用者標記為無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [更新：文件評論未顯示在父物件更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [更新：請求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [更新：請求者的使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md)
@@ -47,7 +47,7 @@ ht-degree: 94%
       + [展示板：檢視卡片詳細資料時螢幕變空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [首頁：工作區和 PIN 未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [整合：從  [!DNL Outlook] 建立請求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [整合：從  [!DNL Outlook] 建立請求時未附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [校訂：無法使用[!UICONTROL 進階工作流程]從  [!DNL SharePoint]  文件建立校訂](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：回覆另一家公司的使用者時畫面變為空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
@@ -131,7 +131,7 @@ ht-degree: 94%
       + [API：無法依動態欄位排序](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [問題：出現問題時左側導覽會顯示「(0)」個問題](known-issues-workfront/inactive/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 設定]：清單在[!UICONTROL 設定]中載入緩慢](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
-      + [任務：在任務中輸入時數時，時數未儲存[!UICONTROL 摘要面板]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [任務：在任務[!UICONTROL 摘要面板]中輸入時數時未儲存該時數](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + [儀表板：在儀表板中檢視的報告圖表使用的顏色與在報告中檢視時不同](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
@@ -146,10 +146,10 @@ ht-degree: 94%
       + [電子郵件通知：顯示「[!UICONTROL 我受指派問題]」設定](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [電子郵件通知：使用者未導向到評論對話串](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [行事曆： [!DNL OR] 篩選器陳述式不包括篩選規則](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
-      + [[!UICONTROL 首頁]：專案名稱會在[!UICONTROL 工作清單]中顯示為 GUID](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL 首頁]：專案名稱會在工作清單中中顯示為 GUID [!UICONTROL (工作清單)]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [報告：行事曆預設為舊日期](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
       + [電子郵件通知： [!DNL Outlook] 中的電子郵件格式不正確](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]中的文件影像](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL 首頁]：無法查看工作清單中的文件影像 [!UICONTROL (工作清單)]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL 首頁]：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [行事曆：任務未顯示](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)

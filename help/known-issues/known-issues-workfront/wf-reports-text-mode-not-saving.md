@@ -1,15 +1,15 @@
 ---
-title: 「報表：在文字模式中所做的變更不會套用至報表或視圖」
-description: 「當使用者在文字模式中對報表或視圖進行變更時，這些變更不會儲存並套用至報表或視圖。」
+title: 「報告：在文字模式中所做的變更未套用至報告或檢視」
+description: 當使用者在文字模式中對報表或視圖進行變更時，這些變更不會儲存並套用至報表或視圖。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+exl-id: fcd0ba82-4c0f-4090-8450-123e0abb3be4
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 63%
+ht-degree: 77%
 
 ---
-
 
 # 報表：在文字模式中所做的變更不會套用至報表或視圖
 
@@ -17,6 +17,6 @@ ht-degree: 63%
 >
 >此問題已在3月28日修正。 修正。
 
-當使用者以文字模式變更報表或檢視時，這些變更未儲存並套用至報表或檢視。
+當使用者在文字模式中對報表或視圖進行變更時，這些變更不會儲存並套用至報表或視圖。
 
 _於 2024 年 2 月 21 日首次通報。_

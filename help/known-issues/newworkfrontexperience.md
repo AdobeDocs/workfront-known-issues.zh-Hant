@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日 |
 | [面板：當使用者的團隊新增到面板時，使用者看不到面板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | 2024年3月27日 |
-| [面板：從Kanban面板將任務新增到面板時出現400錯誤](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024年3月22日 |
+| [展示板：將任務新增至 Kanban 展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024 年 3 月 22 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -40,12 +40,12 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [敏捷：看板卡不顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日 |
-| [專案：如果已附加Web校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
+| [敏捷：Kanban 卡不會顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日 |
+| [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [校訂：無法從網站產生校訂](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜尋：無法從搜尋進行編輯](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
 | [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024 年 3 月 14 日 |
-| [更新：請求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
+| [更新：請求者的使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
@@ -57,7 +57,7 @@ ht-degree: 92%
 
 ## 無修正
 
-這些問題的修正目前不在藍圖上。在某些情況下，將透過新功能或功能更新來修正這些問題。
+這些問題的修正目前未納入規劃中。在某些情況下，這些問題將透過新功能或功能更新來修正。
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
@@ -79,12 +79,12 @@ ht-degree: 92%
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
-| [文件：存取連結自  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) 的文件時出現 404 錯誤 | 2023 年 3 月 23 日 |
+| [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)  | 2023 年 3 月 23 日 |
 | [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
-| [任務：在任務中輸入時數時不保存時數[!UICONTROL 摘要面板]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 12 月 2 日 |
+| [任務：在任務摘要面板中輸入時數時未儲存該時數 [!UICONTROL (摘要面板)]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 12 月 2 日 |
 | [自訂表單：跨物件自訂表單需要有「[!UICONTROL 管理]」或「[!UICONTROL 編輯]」存取權才能編輯欄位](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
 | [API：無法依動態欄位排序](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 設定]：清單在[!UICONTROL 設定]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)中載入緩慢 | 2022 年 10 月 28 日 |
@@ -103,11 +103,11 @@ ht-degree: 92%
 | [電子郵件通知：使用者未導向到評論對話串](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
 | [行事曆： [!DNL OR] 篩選器陳述式不包括篩選規則](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 2021 年 4 月 23 日 |
 | [[!UICONTROL Workfront 校訂]：[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
-| [[!UICONTROL 首頁]：專案名稱會在[!UICONTROL 工作清單]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)中顯示為 GUID | 2021 年 2 月 11 日 |
+| [[!UICONTROL 首頁]：專案名稱會在工作清單中中顯示為 GUID [!UICONTROL (工作清單)]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) | 2021 年 2 月 11 日 |
 | [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 25 日 |
 | [報告：行事曆預設為舊日期](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 2021 年 2 月 5 日 |
-| [電子郵件通知： [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) 中的電子郵件格式不正確 | 2021 年 3 月 30 日 |
-| [[!UICONTROL 首頁]：無法查看[!UICONTROL 工作清單]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)中的文件影像 | 2020 年 11 月 9 日 |
+| [電子郵件通知：後者中的電子郵件格式不正確  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)  | 2021 年 3 月 30 日 |
+| [[!UICONTROL 首頁]：無法查看工作清單中的文件影像 [!UICONTROL (工作清單)]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) | 2020 年 11 月 9 日 |
 | [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 9 日 |
 | [首頁：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 9 日 |
 | [行事曆：任務未顯示](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |

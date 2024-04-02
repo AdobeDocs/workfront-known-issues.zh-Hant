@@ -1,23 +1,23 @@
 ---
 title: 「資源管理：預算時數的差異」
-description: 「Workfront其中一個區域顯示的預算時數可能不符合另一個區域顯示的預算時數。」
+description: Workfront其中一個區域顯示的預算時數可能不符合另一個區域顯示的預算時數。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 10%
+ht-degree: 54%
 
 ---
 
-
-# 資源管理：預算時數的差異
+# 資源管理：預算工時差異
 
 >[!NOTE]
 >
 >此問題已在2024年3月28日修正。
 
-顯示在以下區域之一的預算時數可能與顯示在以下區域另一個區域中的預算時數不符：
+以下其中一個區域顯示的預算工時可能與其他區域中顯示的預算工時不相符：
 
 * 業務案例
 * 報告

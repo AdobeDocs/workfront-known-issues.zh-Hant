@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -36,14 +36,14 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [專案：如果已附加Web校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
+| [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 
 {style="table-layout:auto"}
 
 ## 無修正
 
-這些問題的修正目前不在藍圖上。在某些情況下，將透過新功能或功能更新來修正這些問題。
+這些問題的修正目前未納入規劃中。在某些情況下，這些問題將透過新功能或功能更新來修正。
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
@@ -57,7 +57,7 @@ ht-degree: 96%
 | [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 存取  [!DNL Workfront Proof]  時出現 500 錯誤 | 2023 年 5 月 25 日 |
 | [文件：「[!UICONTROL 校訂活動]」選項導向登入頁面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
-| [文件：存取連結自  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) 的文件時出現 404 錯誤 | 2023 年 3 月 23 日 |
+| [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)  | 2023 年 3 月 23 日 |
 | [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof]：清單排序不正確](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 23 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
