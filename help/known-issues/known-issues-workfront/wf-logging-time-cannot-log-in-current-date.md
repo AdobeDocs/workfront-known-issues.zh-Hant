@@ -1,17 +1,21 @@
 ---
 title: 「記錄時間：使用者無法記錄當天的時間」
-description: 「當使用者嘗試在更新區域記錄時間時，當天呈現灰色，使用者無法記錄當天的時間。」
+description: 當使用者嘗試在更新區域記錄時間時，當天呈現灰色，使用者無法記錄當天的時間。
 hidefromtoc: true
 feature: People Teams and Groups, Timesheets
-source-git-commit: c0f69dae7ce1586f6b7e7b34f520f262389e2081
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+exl-id: 882aba6e-519f-4c48-94ee-469f13ed7e92
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 81%
 
 ---
 
-
 # 記錄時間：使用者無法記錄當天的時間
+
+>[!NOTE]
+>
+>此問題已在2024年4月4日修正。
 
 當使用者嘗試在更新區域記錄時間時，當天呈現灰色，使用者無法記錄當天的時間。
 
