@@ -4,14 +4,18 @@ description: 當使用者查看專案並嘗試將任務新增至展示板時，�
 hidefromtoc: true
 feature: Agile
 exl-id: 6630fc4a-241b-4699-a076-f04768099372
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
-workflow-type: ht
-source-wordcount: '116'
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
 # 展示板：將任務新增至 Kanban 展示板時出現 400 錯誤
+
+>[!NOTE]
+>
+>此問題已在 2024 年 3 月 28 日修正。
 
 當使用者查看團隊 Kanban 展示板頁面並嘗試將任務新增至展示板時，不但無法新增該任務，且使用者會看到以下錯誤：
 
