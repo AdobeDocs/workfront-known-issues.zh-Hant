@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1510'
-ht-degree: 98%
+source-wordcount: '1591'
+ht-degree: 94%
 
 ---
 
@@ -17,9 +17,19 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新： 」[!UICONTROL 我們無法張貼您的評論]「回覆時訊息](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [更新：評論未顯示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [行事曆：重新整理行事曆時發生錯誤](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [更新：導覽離開並返回評論時未保留文字](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [任務：新增或刪除任務時出現Bizcontext錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [任務：前置任務資訊不包含連結](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront校訂：電子簽章無法運作](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [版面配置範本：登入頁面不正確](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [記錄時間：無法編輯任務或問題的時數](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [自訂表單：外部查詢欄位未傳回結果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [更新：更新中的影像預覽模糊](known-issues-workfront/wf-updates-images-blurred.md)
       + [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [面板：當使用者的團隊新增到面板時，使用者看不到面板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
+      + [展示板：將使用者的團隊新增至展示板時，使用者無法查看展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [敏捷：Kanban 卡不會顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [校訂：校訂保留在「我的核准」Widget](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
@@ -48,7 +58,7 @@ ht-degree: 98%
       + [展示板：檢視卡片詳細資料時螢幕變空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [首頁：工作區和 PIN 未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [整合：從  [!DNL Outlook] 建立請求時未附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [整合：從  [!DNL Outlook] 建立請求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [校訂：無法使用[!UICONTROL 進階工作流程]從  [!DNL SharePoint]  文件建立校訂](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：回覆另一家公司的使用者時畫面變為空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
