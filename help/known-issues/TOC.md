@@ -132,7 +132,7 @@ ht-degree: 94%
       + [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL 工作量平衡工具]：時數不會根據使用者休假時間進行調整](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
+      + [文件：當文件移至新專案時不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + [文件：上傳大型檔案時發生錯誤](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + [文件：無法從  [!DNL Google Drive] 新增文件](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
