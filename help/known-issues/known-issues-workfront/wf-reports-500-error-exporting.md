@@ -3,7 +3,7 @@ title: 「報告：匯出報告時出現500錯誤」
 description: 「當使用者嘗試匯出報告時，報告未匯出，並且使用者會看到一個錯誤。 此問題有解決辦法。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 12%
@@ -24,3 +24,4 @@ ht-degree: 12%
 移除參考自訂貨幣欄位的欄，然後再次匯出報表。
 
 _首次回報於2024年4月4日。_
+
