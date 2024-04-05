@@ -3,7 +3,7 @@ title: 「校訂：校訂防止將任務或問題轉換為專案」
 description: 「當使用者嘗試將包含Web產生的校訂的任務或問題轉換為專案時，未建立專案且使用者看到一則訊息。 此問題有解決辦法。」
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 3%
@@ -26,3 +26,4 @@ ht-degree: 3%
 3. 使用「移動檔案」功能將校樣移動至新專案。
 
 _首次回報於2024年3月28日。_
+
