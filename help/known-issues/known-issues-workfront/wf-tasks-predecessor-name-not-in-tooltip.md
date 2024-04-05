@@ -4,9 +4,9 @@ description: 「當使用者檢視任務清單並將滑鼠懸停在前置任務�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年3月28日修正。
+>此問題已在 2024 年 3 月 28 日修正。
 
 當使用者檢視任務清單並將滑鼠懸停在前置任務圖示上以獲取更多資訊時，出現的工具提示不會顯示前置任務的名稱。
 

@@ -4,9 +4,9 @@ description: 「當使用者對文件發表評論時，該評論不會立即出�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年3月28日修正。
+>此問題已在 2024 年 3 月 28 日修正。
 
 <!--WF, WFP-->
 

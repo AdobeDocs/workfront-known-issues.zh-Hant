@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 95%
 
 當使用者嘗試匯出大量稽核記錄時，記錄不會匯出。沒有匯出失敗的跡象。
 
-**因應措施**
+**解決方法**
 
 一次匯出較少數量的記錄。
 

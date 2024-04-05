@@ -1,15 +1,15 @@
 ---
 title: 「設定：無法使用[!UICONTROL 快速啟動]來設定群組」
-description: 「當使用者嘗試[!UICONTROL 快速啟動]群組時，匯入失敗，使用者會看到錯誤訊息。」
+description: 當使用者嘗試[!UICONTROL 快速啟動]群組時，匯入失敗，使用者會看到錯誤訊息。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
+exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
 ---
-
 
 # 設定：無法使用[!UICONTROL 快速啟動]來設定群組
 
