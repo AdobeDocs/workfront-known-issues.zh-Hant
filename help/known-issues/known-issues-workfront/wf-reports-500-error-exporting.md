@@ -1,17 +1,21 @@
 ---
-title: 「報告：匯出報告時出現500錯誤」
-description: 「當使用者嘗試匯出報告時，報告未匯出，並且使用者會看到一個錯誤。 此問題有解決辦法。」
+title: 「報告：匯出報告時出現 500 錯誤」
+description: 當使用者嘗試匯出報告時，報告未匯出，並且使用者會看到一個錯誤。 此問題有解決方法。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
+exl-id: 5ebdf00e-122b-4646-b9d8-8775d6e7c1cf
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 18%
 
 ---
 
-
 # 報告：匯出報告時出現 500 錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年4月5日修正。
 
 當使用者嘗試匯出報告時，報告未匯出，並且使用者會看到以下錯誤：
 
@@ -24,4 +28,3 @@ ht-degree: 12%
 移除參考自訂貨幣欄位的欄，然後再次匯出報表。
 
 _首次回報於2024年4月4日。_
-

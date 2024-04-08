@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '855'
-ht-degree: 86%
+source-wordcount: '840'
+ht-degree: 87%
 
 ---
 
@@ -39,13 +39,11 @@ ht-degree: 86%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [校訂：校訂可防止將任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日 |
-| [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-exporting.md) | 2024年4月5日 |
 | [更新：評論未顯示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日 |
 | [行事曆：重新整理行事曆時發生錯誤](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日 |
 | [更新：導覽離開並返回評論時未保留文字](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日 |
 | [任務：新增或刪除任務時出現Bizcontext錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日 |
 | [任務：前置任務資訊不包含連結](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日 |
-| [Workfront校訂：電子簽章無法運作](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月4日 |
 | [更新： 」[!UICONTROL 我們無法張貼您的評論]「回覆時訊息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月4日 |
 | [記錄時間：無法編輯任務或問題的時數](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日 |
 | [自訂表單：外部查詢欄位未傳回結果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日 |
