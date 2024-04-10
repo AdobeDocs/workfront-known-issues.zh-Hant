@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '1608'
-ht-degree: 93%
+source-wordcount: '1618'
+ht-degree: 98%
 
 ---
 
@@ -17,19 +17,20 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [請求：填寫請求時計算欄位未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [校訂：校訂可防止將任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [更新： 」[!UICONTROL 我們無法張貼您的評論]「回覆時訊息](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [更新：評論未顯示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
-      + [行事曆：重新整理行事曆時發生錯誤](known-issues-workfront/wf-calendar-error-when-refresh.md)
-      + [更新：導覽離開並返回評論時未保留文字](known-issues-workfront/wf-updates-text-missing-after-mention.md)
-      + [任務：新增或刪除任務時出現Bizcontext錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [行事曆：重新整理行事曆時出錯](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [更新：導覽離開再返回評論時，文字不會保留](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [任務：前置任務資訊不包含連結](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Workfront校訂：電子簽章無法運作](known-issues-workfront-proof/proof-esignatures-not-working.md)
-      + [版面配置範本：登入頁面不正確](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [記錄時間：無法編輯任務或問題的時數](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Workfront Proof：電子簽名無法使用](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [版面配置範本：登陸頁面不正確](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [記錄時間：無法編輯任務或問題的時間](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
       + [自訂表單：外部查詢欄位未傳回結果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
-      + [更新：更新中的影像預覽模糊](known-issues-workfront/wf-updates-images-blurred.md)
+      + [更新：更新中的影像預覽很模糊](known-issues-workfront/wf-updates-images-blurred.md)
       + [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [展示板：將使用者的團隊新增至展示板時，使用者無法查看展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [敏捷：Kanban 卡不會顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
