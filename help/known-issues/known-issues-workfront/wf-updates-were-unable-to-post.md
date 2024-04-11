@@ -3,15 +3,19 @@ title: 「更新：回覆時顯示「我們無法發佈您的評論」訊息」
 description: 「當使用者嘗試在新的評論體驗中回覆訊息時，回覆不會儲存，使用者會看到一條訊息。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
 
 # 更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息
+
+>[!NOTE]
+>
+>此問題已在2024年4月11日修正。
 
 當使用者嘗試在新的評論體驗中回覆訊息時，回覆不會儲存，使用者會看到以下訊息。
 
