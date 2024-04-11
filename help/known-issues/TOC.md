@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
+source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
 workflow-type: tm+mt
-source-wordcount: '1618'
+source-wordcount: '1626'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [團隊：無法檢視團隊擁有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [請求：填寫請求時計算欄位未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [校訂：校訂可防止將任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-exporting.md)
