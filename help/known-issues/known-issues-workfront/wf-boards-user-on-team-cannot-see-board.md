@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: a7c91886-4acd-443f-b6e0-7f0627a08281
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年4月2日修正。
+>此問題已在 2024 年 4 月 2 日修正。
 
 將使用者的團隊新增至展示板時，使用者可能無法查看或使用該展示板。即使團隊的其他成員可以查看或使用該展示板，也可能會發生此狀況。
 

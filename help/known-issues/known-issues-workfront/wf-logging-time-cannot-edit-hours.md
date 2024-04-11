@@ -1,19 +1,18 @@
 ---
-title: 「記錄時間：無法編輯任務或問題的時數」
-description: 「當使用者嘗試編輯任務或問題的時數時，變更未儲存。」
+title: 「記錄時間：無法編輯任務或問題的時間」
+description: 當使用者嘗試編輯任務或問題的時間時，不會儲存變更。
 hidefromtoc: true
 feature: Work Management, Tasks, Timesheets
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: dc4021c0-0862-464e-8c0e-44b0fe229240
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 記錄時間：無法編輯任務或問題的時間
 
-# 記錄時間：無法編輯任務或問題的時數
+當使用者嘗試編輯任務或問題的時間時，不會儲存變更。
 
-當使用者嘗試編輯任務或問題的時數時，變更未儲存。
-
-_首次回報於2024年4月1日。_
-
+_於 2024 年 4 月 1 日首次通報。_
