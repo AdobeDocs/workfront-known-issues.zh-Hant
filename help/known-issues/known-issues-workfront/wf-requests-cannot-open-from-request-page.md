@@ -3,7 +3,7 @@ title: 「請求：開啟草稿時發生錯誤」
 description: 「當使用者建立新請求，並且有與該請求佇列相關的草稿顯示時，按一下以開啟草稿未開啟草稿，並且使用者會看到錯誤。 此問題有解決辦法。」
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 8%
@@ -22,3 +22,4 @@ ht-degree: 8%
 從左側導覽的「草稿」區域開啟草稿。
 
 _於 2024 年 4 月 2 日首次通報。_
+
