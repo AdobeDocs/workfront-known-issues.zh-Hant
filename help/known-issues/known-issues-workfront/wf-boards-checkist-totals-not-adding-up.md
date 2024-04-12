@@ -1,17 +1,21 @@
 ---
-title: 「展示板：清單總數不準確」
-description: 「當使用者查看包含檢查清單項目的卡片，並進行更改使檢查清單總數發生變化時，總數沒有改變。」
+title: 「看板：檢查清單總計不準確」
+description: 當使用者查看包含檢查清單項目的卡片，並進行更改使檢查清單總數發生變化時，總數沒有改變。
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 87%
 
 ---
 
-
 # 展示板：清單總數不準確
+
+>[!NOTE]
+>
+>此問題已在2024年4月11日修正。
 
 當使用者查看包含檢查清單項目的卡片，並進行更改使檢查清單總數發生變化時，總數沒有改變。
 
