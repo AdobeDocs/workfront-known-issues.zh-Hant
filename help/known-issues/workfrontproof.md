@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 99%
+source-wordcount: '382'
+ht-degree: 95%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：從整合資產建立的校訂未正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 2024年4月15日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年4月12日 |
 | [Workfront Proof：電子簽名無法使用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |

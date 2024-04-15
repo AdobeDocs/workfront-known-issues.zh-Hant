@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '856'
 ht-degree: 93%
 
 ---
@@ -37,12 +37,14 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：編號清單未正確編號](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日 |
+| [校訂：從整合資產建立的校訂未正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 2024年4月15日 |
 | [請求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日 |
 | [清單：清單未顯示所有專案](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日 |
 | [Workfront Proof：電子簽名無法使用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日 |
 | [團隊：無法檢視團隊擁有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日 |
-| [請求：填寫請求時計算欄位未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日 |
-| [校訂：校訂可防止將任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日 |
+| [請求：填寫請求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
+| [校訂：校訂可以防止任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
 | [行事曆：重新整理行事曆時出錯](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024 年 4 月 4 日 |
 | [更新：導覽離開再返回評論時，文字不會保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |

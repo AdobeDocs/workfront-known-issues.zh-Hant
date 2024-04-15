@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1638'
+source-wordcount: '1659'
 ht-degree: 97%
 
 ---
@@ -17,11 +17,13 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：編號清單未正確編號](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [校訂：從整合資產建立的校訂未正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [請求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [清單：清單未顯示所有專案](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [團隊：無法檢視團隊擁有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [請求：填寫請求時計算欄位未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [校訂：校訂可防止將任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [請求：填寫請求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [校訂：校訂可以防止任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
