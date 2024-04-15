@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
+source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
-source-wordcount: '856'
-ht-degree: 93%
+source-wordcount: '868'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新：透過API所做的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
