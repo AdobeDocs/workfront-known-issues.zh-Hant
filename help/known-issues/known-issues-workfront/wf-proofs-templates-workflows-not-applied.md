@@ -3,7 +3,7 @@ title: 「校訂：從整合資產建立的校訂未正確套用範本和工作�
 description: ""
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
+source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
@@ -22,4 +22,3 @@ ht-degree: 4%
 * 電子郵件通知（未傳送）
 
 _於 2024 年 2 月 28 日首次通報。_
-
