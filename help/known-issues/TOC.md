@@ -24,7 +24,7 @@ ht-degree: 96%
       + [清單：清單未顯示所有專案](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [團隊：無法檢視團隊擁有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [請求：填寫請求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [校訂：校訂可以防止任務或問題轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
