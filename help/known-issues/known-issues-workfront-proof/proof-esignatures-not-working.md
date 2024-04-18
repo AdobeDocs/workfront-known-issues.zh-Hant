@@ -4,22 +4,18 @@ description: 當使用者在 Workfront Proof 中查看校訂並嘗試使用電�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ff93f7b2-7d40-44ba-b8f6-f02cda5acde9
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 92%
 
 ---
 
 # Workfront Proof：電子簽名無法使用
 
-
-<!-- 
 >[!NOTE]
 >
->This issue was fixed on April 5, 2024.
-
--->
+>此問題已在2024年4月18日修正。
 
 <!--wf. wfp-->
 

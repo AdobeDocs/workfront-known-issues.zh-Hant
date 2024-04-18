@@ -4,18 +4,22 @@ description: 當使用者查看包含檢查清單項目的卡片，並進行更�
 hidefromtoc: true
 feature: Agile
 exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 87%
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
 # 展示板：清單總數不準確
 
+<!--
+
 >[!NOTE]
 >
->此問題已在2024年4月11日修正。
+>This issue was fixed on April 11, 2024.
+
+-->
 
 當使用者查看包含檢查清單項目的卡片，並進行更改使檢查清單總數發生變化時，總數沒有改變。
 

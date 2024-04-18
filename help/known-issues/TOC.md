@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '1670'
+source-wordcount: '1680'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [請求：無法共用請求佇列路徑](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [更新：透過API所做的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [更新：編號清單未正確編號](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [校訂：從整合資產建立的校訂未正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

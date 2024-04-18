@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '848'
 ht-degree: 92%
 
 ---
@@ -38,23 +38,22 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [請求：無法共用請求佇列路徑](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024年4月18日 |
+| [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日 |
+| [更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月18日 |
+| [更新：更新中的影像預覽很模糊](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月18日 |
+| [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日 |
 | [更新：編號清單未正確編號](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日 |
-| [校訂：從整合資產建立的校訂未正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 2024年4月15日 |
 | [請求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日 |
 | [清單：清單未顯示所有專案](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日 |
-| [Workfront Proof：電子簽名無法使用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日 |
 | [團隊：無法檢視團隊擁有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日 |
 | [請求：填寫請求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
-| [行事曆：重新整理行事曆時出錯](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024 年 4 月 4 日 |
 | [更新：導覽離開再返回評論時，文字不會保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [任務：前置任務資訊不包含連結](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024 年 4 月 4 日 |
 | [記錄時間：無法編輯任務或問題的時間](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024 年 4 月 4 日 |
-| [自訂表單：外部查詢欄位未傳回結果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024 年 4 月 4 日 |
-| [敏捷：Kanban 卡不會顯示自訂欄位](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024 年 3 月 28 日 |
-| [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [更新：請求者使用者無法將影像新增到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
