@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
 workflow-type: tm+mt
-source-wordcount: '1680'
-ht-degree: 96%
+source-wordcount: '1688'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：評論中的連結進入空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [請求：無法共用請求佇列路徑](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [更新：透過API所做的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
