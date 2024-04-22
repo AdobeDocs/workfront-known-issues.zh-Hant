@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1710'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 97%
 
 ---
 
@@ -17,19 +17,20 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [通知：來自檔案核准測試版的通知格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [看板：卡片會短暫回到原始欄](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [首頁：核准Widget不正確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [專案、任務和問題：未顯示繼承的許可權](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [更新：評論中的連結進入空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [請求：無法共用請求佇列路徑](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [更新：透過API所做的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [更新：編號清單未正確編號](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [校訂：從整合資產建立的校訂未正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [請求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
-      + [清單：清單未顯示所有專案](known-issues-workfront/wf-lists-does-not-display-all.md)
-      + [團隊：無法檢視團隊擁有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [請求：填寫請求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [更新：透過 API 發表的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [更新：編號清單編號不正確](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [校訂：從整合資產建立的校訂沒有正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [要求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [清單：清單未顯示所有項目](known-issues-workfront/wf-lists-does-not-display-all.md)
+      + [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
+      + [要求：填寫要求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [報告：匯出報告時出現 500 錯誤](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息](known-issues-workfront/wf-updates-were-unable-to-post.md)
@@ -57,7 +58,7 @@ ht-degree: 94%
       + [更新：將使用者標記為無效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [記錄時間：使用者無法記錄當天的時間](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [更新：文件評論未顯示在父物件更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [更新：請求者的使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [更新：要求者的使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md)
@@ -73,7 +74,7 @@ ht-degree: 94%
       + [展示板：檢視卡片詳細資料時螢幕變空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [首頁：工作區和 PIN 未載入](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [整合：從  [!DNL Outlook] 建立請求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [整合：從  [!DNL Outlook] 建立要求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [校訂：無法使用[!UICONTROL 進階工作流程]從  [!DNL SharePoint]  文件建立校訂](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：回覆另一家公司的使用者時畫面變為空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
