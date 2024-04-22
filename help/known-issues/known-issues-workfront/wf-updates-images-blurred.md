@@ -3,23 +3,20 @@ title: 「更新：更新中的影像預覽很模糊」
 description: 「當使用者查看更新並點選影上的放大鏡以預覽影像時，開啟的預覽畫面的像素化很模糊。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 93%
 
 ---
 
 
 # 更新：更新中的影像預覽很模糊
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on April 11, 2024.
+>此問題已在2024年4月18日修正。
 
--->
 
 當使用者查看更新並點選影上的放大鏡以預覽影像時，開啟的預覽畫面的像素化很模糊。
 

@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 90%
+source-wordcount: '855'
+ht-degree: 89%
 
 ---
 
@@ -39,11 +39,10 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [看板：卡片會短暫回到原始欄](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日 |
+| [首頁：核准Widget不正確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日 |
 | [專案、任務和問題：未顯示繼承的許可權](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024年4月19日 |
-| [請求：無法共用請求佇列路徑](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024年4月18日 |
 | [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日 |
-| [更新：回覆時顯示「[!UICONTROL 我們無法發佈您的評論]」訊息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月18日 |
-| [更新：更新中的影像預覽很模糊](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月18日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日 |
 | [更新：編號清單未正確編號](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日 |
 | [請求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日 |

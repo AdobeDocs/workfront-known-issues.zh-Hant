@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 95%
+source-wordcount: '1710'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板：卡片會短暫回到原始欄](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [首頁：核准Widget不正確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [專案、任務和問題：未顯示繼承的許可權](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [更新：評論中的連結進入空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [請求：無法共用請求佇列路徑](known-issues-workfront/wf-requests-cannot-share-path.md)
