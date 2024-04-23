@@ -4,18 +4,22 @@ description: 當問題有附加網頁校訂 (使用來自外部文件提供者 (
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 95%
+source-wordcount: '140'
+ht-degree: 100%
 
 ---
 
 # 專案：如果附加網頁校訂，則無法將問題轉換為專案
 
+<!--
+
 >[!NOTE]
 >
->此問題已在2024年4月18日修正。
+>This issue was fixed on April 18, 2024.
+
+-->
 
 當問題有附加網頁校訂 (使用來自外部文件提供者 (例如 SharePoint) 之連結的 URL 校訂)，並且使用者嘗試將該問題轉換為專案時，轉換會失敗並且不會建立專案。使用者會看到以下錯誤：
 
