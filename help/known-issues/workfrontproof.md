@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 92%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [整合：透過整合傳送至AEM時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
-| [通知：來自檔案核准測試版的通知格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日 |
+| [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [首頁：核准Widget不正確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日 |
+| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 4 月 22 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 4 月 12 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
