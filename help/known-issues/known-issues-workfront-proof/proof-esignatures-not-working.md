@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ff93f7b2-7d40-44ba-b8f6-f02cda5acde9
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年4月18日修正。
+>此問題已在 2024 年 4 月 18 日修正。
 
 <!--wf. wfp-->
 

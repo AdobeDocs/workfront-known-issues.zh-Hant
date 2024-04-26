@@ -1,23 +1,23 @@
 ---
-title: 「首頁：核准Widget不準確」
-description: 「新首頁體驗中的等待我的核准Widget未準確顯示核准。」
+title: '展示板：「核准」Widget 不準確'
+description: 新首頁體驗中的「正等待我的核准」Widget 未準確顯示核准。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
+source-git-commit: 73ac32c4856ce24548c4536781e1b36a2395fb64
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# 首頁：核准Widget不正確
+# 展示板：「核准」Widget 不準確
 
 <!-- WF, WFP-->
 
-新首頁體驗中的「等待我的核准」Widget無法準確顯示核准。
+新首頁體驗中的「正等待我的核准」Widget 未準確顯示核准。
 
-* 等待核准的校訂可能不會顯示在Widget中。
-* 已核准的校訂可能會保留在Widget上。
+* 等待核准的校訂未出現在 Widget 中。
+* 已核准的校訂可能保留在 Widget 中。
 
-_首次回報於2024年4月16日。_
+_於 2024 年 4 月 16 日首次通報。_

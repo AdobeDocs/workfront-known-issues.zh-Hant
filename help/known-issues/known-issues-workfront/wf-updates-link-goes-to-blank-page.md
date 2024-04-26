@@ -1,24 +1,24 @@
 ---
-title: 「更新：評論中的連結進入空白畫面」
-description: 「當使用者點按評論中的連結時，該連結會將使用者導向到空白畫面。 此問題有解決辦法。」
+title: 「更新：評論中的連結會導向空白畫面」
+description: 「當使用者按一下評論中的連結時，連結會將使用者導向空白畫面。此問題有解決辦法。」
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 38057e2464aa980e2c315a5ebb4b114fab529ced
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# 更新：評論中的連結進入空白畫面
+# 更新：評論中的連結會導向空白畫面
 
-當使用者點按評論中的連結時，該連結會將使用者導向到空白畫面。
+當使用者按一下評論中的連結時，連結會將使用者導向空白畫面。
 
 **解決方法**
 
-複製連結並貼到個別頁面的URL列中。
+複製連結並將其貼到單獨頁面的 URL 列中。
 
-_首次回報於2024年4月18日。_
+_於 2024 年 4 月 18 日首次通報。_
 
 

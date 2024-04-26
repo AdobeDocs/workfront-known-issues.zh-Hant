@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: b65c8870-e915-4ca5-a93b-5431440f9140
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年4月18日修正。
+>此問題已在 2024 年 4 月 18 日修正。
 
 當外部查詢欄位引用只有選取一個值的多重選取欄位時，該欄位未傳回該值。
 

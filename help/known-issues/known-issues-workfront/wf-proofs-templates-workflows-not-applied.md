@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 90ce6128-4521-476d-ba85-c51b86bbeb7d
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年4月18日修正。
+>此問題已在 2024 年 4 月 18 日修正。
 
 當使用者透過整合 (連結至 Workfront 的外部文件提供者) 的資產建立校訂，並套用範本或自動化工作流程時，某些範本或工作流程元素未套用至校訂。
 

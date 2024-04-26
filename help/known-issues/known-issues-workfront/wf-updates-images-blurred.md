@@ -4,9 +4,9 @@ description: 「當使用者查看更新並點選影上的放大鏡以預覽影�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年4月18日修正。
+>此問題已在 2024 年 4 月 18 日修正。
 
 
 當使用者查看更新並點選影上的放大鏡以預覽影像時，開啟的預覽畫面的像素化很模糊。

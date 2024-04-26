@@ -4,7 +4,7 @@ description: 「當透過 Workfront API 發表評論時，該評論在生產環�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 96a81dc4927e887fbbaf8289d8acb8be1762d253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
