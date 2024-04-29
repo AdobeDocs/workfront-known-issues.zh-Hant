@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '841'
 ht-degree: 96%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：透過 API 發表的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月25日 |
+| [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
 | [看板：卡片未顯示Workfront原生欄位](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [展示板：卡片會短暫回到原始欄](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024 年 4 月 22 日 |
