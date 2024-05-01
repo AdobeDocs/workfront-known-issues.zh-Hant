@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1761'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [整合：透過整合傳送至AEM時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md)

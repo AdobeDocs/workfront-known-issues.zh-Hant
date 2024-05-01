@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 95%
+source-wordcount: '849'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024年5月1日 |
 | [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
 | [整合：透過整合傳送至AEM時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日 |
@@ -44,7 +45,6 @@ ht-degree: 95%
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
 | [看板：卡片未顯示Workfront原生欄位](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
-| [展示板：卡片會短暫回到原始欄](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024 年 4 月 22 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 4 月 22 日 |
 | [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
 | [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 4 月 18 日 |
