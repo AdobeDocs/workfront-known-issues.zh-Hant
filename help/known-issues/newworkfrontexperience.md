@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 96%
+source-wordcount: '850'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
 | [整合：透過整合傳送至AEM時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日 |
 | [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
