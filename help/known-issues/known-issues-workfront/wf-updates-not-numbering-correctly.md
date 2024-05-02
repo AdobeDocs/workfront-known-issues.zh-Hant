@@ -4,9 +4,9 @@ description: 「當使用者提交包含編號清單的評論時，該清單在�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2024年4月25日修正。
+>此問題已在 2024 年 4 月 25 日修正。
 
 當使用者提交包含編號清單的評論時，該清單在更新後會顯示不正確的編號。
 
