@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '824'
 ht-degree: 97%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024年5月1日 |
+| [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
 | [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
 | [整合：當透過整合傳送至 AEM 時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 4 月 24 日 |
@@ -43,7 +43,6 @@ ht-degree: 97%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
-| [展示板：卡片中未顯示 Workfront 原生欄位](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 4 月 22 日 |
 | [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
@@ -54,9 +53,7 @@ ht-degree: 97%
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
-| [記錄時間：無法編輯任務或問題的時間](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024 年 4 月 4 日 |
 | [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
-| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
