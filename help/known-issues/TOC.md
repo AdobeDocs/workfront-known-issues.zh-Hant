@@ -5,7 +5,7 @@ role: User
 source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
 source-wordcount: '1761'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
       + [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [整合：透過整合傳送至AEM時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [整合：當透過整合傳送至 AEM 時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md)
-      + [看板：卡片未顯示Workfront原生欄位](known-issues-workfront/wf-boards-native-fields-not-display.md)
+      + [展示板：卡片中未顯示 Workfront 原生欄位](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [展示板：卡片會短暫回到原始欄](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
