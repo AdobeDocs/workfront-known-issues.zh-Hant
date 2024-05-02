@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 97%
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [專案：使用範本建立的專案不符合範本的優先順序](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2024年5月2日 |
 | [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
 | [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
 | [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
@@ -41,6 +42,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日 |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |

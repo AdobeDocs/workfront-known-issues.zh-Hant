@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
 workflow-type: tm+mt
-source-wordcount: '1768'
-ht-degree: 98%
+source-wordcount: '1788'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [專案：使用範本建立的專案不符合範本的優先順序](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
