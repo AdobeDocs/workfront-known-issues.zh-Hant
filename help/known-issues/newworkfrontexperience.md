@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '808'
 ht-degree: 97%
 
 ---
@@ -25,11 +25,10 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
 | [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
 | [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
 | [整合：當透過整合傳送至 AEM 時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
-| [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 4 月 24 日 |
-| [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -42,16 +41,15 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日 |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 4 月 22 日 |
 | [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
-| [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 4 月 18 日 |
 | [要求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024 年 4 月 12 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [要求：填寫要求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
-| [更新：評論未顯示「[!UICONTROL 代表]」字樣](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
