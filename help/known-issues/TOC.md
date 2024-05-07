@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
+source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
 workflow-type: tm+mt
-source-wordcount: '1812'
+source-wordcount: '1834'
 ht-degree: 96%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [看板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [時程表：釘選的時程表移至空白頁面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [設定：以其他使用者身份登入時，不會顯示「登入身份」橫幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [校訂版主無法編輯許可權](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [看板：使用者看不到團隊指派給哪個看板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [專案：使用範本建立的專案不符合範本的優先順序](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校訂：無法在私人工作流程階段做出決策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -39,6 +41,7 @@ ht-degree: 96%
       + [更新：透過 API 發表的評論在沙箱環境中不可見](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [更新：編號清單編號不正確](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [校訂：從整合資產建立的校訂沒有正確套用範本和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [要求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [清單：清單未顯示所有項目](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [要求：填寫要求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
