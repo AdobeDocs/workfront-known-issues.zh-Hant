@@ -4,9 +4,9 @@ description: 「當使用者按一下評論中的連結時，連結會將使用�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年4月25日修正。
+>此問題已在 2024 年 4 月 25 日修正。
 
 當使用者按一下評論中的連結時，連結會將使用者導向空白畫面。
 
