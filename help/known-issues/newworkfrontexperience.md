@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 94%
+source-wordcount: '850'
+ht-degree: 91%
 
 ---
 
@@ -25,11 +25,12 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [專案：使用範本建立的專案不符合範本的優先順序](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2024年5月2日 |
+| [設定：以其他使用者身份登入時，不會顯示「登入身份」橫幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
+| [看板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
 | [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
 | [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
-| [校訂：無法在私人工作流程階段做出決定](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
-| [整合：當透過整合傳送至 AEM 時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
+| [校訂：無法在私人工作流程階段做出決策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024 年 5 月 1 日 |
+| [整合：透過整合傳送至檔案提供者時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -42,12 +43,13 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [校訂版主無法編輯許可權](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
+| [看板：使用者看不到團隊指派給哪個看板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
 | [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日 |
-| [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
+| [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
-| [要求：開啟草稿時發生錯誤](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024 年 4 月 12 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [要求：填寫要求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
