@@ -3,7 +3,7 @@ title: 「時程表：釘選的時程表移至空白頁面」
 description: 「當使用者按一下Workfront中要移至其時程表的pin時，該pin會移至空白頁面。 此問題有解決辦法。」
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 4%
@@ -24,3 +24,4 @@ ht-degree: 4%
 1. 重新釘選時間表。
 
 _首次回報於2024年5月7日。_
+
