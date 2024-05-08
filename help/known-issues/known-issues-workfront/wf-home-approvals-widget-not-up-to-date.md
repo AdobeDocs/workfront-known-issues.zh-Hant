@@ -4,20 +4,22 @@ description: 新首頁體驗中的「正等待我的核准」Widget 未準確顯
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 92%
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 
 # 展示板：「核准」Widget 不準確
 
+<!--
+
 >[!NOTE]
 >
->此問題已在2024年5月2日修正。
+>This issue was fixed on May 2, 2024.
 
-<!-- WF, WFP-->
+ WF, WFP-->
 
 新首頁體驗中的「正等待我的核准」Widget 未準確顯示核准。
 

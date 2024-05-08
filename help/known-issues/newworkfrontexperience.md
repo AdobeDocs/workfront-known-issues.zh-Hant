@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '883'
 ht-degree: 88%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
 | [專案：使用範本從問題建立的專案未反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月8日 |
 | [設定：以其他使用者身份登入時，不會顯示「登入身份」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
 | [看板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
