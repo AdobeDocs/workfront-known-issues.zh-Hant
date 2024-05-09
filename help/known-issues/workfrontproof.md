@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '376'
 ht-degree: 99%
 
 ---
@@ -25,8 +25,6 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：無法在私人工作流程階段做出決策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024 年 5 月 1 日 |
-| [整合：當透過整合傳送至 AEM 時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
 {style="table-layout:auto"}

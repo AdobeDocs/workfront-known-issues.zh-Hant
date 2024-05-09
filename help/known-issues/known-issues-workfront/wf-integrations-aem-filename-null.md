@@ -4,14 +4,18 @@ description: 「當透過 Workfront 整合將大型檔案 (超過 100 MB) 傳送
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 47%
 
 ---
 
 # 整合：傳送至檔案整合時的檔案名稱為「null」
+
+>[!NOTE]
+>
+>此問題已在2024年5月8日修正。
 
 當透過Workfront整合將大型檔案（超過100 MB）傳送到檔案提供者時，檔案提供者中的檔案名稱為「null」。
 

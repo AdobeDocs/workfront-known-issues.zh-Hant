@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 88%
+source-wordcount: '871'
+ht-degree: 89%
 
 ---
 
@@ -26,13 +26,10 @@ ht-degree: 88%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
-| [專案：使用範本從問題建立的專案未反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月8日 |
 | [設定：以其他使用者身份登入時，不會顯示「登入身份」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
 | [看板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
 | [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
 | [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
-| [校訂：無法在私人工作流程階段做出決策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024 年 5 月 1 日 |
-| [整合：透過整合傳送至檔案提供者時，檔案名稱為「null」](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -45,6 +42,8 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日 |
+| [專案：使用範本從問題建立的專案未反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月9日 |
 | [校訂版主無法編輯許可權](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
 | [看板：使用者看不到團隊指派給哪個看板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
 | [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
