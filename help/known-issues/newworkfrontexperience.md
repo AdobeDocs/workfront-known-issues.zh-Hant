@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '864'
 ht-degree: 89%
 
 ---
@@ -47,7 +47,6 @@ ht-degree: 89%
 | [校訂版主無法編輯許可權](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
 | [看板：使用者看不到團隊指派給哪個看板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
 | [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
-| [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日 |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [使用者：無法刪除使用者](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
