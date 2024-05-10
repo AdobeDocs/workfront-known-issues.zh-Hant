@@ -5,7 +5,7 @@ role: User
 source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
 source-wordcount: '1850'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [專案：使用範本從問題建立的專案未反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [看板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [時程表：釘選的時程表移至空白頁面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [設定：以其他使用者身份登入時，不會顯示「登入身份」橫幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [校訂版主無法編輯許可權](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [看板：使用者看不到團隊指派給哪個看板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [更新：在摘要面板中使用@標籤使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [專案：使用範本建立的專案不符合範本的優先順序](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [看板：檢查清單專案不會維持檢查狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [設定：以其他使用者身分登入時不會出現「登入身分」橫幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [校訂版主無法編輯權限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [展示板：使用者看不到指派至團隊的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [更新：在摘要面板中使用 @ 標記使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [專案：使用範本建立的專案與範本的優先順序不符](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [展示板：檢查清單項目不會保持選取狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [專案：共用專案時發生錯誤](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校訂：無法在私人工作流程階段做出決策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md)
