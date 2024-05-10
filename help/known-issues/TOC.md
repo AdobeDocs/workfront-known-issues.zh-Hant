@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1862'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：複製和貼上提及內容不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [專案：使用範本從問題建立的專案未反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [時程表：釘選的時程表移至空白頁面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
