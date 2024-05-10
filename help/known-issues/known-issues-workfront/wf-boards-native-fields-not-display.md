@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年5月2日修正。
+>此問題已在 2024 年 5 月 2 日修正。
 
 當使用者檢視設定為顯示原生 (非自訂) 欄位的卡片時，這些欄位未出現在卡片中。
 

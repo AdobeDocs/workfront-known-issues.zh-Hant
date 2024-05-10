@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Work Management, Tasks, Timesheets
 exl-id: dc4021c0-0862-464e-8c0e-44b0fe229240
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此問題已在2024年5月2日修正。
+>此問題已在 2024 年 5 月 2 日修正。
 
 當使用者嘗試編輯任務或問題的時間時，不會儲存變更。
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Projects
 exl-id: 8c6c6089-1015-400e-9eec-e62318cc9e07
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年5月2日修正。
+>此問題已在 2024 年 5 月 2 日修正。
 
 在使用者嘗試共用專案時，該專案並未共用，且使用者看到以下訊息：
 

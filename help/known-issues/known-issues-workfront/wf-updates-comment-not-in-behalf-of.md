@@ -4,9 +4,9 @@ description: 「當管理員以另一個使用者身份登入並發表評論時�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年5月2日修正。
+>此問題已在 2024 年 5 月 2 日修正。
 
 「當管理員以另一個使用者身份登入並發表評論時，評論會被認為是屬於該使用者，而不會被認為是屬於[!UICONTROL 代表]該使用者的管理員。」
 

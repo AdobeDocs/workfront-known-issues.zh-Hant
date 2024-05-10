@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Requests
 exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
 source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年5月2日修正。
+>此問題已在 2024 年 5 月 2 日修正。
 
 當使用者建立新要求，並且顯示與該要求佇列相關的草稿時，按一下開啟草稿卻沒有開啟該草稿，且使用者會看到以下錯誤：
 

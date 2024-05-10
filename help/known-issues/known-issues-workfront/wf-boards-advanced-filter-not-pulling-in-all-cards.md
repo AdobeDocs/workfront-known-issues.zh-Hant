@@ -1,18 +1,18 @@
 ---
-title: 「面板：進階篩選器未傳回預期的卡片」
-description: 「當使用者嘗試在展示板上使用進階篩選器時，該篩選器未傳回所有應傳回的結果。」
+title: 「展示板：進階篩選器未傳回預期的卡片」
+description: 當使用者嘗試在展示板上使用進階篩選器時，篩選器未傳回應有的所有結果。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: d2c98b56-c52e-4e45-84b4-c9f0716c2182
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 展示板：進階篩選器未傳回預期的卡片
 
-# 看板：進階篩選器未傳回預期的卡片
+當使用者嘗試在展示板上使用進階篩選器時，篩選器未傳回應有的所有結果。
 
-當使用者嘗試在展示板上使用進階篩選器時，該篩選器未傳回所有應傳回的結果。
-
-_首次回報於2024年4月24日。_
+_於 2024 年 4 月 24 日首次通報。_
