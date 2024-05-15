@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [更新：複製和貼上提及內容不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [專案：使用範本從問題建立的專案未反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [專案：使用範本從問題建立的專案不會反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [時程表：釘選的時程表移至空白頁面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [時程表：釘選的時程表會轉到空白頁](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [設定：以其他使用者身分登入時不會出現「登入身分」橫幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [校訂版主無法編輯權限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [展示板：使用者看不到指派至團隊的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)

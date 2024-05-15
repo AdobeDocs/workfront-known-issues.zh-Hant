@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
-| [設定：以其他使用者身份登入時，不會顯示「登入身份」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
+| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
+| [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024 年 5 月 7 日 |
 | [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 5 月 2 日 |
 | [展示板：檢查清單項目不會保持選取狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024 年 5 月 2 日 |
@@ -43,7 +43,7 @@ ht-degree: 95%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [更新：複製和貼上提及內容不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日 |
-| [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日 |
+| [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
 | [校訂版主無法編輯權限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024 年 5 月 7 日 |
 | [展示板：使用者看不到指派至團隊的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024 年 5 月 7 日 |
 | [更新：在摘要面板中使用 @ 標記使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |
@@ -67,7 +67,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [時程表：釘選的時程表移至空白頁面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024年5月7日 |
+| [時程表：釘選的時程表會轉到空白頁](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日 |
 | [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024 年 4 月 1 日 |
 | [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
