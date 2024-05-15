@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 98%
+source-wordcount: '870'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：使用SSO時使用者收到錯誤請求錯誤](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024 年 5 月 7 日 |
