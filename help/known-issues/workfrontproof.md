@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '376'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
+| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 4 月 12 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |

@@ -4,9 +4,9 @@ description: 「當群組管理員嘗試修改群組使用者的存取層級時�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年5月9日修正。
+>此問題已在 2024 年 5 月 9 日解決。
 
 當群組管理員嘗試修改群組使用者的存取層級時，存取層級欄位停用，群組管理員無法變更使用者的存取層級。
 
