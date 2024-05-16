@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
+source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1880'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [請求：無法存取請求頁面上的儀表板(「……/submitted」 URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [整合：使用SSO時使用者收到錯誤請求錯誤](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：複製和貼上提及內容不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [專案：使用範本從問題建立的專案不會反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md)
