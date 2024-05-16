@@ -3,15 +3,19 @@ title: 「使用者：無法刪除使用者」
 description: 「當使用者嘗試刪除使用者時，使用者不會被刪除。已移轉至 Adobe Admin Console 的組織已回報此問題。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 38057e2464aa980e2c315a5ebb4b114fab529ced
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 91%
 
 ---
 
 
 # 使用者：無法刪除使用者
+
+>[!NOTE]
+>
+>此問題已在2024年5月16日修正。
 
 當使用者嘗試刪除使用者時，使用者不會被刪除。已移轉至 Adobe Admin Console 的組織已回報此問題。
 

@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5abc91229bcfbeef1a08ffd3db103de4978c3111
-workflow-type: ht
-source-wordcount: '3425'
-ht-degree: 100%
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+workflow-type: tm+mt
+source-wordcount: '3529'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,24 @@ ht-degree: 100%
 有關 2024 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2024 年 5 月更新
+
++++**2024年5月16日維護更新**
+
+### 2024年5月16日維護更新
+
+#### 設定
+
+**在設定中某些問題類型缺少預設問題狀態**
+
+當使用者在設定中查看問題狀態時，他們會發現某些問題類型缺少預設問題狀態 (「新」、「進行中」和「完成」)。預設狀態沒有變更問題類型的選項，因此使用者無法重新設定受影響問題類型的顯示狀態。
+
+#### 使用者
+
+**無法刪除使用者**
+
+當使用者嘗試刪除使用者時，使用者不會被刪除。已移轉至 Adobe Admin Console 的組織已回報此問題。
+
++++
 
 +++**於 2024 年 5 月 9 日維護更新**
 
