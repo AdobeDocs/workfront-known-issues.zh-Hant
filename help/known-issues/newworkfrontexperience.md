@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 98%
+source-wordcount: '877'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [方案：當使用者對方案的存取權更新時，將失去對方案的所有存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日 |
+| [檔案：從整合連結檔案時，使用UNK副檔名](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024年5月20日 |
 | [整合：使用SSO時使用者收到錯誤請求錯誤](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
@@ -39,6 +41,9 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [檔案：下載或預覽資產時發生錯誤](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日 |
+| [使用者：使用者屬性不會從SSO進行對應](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024年5月20日 |
+| [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日 |
 | [更新：複製和貼上提及的人不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024 年 5 月 10 日 |
 | [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
 | [校訂版主無法編輯權限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024 年 5 月 7 日 |
