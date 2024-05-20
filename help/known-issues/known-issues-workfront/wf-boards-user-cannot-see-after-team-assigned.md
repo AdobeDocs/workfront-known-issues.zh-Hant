@@ -4,14 +4,18 @@ description: 當使用者嘗試檢視指派至團隊的展示板時，他們無�
 hidefromtoc: true
 feature: Agile
 exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
-source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
-workflow-type: ht
-source-wordcount: '109'
-ht-degree: 100%
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '115'
+ht-degree: 94%
 
 ---
 
 # 展示板：使用者看不到指派至團隊的展示板
+
+>[!NOTE]
+>
+>此問題已在2024年5月15日修正。
 
 當使用者嘗試檢視指派至團隊的展示板時，他們無法檢視該展示板。如果在將團隊指派至展示板後將使用者新增至團隊中，則會發生這種情況。
 

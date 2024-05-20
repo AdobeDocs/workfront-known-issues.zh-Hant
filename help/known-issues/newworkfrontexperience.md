@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
 workflow-type: tm+mt
-source-wordcount: '875'
-ht-degree: 96%
+source-wordcount: '827'
+ht-degree: 98%
 
 ---
 
@@ -25,13 +25,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [請求：無法存取請求頁面上的儀表板(「……/submitted」 URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | 2024年5月16日 |
 | [整合：使用SSO時使用者收到錯誤請求錯誤](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日 |
-| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
-| [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024 年 5 月 7 日 |
-| [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 5 月 2 日 |
-| [展示板：檢查清單項目不會保持選取狀態](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024 年 5 月 2 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校訂：GIF 呈現為靜態校訂](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -44,10 +39,9 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：複製和貼上提及內容不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日 |
+| [更新：複製和貼上提及的人不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024 年 5 月 10 日 |
 | [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
 | [校訂版主無法編輯權限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024 年 5 月 7 日 |
-| [展示板：使用者看不到指派至團隊的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024 年 5 月 7 日 |
 | [更新：在摘要面板中使用 @ 標記使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
@@ -68,6 +62,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月20日 |
 | [時程表：釘選的時程表會轉到空白頁](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日 |
 | [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024 年 4 月 1 日 |
 | [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |

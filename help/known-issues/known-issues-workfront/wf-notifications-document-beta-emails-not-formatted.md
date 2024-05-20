@@ -4,14 +4,18 @@ description: 「當使用者收到來自新文件核准 Beta 版的電子郵件�
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 2918ad87-3cb5-4cf3-a2fe-033a4bbaffff
-source-git-commit: b1b28f91c4fd065c1547d616121cef78346db995
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 91%
 
 ---
 
 # 通知：文件核准 Beta 版的通知其格式不正確
+
+>[!NOTE]
+>
+>此問題已在2024年5月10日修正。
 
 當使用者收到來自新文件核准 Beta 版的電子郵件時，該電子郵件的格式不正確。
 
