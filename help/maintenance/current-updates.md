@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 99%
 有關 2024 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2024 年 5 月更新
+
++++ **（預計） 2024年5月23日維護更新**
+
+### （預計） 2024年5月23日維護更新
+
+#### 更新
+
+**已標籤的使用者看不到誰已標籤他們**
+
+當使用者在更新中被標籤時，他們看不到誰標籤他們。 當「其他公司的人員應該僅從……檢視使用者」設定設為「他們的公司」時，就會發生這種情況。
+
+**在「摘要」面板中使用@標籤使用者無效**
+
+當使用者嘗試在摘要面板的更新區域中使用 @ 來標記另一個使用者時，在下拉清單中按一下使用者名稱無效。第二次嘗試標記使用者如預期進行。
+
++++
 
 +++**2024年5月16日維護更新**
 
