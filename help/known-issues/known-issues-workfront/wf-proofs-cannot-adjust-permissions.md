@@ -4,14 +4,18 @@ description: 如果身為校訂版主的使用者嘗試編輯工作流程的使�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
-source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 # 校訂版主無法編輯權限
+
+>[!NOTE]
+>
+>此問題因為無法重現已遭關閉。
 
 如果身為校訂版主的使用者嘗試編輯工作流程的使用者權限，則選取或取消選取權限的功能將遭到停用。
 
