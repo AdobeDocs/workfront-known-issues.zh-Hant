@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Projects
 exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 79%
 
 當使用者使用範本將問題轉換為專案時，新建立專案中的優先順序與範本中設定的優先順序不符。
 
-一切如預期般運作。 將問題轉換為具有或不具有範本的專案時，問題的優先順序會轉移到已建立的專案。
+如預期運作。將問題轉換為有或沒有範本的專案時，問題的優先順序將轉移到已建立的專案。
 
 _於 2024 年 5 月 2 日首次通報。_
