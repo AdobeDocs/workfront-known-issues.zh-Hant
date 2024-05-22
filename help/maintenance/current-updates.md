@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,16 @@ ht-degree: 98%
 +++ **（預計） 2024年5月23日維護更新**
 
 ### （預計） 2024年5月23日維護更新
+
+#### 報告
+
+當使用者檢視報告並按一下瀏覽器的返回按鈕，可能會出現以下情況之一：
+
+* 使用者會停留在「報表」頁面上。
+* 系統會將使用者導向至瀏覽器的登陸頁面。
+* 系統會將使用者導向至登入頁面。
+
+Chrome瀏覽器已報告過此問題。
 
 #### 更新
 
