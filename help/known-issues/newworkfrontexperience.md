@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3931cc536f625b78a888856f048663558dc771e
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 91%
+source-wordcount: '834'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 91%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [方案：當使用者對方案的存取權更新時，將失去對方案的所有存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日 |
-| [檔案：從整合連結檔案時，使用UNK副檔名](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024年5月20日 |
 | [整合：使用SSO時使用者收到錯誤請求錯誤](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
@@ -41,16 +40,12 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：已標籤的使用者看不到誰標籤他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024年5月21日 |
 | [首頁：計畫時數以分鐘為單位顯示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 2024年5月21日 |
 | [檔案：下載或預覽資產時發生錯誤](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日 |
-| [使用者：使用者屬性不會從SSO進行對應](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024年5月20日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日 |
 | [更新：複製和貼上提及的人不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024 年 5 月 10 日 |
 | [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
-| [更新：在摘要面板中使用 @ 標記使用者無效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
-| [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [要求：填寫要求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
