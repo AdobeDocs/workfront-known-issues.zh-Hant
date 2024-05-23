@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '1933'
-ht-degree: 96%
+source-wordcount: '1937'
+ht-degree: 99%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：已標籤的使用者看不到誰標籤他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [首頁：計畫時數以分鐘為單位顯示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
-      + [檔案：下載或預覽資產時發生錯誤](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [使用者：使用者屬性不會從SSO進行對應](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [方案：當使用者對方案的存取權更新時，將失去對方案的所有存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md)
-      + [檔案：從整合連結檔案時，使用UNK副檔名](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [請求：無法存取請求頁面上的儀表板(「……/submitted」 URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [整合：使用SSO時使用者收到錯誤請求錯誤](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [使用者：來自 SSO 的使用者屬性未對應](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [方案：當更新使用者方案存取權時，所有方案存取權都會遺失](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [文件：從整合連結文件時出現 UNK 副檔名](known-issues-workfront/wf-documents-unk-file-extension.md)
+      + [請求：無法存取請求頁面上的儀表板 (「../submitted」URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [整合：使用者在使用 SSO 時收到錯誤請求的錯誤](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：複製和貼上提及的人不會通知提及的使用者](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [專案：使用範本從問題建立的專案不會反映範本中設定的優先順序](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：進階篩選器未傳回預期的卡片](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
