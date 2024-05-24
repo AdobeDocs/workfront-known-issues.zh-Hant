@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 99%
+source-wordcount: '841'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024年5月24日 |
 | [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
