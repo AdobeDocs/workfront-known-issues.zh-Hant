@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
 source-wordcount: '3678'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -48,9 +48,9 @@ Chrome瀏覽器已報告過此問題。
 
 +++
 
-+++**2024年5月16日維護更新**
++++**於 2024 年 5 月 16 日維護更新**
 
-### 2024年5月16日維護更新
+### 於 2024 年 5 月 16 日維護更新
 
 #### 設定
 

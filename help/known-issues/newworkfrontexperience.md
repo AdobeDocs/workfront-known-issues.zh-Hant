@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [方案：當更新使用者方案存取權時，所有方案存取權都會遺失](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024 年 5 月 20 日 |
+| [方案：當更新使用者對方案的存取權時，會失去所有方案存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024 年 5 月 20 日 |
 | [整合：使用者在使用 SSO 時收到錯誤請求的錯誤](known-issues-workfront/wf-outlook-wrong-request.md) | 2024 年 5 月 14 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [任務：建立或複製任務會導致任務清單以錯誤順序顯示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
