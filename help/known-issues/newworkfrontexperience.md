@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '845'
 ht-degree: 98%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月24日 |
 | [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024年5月24日 |
 | [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
@@ -48,7 +49,6 @@ ht-degree: 98%
 | [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
 | [[!DNL Workfront Goals]：無法刪除目標](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
-| [要求：填寫要求時計算的欄位不會更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
