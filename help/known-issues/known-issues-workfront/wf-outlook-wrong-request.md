@@ -1,18 +1,18 @@
 ---
-title: 「整合：使用SSO時使用者收到錯誤請求錯誤」
-description: 當使用者嘗試在啟用SSO的情況下登入適用於Outlook的Workfront外掛程式，會顯示錯誤的請求頁面，且使用者無法登入。
+title: 「整合：使用者在使用 SSO 時收到錯誤請求的錯誤」
+description: 當使用者嘗試在啟用 SSO 的情況下登入適用於 Outlook 的 Workfront 外掛程式時，會顯示錯誤請求頁面，且使用者無法登入。
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 2c2d01432d707a470a69aea42b3949a2bf27af9b
-workflow-type: tm+mt
+exl-id: 89e082c3-1e7a-49bb-9b08-66d21e53075a
+source-git-commit: a3a26086c21cabf5cc6bae5bb42b4a97b78618ad
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 整合：使用者在使用 SSO 時收到錯誤請求的錯誤
 
-# 整合：使用SSO時使用者收到錯誤請求錯誤
+當使用者嘗試在啟用 SSO 的情況下登入適用於 Outlook 的 Workfront 外掛程式時，會顯示「錯誤請求」頁面，且使用者無法登入。
 
-當使用者嘗試在啟用SSO的情況下登入適用於Outlook的Workfront外掛程式，會顯示「錯誤請求」頁面，且使用者無法登入。
-
-_首次回報於2024年5月14日。_
+_於 2024 年 5 月 14 日首次通報。_

@@ -1,18 +1,18 @@
 ---
-title: 「檔案：下載或預覽資產時出現錯誤畫面」
-description: 「當使用者嘗試在Workfront中下載或預覽資產時，他們被導向到錯誤畫面。」
+title: 「文件：下載或預覽資產時出現錯誤畫面」
+description: 當使用者嘗試在 Workfront 中下載或預覽資產時，他們會被導向到錯誤畫面。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: tm+mt
+exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
+source-git-commit: 493f1125e9f0d459f15332d26a78dfe2193d7c5b
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 文件：下載或預覽資產時出現錯誤畫面
 
-# 檔案：下載或預覽資產時發生錯誤
+當使用者嘗試在 Workfront 中下載或預覽資產時，他們會被導向到錯誤畫面。
 
-當使用者嘗試在Workfront中下載或預覽資產時，他們被導向到錯誤畫面。
-
-_首次回報於2024年2月2日。_
+_於 2024 年 2 月 2 日首次通報。_

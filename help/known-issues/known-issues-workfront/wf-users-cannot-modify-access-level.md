@@ -4,7 +4,7 @@ description: 「當群組管理員嘗試修改群組使用者的存取層級時�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
