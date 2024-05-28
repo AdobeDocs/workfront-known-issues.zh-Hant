@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '1945'
-ht-degree: 98%
+source-wordcount: '1952'
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [使用者：進行大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [更新：已標籤的使用者看不到誰標籤他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
-      + [首頁：計畫時數以分鐘為單位顯示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
+      + [更新：被標記的使用者看不到誰標記了他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [首頁：規劃時數以分鐘為單位顯示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [使用者：使用者屬性未從 SSO 對應](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [方案：當更新使用者對方案的存取權時，會失去所有方案存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md)
