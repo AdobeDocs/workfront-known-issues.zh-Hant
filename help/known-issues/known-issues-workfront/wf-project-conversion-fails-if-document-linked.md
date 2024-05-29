@@ -4,18 +4,22 @@ description: 當問題具有文件，並且使用者嘗試將該問題轉換為�
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
-source-wordcount: '125'
+source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # 專案：如果附加文件，則無法將問題轉換為專案
 
+<!--
+
 >[!NOTE]
 >
->此問題已在 2024 年 5 月 23 日解決。
+>This issue was fixed on May 23, 2024.
+
+-->
 
 當問題具有文件，並且使用者嘗試將該問題轉換為專案時，轉換會失敗並且不會建立專案。使用者會看到以下錯誤：
 
