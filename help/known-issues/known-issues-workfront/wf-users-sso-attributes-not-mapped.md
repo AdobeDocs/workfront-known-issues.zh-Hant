@@ -4,9 +4,9 @@ description: 「即使在「設定」中已正確設定 SSO 的屬性，但 SSO 
 hidefromtoc: true
 feature: People Teams and Groups, System Setup and Administration
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年5月23日修正。
+>此問題已在 2024 年 5 月 23 日解決。
 
 即使在「設定」中已正確設定 SSO 的屬性，但 SSO 的屬性並未顯示在 Workfront 中。
 

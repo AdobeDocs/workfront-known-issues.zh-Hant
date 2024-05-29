@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
 source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題因為無法重現已遭關閉。
+>此問題因為無法重現已關閉。
 
 如果身為校訂版主的使用者嘗試編輯工作流程的使用者權限，則選取或取消選取權限的功能將遭到停用。
 
