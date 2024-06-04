@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [任務：將使用者指派給任務時，工作角色未從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
-      + [使用者：進行大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
+      + [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：被標記的使用者看不到誰標記了他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)

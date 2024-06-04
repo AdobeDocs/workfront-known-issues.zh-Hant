@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 95%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [專案：如果檔案已附加，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日 |
-| [使用者：進行大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日 |
-| [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月24日 |
+| [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
+| [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 24 日 |
 | [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
