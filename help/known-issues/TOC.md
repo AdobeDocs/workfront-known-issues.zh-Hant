@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '1966'
-ht-degree: 99%
+source-wordcount: '1987'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [報告：報告的公開連結無法運作](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [[!UICONTROL 資源規劃工具]：無法共用篩選器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+      + [實際完成日期顯示為N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [任務：將使用者指派給任務時，工作角色未從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)

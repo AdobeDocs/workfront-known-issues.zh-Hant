@@ -3,9 +3,9 @@ title: 「更新：被標記的使用者看不到誰標記了他們」
 description: 「當使用者在更新中被標記時，他們看不到誰標記了他們。當「其他公司的人員只應檢視以下使用者：」設定為「他們的公司」時，就會發生這種情況。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
-source-wordcount: '105'
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # 更新：被標記的使用者看不到誰標記了他們
 
+<!--
+
 >[!NOTE]
 >
->此問題已在 2024 年 5 月 23 日解決。
+>This issue was fixed on May 23, 2024.
+
+-->
 
 當使用者在更新中被標記時，他們看不到誰標記了他們。當「其他公司的人員只應檢視以下使用者：」設定為「他們的公司」時，就會發生這種情況。
 

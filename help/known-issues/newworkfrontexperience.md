@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
+source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 96%
+source-wordcount: '865'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [報告：報告的公開連結無法運作](known-issues-workfront/wf-reports-public-link-not-working.md) | 2024年6月4日 |
 | [任務：將使用者指派給任務時，工作角色未從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年5月29日 |
 | [方案：當更新使用者對方案的存取權時，會失去所有方案存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024 年 5 月 20 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
@@ -40,9 +41,11 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL 資源規劃工具]：無法共用篩選器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 2024年6月4日 |
+| [實際完成日期顯示為N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | 2024年6月4日 |
+| [更新：已標籤的使用者看不到誰標籤他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024年6月4日 |
 | [專案：如果檔案已附加，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
-| [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 24 日 |
 | [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
