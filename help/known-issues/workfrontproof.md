@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
-source-wordcount: '385'
-ht-degree: 100%
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+workflow-type: tm+mt
+source-wordcount: '402'
+ht-degree: 95%
 
 ---
 
@@ -35,6 +35,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [檔案：使用檔案的公開連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
+| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 4 月 12 日 |

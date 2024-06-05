@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 93%
+source-wordcount: '880'
+ht-degree: 91%
 
 ---
 
@@ -41,9 +41,11 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [檔案：使用檔案的公開連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
+| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
+| [專案：共用功能表未載入](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | 2024年6月5日 |
 | [[!UICONTROL 資源規劃工具]：無法共用篩選器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 2024年6月4日 |
 | [實際完成日期顯示為N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | 2024年6月4日 |
-| [更新：已標籤的使用者看不到誰標籤他們](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024年6月4日 |
 | [專案：如果檔案已附加，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
