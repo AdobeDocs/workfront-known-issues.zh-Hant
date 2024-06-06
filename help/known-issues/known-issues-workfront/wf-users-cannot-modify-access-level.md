@@ -3,23 +3,19 @@ title: 「使用者：無法修改使用者的存取層級」
 description: 「當群組管理員嘗試修改群組使用者的存取層級時，存取層級欄位停用，群組管理員無法變更使用者的存取層級。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 94%
 
 ---
 
 
 # 使用者：無法修改使用者的存取層級
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 9, 2024.
-
--->
+>此問題已在2024年6月6日修正。
 
 當群組管理員嘗試修改群組使用者的存取層級時，存取層級欄位停用，群組管理員無法變更使用者的存取層級。
 

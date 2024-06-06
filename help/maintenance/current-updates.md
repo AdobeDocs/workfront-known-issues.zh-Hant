@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 99%
+source-wordcount: '3824'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,13 @@ ht-degree: 99%
 
 +++ **2024年6月6日維護更新**
 
-此更新僅包含次要或較不顯著的錯誤修正。 [!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
+### 2024年6月6日維護更新
+
+#### 自訂表單
+
+**表單設計工具中原生欄位的限制**
+
+在表單設計工具中建立的自訂表單現在支援多個原生欄位。 先前限制是每個表單一個原生欄位。
 
 +++
 
