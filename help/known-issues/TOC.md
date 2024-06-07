@@ -23,7 +23,7 @@ ht-degree: 97%
       + [報告：報告的公開連結無法運作](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL 資源規劃工具]：無法共用篩選器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [實際完成日期顯示為N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [任務：將使用者指派給任務時，工作角色未從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [任務：將使用者指派至任務時，工作角色不會從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [群組：無法新增子群組](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
