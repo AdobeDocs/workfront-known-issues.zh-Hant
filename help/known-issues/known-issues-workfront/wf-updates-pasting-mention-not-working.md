@@ -4,9 +4,9 @@ description: 「當使用者複製含有 @ 格式提及的評論，然後將該�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年5月30日修正。
+>此問題已在 2024 年 5 月 30 日解決。
 
 當使用者複製含有 @ 格式提及的評論，然後將該評論貼到另一個對象的更新區域時，所提到的使用者不會收到有關所貼評論的通知。
 

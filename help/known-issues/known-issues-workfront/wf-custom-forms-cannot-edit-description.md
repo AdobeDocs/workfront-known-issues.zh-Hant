@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年5月30日修正。
+>此問題已在 2024 年 5 月 30 日解決。
 
 當使用者嘗試編輯自訂表單上的描述性文字時，該文字不會儲存，且使用者會看到以下錯誤：
 
