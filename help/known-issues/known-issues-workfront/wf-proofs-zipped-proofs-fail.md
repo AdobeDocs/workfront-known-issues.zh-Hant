@@ -1,19 +1,23 @@
 ---
-title: 「校訂：無法產生壓縮校訂」
-description: 「當使用者嘗試建立壓縮校訂，且校訂中有兩個或多個檔案具有相同名稱時，將無法產生校訂。」
+title: 「校訂：壓縮校訂無法產生」
+description: 當使用者嘗試建立壓縮校訂，且校訂中有兩個或多個檔案具有相同名稱時，將無法產生校訂。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 94%
 
 ---
-
 
 # 校訂：無法產生壓縮校訂
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>產品團隊目前正在評估此問題的解決方案。解決此問題後，將在產品公告中進行溝通，而不是在維護更新中進行溝通。
 
 當使用者嘗試建立壓縮校訂，且校訂中有兩個或多個檔案具有相同名稱時，將無法產生校訂。
 
