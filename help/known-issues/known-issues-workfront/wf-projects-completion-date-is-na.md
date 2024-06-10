@@ -1,17 +1,21 @@
 ---
-title: 「實際完成日期顯示為N/A」
-description: 「專案完成時，實際完成日期顯示為N/A，而非專案完成日期。」
+title: 實際完成日期顯示為N/A
+description: 專案完成時，實際完成日期顯示為N/A，而非專案完成日期。
 hidefromtoc: true
 feature: Projects
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: cd9ce9c4-cdba-4805-86a3-2fc616db75cc
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
 
-
 # 實際完成日期顯示為N/A
+
+>[!NOTE]
+>
+>此問題已關閉，因為這不是問題。
 
 專案完成時，實際完成日期顯示為N/A，而非專案完成日期。
 
