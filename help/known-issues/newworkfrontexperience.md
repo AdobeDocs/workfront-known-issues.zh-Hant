@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '794'
 ht-degree: 92%
 
 ---
@@ -43,7 +43,6 @@ ht-degree: 92%
 | [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
 | [專案：如果檔案已附加，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
-| [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

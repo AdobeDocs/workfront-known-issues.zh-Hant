@@ -4,14 +4,18 @@ description: 當使用者嘗試在 Workfront 中下載或預覽資產時，他�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
-source-git-commit: 493f1125e9f0d459f15332d26a78dfe2193d7c5b
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 # 文件：下載或預覽資產時出現錯誤畫面
+
+>[!NOTE]
+>
+>此問題已在2024年6月13日修正。
 
 當使用者嘗試在 Workfront 中下載或預覽資產時，他們會被導向到錯誤畫面。
 
