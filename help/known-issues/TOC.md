@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 4d5f810258b537324feb23e53f370a2c55877a0b
+source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
 workflow-type: tm+mt
-source-wordcount: '1610'
-ht-degree: 98%
+source-wordcount: '1627'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [資源規劃： [!UICONTROL 更多] 按鈕不可見](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
