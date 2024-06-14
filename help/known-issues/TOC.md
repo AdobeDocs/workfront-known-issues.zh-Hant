@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '2029'
-ht-degree: 96%
+source-wordcount: '2036'
+ht-degree: 98%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [資源規劃： [!UICONTROL 更多] 按鈕不可見](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [首頁：無法移除提及小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [導覽：「上一頁」按鈕未返回上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [檔案：使用檔案的公開連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [專案：共用功能表未載入](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [報告：報告的公開連結無法運作](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [文件：使用至文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [校樣：無法關閉校樣檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [專案：共用選單未載入](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
+      + [報告：前往報告的公共連結無法運作](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL 資源規劃工具]：無法共用篩選器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
-      + [實際完成日期顯示為N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
+      + [實際完成日期顯示為 N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [任務：將使用者指派至任務時，工作角色不會從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自訂表單：編輯描述性文字欄位時發生錯誤](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)

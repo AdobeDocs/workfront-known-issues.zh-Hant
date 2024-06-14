@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 92%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [資源規劃： [!UICONTROL 更多] 按鈕不可見](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日 |
 | [導覽：「上一頁」按鈕未返回上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
@@ -36,12 +37,11 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | 2024年6月13日 |
 | [方案：當更新使用者對方案的存取權時，會失去所有方案存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年6月7日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日 |
-| [檔案：使用檔案的公開連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
-| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
-| [專案：如果檔案已附加，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
+| [文件：使用至文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
+| [校樣：無法關閉校樣檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 6 月 5 日 |
+| [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
