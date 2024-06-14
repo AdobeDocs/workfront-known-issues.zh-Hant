@@ -4,9 +4,9 @@ description: 「當使用者在更新中被標記時，他們看不到誰標記�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年6月5日修正。
+>此問題已在 2024 年 6 月 5 日修正。
 
 當使用者在更新中被標記時，他們看不到誰標記了他們。當「其他公司的人員只應檢視以下使用者：」設定為「他們的公司」時，就會發生這種情況。
 
