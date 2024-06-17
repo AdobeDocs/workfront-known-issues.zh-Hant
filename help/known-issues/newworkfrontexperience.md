@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
+source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '823'
 ht-degree: 93%
 
 ---
@@ -39,6 +39,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日 |
 | [方案：當更新使用者對方案的存取權時，會失去所有方案存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年6月7日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日 |
 | [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
