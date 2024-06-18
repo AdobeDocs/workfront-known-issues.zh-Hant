@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
 | [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日 |
 | [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日 |
 | [資源規劃： [!UICONTROL 更多] 按鈕不可見](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日 |
