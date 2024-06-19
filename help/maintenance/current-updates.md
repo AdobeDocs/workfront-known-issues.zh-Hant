@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 99%
+source-wordcount: '3963'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,27 @@ ht-degree: 99%
 有關 2024 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2024 年 6 月更新
+
++++**（預計） 2024年6月20日維護更新**
+
+### （預計） 2024年6月20日維護更新
+
+#### 巡覽
+
+**返回按鈕未返回上一頁**
+
+當使用者在Workfront按一下他們的瀏覽器的返回按鈕，可能會出現以下情況之一。
+
+* 瀏覽器標簽名稱會變更，但頁面不會變更。 再按一下返回按鈕即可解決問題。
+* 系統會將使用者帶至其瀏覽器登陸頁面。
+
+#### 校訂
+
+**無法關閉校樣檢視器**
+
+當使用者在校訂檢視器中查看校訂，並嘗試按一下右上角 X 關閉校訂時，校訂不會關閉。
+
++++
 
 +++**2024年6月13日維護更新**
 
