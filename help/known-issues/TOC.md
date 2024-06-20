@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
 workflow-type: tm+mt
-source-wordcount: '1652'
-ht-degree: 97%
+source-wordcount: '1663'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [核准：太多重新導向](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
