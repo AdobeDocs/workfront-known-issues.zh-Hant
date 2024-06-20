@@ -1,13 +1,13 @@
 ---
-title: 「首頁：專案中狀態為「已核准」或「計畫」的任務未包含在「我的任務」或「首頁工作清單」中」
-description: 專案中狀態為「已核准」或「計畫」的任務不會顯示在「首頁」中。 此問題有解決方法。
+title: 「首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」中」
+description: 「已核准」或「規劃中」狀態的專案，其中任務未包含在「首頁」。此問題有解決方法。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

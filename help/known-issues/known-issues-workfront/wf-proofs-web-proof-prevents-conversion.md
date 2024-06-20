@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 
 當使用者嘗試將包含 Web 生成校訂的任務或問題轉換為專案時，系統不會建立該專案，並且使用者會看到以下訊息：
 
-&quot;[!UICONTROL 複製檔案時發生問題] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL 請移除該檔案或聯絡支援人員並重試。]」
+「[!UICONTROL 複製檔案 \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\ 時出現問題]。[!UICONTROL 請移除該檔案或聯絡支援人員並重試。]」
 
 **解決方法**
 

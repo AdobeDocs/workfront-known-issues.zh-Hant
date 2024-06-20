@@ -1,13 +1,13 @@
 ---
-title: 「校訂：壓縮校訂無法產生」
+title: 「校訂：無法產生壓縮校訂」
 description: 當使用者嘗試建立壓縮校訂，且校訂中有兩個或多個檔案具有相同名稱時，將無法產生校訂。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
