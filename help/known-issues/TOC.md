@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '1648'
-ht-degree: 95%
+source-wordcount: '1652'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [核准：太多重新導向](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [資源規劃： [!UICONTROL 更多] 按鈕不可見](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [資源規劃：「[!UICONTROL 更多]」按鈕未顯示](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [首頁：無法移除提及小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [導覽：「上一頁」按鈕未返回上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [導覽：「後退」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [專案：共用選單未載入](known-issues-workfront/wf-projects-cannot-share-task-issue.md)

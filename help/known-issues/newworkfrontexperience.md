@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 91%
+source-wordcount: '819'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [核准：太多重新導向](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | 2024年6月20日 |
 | [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
-| [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日 |
-| [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日 |
-| [資源規劃： [!UICONTROL 更多] 按鈕不可見](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日 |
-| [導覽：「上一頁」按鈕未返回上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日 |
+| [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
+| [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
+| [資源規劃：「[!UICONTROL 更多]」按鈕未顯示](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024 年 6 月 14 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
 {style="table-layout:auto"}
@@ -42,10 +42,8 @@ ht-degree: 91%
 |----------------------------------| ----------------- |
 | [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024年6月19日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日 |
-| [方案：當更新使用者對方案的存取權時，會失去所有方案存取權](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年6月7日 |
-| [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日 |
+| [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
-| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 6 月 5 日 |
 | [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
@@ -60,11 +58,11 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [首頁：無法移除提及小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日 |
-| [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年6月7日 |
-| [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年6月7日 |
-| [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024年6月7日 |
-| [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年6月7日 |
+| [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
+| [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 6 月 7 日 |
+| [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 6 月 7 日 |
+| [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024 年 6 月 7 日 |
+| [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 6 月 7 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 20 日 |
 | [時程表：釘選的時程表會轉到空白頁](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日 |
 | [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024 年 4 月 1 日 |
