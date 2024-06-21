@@ -4,14 +4,18 @@ description: 當使用者按一下前往 Workfront 文件的公共連結時，�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # 文件：使用前往文件的公共連結時發生錯誤
+
+>[!NOTE]
+>
+>這個問題已解決。
 
 當使用者按一下前往 Workfront 文件的公共連結時，他們可能會看到以下一項錯誤：
 
