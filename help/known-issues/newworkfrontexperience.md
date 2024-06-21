@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 94%
+source-wordcount: '850'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [核准：太多重新導向](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | 2024年6月20日 |
+| [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日 |
 | [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
 | [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
@@ -40,6 +40,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md) | 2024年6月21日 |
 | [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024年6月19日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
@@ -58,6 +59,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日 |
 | [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 6 月 7 日 |
 | [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 6 月 7 日 |

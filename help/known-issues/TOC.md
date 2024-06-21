@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1663'
-ht-degree: 96%
+source-wordcount: '1685'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md)
       + [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [核准：太多重新導向](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
