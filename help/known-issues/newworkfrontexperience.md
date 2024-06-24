@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 88%
+source-wordcount: '859'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：關閉校訂導向產品檔案頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日 |
 | [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
 | [校訂：按一下校訂名稱會導向到空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日 |
 | [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日 |

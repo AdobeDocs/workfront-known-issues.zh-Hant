@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '1702'
+source-wordcount: '1711'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校訂：關閉校訂導向產品檔案頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [校訂：按一下校訂名稱會導向到空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md)
