@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 89%
+source-wordcount: '858'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
 | [校訂：按一下校訂名稱會導向到空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日 |
 | [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日 |
 | [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
