@@ -4,16 +4,20 @@ description: 傳統 Workfront 體驗中的版面範本在 Workfront 介面中不
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
-source-wordcount: '193'
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # 版面範本：版面範本導致報告不一致
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>這個問題已解決。
 
 傳統 [!DNL Workfront] 體驗中的版面範本在 [!DNL Workfront] 介面中不再可用，但仍可能影響 [!DNL Workfront] 資料。這可能會導致報告或儀表板上受版面範本 (例如[!UICONTROL 共用對象]) 影響的欄位出現不一致。
 

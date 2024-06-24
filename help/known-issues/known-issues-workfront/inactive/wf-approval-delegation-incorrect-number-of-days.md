@@ -4,14 +4,16 @@ description: 當使用者安排個人休假並委派他們對該時間的核准�
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
-workflow-type: ht
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 # 核准：核准委派設定的天數不正確
+
+<!--Live for workaround-->
 
 >[!NOTE]
 >
