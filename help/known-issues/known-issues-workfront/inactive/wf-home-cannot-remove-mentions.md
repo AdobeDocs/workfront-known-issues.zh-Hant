@@ -1,17 +1,19 @@
 ---
-title: 「首頁：無法移除「提及」小工具」
-description: 「如果使用者想在新首頁中移除「提及」小工具，卻無法移除它。」
+title: 「首頁：無法移除提及小元件」
+description: 如果使用者想在新首頁中移除「提及」小工具，卻無法移除它。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
-workflow-type: ht
+exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-
 # 首頁：無法移除「提及」小工具
+
+<!--valid issue; won't fix-->
 
 如果使用者想在新首頁中移除「提及」小工具，卻無法移除它。
 
