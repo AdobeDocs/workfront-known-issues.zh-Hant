@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
 source-wordcount: '859'
-ht-degree: 87%
+ht-degree: 92%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 87%
 | [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
 | [校訂：按一下校訂名稱會導向到空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日 |
 | [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日 |
-| [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
-| [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
-| [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
+| [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024 年 6 月 18 日 |
+| [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
+| [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
 | [資源規劃：「[!UICONTROL 更多]」按鈕未顯示](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024 年 6 月 14 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
@@ -44,8 +44,8 @@ ht-degree: 87%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md) | 2024年6月21日 |
-| [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024年6月19日 |
-| [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日 |
+| [更新：複製的連結無法正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024 年 6 月 19 日 |
+| [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 6 月 17 日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
@@ -61,7 +61,7 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日 |
+| [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024 年 6 月 20 日 |
 | [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 6 月 7 日 |
 | [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 6 月 7 日 |

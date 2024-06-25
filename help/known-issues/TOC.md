@@ -5,7 +5,7 @@ role: User
 source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
 source-wordcount: '1711'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -23,16 +23,16 @@ ht-degree: 94%
       + [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md)
       + [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md)
       + [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
-      + [核准：太多重新導向](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
-      + [更新：複製的連結未正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [報表：群組名稱具有正斜線或反斜線時「沒有資料可顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [整合：Dropbox整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
-      + [報告：檢視按自訂日期分組的報告詳細資料時發生錯誤](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
-      + [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [核准：重新導向次數過多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
+      + [更新：複製的連結無法正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
+      + [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
+      + [首頁：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [資源規劃：「[!UICONTROL 更多]」按鈕未顯示](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [導覽：「後退」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [專案：共用選單未載入](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
@@ -110,21 +110,21 @@ ht-degree: 94%
       + [更新：要求者使用者無法將影像新增至更新中](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [內容更新：大格行間距](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校訂：從連結文件建立的校訂並未套用校訂範本](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
-      + [報表：在文字模式中所做的變更不會套用至報表或視圖](known-issues-workfront/wf-reports-text-mode-not-saving.md)
-      + [展示板：清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [報告：在文字模式中所做的變更不會套用至報告或檢視](known-issues-workfront/wf-reports-text-mode-not-saving.md)
+      + [展示板：檢查清單總數不準確](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：卡片未排序](known-issues-workfront/wf-boards-not-sorting.md)
       + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [整合：從  [!DNL Outlook] 建立要求時不會附加文件](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [展示板：將任務新增至展示板時出現 400 錯誤](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [新[!UICONTROL 首頁]：Widget 篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [團隊：設定團隊時「[!UICONTROL 完成]」按鈕狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md)
       + [設定：在設定中某些問題類型缺少預設問題狀態](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [展示板：狀態變更時卡片未移動到適當的欄](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [展示板：移至某個欄的卡片在重新整理後回到原始欄中](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
-      + [文件：無法存取  [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
+      + [文件：無法存取 [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
