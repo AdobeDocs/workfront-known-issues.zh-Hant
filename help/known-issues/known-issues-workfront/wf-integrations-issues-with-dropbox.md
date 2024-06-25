@@ -1,23 +1,23 @@
 ---
-title: 「整合：Dropbox整合問題」
-description: 「已報告有關Dropbox整合的問題。」
+title: 「整合：Dropbox 整合問題」
+description: 有關 Dropbox 整合的問題已回報。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 整合：Dropbox 整合問題
 
-# 整合：Dropbox整合問題
+以下是已回報的有關 Dropbox 整合的問題：
 
-已報告有關Dropbox整合的以下問題：
+* 當使用者嘗試在 Dropbox 檔案選擇器中搜尋檔案時，他們會看到授權錯誤訊息，而且檔案選擇器不會從 Dropbox 擷取檔案。
+* 當使用者嘗試開啟已連結的資料夾時，使用者會看到一則錯誤，指出檔案或資料夾已不存在於 Dropbox 中。
 
-* 當使用者嘗試在Dropbox檔案選擇器中搜尋檔案時，他們會看到授權錯誤訊息，並且檔案選擇器未從Dropbox中擷取檔案。
-* 當使用者嘗試開啟連結的資料夾時，使用者會看到一個錯誤，指出檔案或資料夾在Dropbox中已不存在。
+這些問題是因 Dropbox 的問題所造成，而非 Workfront 的問題。
 
-這些問題是由於Dropbox的問題，而不是Workfront的問題。
-
-_首次回報於2024年4月12日。_
+_於 2024 年 4 月 12 日首次回報。_

@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Work Management
 exl-id: 0d02b200-5447-4cee-8e36-4171af00c101
 source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 當使用者嘗試更新使用者方案存取權時，所有其他群組、團隊、角色和使用者會失去該方案的存取權。這包括從專案組合繼承的權限。
 
-_於 2024 年 5 月 7 日首次通報。_
+_於 2024 年 5 月 7 日首次回報。_

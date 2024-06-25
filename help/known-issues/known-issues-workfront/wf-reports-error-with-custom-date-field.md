@@ -1,21 +1,21 @@
 ---
-title: 「報告：檢視依自訂日期分組的報告詳細資料時發生錯誤」
-description: 「當使用者檢視報告，並按一下詳細資訊，報告按自訂日期欄位分組，詳細資訊未載入，使用者看到錯誤。」
+title: 「報告：檢視依自訂日期分組的報告詳細資料時出錯」
+description: 當使用者在檢視報告並按一下進入詳細資料時，若報告是依自訂日期欄位分組，則不會載入詳細資料，並且使用者會看到錯誤。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
+# 報告：檢視依自訂日期分組的報告詳細資料時出錯
 
-# 報告：檢視按自訂日期分組的報告詳細資料時發生錯誤
-
-當使用者在檢視報告並按一下詳細資訊，報告按自訂日期欄位分組，詳細資訊未載入，使用者看到以下錯誤：
+當使用者在檢視報告並按一下進入詳細資料時，若報告是依自訂日期欄位分組，則不會載入詳細資料，並且使用者會看到以下錯誤：
 
 「[!UICONTROL 糟糕！發生錯誤。請聯絡 Workfront，以便我們找出問題並加以修正。]」
 
 
-_首次回報於2024年6月14日。_
+_於 2024 年 6 月 14 日首次回報。_
