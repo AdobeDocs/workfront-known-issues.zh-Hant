@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '4072'
+source-wordcount: '4124'
 ht-degree: 98%
 
 ---
@@ -39,6 +39,14 @@ ht-degree: 98%
 如果使用者按一下滑鼠右鍵並選取「[!UICONTROL 複製連結位址]」來從更新中複製連結，然後將該連結貼到更新中，則該連結無法正確貼上。只有連結的第一個部分是連結，URL 的其餘部分將被忽略。
 
 使用「[!UICONTROL 複製連結位址]」以外的方法複製連結，可以使連結如預期貼上。
+
+#### 使用者
+
+**進行大量指派時遺失使用者**
+
+當使用者嘗試進行大量指派，並且為該任務指派工作角色時，具有該工作角色的使用者不會出現在清單中，並且進行指派的使用者無法進行選取。
+
+工作負載平衡器中也回報了此行為。
 
 +++
 
