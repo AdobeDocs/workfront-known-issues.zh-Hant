@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '834'
 ht-degree: 92%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 92%
 | [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024 年 6 月 18 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
-| [資源規劃：「[!UICONTROL 更多]」按鈕未顯示](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024 年 6 月 14 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
 {style="table-layout:auto"}
@@ -44,7 +43,6 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 6 月 17 日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |

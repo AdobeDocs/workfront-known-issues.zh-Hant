@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '430'
 ht-degree: 92%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
 | [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 6 月 5 日 |
-| [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
