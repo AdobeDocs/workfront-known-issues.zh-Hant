@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 92%
+source-wordcount: '854'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日 |
+| [任務：在任務指派中搜尋名字未傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日 |
 | [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
 | [校訂：關閉校訂導向產品檔案頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日 |
 | [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |

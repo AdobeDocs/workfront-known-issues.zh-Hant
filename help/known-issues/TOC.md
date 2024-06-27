@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 95%
+source-wordcount: '1739'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [任務：在任務指派中搜尋名字未傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [校訂：關閉校訂導向產品檔案頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
