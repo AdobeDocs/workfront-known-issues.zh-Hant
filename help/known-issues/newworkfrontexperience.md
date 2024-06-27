@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '870'
-ht-degree: 91%
+source-wordcount: '851'
+ht-degree: 92%
 
 ---
 
@@ -44,8 +44,6 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md) | 2024年6月21日 |
-| [更新：複製的連結無法正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024 年 6 月 19 日 |
 | [文件：下載或預覽資產時出現錯誤畫面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 6 月 17 日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
