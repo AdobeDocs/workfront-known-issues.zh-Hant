@@ -4,14 +4,18 @@ description: 當使用者在網頁型校訂檢視器中點選校訂名稱以開�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ddbb7596-6f9b-4c13-a853-a85367999c76
-source-git-commit: 37fe52056077b5864741300336232cf078de2c2e
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 92%
 
 ---
 
 # 校訂：點選校訂名稱後前往空白畫面
+
+>[!NOTE]
+>
+>此問題已在2024年6月27日修正。
 
 當使用者在網頁型校訂檢視器中點選校訂名稱以開啟校訂時，系統前往空白畫面而不是校訂。
 

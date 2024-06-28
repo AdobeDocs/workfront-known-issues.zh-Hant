@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '862'
+ht-degree: 95%
 
 ---
 
@@ -25,12 +25,13 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [檔案：檔案計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日 |
+| [導覽：「後退」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日 |
 | [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日 |
 | [任務：在任務指派中搜尋名字未傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日 |
 | [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
 | [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
 | [整合：無法從這個位置新增文件的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024 年 6 月 24 日 |
-| [校訂：點選校訂名稱後前往空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024 年 6 月 21 日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 6 月 21 日 |
 | [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024 年 6 月 18 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
