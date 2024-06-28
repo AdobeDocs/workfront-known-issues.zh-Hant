@@ -5,7 +5,7 @@ role: User
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
 source-wordcount: '1739'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 94%
       + [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [任務：在任務指派中搜尋名字未傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
-      + [校訂：關閉校訂導向產品檔案頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [整合：無法從新增檔案的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
-      + [校訂：按一下校訂名稱會導向到空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [報告：預設貨幣為美元時不載入報告](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [展示板：使用時，展示板未顯示為使用者 [!UICONTROL 登入身份]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [首頁：我的問題Widget未顯示已關閉或完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
+      + [整合：無法從「 [!DNL Google Drive]」新增文件的新版本](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [校訂：點選校訂名稱後前往空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
+      + [報表：當預設貨幣為美元時，報表不會載入](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [展示板：以「[!UICONTROL 使用者身分登入]」時，展示板不會顯示為該使用者](known-issues-workfront/wf-boards-log-in-as.md)
+      + [首頁：「我的問題」小工具不會顯示已關閉或已完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [核准：重新導向次數過多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：複製的連結無法正確貼上](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
