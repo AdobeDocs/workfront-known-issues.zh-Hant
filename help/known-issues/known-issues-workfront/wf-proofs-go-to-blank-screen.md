@@ -1,18 +1,18 @@
 ---
-title: 「校訂：按一下校訂名稱導致空白畫面」
-description: 「當使用者在網路校訂檢視器按一下校訂名稱開啟校訂，系統將帶到一個空白畫面而不是校訂。」
+title: 「校訂：點選校訂名稱後前往空白畫面」
+description: 當使用者在網頁型校訂檢視器中點選校訂名稱以開啟校訂時，系統前往空白畫面而不是校訂。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
-workflow-type: tm+mt
+exl-id: ddbb7596-6f9b-4c13-a853-a85367999c76
+source-git-commit: 37fe52056077b5864741300336232cf078de2c2e
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 校訂：點選校訂名稱後前往空白畫面
 
-# 校訂：按一下校訂名稱會導向到空白畫面
+當使用者在網頁型校訂檢視器中點選校訂名稱以開啟校訂時，系統前往空白畫面而不是校訂。
 
-當使用者在網路校訂檢視器點選校訂名稱開啟校訂，將被帶到一個空白畫面而不是校訂。
-
-_首次回報於2024年6月20日。_
+_於 2024 年 6 月 20 日首次通報。_

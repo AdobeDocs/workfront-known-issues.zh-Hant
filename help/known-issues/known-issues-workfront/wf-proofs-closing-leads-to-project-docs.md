@@ -1,18 +1,18 @@
 ---
-title: 「校訂：關閉校訂導向產品檔案頁面」
-description: 「當使用者檢視校訂並關閉校訂時，會將使用者導向至專案檔案頁面，而不是開啟校訂的頁面。」
+title: 「校訂：關閉校訂後前往「產品文件」頁面」
+description: 「當使用者查看校訂並關閉校訂時，系統會將使用者導向至「專案文件」頁面，而不是開啟校對的頁面。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 校訂：關閉校訂導向產品檔案頁面
+# 校訂：關閉校訂後前往「產品文件」頁面
 
-當使用者檢視校訂並關閉校訂時，使用者被導向到專案檔案頁面而不是開啟校訂的頁面。
+當使用者查看校訂並關閉校訂時，系統會將使用者導向至「專案文件」頁面，而不是開啟校對的頁面。
 
-_首次回報於2024年6月13日。_
+_於 2024 年 6 月 13 日首次通報。_

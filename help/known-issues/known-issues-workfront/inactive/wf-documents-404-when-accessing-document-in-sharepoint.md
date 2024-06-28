@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 89%
 
 **因應措施**
 
-[!DNL SharePoint] 建議產生簡短URL，並將此URL用於連結。
+[!DNL SharePoint] 建議產生簡短 URL，並將其用於連結。
 
 _於 2023 年 3 月 14 日首次通報。_
