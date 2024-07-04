@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '436'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 96%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [檔案：檔案計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日 |
-| [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
+| [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
 | [整合：無法從這個位置新增文件的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024 年 6 月 24 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |

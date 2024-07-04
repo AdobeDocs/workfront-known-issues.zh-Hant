@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '872'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 94%
 | [付費記錄：新增更多付費記錄按鈕遺失](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024年6月28日 |
 | [檔案：檔案計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日 |
 | [導覽：「後退」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日 |
-| [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日 |
-| [任務：在任務指派中搜尋名字未傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日 |
-| [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
+| [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024 年 6 月 27 日 |
+| [任務：在進行任務指派時搜尋名字不會傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024 年 6 月 27 日 |
+| [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
 | [整合：無法從這個位置新增文件的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024 年 6 月 24 日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 6 月 21 日 |

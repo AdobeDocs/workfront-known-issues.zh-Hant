@@ -5,7 +5,7 @@ role: User
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '1753'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 97%
       + [付費記錄：新增更多付費記錄按鈕遺失](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [檔案：檔案計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
-      + [任務：在任務指派中搜尋名字未傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
-      + [整合：連結資料夾來源 [!DNL Google Drive] 不會連結資料夾中的資產](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
+      + [任務：在進行任務指派時搜尋名字不會傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
+      + [整合：連結  [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [整合：無法從「 [!DNL Google Drive]」新增文件的新版本](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [校訂：點選校訂名稱後前往空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
