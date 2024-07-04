@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年6月27日修正。
+>此問題已在 2024 年 6 月 27 日修正。
 
 當使用者嘗試查看預設貨幣為美元的報表時，報表不會載入。
 
-**因應措施**
+**解決方法**
 
 將預設貨幣變更為「[!UICONTROL 專案的預設貨幣]」。
 
