@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: ht
-source-wordcount: '872'
-ht-degree: 100%
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+workflow-type: tm+mt
+source-wordcount: '937'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [首頁：無法從開啟專案 [!UICONTROL 首頁行事曆] 或 [!UICONTROL 工作清單]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 2024年7月8日 |
+| [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日 |
+| [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日 |
 | [計費記錄：缺少新增更多計費記錄按鈕](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024 年 6 月 28 日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
@@ -47,6 +50,10 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [問題：對問題進行進階指派時發生錯誤](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日 |
+| [Portfolio：使用者無法設定投資組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日 |
+| [Workfront：未套用自訂術語](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日 |
+| [時間：在記錄時間時，篩選的時數型別不是預設值](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024年7月8日 |
 | [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |

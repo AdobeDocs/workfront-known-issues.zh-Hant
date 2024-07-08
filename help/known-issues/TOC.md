@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: ht
-source-wordcount: '1753'
-ht-degree: 100%
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+workflow-type: tm+mt
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：無法從開啟專案 [!UICONTROL 首頁行事曆] 或 [!UICONTROL 工作清單]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [問題：對問題進行進階指派時發生錯誤](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfolio：使用者無法設定投資組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront：未套用自訂術語](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [時間：在記錄時間時，篩選的時數型別不是預設值](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [計費記錄：缺少新增更多計費記錄按鈕](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
