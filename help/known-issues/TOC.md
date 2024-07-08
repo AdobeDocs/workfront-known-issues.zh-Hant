@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1753'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [付費記錄：新增更多付費記錄按鈕遺失](known-issues-workfront/wf-billing-records-new-button-missing.md)
-      + [檔案：檔案計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md)
+      + [計費記錄：缺少新增更多計費記錄按鈕](known-issues-workfront/wf-billing-records-new-button-missing.md)
+      + [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [任務：在進行任務指派時搜尋名字不會傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [整合：連結  [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)

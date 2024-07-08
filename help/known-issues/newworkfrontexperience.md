@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [付費記錄：新增更多付費記錄按鈕遺失](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024年6月28日 |
-| [檔案：檔案計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日 |
-| [導覽：「後退」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日 |
+| [計費記錄：缺少新增更多計費記錄按鈕](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024 年 6 月 28 日 |
+| [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
+| [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
 | [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024 年 6 月 27 日 |
 | [任務：在進行任務指派時搜尋名字不會傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024 年 6 月 27 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
