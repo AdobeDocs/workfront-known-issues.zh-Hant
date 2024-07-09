@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '1811'
+source-wordcount: '1816'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [Workfront Mobile：無法開啟校樣](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [首頁：無法從開啟專案 [!UICONTROL 首頁行事曆] 或 [!UICONTROL 工作清單]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)

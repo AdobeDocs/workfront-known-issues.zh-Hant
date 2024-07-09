@@ -4,14 +4,18 @@ description: 當使用者檢視報告中的圖表並按一下圖表上的分組�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
-source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 95%
 
 ---
 
 # 報告：當分組名稱具有 / 或 \ 時，「沒有資料可供顯示」
+
+>[!NOTE]
+>
+>此問題已在2024年7月4日關閉。
 
 當使用者檢視報告中的圖表並按一下圖表上的分組時，若該分組的名稱中具有 / 或 \，則開啟的詳細資料不會顯示分組中的項目，而且使用者會看到一則「沒有資料可供顯示」訊息。
 

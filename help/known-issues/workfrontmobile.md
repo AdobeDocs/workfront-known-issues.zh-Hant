@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront]  行動應用程式的已通報已知問�
 keywords: 新檔案，新增檔案
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 >
 >關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
-**[!DNL Workfront Mobile]** 目前沒有已知問題
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-<!--
+
 
 ## Current Issues
 
@@ -30,3 +30,11 @@ ht-degree: 100%
 |Issue text  | YYYY/MM/DD  | 
 
 -->
+
+## 新增
+
+這些最近報告的問題目前正在審查中。
+
+| **問題** | **上次修改** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile：無法開啟校樣](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日 |

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 96%
+source-wordcount: '460'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile：無法開啟校樣](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日 |
 | [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日 |
 | [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |

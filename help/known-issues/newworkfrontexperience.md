@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 93%
+source-wordcount: '913'
+ht-degree: 92%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 93%
 | [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
 | [整合：無法從這個位置新增文件的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024 年 6 月 24 日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 6 月 21 日 |
-| [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024 年 6 月 18 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
@@ -50,11 +49,11 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日 |
 | [問題：對問題進行進階指派時發生錯誤](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日 |
 | [Portfolio：使用者無法設定投資組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日 |
 | [Workfront：未套用自訂術語](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日 |
 | [時間：在記錄時間時，篩選的時數型別不是預設值](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024年7月8日 |
-| [任務：將使用者指派至任務時，工作角色沒有從清單中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [專案：如果附加文件，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [使用者：大量指派時遺失使用者](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
