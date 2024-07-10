@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 92%
+source-wordcount: '923'
+ht-degree: 91%
 
 ---
 
@@ -25,13 +25,13 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [敏捷：新增子任務時故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月10日 |
 | [首頁：無法從開啟專案 [!UICONTROL 首頁行事曆] 或 [!UICONTROL 工作清單]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 2024年7月8日 |
 | [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日 |
 | [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日 |
 | [計費記錄：缺少新增更多計費記錄按鈕](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024 年 6 月 28 日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
-| [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024 年 6 月 27 日 |
 | [任務：在進行任務指派時搜尋名字不會傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024 年 6 月 27 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
@@ -49,6 +49,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [使用者：使用者設定檔頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日 |
 | [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日 |
 | [問題：對問題進行進階指派時發生錯誤](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日 |
 | [Portfolio：使用者無法設定投資組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日 |

@@ -3,15 +3,19 @@ title: "專案：大量編輯專案時發生錯誤"
 description: "當使用者嘗試大量編輯專案時，編輯視窗為空白，並且使用者看到一則錯誤訊息。"
 hidefromtoc: true
 feature: Projects
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 94%
 
 ---
 
 
 # 專案：大量編輯專案時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年7月8日修正。
 
 當使用者嘗試大量編輯專案時，編輯視窗為空白，並且使用者看到下列錯誤訊息：
 
