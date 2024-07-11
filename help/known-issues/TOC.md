@@ -5,7 +5,7 @@ role: User
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
 source-wordcount: '1831'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 95%
       + [敏捷：新增子任務時故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [使用者：使用者設定檔頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile：無法開啟校樣](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [首頁：無法從開啟專案 [!UICONTROL 首頁行事曆] 或 [!UICONTROL 工作清單]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
-      + [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
-      + [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [首頁：無法從「[!UICONTROL 首頁行事曆]」或「[!UICONTROL 工作清單]」開啟項目](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [問題：對問題進行進階指派時發生錯誤](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio：使用者無法設定投資組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [專案組合：使用者無法設定專案組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront：未套用自訂術語](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
-      + [時間：在記錄時間時，篩選的時數型別不是預設值](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [時間：記錄時間時，篩選的時數類型不是預設值](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [計費記錄：缺少新增更多計費記錄按鈕](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [專案：大量編輯專案時發生錯誤](known-issues-workfront/wf-projects-error-when-bulk-editing.md)

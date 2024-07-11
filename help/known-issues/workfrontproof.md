@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 94%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Mobile：無法開啟校樣](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日 |
-| [通知：電子郵件通知中看不到縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日 |
-| [自訂表單：自訂表單不會從檔案中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日 |
+| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
+| [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
