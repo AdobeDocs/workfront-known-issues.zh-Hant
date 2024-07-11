@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '4346'
-ht-degree: 96%
+source-wordcount: '4344'
+ht-degree: 97%
 
 ---
 
@@ -22,17 +22,17 @@ ht-degree: 96%
 
 ## 2024 年 7 月更新
 
-+++**（預計） 2024年7月11日維護更新**
++++**2024年7月11日維護更新**
 
-### （預計） 2024年7月11日維護更新
+### 2024年7月11日維護更新
 
 #### 問題
 
 **對問題執行進階指派時發生錯誤**
 
-當使用者嘗試在Workfront中進行問題的進階指派時，該問題未被指派，並且使用者會看到以下錯誤訊息：
+使用者嘗試對 Workfront 中的問題進行進階指派時，該問題未指派，且使用者看到以下錯誤訊息：
 
-&quot;[!UICONTROL APIModel INTERNAL不支援欄位持續時間(OpTask)]&quot;
+「[!UICONTROL APIModel INTERNAL 不支援欄位期間 (OpTask)]」
 
 #### 報表
 
