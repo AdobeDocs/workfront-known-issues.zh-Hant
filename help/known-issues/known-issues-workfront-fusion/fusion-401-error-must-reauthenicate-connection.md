@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->這個問題已解決。
+>此問題已解決。
 
 <!--This article is live by request for the workaround-->
 

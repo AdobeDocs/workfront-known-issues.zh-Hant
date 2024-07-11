@@ -1,24 +1,24 @@
 ---
 title: 「Workfront：未套用自訂術語」
-description: 「版面配置範本中設定的自訂術語未出現在Workfront的某些區域。 相反地，會出現預設的非自訂術語。 」
+description: 「Workfront 的某些區域未出現版面範本中設定的自訂術語，反而出現預設的非自訂術語。」
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
 # Workfront：未套用自訂術語
 
-版面配置範本中設定的自訂術語未出現在Workfront的某些區域。 相反地，會出現預設的非自訂術語。
+Workfront 的某些區域未出現版面範本中設定的自訂術語，反而出現預設的非自訂術語。
 
-這已在以下區域中報告：
+以下區域已回報此問題：
 
-* 功能表索引標籤
-* 頁首
+* 選單索引標籤
+* 頁面標頭
 * 列出專案的說明
 
-_首次回報於2024年6月26日。_
+_2024 年 6 月 26 日首次回報。_
