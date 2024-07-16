@@ -3,10 +3,10 @@ title: "整合：連結 Google 中的資料夾，該資料夾中的資產不會�
 description: 「當使用者將 Google Drive 中的資料夾連結到 Workfront 時，該資料夾中的資產不會連結。資料夾中的資產數量顯示為 0。"
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 970a15011b8ff327306a7603f9edb32400d987b0
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 95%
 
 ---
 
@@ -15,4 +15,8 @@ ht-degree: 100%
 
 當使用者將 [!DNL Google Drive] 中的資料夾連結到 Workfront 時，該資料夾中的資產不會連結。資料夾中的資產數量顯示為 0。
 
-_於 2024 年 6 月 1 日首次通報。_
+**因應措施**
+
+重新驗證您的Google連線。
+
+_2024 年 6 月 1 日首次回報。_
