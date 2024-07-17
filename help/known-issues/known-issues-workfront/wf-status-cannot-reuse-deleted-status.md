@@ -1,15 +1,15 @@
 ---
 title: 「狀態：無法重複使用先前刪除的狀態」
-description: 「當使用者嘗試建立與先前刪除狀態具有相同狀態鍵的狀態時，無法建立該狀態，且使用者會看到一則訊息。」
+description: 當使用者嘗試使用與先前已刪除狀態相同的狀態鍵建立狀態時，不會建立狀態，且使用者會看到一則訊息。
 hidefromtoc: true
 feature: Work Management, Projects, Tasks
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
-workflow-type: ht
+exl-id: 7ca79d9f-7dcf-4e15-a916-6252065a2763
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 100%
+ht-degree: 61%
 
 ---
-
 
 # 狀態：無法重複使用先前刪除的狀態
 

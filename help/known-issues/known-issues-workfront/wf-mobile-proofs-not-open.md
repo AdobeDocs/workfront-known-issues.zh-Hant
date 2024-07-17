@@ -4,7 +4,7 @@ description: 「當使用者嘗試在 Workfront Mobile 應用程式中開啟校�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

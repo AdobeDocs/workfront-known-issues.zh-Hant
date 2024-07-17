@@ -1,15 +1,15 @@
 ---
-title: 「Workfront Proof：透過 API 或 Workfront Fusion 存取 Workfront Proof 時出現 500 錯誤」
-description: 「當使用者存取 Proof API getAllProofs 動作時，Workfront Proof 伺服器傳回訊息：500 內部伺服器錯誤」
+title: 「Workfront Proof：透過API或Workfront Fusion存取Workfront Proof時出現500錯誤」
+description: 「當使用者存取校訂API getAllProofs動作時，Workfront Proof伺服器傳回訊息：500內部伺服器錯誤」
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
-
 
 # [!DNL Workfront Proof]：透過 API 或 [!DNL Workfront Fusion] 存取 [!DNL Workfront Proof] 時出現 500 錯誤
 
@@ -26,4 +26,3 @@ ht-degree: 100%
 因為[!DNL Workfront Fusion] 使用 [!DNL Workfront Proof]API 用於 [!DNL Workfront Proof] 模組，此錯誤可能會傳回到模組，使情境停止。
 
 _於 2023 年 4 月 28 日首次通報。_
-

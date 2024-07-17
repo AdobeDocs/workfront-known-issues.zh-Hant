@@ -4,7 +4,7 @@ description: 「使用者嘗試從『首頁行事曆』或『首頁工作清單�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

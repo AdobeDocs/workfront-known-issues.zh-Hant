@@ -5,7 +5,7 @@ keywords: 新檔案，新增檔案
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -18,7 +18,6 @@ ht-degree: 100%
 >* 此問題已關閉，因為這不是問題。
 >
 >* 此問題僅存在於預覽沙箱環境中。
-
 
 當使用者產生校訂時，校訂顯示為「[!UICONTROL 正在產生校訂]」。這可能會持續幾個小時。如果使用者在仍然顯示「[!UICONTROL 正在產生校訂]」時嘗試打開校訂，則使用者無法打開校訂。校訂已產生，但無法存取。
 

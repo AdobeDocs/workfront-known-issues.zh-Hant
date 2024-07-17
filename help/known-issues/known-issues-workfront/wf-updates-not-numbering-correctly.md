@@ -1,15 +1,15 @@
 ---
-title: 「更新：編號清單編號不正確」
-description: 「當使用者提交包含編號清單的評論時，該清單在更新後會顯示不正確的編號。」
+title: 「更新：編號清單未正確編號」
+description: 當使用者提交包含編號清單的評論時，該清單在更新後會顯示不正確的編號。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: ht
+exl-id: e753c392-846a-40f3-a957-fc0890fbda4c
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # 更新：編號清單編號不正確
 

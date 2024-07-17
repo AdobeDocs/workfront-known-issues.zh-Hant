@@ -4,7 +4,7 @@ description: 「當使用者進行任務指派並嘗試按名字搜尋被指派�
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 

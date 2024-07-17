@@ -4,7 +4,7 @@ description: "當使用者嘗試大量編輯專案時，編輯視窗為空白，
 hidefromtoc: true
 feature: Projects
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

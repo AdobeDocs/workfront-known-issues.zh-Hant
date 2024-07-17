@@ -4,7 +4,7 @@ description: 「當使用者在已選取篩選器的情況下嘗試將子任務�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 

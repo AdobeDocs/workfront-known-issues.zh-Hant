@@ -1,15 +1,15 @@
 ---
-title: 「團隊：無法查看團隊所有者或刪除團隊」
-description: 「群組管理員無法執行這些動作。」
+title: 「團隊：無法檢視團隊擁有者或刪除團隊」
+description: 群組管理員無法執行這些動作。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: ht
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # 團隊：無法查看團隊所有者或刪除團隊
 
@@ -25,4 +25,3 @@ ht-degree: 100%
 即使群組管理員擁有與團隊和使用者相關的所有權限，也會發生這種情況。
 
 _於 2024 年 3 月 15 日首次通報。_
-

@@ -1,17 +1,17 @@
 ---
-title: 「更新：標記使用者無效」
-description: 「在評論中標記使用者時，被標記的使用者無法看到該評論；此外，被標記的使用者不會透過電子郵件或應用程式內通知收到有關該評論的通知。」
+title: 「更新：標籤使用者無效」
+description: 在評論中標記使用者時，被標記的使用者無法看到該評論；此外，被標記的使用者不會透過電子郵件或應用程式內通知收到有關該評論的通知。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: e2d49337-3176-401e-ace8-c52abd6e64db
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-
-# 更新：標記使用者無效
+# 更新：將使用者標記為無效
 
 >[!NOTE]
 >

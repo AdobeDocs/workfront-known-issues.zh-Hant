@@ -1,15 +1,15 @@
 ---
-title: 「更新：文件評論未顯示在父物件更新中」
-description: 「當使用者對文件發表評論時，該評論不會立即出現在文件父物件的更新區域中。」
+title: 「更新：檔案評論未出現在父物件的更新中」
+description: 當使用者對文件發表評論時，該評論不會立即出現在文件父物件的更新區域中。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: a49b13cf-eddc-4cca-8c5a-2bda1cb1cc5e
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
-
 
 # 更新：文件評論未顯示在父物件更新中
 

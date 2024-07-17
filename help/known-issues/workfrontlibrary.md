@@ -1,12 +1,12 @@
 ---
 title: ' [!DNL Adobe Workfront Library] 中的已知問題'
-description: ' [!DNL Adobe Workfront Library] 的已通報已知問題'
+description: ' [!DNL Adobe Workfront Library] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 48f73098-903e-441e-a9ea-d5f3e6f996c1
 feature: Workfront Library
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '50'
+workflow-type: tm+mt
+source-wordcount: '49'
 ht-degree: 100%
 
 ---

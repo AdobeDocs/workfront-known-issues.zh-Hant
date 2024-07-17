@@ -4,7 +4,7 @@ description: 「當使用者嘗試查看使用者個人資料頁面時，該頁�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 

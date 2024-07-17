@@ -1,15 +1,15 @@
 ---
-title: 」任務：前置任務資訊不包含連結」
-description: 」當使用者將游標暫留在前置任務上以了解更多資訊時，該資訊不包含前往前置任務的連結。」
+title: 「任務：前置任務資訊不包含連結」
+description: 當使用者將游標暫留在前置任務上以了解更多資訊時，該資訊不包含前往前置任務的連結。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
-workflow-type: ht
+exl-id: 585d1d08-fa8c-4e75-a8b2-1769ed8fa8b0
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # 任務：前置任務資訊不包含連結
 
@@ -20,4 +20,3 @@ ht-degree: 100%
 當使用者將游標暫留在前置任務上以了解更多資訊時，該資訊不包含前往前置任務的連結。
 
 _於 2024 年 3 月 22 日首次通報。_
-
