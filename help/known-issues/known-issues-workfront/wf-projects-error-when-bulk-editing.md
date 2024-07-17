@@ -4,9 +4,9 @@ description: "當使用者嘗試大量編輯專案時，編輯視窗為空白，
 hidefromtoc: true
 feature: Projects
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年7月8日修正。
+>此問題已在 2024 年 7 月 8 日修正。
 
 當使用者嘗試大量編輯專案時，編輯視窗為空白，並且使用者看到下列錯誤訊息：
 
