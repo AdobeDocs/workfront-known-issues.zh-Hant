@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [無法建立檔案清單的檢視](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [敏捷：新增子任務時故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [使用者：使用者設定檔頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)
-      + [Workfront Mobile：無法開啟校樣](known-issues-workfront/wf-mobile-proofs-not-open.md)
+      + [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [使用者：使用者個人資料頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [Workfront Mobile：無法開啟校訂](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [首頁：無法從「[!UICONTROL 首頁行事曆]」或「[!UICONTROL 工作清單]」開啟項目](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
