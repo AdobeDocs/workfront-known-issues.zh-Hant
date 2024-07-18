@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1837'
-ht-degree: 99%
+source-wordcount: '1864'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：匯出時貨幣符號不正確](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [自訂表單：選取多個值時下拉式清單關閉](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [展示板：載入展示板時發生錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [校訂：核准的校訂會顯示在報表中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [無法建立檔案清單的檢視](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [使用者：使用者個人資料頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)

@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 99%
+source-wordcount: '4535'
+ht-degree: 98%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 99%
 
 
 
-+++**（預計） 2024年7月18日維護更新**
++++**於2024年7月18日維護更新**
 
-### （預計） 2024年7月18日維護更新
+### 2024年7月18日維護更新
 
 #### 敏捷
 
@@ -39,6 +39,10 @@ ht-degree: 99%
 **無法從[!UICONTROL 首頁行事曆]或[!UICONTROL 工作清單]**&#x200B;開啟專案
 
 使用者嘗試從「[!UICONTROL 首頁行事曆]」或「[!UICONTROL 首頁工作清單]」開啟工作項目或校樣時，該項目未開啟。
+
+以其他使用者身分登入時，**管理員自己的首頁會顯示**
+
+當管理員以其他使用者身份登入並檢視該使用者的首頁時，會顯示管理員自己的首頁。
 
 #### 校訂
 
