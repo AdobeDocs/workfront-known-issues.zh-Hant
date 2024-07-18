@@ -3,15 +3,19 @@ title: "計費記錄：缺少新增更多計費記錄按鈕"
 description: "當使用者檢視計費記錄清單並嘗試新增計費記錄時，他們會發現頁面頂部缺少新增計費記錄按鈕。"
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 96%
 
 ---
 
 
 # 計費記錄：缺少新增更多計費記錄按鈕
+
+>[!NOTE]
+>
+>此問題已在2024年7月18日修正。
 
 當使用者檢視計費記錄清單並嘗試新增計費記錄時，他們會發現頁面頂部缺少新增計費記錄按鈕。
 

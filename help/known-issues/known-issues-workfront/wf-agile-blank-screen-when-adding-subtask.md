@@ -3,15 +3,19 @@ title: 「敏捷：新增子任務時，故事板變成空白」
 description: 「當使用者在已選取篩選器的情況下嘗試將子任務新增到故事板時，畫面會變成空白，且使用者無法新增子任務。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 93%
 
 ---
 
 
 # 敏捷：新增子任務時，故事板變成空白
+
+>[!NOTE]
+>
+>此問題已在2024年7月18日修正。
 
 當使用者在已選取篩選器的情況下嘗試將子任務新增到故事板時，畫面會變成空白，且使用者無法新增子任務。
 
