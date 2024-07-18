@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 99%
+source-wordcount: '814'
+ht-degree: 98%
 
 ---
 
@@ -25,11 +25,8 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
-| [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
-| [任務：在進行任務指派時搜尋名字不會傳回使用者](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024 年 6 月 27 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [整合：無法從這個位置新增文件的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024 年 6 月 24 日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 6 月 21 日 |
@@ -45,8 +42,9 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月18日 |
+| [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日 |
 | [無法建立檔案清單的檢視](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日 |
-| [使用者：使用者個人資料頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024 年 7 月 10 日 |
 | [專案組合：使用者無法設定專案組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024 年 7 月 8 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |

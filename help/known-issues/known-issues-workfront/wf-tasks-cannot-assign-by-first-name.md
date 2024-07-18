@@ -3,15 +3,19 @@ title: "任務：在進行任務指派時搜尋名字不會傳回使用者"
 description: 「當使用者進行任務指派並嘗試按名字搜尋被指派者時，搜尋不會傳回任何使用者，使用者會看到訊息「找不到任何結果」。此問題有解決方法。」
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # 任務：在進行任務指派時搜尋名字不會傳回使用者
+
+>[!NOTE]
+>
+>此問題因為無法重現已關閉。
 
 當使用者進行任務指派並嘗試按名字搜尋被指派者時，搜尋不會傳回任何使用者，使用者會看到訊息「找不到任何結果」。
 
