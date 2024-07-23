@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 96%
+source-wordcount: '861'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日 |
 | [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年7月18日 |
 | [展示板：載入展示板時發生錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日 |
 | [校訂：已核准的校訂會顯示在報表中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2024年7月18日 |

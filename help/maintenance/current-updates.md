@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4535'
-ht-degree: 99%
+source-wordcount: '4620'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,28 @@ ht-degree: 99%
 ## 2024 年 7 月更新
 
 
+
++++**於2024年7月18日維護更新**
+
+### 2024年7月18日維護更新
+
+#### 自訂表單
+
+**選取多個值時下拉式清單關閉**
+
+當使用者嘗試在自訂表單欄位上選擇多個值時，下拉清單會在選擇第一個值後關閉。
+
+當欄位與自訂表單中的顯示邏輯相關聯時，就會發生這種情況。
+
+#### 通知
+
+**縮圖未顯示在電子郵件通知中**
+
+使用者檢視有關文件核准的電子郵件通知時，電子郵件中未顯示文件縮圖。
+
+Gmail 中已回報此問題。
+
++++
 
 +++**於2024年7月18日維護更新**
 
