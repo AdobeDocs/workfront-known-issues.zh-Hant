@@ -21,7 +21,7 @@ ht-degree: 98%
       + [自訂表單：選取多個值時下拉式清單關閉](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [展示板：載入展示板時發生錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md)
       + [校訂：核准的校訂會顯示在報表中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
-      + [無法建立檔案清單的檢視](known-issues-workfront/wf-documents-cannot-add-new-view.md)
+      + [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [使用者：使用者個人資料頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile：無法開啟校訂](known-issues-workfront/wf-mobile-proofs-not-open.md)
