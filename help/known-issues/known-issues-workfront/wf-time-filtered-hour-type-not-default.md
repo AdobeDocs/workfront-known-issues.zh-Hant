@@ -4,9 +4,9 @@ description: 「使用者記錄時間時，預先選取的時數類型是任務�
 hidefromtoc: true
 feature: Timesheets, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年7月9日修正。
+>此問題已在 2024 年 7 月 9 日修正。
 
 使用者記錄時間時，預先選取的時數類型是「[!UICONTROL 任務時間]」，而不是針對專案的篩選時數類型。
 

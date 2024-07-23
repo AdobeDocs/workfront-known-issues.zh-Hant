@@ -4,8 +4,8 @@ description: 「使用者嘗試對 Workfront 中的問題進行進階指派時�
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
-workflow-type: tm+mt
-source-wordcount: '85'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
