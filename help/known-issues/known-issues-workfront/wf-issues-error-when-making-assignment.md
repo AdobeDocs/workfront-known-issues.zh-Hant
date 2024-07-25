@@ -1,17 +1,21 @@
 ---
 title: 「問題：對問題進行進階指派時發生錯誤」
-description: 「使用者嘗試對 Workfront 中的問題進行進階指派時，該問題未指派，且使用者看到錯誤訊息。」
+description: 當使用者嘗試在Workfront中進行問題的進階指派時，該問題未被指派，並且使用者會看到一則錯誤訊息。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+exl-id: d2064462-9e63-4eaf-bb01-4fa6b0f4205f
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 53%
 
 ---
 
-
 # 問題：對問題進行進階指派時發生錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年7月25日修正。
 
 使用者嘗試對 Workfront 中的問題進行進階指派時，該問題未指派，且使用者看到以下錯誤訊息：
 
