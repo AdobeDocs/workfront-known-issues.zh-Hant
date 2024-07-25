@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 100%
+source-wordcount: '453'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：開啟校訂會開啟多個復本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日 |
 | [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |

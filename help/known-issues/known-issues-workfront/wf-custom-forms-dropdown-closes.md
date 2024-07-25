@@ -3,18 +3,22 @@ title: 「自訂表單：選取多個值時下拉式清單關閉」
 description: 「當使用者嘗試在自訂表單欄位上選擇多個值時，下拉清單會在選擇第一個值後關閉。 」
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+exl-id: 0313e7d9-b5b2-4871-a133-da3e78052ab9
+source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 4%
 
 ---
 
-
 # 自訂表單：選取多個值時下拉式清單關閉
+
+>[!NOTE]
+>
+>此問題已在2024年7月25日修正。
 
 當使用者嘗試在自訂表單欄位上選擇多個值時，下拉清單會在選擇第一個值後關閉。
 
 當欄位與自訂表單中的顯示邏輯相關聯時，就會發生這種情況。
 
-_於2024年7月9日首次通報。_
+_於 2024 年 7 月 9 日首次通報。_

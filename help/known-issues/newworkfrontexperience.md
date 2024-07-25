@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '873'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：開啟校訂會開啟多個復本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日 |
+| [登入身份：登出「登入身份」時，首頁和釘選顯示不正確](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024年7月25日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日 |
-| [使用者：無法修改使用者的存取層級](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年7月18日 |
 | [展示板：載入展示板時發生錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日 |
 | [文件：文件計數不準確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
@@ -45,12 +46,12 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：使用者不會收到導向更新通知](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日 |
+| [任務：任務缺少繼承的許可權](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024年7月25日 |
+| [存取層級：安裝區域中有重複的存取層級](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日 |
 | [專案：匯出](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)時貨幣符號不正確 | 2024年7月18日 |
-| [自訂表單：選取多個值時下拉式清單關閉](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 2024年7月18日 |
-| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月18日 |
 | [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日 |
 | [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
-| [專案組合：使用者無法設定專案組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024 年 7 月 8 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

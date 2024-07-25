@@ -1,17 +1,21 @@
 ---
-title: 「專案組合：使用者無法設定專案組合」
-description: 「如果使用者沒有專案組合的存取權，就無法在專案上變更專案組合。」
+title: 「Portfolio：使用者無法設定投資組合」
+description: 如果使用者沒有專案組合的存取權，就無法在專案上變更專案組合。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # 專案組合：使用者無法設定專案組合
+
+>[!NOTE]
+>
+>此問題已關閉，因為情況已如期運作。
 
 如果使用者沒有專案組合的存取權，就無法在專案上變更專案組合。
 
