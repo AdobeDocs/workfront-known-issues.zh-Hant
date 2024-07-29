@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
 source-wordcount: '1908'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 96%
       + [登入身份：登出「登入身份」時，首頁和圖釘顯示不正確](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
       + [任務：任務缺少繼承的許可權](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
       + [存取層級：在設定區域中複製存取層級](known-issues-workfront/wf-access-duplicate-level.md)
-      + [專案：匯出時貨幣符號不正確](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [校訂：匯出時貨幣符號不正確](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [自訂表單：選取多個值時下拉式清單關閉](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
-      + [展示板：載入展示板時發生錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md)
-      + [校訂：核准的校訂會顯示在報表中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
+      + [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [使用者：使用者個人資料頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [使用者：使用者設定檔頁面持續載入](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile：無法開啟校訂](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [首頁：無法從「[!UICONTROL 首頁行事曆]」或「[!UICONTROL 工作清單]」開啟項目](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
