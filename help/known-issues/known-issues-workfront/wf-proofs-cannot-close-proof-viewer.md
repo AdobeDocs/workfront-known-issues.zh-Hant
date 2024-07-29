@@ -1,13 +1,13 @@
 ---
 title: '校訂：無法關閉校訂檢視器'
-description: 當使用者在校訂檢視器中檢視校訂，並嘗試按一下右上角 X 關閉校訂時，校訂不會關閉。此問題有因應措施。
+description: 當使用者在校訂檢視器中檢視校訂，並嘗試按一下右上角 X 關閉校訂時，校訂不會關閉。此問題有解決方法。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年7月18日修正。
+>此問題已在 2024 年 7 月 18 日修正。
 
 當使用者在校訂檢視器中檢視校訂，並嘗試按一下右上角 X 關閉校訂時，校訂不會關閉。
 
-**因應措施**
+**解決方法**
 
 嘗試以下任一作業：
 

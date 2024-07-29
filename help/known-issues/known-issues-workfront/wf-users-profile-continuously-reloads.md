@@ -1,23 +1,23 @@
 ---
-title: 「使用者：使用者個人資料頁面持續載入」
-description: 「當使用者嘗試查看使用者個人資料頁面時，該頁面看似載入中，但並未完全載入。」
+title: 「使用者：使用者設定檔頁面持續載入」
+description: 當使用者嘗試查看使用者設定檔頁面時，該頁面看似載入中，但並未完全載入
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
-workflow-type: tm+mt
+exl-id: fd7787f4-e446-4cf5-843c-deb2d1468975
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-
-# 使用者：使用者個人資料頁面持續載入
+# 使用者：使用者設定檔頁面持續載入
 
 >[!NOTE]
 >
->此問題已在2024年7月18日修正。
+>此問題已在 2024 年 7 月 18 日修正。
 
-當使用者嘗試查看使用者個人資料頁面時，該頁面看似載入中，但並未完全載入
+當使用者嘗試查看使用者設定檔頁面時，該頁面看似載入中，但並未完全載入
 
 使用「[!UICONTROL 登入身分]」功能時已報告此問題。
 

@@ -3,19 +3,19 @@ title: 「Workfront：未套用自訂術語」
 description: 「Workfront 的某些區域未出現版面範本中設定的自訂術語，反而出現預設的非自訂術語。」
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
-workflow-type: tm+mt
+exl-id: 80954f54-cf9b-42c7-923c-99134a03b9dd
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
-
 
 # Workfront：未套用自訂術語
 
 >[!NOTE]
 >
->此問題已在2024年7月18日修正
+>此問題已在 2024 年 7 月 18 日修正
 
 Workfront 的某些區域未出現版面範本中設定的自訂術語，反而出現預設的非自訂術語。
 
