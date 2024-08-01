@@ -4,14 +4,18 @@ description: 「當使用者嘗試在檔案清單中建立新檢視時，畫面�
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
 exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
-source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 63%
+source-wordcount: '91'
+ht-degree: 59%
 
 ---
 
 # 檔案：無法建立檔案清單的檢視
+
+>[!NOTE]
+>
+>此問題已在2024年8月1日修正。
 
 當使用者嘗試在文件清單上建立新視圖時，螢幕會變為空白，且使用者無法建立該視圖。
 

@@ -1,18 +1,22 @@
 ---
-title: 「更新：導向更新不會通知使用者」
-description: 「當使用者發表評論並提及或標籤另一個使用者時，標籤的使用者未收到有關評論的電子郵件或應用程式內通知。」
+title: 「更新：使用者未收到定向更新通知」
+description: 當使用者進行評論並提及或標記另一位使用者時，被標記的使用者不會收到關於該評論的電子郵件或應用程式內通知。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: aa250248-a9a3-4ea5-8ddf-d9ab2cd24762
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 92%
 
 ---
 
+# 更新：使用者未收到定向更新通知
 
-# 更新：導向更新不會通知使用者
+>[!NOTE]
+>
+>此問題已在2024年8月1日修正。
 
-當使用者發表評論並提及或標籤另一個使用者時，標籤的使用者未收到有關評論的電子郵件或應用程式內通知。
+當使用者進行評論並提及或標記另一位使用者時，被標記的使用者不會收到關於該評論的電子郵件或應用程式內通知。
 
-_首次回報於2024年7月23日。_
+_於 2024 年 7 月 23 日首次回報。_
