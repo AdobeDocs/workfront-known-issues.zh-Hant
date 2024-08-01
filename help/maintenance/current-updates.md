@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
+source-git-commit: 75df57618eed9609381f64ef56e2bc89162d1542
 workflow-type: tm+mt
-source-wordcount: '4751'
+source-wordcount: '4655'
 ht-degree: 99%
 
 ---
@@ -26,32 +26,38 @@ ht-degree: 99%
 
 ### （預計） 2024年8月1日維護更新
 
-#### 文件
+此更新僅包含次要或較不顯著的錯誤修正。 [!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
 
-**無法建立文件清單視圖**
+<!--
 
-當使用者嘗試在文件清單上建立新視圖時，螢幕會變為空白，且使用者無法建立該視圖。
+#### Documents
 
-現有視圖如預期般運作。
+**Cannot create view for Documents list**
 
-#### 整合
+When a user attempts to create a new view on a Documents list, the screen goes blank, and the user cannot create the view. 
 
-**Dropbox整合問題**
+Existing views work as expected.
 
-以下是已回報的有關 Dropbox 整合的問題：
+#### Integrations
 
-* 當使用者嘗試在 Dropbox 檔案選擇器中搜尋檔案時，他們會看到授權錯誤訊息，而且檔案選擇器不會從 Dropbox 擷取檔案。
-* 當使用者嘗試開啟已連結的資料夾時，使用者會看到一則錯誤，指出檔案或資料夾已不存在於 Dropbox 中。
+**Issues with Dropbox integration**
 
-這些問題是因 Dropbox 的問題所造成，而非 Workfront 的問題。
+The following issues have been reported regarding the Dropbox integration:
+
+* When a user attempts to search for a file in the Dropbox file selector, they see an authorization error message, and the file selector does not retrieve the file from Dropbox.
+* When a user attempts to open a linked folder, the user sees an error stating that the files or folder no longer exist in Dropbox.
+
+These issues are due to issues with Dropbox, not Workfront.
+
+-->
 
 +++
 
 ## 2024 年 7 月更新
 
-+++**於2024年7月25日維護更新**
++++**於 2024 年 7 月 25 日維護更新**
 
-### 2024年7月25日維護更新
+### 於 2024 年 7 月 25 日維護更新
 
 #### 自訂表單
 
@@ -63,7 +69,7 @@ ht-degree: 99%
 
 #### 通知
 
-**縮圖未顯示在電子郵件通知中**
+**電子郵件通知中未顯示縮圖**
 
 使用者檢視有關文件核准的電子郵件通知時，電子郵件中未顯示文件縮圖。
 
