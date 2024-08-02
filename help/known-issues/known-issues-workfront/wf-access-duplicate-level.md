@@ -1,20 +1,20 @@
 ---
-title: 「存取層級：設定區域中重複的存取層級」
-description: 「當使用者檢視存取層級清單在設定區域，他們看到一些存取層級重複。 這僅適用於內建層級。」
+title: 「存取層級：「設定」區域中的存取層級重複」
+description: 當使用者檢視「設定」區域中的存取層級清單時，他們發現某些存取層級是重複的。這僅發生在內建層級。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
-workflow-type: tm+mt
+exl-id: 26a131ae-91c9-4f81-baf5-7571213bcffc
+source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 存取層級：「設定」區域中的存取層級重複
 
-# 存取層級：在設定區域中複製存取層級
+當使用者檢視「設定」區域中的存取層級清單時，他們發現某些存取層級是重複的。這僅發生在內建層級。
 
-當使用者檢視存取層級清單在設定區域，他們看到一些存取層級重複。 這僅適用於內建層級。
+修改組織權限後也發生此問題並已回報。
 
-修改組織的授權後已報告此問題。
-
-_於2024年7月18日首次通報。_
+_於 2024 年 7 月 18 日首次回報。_

@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '447'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月26日 |
-| [校訂：開啟校訂會開啟多個復本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日 |
+| [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
+| [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |

@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1908'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [更新：導向更新不會通知使用者](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [更新：使用者未收到定向更新通知](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md)
-      + [登入身份：登出「登入身份」時，首頁和圖釘顯示不正確](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
-      + [任務：任務缺少繼承的許可權](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
-      + [存取層級：在設定區域中複製存取層級](known-issues-workfront/wf-access-duplicate-level.md)
+      + [登入身分：登出「登入身分」時，首頁和 PIN 碼未正確顯示](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [任務：任務缺少繼承的權限](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [存取層級：「設定」區域中的存取層級重複](known-issues-workfront/wf-access-duplicate-level.md)
       + [校訂：匯出時貨幣符號不正確](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [自訂表單：選取多個值時下拉式清單關閉](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md)

@@ -1,24 +1,24 @@
 ---
 title: 「校訂：開啟校訂會開啟多個副本」
-description: 「當使用者開啟校訂時，兩個瀏覽器索引標籤會以相同的校訂開啟。 」
+description: 「當使用者開啟校訂時，兩個瀏覽器標籤會開啟，其中包含相同的校訂。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
-workflow-type: tm+mt
+exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
+source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-
 # 校訂：開啟校訂會開啟多個副本
 
-當使用者開啟一個校訂時，兩個瀏覽器索引標籤會以相同的校訂開啟。
+當使用者開啟校訂時，兩個瀏覽器標籤會開啟，其中包含相同的校訂。
 
-使用Unified Shell時已報告此問題。
+使用 Unified Shell 時已回報此問題。
 
-**因應措施**
+**解決方法**
 
 關閉其中一個標籤。
 
-_於2024年7月22日首次通報。_
+_於 2024 年 7 月 22 日首次回報。_

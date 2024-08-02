@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
 source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 即使群組管理員嘗試將使用者的存取層級變更為遠低於群組管理員的層級，也可能會發生此狀況。
 
-_於 2024 年 4 月 16 日首次通報。_
+_於 2024 年 4 月 16 日首次回報。_
