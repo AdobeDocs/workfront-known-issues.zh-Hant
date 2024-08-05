@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
-workflow-type: ht
-source-wordcount: '1908'
-ht-degree: 100%
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+workflow-type: tm+mt
+source-wordcount: '1991'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [通知：設置通知首選項時出現錯誤](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [自定義表單：構建大型表單時瀏覽器崩潰](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [報表： 報表遞送延遲或遺失](known-issues-workfront/wf-reports-not-delivered.md)
+      + [任務：時間表重新計算的問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [自定義表單：表單產生器在輸入顯示邏輯時崩潰](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [文件：按下文件名稱會導致空白頁面](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [自定義表單：無法捲動外部查閱欄位](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [自訂表單：顯示不正確值的計算欄位](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion：無法使用 Workfront 以身分登錄功能對連接進行身份驗證](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [設置：「登錄身份」導致空白螢幕](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API： 請求逾時](known-issues-workfront/wf-api-request-timing-out.md)
       + [更新：使用者未收到定向更新通知](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [登入身分：登出「登入身分」時，首頁和 PIN 碼未正確顯示](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
