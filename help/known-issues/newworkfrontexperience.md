@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 100%
+source-wordcount: '924'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：設定通知偏好設定時出現糟糕錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月5日 |
+| [任務：時間表重新計算發生問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日 |
+| [API：要求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日 |
 | [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2023 年 7 月 23 日 |
 | [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 7 月 18 日 |
@@ -42,6 +45,14 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 7 月 25 日 |
+| [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
+| [報告：報告傳送延遲或遺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 5 日 |
+| [自訂表單：輸入顯示邏輯時表單產生器當機](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
+| [檔案：按一下檔名稱會導向到空白頁面](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
+| [自訂表單：無法捲動外部查閱欄位](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日 |
+| [自訂表單：顯示不正確值的計算欄位](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日 |
+| [設定：「登入身份」導向到空白熒幕](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 2024 年 8 月 5 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 25 日 |
 | [存取層級：「設定」區域中的存取層級重複](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [校訂：匯出時貨幣符號不正確](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024 年 7 月 18 日 |
