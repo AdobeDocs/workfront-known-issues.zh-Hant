@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
 source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年8月1日修正。
+>此問題已在 2024 年 8 月 1 日修正。
 
 以下是已回報的有關 Dropbox 整合的問題：
 

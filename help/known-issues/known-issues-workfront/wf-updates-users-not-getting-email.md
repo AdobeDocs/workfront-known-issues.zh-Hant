@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: aa250248-a9a3-4ea5-8ddf-d9ab2cd24762
 source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年8月1日修正。
+>此問題已在 2024 年 8 月 1 日修正。
 
 當使用者進行評論並提及或標記另一位使用者時，被標記的使用者不會收到關於該評論的電子郵件或應用程式內通知。
 
