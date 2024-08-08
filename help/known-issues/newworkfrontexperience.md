@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e10357f37cd453025e0e3b214cd5dd253719fb21
+source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '910'
 ht-degree: 93%
 
 ---
@@ -25,12 +25,10 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：設定通知偏好設定時出現糟糕錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月5日 |
 | [任務：時間表重新計算發生問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日 |
 | [API：要求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日 |
 | [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2023 年 7 月 23 日 |
-| [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 7 月 18 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 6 月 21 日 |
@@ -45,6 +43,9 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [通知：設定通知偏好設定時出現糟糕錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日 |
+| [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日 |
+| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日 |
 | [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月5日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
