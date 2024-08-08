@@ -1,22 +1,26 @@
 ---
-title: “設置：作為導致進入空白屏幕登錄”
-description: “當管理員以其他用戶登錄時，管理員看到的不是用戶帳戶，而是空白屏幕。”
+title: 「設定：以進入空白畫面的身分登入」
+description: 「當管理員以其他使用者身份登入時，管理員不會看到該使用者的帳戶，而是會看到一個空白畫面。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
 
 
-# 設置：「登錄身份」導致空白螢幕
+# 設定：「登入身份」導向到空白畫面
 
-當管理員以其他用戶登錄時，管理員看到的不是用戶帳戶，而是空白屏幕。
+>[!NOTE]
+>
+>此問題已在2024年8月8日修正。
+
+當管理員以其他使用者身份登入時，管理員不會看到該使用者的帳戶，而是會看到一個空白畫面。
 
 **解決方法**
 
-重新整理螢幕。 這可能需要多次嘗試。
+重新整理畫面。 這可能需要數次嘗試。
 
-_首次報導於 2024 年 7 月 17 日。_
+_首次回報於2024年7月17日。_
