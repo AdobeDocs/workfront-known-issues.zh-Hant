@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [任務：時間表重新計算發生問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日 |
-| [API：要求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日 |
+| [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 5 日 |
+| [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 | [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2023 年 7 月 23 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
@@ -43,16 +43,16 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [通知：設定通知偏好設定時出現糟糕錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日 |
+| [通知：設定通知偏好設定時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日 |
 | [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日 |
-| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月5日 |
+| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 8 月 5 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
 | [自訂表單：輸入顯示邏輯時表單產生器當機](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
-| [檔案：按一下檔名稱會導向到空白頁面](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
-| [自訂表單：無法捲動外部查閱欄位](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日 |
-| [自訂表單：顯示不正確值的計算欄位](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日 |
+| [文件：按一下文件名稱會導向到空白頁](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
+| [自訂表單：無法捲動外部查詢欄位](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日 |
+| [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日 |
 | [存取層級：「設定」區域中的存取層級重複](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [校訂：匯出時貨幣符號不正確](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024 年 7 月 18 日 |
 | [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 18 日 |
@@ -90,7 +90,7 @@ ht-degree: 93%
 | [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
-| [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
+| [篩選器：無法從儀表板上的報告共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
 | [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)  | 2023 年 3 月 23 日 |
 | [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
