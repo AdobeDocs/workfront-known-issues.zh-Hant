@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：按下文件名稱會導致空白頁面](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
+| [文件：按一下文件名稱會導向到空白頁](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
 | [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |

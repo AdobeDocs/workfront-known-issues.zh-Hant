@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [通知：設置通知首選項時出現錯誤](known-issues-workfront/wf-notifications-whoops-error.md)
-      + [自定義表單：構建大型表單時瀏覽器崩潰](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [報表： 報表遞送延遲或遺失](known-issues-workfront/wf-reports-not-delivered.md)
-      + [任務：時間表重新計算的問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [自定義表單：表單產生器在輸入顯示邏輯時崩潰](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [文件：按下文件名稱會導致空白頁面](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
-      + [自定義表單：無法捲動外部查閱欄位](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [自訂表單：顯示不正確值的計算欄位](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion：無法使用 Workfront 以身分登錄功能對連接進行身份驗證](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [設置：「登錄身份」導致空白螢幕](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
-      + [API： 請求逾時](known-issues-workfront/wf-api-request-timing-out.md)
+      + [通知：設定通知偏好設定時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [報告：報告傳遞延遲或缺少](known-issues-workfront/wf-reports-not-delivered.md)
+      + [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [自訂表單：輸入顯示邏輯時表單產生器當機](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [文件：按一下文件名稱會導向到空白頁](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [自訂表單：無法捲動外部查詢欄位](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion：無法使用 Workfront 「登入身分」功能驗證連線](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [設定：「登入身分」導致空白畫面](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md)
       + [更新：使用者未收到定向更新通知](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [登入身分：登出「登入身分」時，首頁和 PIN 碼未正確顯示](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
@@ -56,7 +56,7 @@ ht-degree: 95%
       + [校訂：關閉校訂後前往「產品文件」頁面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [整合：無法從「 [!DNL Google Drive]」新增文件的新版本](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [校訂：點選校訂名稱後前往空白畫面](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [報表：當預設貨幣為美元時，報表不會載入](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [報告：當預設貨幣為美元時，報告不會載入](known-issues-workfront/wf-reports-default-currency-error.md)
       + [展示板：以「[!UICONTROL 使用者身分登入]」時，展示板不會顯示為該使用者](known-issues-workfront/wf-boards-log-in-as.md)
       + [首頁：「我的問題」小工具不會顯示已關閉或已完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [核准：重新導向次數過多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
@@ -179,7 +179,7 @@ ht-degree: 95%
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [校訂：「[!UICONTROL 校訂活動]」索引標籤會開啟「[!UICONTROL 校訂詳細資訊]」](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [篩選器：無法從儀表板上的報表共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [篩選器：無法從儀表板上的報告共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
