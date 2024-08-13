@@ -4,9 +4,9 @@ description: 「當管理員以另一個使用者身分登入時，管理員看�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年8月8日修正。
+>此問題已在 2024 年 8 月 8 日修正。
 
 當管理員以另一個使用者身分登入時，管理員看到的不是該使用者的帳戶，而是空白畫面。
 

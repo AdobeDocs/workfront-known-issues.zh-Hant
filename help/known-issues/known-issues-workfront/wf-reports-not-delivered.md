@@ -4,9 +4,9 @@ description: 「已排定傳遞的報告未依預期傳遞。可能會延遲傳�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2024年8月8日修正。
+>此問題已在 2024 年 8 月 8 日修正。
 
 已排定傳遞的報告未依預期傳遞。可能會延遲傳遞，或根本不會傳遞。
 
