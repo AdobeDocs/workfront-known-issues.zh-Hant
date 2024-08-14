@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '1991'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '2058'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [Workfront：多個瀏覽器分頁導致Workfront登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [報告：無法從設定的自訂欄位區域按一下報告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [請求：使用者可以變更狀態，儘管缺少許可權](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [看板：連線的卡片在不正確的欄中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile：必須使用SSO才能登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [報告：匯出報告時發生錯誤](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [使用者：使用者的電子郵件地區設定未儲存](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [整合：從Outlook建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：設定通知偏好設定時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md)
       + [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [報告：報告傳遞延遲或缺少](known-issues-workfront/wf-reports-not-delivered.md)

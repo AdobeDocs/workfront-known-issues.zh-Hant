@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
+source-wordcount: '5019'
 ht-degree: 99%
 
 ---
@@ -53,6 +53,12 @@ ht-degree: 99%
 匯出&#x200B;**時**&#x200B;貨幣符號不正確
 
 當使用者匯出問題時，匯出中的貨幣符號與專案或問題中設定的貨幣不符。
+
+#### 校訂
+
+**校訂標籤不準確**
+
+從校樣列印功能透過電子郵件接收的PDF列印輸出上，校樣標籤未對齊。
 
 
 +++
