@@ -4,22 +4,19 @@ description: 有關展示板中重複卡片的問題已報告。
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 91%
 
 ---
 
 # 展示板：關於重複卡片的問題
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 2, 2024.
+>此問題已在2024年8月15日修正。
 
--->
 
 有關以下展示板中重複卡片的問題已報告：
 

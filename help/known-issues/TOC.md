@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：「無法存取」顯示為專案名稱](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [檔案：無法使用預覽連結預覽檔案](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [自訂表單：自訂表單上顯示型別轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [自訂表單：無法編輯欄位清單頁面上的欄位](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [首頁：首頁當機並出現「記憶體不足」錯誤](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [設定：以其他使用者身份登出時的問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront：多個瀏覽器分頁導致Workfront登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [報告：無法從設定的自訂欄位區域按一下報告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [請求：使用者可以變更狀態，儘管缺少許可權](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)

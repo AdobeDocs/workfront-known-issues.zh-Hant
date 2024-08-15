@@ -3,15 +3,19 @@ title: 「通知：設定通知偏好設定時出現「糟糕」錯誤」
 description: 「當使用者嘗試檢視通知偏好設定時，會出現錯誤。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 93%
 
 ---
 
 
 # 通知：設定通知偏好設定時出現「糟糕」錯誤
+
+>[!NOTE]
+>
+>此問題已在2024年8月15日修正。
 
 當使用者嘗試檢視通知偏好設定時，會出現以下錯誤：
 

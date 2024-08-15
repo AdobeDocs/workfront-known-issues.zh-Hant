@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
 workflow-type: tm+mt
-source-wordcount: '5019'
+source-wordcount: '5017'
 ht-degree: 99%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 99%
 
 ## 2024 年 8 月更新
 
-+++**（預計） 2024年8月15日維護更新**
++++**於2024年8月15日維護更新**
 
-### （預計） 2024年8月15日維護更新
+### 2024年8月15日維護更新
 
 #### 展示板
 
