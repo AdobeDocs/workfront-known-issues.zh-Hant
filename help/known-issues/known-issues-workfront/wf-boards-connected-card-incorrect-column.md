@@ -3,15 +3,19 @@ title: 「面板：連線的卡在不正確的欄」
 description: 「有關於錯誤欄中的已連線卡片的問題已報告。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 4%
 
 ---
 
 
 # 看板：連線的卡片在不正確的欄中
+
+>[!NOTE]
+>
+>此問題已在2024年8月15日修正。
 
 已報告有關錯誤欄中已連線卡片的以下問題：
 

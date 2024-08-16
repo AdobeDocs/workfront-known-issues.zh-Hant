@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1007'
 ht-degree: 87%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 87%
 | [首頁：首頁當機並出現「記憶體不足」錯誤](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日 |
 | [Workfront：多個瀏覽器分頁導致Workfront登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
 | [請求：使用者可以變更狀態，儘管缺少許可權](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日 |
-| [面板：連線的卡片在不正確的資料行](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月14日 |
 | [Workfront Mobile：不使用SSO就無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日 |
 | [報告：匯出報告時發生錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日 |
 | [使用者：使用者的電子郵件地區設定設定未儲存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日 |
