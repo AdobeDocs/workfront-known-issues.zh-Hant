@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1022'
 ht-degree: 87%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [首頁：擱置核准Widget顯示已刪除的檔案](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日 |
+| [展示板：卡片不包含子任務](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日 |
 | [檔案：無法預覽含有預覽連結的檔案](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日 |
 | [自訂表單：自訂表單顯示型別轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日 |
 | [自訂表單：無法編輯欄位清單頁面](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)上的欄位 | 2024年8月15日 |

@@ -4,18 +4,22 @@ description: 當使用者檢視父任務卡片時，該父任務的子任務不�
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 # 展示板：卡片不包含子任務
 
+<!--
+
 >[!NOTE]
 >
->此問題已在 2024 年 8 月 8 日修正。
+>This issue was fixed on August 8, 2024.
+
+-->
 
 當使用者檢視父任務卡片時，該父任務的子任務不會顯示在卡片上。相反地，卡片顯示有 0 個子任務。
 

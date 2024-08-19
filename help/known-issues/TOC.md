@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '2106'
+source-wordcount: '2113'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [首頁：擱置核准Widget顯示已刪除的檔案](known-issues-workfront/wf-home-deleted-documents.md)
       + [首頁：「無法存取」顯示為專案名稱](known-issues-workfront/wf-home-no-access-project-name.md)
       + [檔案：無法使用預覽連結預覽檔案](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [自訂表單：自訂表單上顯示型別轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
