@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,18 @@ ht-degree: 99%
 有關 2024 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 ## 2024 年 8 月更新
+
++++**於2024年8月22日維護更新**
+
+### 8月22日維護更新
+
+#### 報告
+
+**無法從設定的自訂欄位區域按一下報告**
+
+當使用者檢視自訂Forms >欄位區域設定，並且該檢視包括原生報告欄位，指向報告的連結無效。 使用者應該可以按一下報表名稱並進入報表，但按一下報表名稱無效。
+
++++
 
 +++**於2024年8月15日維護更新**
 
