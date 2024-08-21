@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
-source-wordcount: '2113'
-ht-degree: 94%
+source-wordcount: '2139'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [首頁：當使用者移動首頁Widget中的欄時建立的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
+      + [檔案：檔案更新時未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [首頁：擱置核准Widget顯示已刪除的檔案](known-issues-workfront/wf-home-deleted-documents.md)
       + [首頁：「無法存取」顯示為專案名稱](known-issues-workfront/wf-home-no-access-project-name.md)
       + [檔案：無法使用預覽連結預覽檔案](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)

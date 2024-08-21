@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 87%
+source-wordcount: '1051'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日 |
+| [首頁：當使用者移動首頁Widget](known-issues-workfront/wf-home-widget-list-view.md)中的欄時建立的&quot;widget.list.view&quot; | 2024年8月21日 |
+| [檔案：檔案更新未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
 | [首頁：「沒有存取權」顯示為專案名稱](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日 |
 | [首頁：首頁當機並出現「記憶體不足」錯誤](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日 |
 | [Workfront：多個瀏覽器分頁導致Workfront登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
