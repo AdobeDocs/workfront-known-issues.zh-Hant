@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '1051'
-ht-degree: 84%
+source-wordcount: '1025'
+ht-degree: 97%
 
 ---
 
@@ -26,15 +26,14 @@ ht-degree: 84%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日 |
-| [首頁：當使用者移動首頁Widget](known-issues-workfront/wf-home-widget-list-view.md)中的欄時建立的&quot;widget.list.view&quot; | 2024年8月21日 |
 | [檔案：檔案更新未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
-| [首頁：「沒有存取權」顯示為專案名稱](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日 |
-| [首頁：首頁當機並出現「記憶體不足」錯誤](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日 |
-| [Workfront：多個瀏覽器分頁導致Workfront登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
-| [請求：使用者可以變更狀態，儘管缺少許可權](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日 |
-| [Workfront Mobile：不使用SSO就無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日 |
-| [報告：匯出報告時發生錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日 |
-| [使用者：使用者的電子郵件地區設定設定未儲存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日 |
+| [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
+| [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 15 日 |
+| [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
+| [請求：使用者即便在缺乏權限的情況下仍能變更狀態](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024 年 8 月 14 日 |
+| [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
+| [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 8 月 14 日 |
+| [使用者：使用者的電子郵件語系設定無法儲存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024 年 8 月 14 日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 5 日 |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 | [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
@@ -53,15 +52,14 @@ ht-degree: 84%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [首頁：擱置核准Widget顯示已刪除的檔案](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日 |
-| [展示板：卡片不包含子任務](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日 |
-| [檔案：無法預覽含有預覽連結的檔案](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日 |
-| [自訂表單：自訂表單顯示型別轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日 |
-| [自訂表單：無法編輯欄位清單頁面](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)上的欄位 | 2024年8月15日 |
-| [設定：以其他使用者身分登出時發生問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
-| [報告：無法從設定的[自訂欄位]區域按一下報告](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 2024年8月14日 |
-| [整合：從Outlook建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日 |
-| [通知：設定通知偏好設定時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
+| [自訂表單： Forms預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日 |
+| [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 8 月 19 日 |
+| [展示板：卡片不包含子任務](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 19 日 |
+| [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
+| [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
+| [設定：以其他使用者身分登出時的問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
+| [整合：從 Outlook 建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024 年 8 月 14 日 |
+| [通知：設定通知偏好時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 93%
+source-wordcount: '2146'
+ht-degree: 98%
 
 ---
 
@@ -17,24 +17,25 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：Forms預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [首頁：當使用者移動首頁Widget中的欄時建立的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
       + [檔案：檔案更新時未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [首頁：擱置核准Widget顯示已刪除的檔案](known-issues-workfront/wf-home-deleted-documents.md)
-      + [首頁：「無法存取」顯示為專案名稱](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [檔案：無法使用預覽連結預覽檔案](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
-      + [自訂表單：自訂表單上顯示型別轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md)
+      + [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
       + [自訂表單：無法編輯欄位清單頁面上的欄位](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [首頁：首頁當機並出現「記憶體不足」錯誤](known-issues-workfront/wf-home-crashes-with-error.md)
-      + [設定：以其他使用者身份登出時的問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront：多個瀏覽器分頁導致Workfront登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [報告：無法從設定的自訂欄位區域按一下報告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [請求：使用者可以變更狀態，儘管缺少許可權](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [看板：連線的卡片在不正確的欄中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
-      + [Workfront Mobile：必須使用SSO才能登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [報告：匯出報告時發生錯誤](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [使用者：使用者的電子郵件地區設定未儲存](known-issues-workfront/wf-users-email-locale-not-saving.md)
-      + [整合：從Outlook建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
+      + [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [設定：以其他使用者身分登出時的問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
+      + [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [報告：無法從設定的自訂欄位區域點擊報告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [請求：使用者即便在缺乏權限的情況下仍能變更狀態](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [使用者：使用者的電子郵件語系設定無法儲存](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [整合：從 Outlook 建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：設定通知偏好設定時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md)
       + [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [報告：報告傳遞延遲或缺少](known-issues-workfront/wf-reports-not-delivered.md)
