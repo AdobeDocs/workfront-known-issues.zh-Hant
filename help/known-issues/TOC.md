@@ -27,7 +27,7 @@ ht-degree: 98%
       + [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
       + [自訂表單：無法編輯欄位清單頁面上的欄位](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
       + [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md)
-      + [設定：以其他使用者身分登出時的問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
+      + [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [報告：無法從設定的自訂欄位區域點擊報告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [請求：使用者即便在缺乏權限的情況下仍能變更狀態](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
