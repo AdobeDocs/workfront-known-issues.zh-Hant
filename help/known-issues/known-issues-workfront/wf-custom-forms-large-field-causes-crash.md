@@ -3,15 +3,19 @@ title: 「自訂表單：無法編輯欄位清單頁面上的欄位」
 description: 「當使用者嘗試在欄位清單頁面上編輯大型欄位時，頁面會因錯誤而當機。此問題有解決方法。」
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: ht
-source-wordcount: '107'
-ht-degree: 100%
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 94%
 
 ---
 
 
 # 自訂表單：無法編輯欄位清單頁面上的欄位
+
+>[!NOTE]
+>
+>此問題已在2024年8月22日修正。
 
 當使用者嘗試在欄位清單頁面上編輯大型欄位時，頁面會因以下錯誤而當機：
 
