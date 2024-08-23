@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2024年8月15日修正。
+>此問題已在 2024 年 8 月 15 日修正。
 
 
 有關以下展示板中重複卡片的問題已報告：

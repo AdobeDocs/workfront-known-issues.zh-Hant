@@ -4,9 +4,9 @@ description: 「當使用者嘗試檢視通知偏好設定時，會出現錯誤�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年8月15日修正。
+>此問題已在 2024 年 8 月 15 日修正。
 
 當使用者嘗試檢視通知偏好設定時，會出現以下錯誤：
 
