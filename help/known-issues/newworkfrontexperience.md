@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
+source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1005'
 ht-degree: 97%
 
 ---
@@ -97,7 +97,6 @@ ht-degree: 97%
 | [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 首頁]：新的[!UICONTROL 首頁] Widget 預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
-| [校訂：核准選項沒有顯示在[!UICONTROL 校訂檢視器]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 8 月 10 日 |
 | [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |

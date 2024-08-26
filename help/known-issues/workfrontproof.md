@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '467'
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 100%
 | [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
-| [通知：文件核准 Beta 版的通知其格式不正確](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ ht-degree: 100%
 | [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
 | [展示板：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
-| [校訂：從電子郵件連結存取校訂時缺少階層連結](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ ht-degree: 100%
 | [校訂：[!UICONTROL 主動校訂階段]欄位為空白](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：無法透過在評論中標記使用者來將使用者新增到校訂中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
 | [[!UICONTROL 首頁]：[!UICONTROL 在校訂中回覆]按鈕行為不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
-| [[!DNL Workfront Proof]：自動存取校訂延遲](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021 年 6 月 14 日 |
 | [[!DNL Workfront Proof]：[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
