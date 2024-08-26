@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1643'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md)
+      + [指派：指派任務時未顯示休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [自訂表單：Forms預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [首頁：當使用者移動首頁Widget中的欄時建立的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)

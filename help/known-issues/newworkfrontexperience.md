@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
 workflow-type: tm+mt
-source-wordcount: '1005'
-ht-degree: 97%
+source-wordcount: '1035'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [報告：報告傳送延遲或遺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日 |
+| [指派：指派任務時未顯示休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日 |
 | [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日 |
 | [檔案：檔案更新未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
 | [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
@@ -50,6 +52,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日 |
+| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月26日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日 |
 | [自訂表單： Forms預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日 |
 | [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 8 月 19 日 |
