@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1048'
 ht-degree: 94%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月27日 |
 | [首頁：「我的問題」小工具不會顯示已關閉或已完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024 年 6 月 20 日 |
 | [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
 | [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 6 月 7 日 |

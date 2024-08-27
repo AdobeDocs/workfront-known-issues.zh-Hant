@@ -4,24 +4,27 @@ description: 使用者檢視有關文件核准的電子郵件通知時，電子�
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 64%
 
 ---
 
 # 通知：電子郵件通知中未顯示縮圖
 
+<!-- 
 >[!NOTE]
 >
->此問題已在 2024 年 7 月 29 日修正。
+>This issue was fixed on July 29, 2024.
+
+-->
 
 >[!IMPORTANT]
 >
 >Gmail 不支援影片縮圖。
 
-使用者檢視有關文件核准的電子郵件通知時，電子郵件中未顯示文件縮圖。
+當使用者檢視有關檔案核准的電子郵件通知時，檔案縮圖未顯示在電子郵件中。 相反地，使用者會看到損壞的影像圖示。
 
 Gmail 中已回報此問題。
 
