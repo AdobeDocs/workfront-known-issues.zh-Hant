@@ -4,9 +4,9 @@ description: 「當使用者檢視設定的『自訂表單』>『欄位』區域
 hidefromtoc: true
 feature: Reports and Dashboards, Custom Forms
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此問題已在2024年8月22日修正。
+>此問題已在 2024 年 8 月 22 日修正。
 
 當使用者檢視設定的「自訂表單」>「欄位」區域，且該視圖包含原生報告欄位時，連至報告的連結失效。使用者應能點擊報告名稱並被帶往該報告，但點擊報告名稱沒有作用。
 
