@@ -5,7 +5,7 @@ role: User
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
 source-wordcount: '1651'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 96%
       + [Workfront：無法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md)
       + [指派：指派任務時未顯示休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [自訂表單：Forms預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md)
-      + [整合：無法登入適用於Outlook的Workfront](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [首頁：當使用者移動首頁Widget中的欄時建立的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
-      + [檔案：檔案更新時未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
+      + [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [首頁：當使用者在首頁小工具中移動欄時建立的「widget.list.view」](known-issues-workfront/wf-home-widget-list-view.md)
+      + [文件：文件更新中未顯示校訂註解](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md)
       + [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md)
       + [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
