@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 97%
 
 ---
 
@@ -47,6 +47,14 @@ ht-degree: 99%
 **擱置核准Widget顯示已刪除的檔案**
 
 當使用者檢視其首頁上的待核准小工具時，他們會看到已刪除的文件。使用者若點擊其中一個文件，便會被帶往一個空白頁面。
+
+#### 使用者
+
+**使用者設定檔電子郵件地區設定欄位已停用**
+
+對於IMS上的組織，語言偏好設定會儲存在每個使用者的Adobe Experience Cloud設定檔中。 Workfront使用者設定檔中的電子郵件地區設定欄位已停用（僅適用於IMS組織），該欄位上的工具提示提供有關如何存取Adobe設定檔中語言設定的指示。
+
+這解決了當管理員嘗試變更使用者的電子郵件地區設定設定時，其會回覆為英文的問題。
 
 +++
 

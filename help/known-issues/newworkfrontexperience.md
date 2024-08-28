@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 96%
+source-wordcount: '1064'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日 |
 | [Workfront：無法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日 |
 | [報告：報告傳送延遲或遺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日 |
 | [指派：指派任務時未顯示休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日 |
