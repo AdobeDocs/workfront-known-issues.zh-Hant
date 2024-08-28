@@ -3,10 +3,10 @@ title: 「Workfront：無法使用SSO」
 description: 「使用SSO的Workfront功能傳回「糟糕」錯誤。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 31%
+source-wordcount: '96'
+ht-degree: 29%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->* 這已在預覽沙箱環境中報告。
->* 使用舊版(非Adobe) SSO的組織已報告過此問題
+>* 這已在預覽沙箱環境和自訂重新整理沙箱環境中報告。
+>* 使用舊版(非Adobe) SSO的組織已報告過此問題。
 
 使用SSO的Workfront功能傳回下列錯誤：
 
