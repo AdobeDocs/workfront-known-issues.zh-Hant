@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
+source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '418'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
 | [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
-| [自訂表單：自訂表單未從文件中刪除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 
@@ -40,7 +39,6 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
-| [文件：按一下文件名稱會導向到空白頁](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
 | [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
