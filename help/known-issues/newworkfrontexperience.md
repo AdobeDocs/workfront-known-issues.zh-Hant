@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
-ht-degree: 95%
+source-wordcount: '1051'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [面板：連線的卡片在不正確的資料行](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日 |
 | [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日 |
 | [Workfront：無法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日 |
 | [報告：報告傳送延遲或遺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日 |
