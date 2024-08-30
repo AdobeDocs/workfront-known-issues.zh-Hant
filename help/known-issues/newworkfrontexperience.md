@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
 workflow-type: tm+mt
-source-wordcount: '1051'
-ht-degree: 94%
+source-wordcount: '1054'
+ht-degree: 93%
 
 ---
 
@@ -55,14 +55,14 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [Workfront：日期以不正確的格式顯示](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日 |
+| [檔案：按一下檔名稱指向空白傳呼機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日 |
 | [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月29日 |
 | [群組：子群組未正確顯示](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024年8月28日 |
 | [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日 |
-| [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月26日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 22 日 |
 | [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 19 日 |
-| [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
 | [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [整合：從 Outlook 建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024 年 8 月 14 日 |
