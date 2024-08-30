@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1671'
-ht-degree: 97%
+source-wordcount: '1662'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
       + [Workfront：日期以不正確的格式顯示](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [群組：子群組未正確顯示](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
-      + [Workfront：無法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md)
-      + [指派：指派任務時未顯示休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [指派：指派任務時不會出現休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [首頁：當使用者在首頁小工具中移動欄時建立的「widget.list.view」](known-issues-workfront/wf-home-widget-list-view.md)
@@ -40,7 +40,6 @@ ht-degree: 97%
       + [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [使用者：使用者的電子郵件語系設定無法儲存](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [整合：從 Outlook 建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：設定通知偏好設定時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md)
       + [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
@@ -215,7 +214,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [Workfront Fusion： 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
+      + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：Workfront 模組發生 RuntimeError 並傳送 200 回應](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
