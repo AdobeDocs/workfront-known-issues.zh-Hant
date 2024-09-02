@@ -1,18 +1,18 @@
 ---
-title: 「Workfront Fusion： 401 InvalidAccessTokenError」
-description: 「案例發生401 InvalidAccessTokenError錯誤。 這些錯誤是間歇性的。」
+title: 「Workfront Fusion：401 InvalidAccessTokenError」
+description: 「場景遇到 401 InvalidAccessTokenError 錯誤。這些錯誤是間歇性的。」
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Fusion： 401 InvalidAccessTokenError
+# Workfront Fusion：401 InvalidAccessTokenError
 
-案例發生`401 InvalidAccessTokenError`個錯誤。 這些錯誤是間歇性的。
+場景遇到 `401 InvalidAccessTokenError` 錯誤。這些錯誤是間歇性的。
 
-_於2024年8月1日首次通報。_
+_於 2024 年 8 月 1 日首次通報。_

@@ -4,7 +4,7 @@ description: 「已排定傳遞的報告未依預期傳遞。可能會延遲傳�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 99544be489735d604e5fde79ab84575d0c751ad6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 

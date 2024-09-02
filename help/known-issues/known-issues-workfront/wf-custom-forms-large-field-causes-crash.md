@@ -4,9 +4,9 @@ description: 「當使用者嘗試在欄位清單頁面上編輯大型欄位時�
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年8月22日修正。
+>此問題已在 2024 年 8 月 22 日修正。
 
 當使用者嘗試在欄位清單頁面上編輯大型欄位時，頁面會因以下錯誤而當機：
 
