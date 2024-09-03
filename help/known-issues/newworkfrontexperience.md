@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 96%
+source-wordcount: '1060'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [行動裝置：無法登出，而且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日 |
+| [面板：卡片狀態不符合連線的物件，並略過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日 |
+| [儀表板：在報表中選取「匯出」按鈕，捲動至頁面](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)的頂端 | 2024年9月3日 |
 | [面板：連線的卡片在不正確的資料行](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日 |
 | [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日 |
 | [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |

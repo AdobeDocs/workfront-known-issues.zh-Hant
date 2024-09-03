@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 98%
+source-wordcount: '1694'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [行動：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [看板：卡片狀態不符合連線物件並略過濾鏡](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [儀表板：在報表中選取「匯出」按鈕，可捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日期以不正確的格式顯示](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [群組：子群組未正確顯示](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
