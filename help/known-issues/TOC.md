@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
-source-wordcount: '1694'
-ht-degree: 96%
+source-wordcount: '1700'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
       + [行動：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [看板：卡片狀態不符合連線物件並略過濾鏡](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [儀表板：在報表中選取「匯出」按鈕，可捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
-      + [Workfront：日期以不正確的格式顯示](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
-      + [群組：子群組未正確顯示](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
+      + [Workfront：日期顯示格式不正確](known-issues-workfront/wf-workfront-date-format-incorrect.md)
+      + [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [群組：子群組顯示不正確](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md)
       + [指派：指派任務時不會出現休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
@@ -217,6 +217,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion： Webhook佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
