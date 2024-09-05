@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: ht
-source-wordcount: '5326'
-ht-degree: 100%
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '5452'
+ht-degree: 99%
 
 ---
 
@@ -23,6 +23,30 @@ ht-degree: 100%
 有關 2024 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 2024 年進行了以下維護更新。
+
+## 2024 年 9 月更新
+
++++**於2024年9月5日維護更新**
+
+### 2024年9月5日維護更新
+
+#### 群組
+
+**子群組未正確顯示**
+
+當使用者查看「設定」區域中的「群組」清單時，他們會發現父群組下未正確列出子群組。子群組正確儲存在父群組下，但清單可能讓使用者感到困惑。
+
+如果使用者開啟子群組，他們可以在階層連結中看到子群組正確儲存在父群組下。
+
+#### 使用者
+
+**無法重新啟用使用者**
+
+當使用者嘗試使用「更多」選單中的「重新啟用使用者」選項重新啟動使用者時，他們可以為使用者選取存取層級，但系統不會儲存變更。使用者反而會看到以下錯誤：
+
+「homeGroupID 不能是空值」
+
++++
 
 ## 2024 年 8 月更新
 

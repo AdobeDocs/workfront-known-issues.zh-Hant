@@ -4,14 +4,18 @@ description: 當使用者試圖檢視新的首頁時，網站當機並顯示錯�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 # 首頁：首頁因「記憶體不足」錯誤而當機
+
+>[!NOTE]
+>
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
 當使用者嘗試檢視新的首頁時，網站當機並顯示以下錯誤訊息：
 

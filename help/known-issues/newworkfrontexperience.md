@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 96%
+source-wordcount: '1031'
+ht-degree: 95%
 
 ---
 
@@ -25,17 +25,16 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [看板：無法從卡片預覽或下載檔案](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日 |
 | [行動裝置：無法登出，而且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日 |
 | [面板：卡片狀態不符合連線的物件，並略過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日 |
 | [儀表板：在報表中選取「匯出」按鈕，捲動至頁面](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)的頂端 | 2024年9月3日 |
 | [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
-| [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024 年 8 月 28 日 |
 | [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
 | [報告：報告傳遞延遲或缺少](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 26 日 |
 | [指派：指派任務時不會出現休假圖示](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024 年 8 月 26 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 8 月 21 日 |
 | [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
-| [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 15 日 |
 | [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 8 月 14 日 |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
@@ -54,10 +53,7 @@ ht-degree: 96%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 30 日 |
-| [Workfront：日期顯示格式不正確](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 30 日 |
 | [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 29 日 |
-| [群組：子群組顯示不正確](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024 年 8 月 28 日 |
-| [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md) | 2024 年 8 月 26 日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 22 日 |
 | [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 19 日 |
@@ -66,7 +62,6 @@ ht-degree: 96%
 | [整合：從 Outlook 建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024 年 8 月 14 日 |
 | [通知：設定通知偏好時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
-| [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
 | [自訂表單：輸入顯示邏輯時表單產生器當機](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
@@ -142,6 +137,7 @@ ht-degree: 96%
 | [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 9 日 |
 | [首頁：重新整理後核准委派日期發生變化並傳送 2 封電子郵件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 9 日 |
 | [行事曆：任務未顯示](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |
+| [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月5日 |
 
 {style="table-layout:auto"}
 

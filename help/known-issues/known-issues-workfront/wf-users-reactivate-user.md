@@ -1,17 +1,21 @@
 ---
 title: 「使用者：無法重新啟用使用者」
-description: 「當使用者嘗試使用『更多』選單中的『重新啟用使用者』選項重新啟動使用者時，他們可以為使用者選取存取層級，但系統不會儲存變更。使用者反而會看到錯誤。此問題有解決方法。」
+description: 當使用者嘗試使用重新啟用使用者選項（在更多選單中），他們可以為使用者選擇存取層級，但未儲存變更。 使用者反而會看到錯誤。此問題有解決方法。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 122608dfb019c55d370a3ffebede9fc5e68be76b
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 66%
 
 ---
 
-
 # 使用者：無法重新啟用使用者
+
+>[!NOTE]
+>
+>此文章已在2024年9月5日修正。
 
 當使用者嘗試使用「更多」選單中的「重新啟用使用者」選項重新啟動使用者時，他們可以為使用者選取存取層級，但系統不會儲存變更。使用者反而會看到以下錯誤：
 
