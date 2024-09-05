@@ -1,13 +1,13 @@
 ---
-title: 「首頁：首頁當機並出現記憶體不足錯誤」
-description: 當使用者嘗試檢視新首頁時，網站當機並顯示錯誤訊息。 此問題有解決方法。
+title: 「首頁：首頁因記憶體不足錯誤而當機」
+description: 當使用者試圖檢視新的首頁時，網站當機並顯示錯誤訊息。此問題有解決方法。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 

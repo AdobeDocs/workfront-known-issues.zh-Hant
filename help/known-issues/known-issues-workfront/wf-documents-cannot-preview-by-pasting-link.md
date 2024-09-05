@@ -1,13 +1,13 @@
 ---
-title: 「檔案：無法使用預覽連結預覽檔案」
-description: 使用者無法檢視檔案預覽。
+title: 「文件：無法使用預覽連結預覽文件」
+description: 使用者無法檢視文件預覽。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 73%
 
 >[!NOTE]
 >
->此問題已在2024年8月29日修正。
+>此問題已在 2024 年 8 月 29 日修正。
 
 使用者無法透過以下方式檢視文件預覽：
 

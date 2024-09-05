@@ -1,13 +1,13 @@
 ---
-title: 「檔案：檔案更新時未顯示校訂評論」
+title: 「文件：文件更新中未顯示校訂註解」
 description: 當使用者對校訂加上註解時，該註解不會複製到 Workfront 中校訂的文件更新區域。
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
 exl-id: 37b8f980-c782-404f-838d-7404f9112778
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

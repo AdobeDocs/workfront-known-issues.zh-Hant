@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5326'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 98%
 
 ## 2024 年 8 月更新
 
-+++**於2024年8月29日維護更新**
++++**於 2024 年 8 月 29 日維護更新**
 
-### 2024年8月29日維護更新
+### 於 2024 年 8 月 29 日維護更新
 
 #### 自訂表單
 
@@ -50,11 +50,11 @@ ht-degree: 98%
 
 #### 使用者
 
-**使用者設定檔電子郵件地區設定欄位已停用**
+**使用者設定檔電子郵件語系設定欄位已停用**
 
-對於IMS上的組織，語言偏好設定會儲存在每個使用者的Adobe Experience Cloud設定檔中。 Workfront使用者設定檔中的電子郵件地區設定欄位已停用（僅適用於IMS組織），該欄位上的工具提示提供有關如何存取Adobe設定檔中語言設定的指示。
+對於 IMS 上的組織，語言偏好設定會儲存在每個使用者的 Adobe Experience Cloud 設定檔中。Workfront 使用者設定檔中的電子郵件語系設定欄位已停用 (僅適用於 IMS 組織)，欄位上的工具提示會說明如何存取 Adobe 設定檔中的語言設定。
 
-這解決了當管理員嘗試變更使用者的電子郵件地區設定設定時，其會回覆為英文的問題。
+這解決了當管理員嘗試變更使用者的電子郵件語系設定時，它會恢復成英語的問題。
 
 +++
 
