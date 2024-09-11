@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion： Webhook佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024年9月4日 |
+| [Workfront Fusion：Webhook 佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024 年 9 月 4 日 |
 | [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024 年 8 月 27 日 |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 
