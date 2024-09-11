@@ -5,7 +5,7 @@ role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [看板：無法從卡片預覽或下載檔案](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
-      + [行動：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
-      + [看板：卡片狀態不符合連線物件並略過濾鏡](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
-      + [儀表板：在報表中選取「匯出」按鈕，可捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
+      + [行動裝置：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [儀表板：選取報告的「匯出」按鈕會捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日期顯示格式不正確](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [群組：子群組顯示不正確](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
@@ -218,7 +218,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [Workfront Fusion： Webhook佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
+      + [Workfront Fusion：Webhook 佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)

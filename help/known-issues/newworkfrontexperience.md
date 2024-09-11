@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
 source-wordcount: '1014'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 95%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [看板：無法從卡片預覽或下載檔案](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日 |
-| [行動裝置：無法登出，而且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日 |
-| [面板：卡片狀態不符合連線的物件，並略過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日 |
-| [儀表板：在報表中選取「匯出」按鈕，捲動至頁面](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)的頂端 | 2024年9月3日 |
+| [行動裝置：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024 年 9 月 3 日 |
+| [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
+| [儀表板：選取報告的「匯出」按鈕會捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024 年 9 月 3 日 |
 | [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
 | [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
 | [報告：報告傳遞延遲或缺少](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 26 日 |
