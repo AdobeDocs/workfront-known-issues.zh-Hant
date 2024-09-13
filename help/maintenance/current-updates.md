@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '5526'
+source-wordcount: '5452'
 ht-degree: 99%
 
 ---
@@ -25,20 +25,6 @@ ht-degree: 99%
 2024 年進行了以下維護更新。
 
 ## 2024 年 9 月更新
-
-+++**於2024年9月12日維護更新**
-
-### 2024年9月12日維護更新
-
-#### 整合
-
-**從Outlook建立要求時發生錯誤**
-
-當使用者嘗試從 Workfront 建立一項 Outlook 整合請求，並且新增了附件時。使用者會看到「發生錯誤。請稍後再試。」的訊息。
-
-請求已建立，並且有一個用於電子郵件附件的資料夾，但該資料夾是空的，而且附件未被新增至請求中。
-
-+++
 
 +++**於2024年9月5日維護更新**
 

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 3a52af7587a41db66d379dad13907baf3064a977
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '1746'
-ht-degree: 97%
+source-wordcount: '1708'
+ht-degree: 99%
 
 ---
 
@@ -17,16 +17,12 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [指派：任務指派失敗且繼承的許可權已移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
-      + [群組：已刪除的群組狀態會重新顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [API：由於SQL錯誤，API呼叫失敗](known-issues-workfront/wf-api-call-failed-sql-error.md)
-      + [敏捷：在指派Scrum團隊時新增到疊代選項列出兩次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [看板：無法從卡片預覽或下載檔案](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [行動裝置：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [儀表板：選取報告的「匯出」按鈕會捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日期顯示格式不正確](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
+      + [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [群組：子群組顯示不正確](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [使用者：無法重新啟用使用者](known-issues-workfront/wf-users-reactivate-user.md)
@@ -197,7 +193,6 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [校訂：作用中的使用者顯示為已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md)
