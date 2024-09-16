@@ -1,22 +1,22 @@
 ---
-title: 「看板：無法從卡片預覽或下載檔案」
-description: 「Word檔案(.docx)無法從詳細資訊卡片檢視的檔案區段預覽或下載。」
+title: 「展示板：無法從卡片預覽或下載文件」
+description: 無法從詳細卡片視圖的「文件」區段預覽或下載 Word 文件 (.docx)。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+exl-id: 2fd644b6-b7c0-47b1-9de5-93fc35069b63
+source-git-commit: dfb51d03698d0bdbc08ab202bec5f8df133f3c55
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# 展示板：無法從卡片預覽或下載文件
 
-# 看板：無法從卡片預覽或下載檔案
-
-Word檔案(.docx)無法從卡片完整檢視的檔案區段預覽或下載。
+無法從卡片完整視圖的「文件」區段預覽或下載 Word 文件 (.docx)。
 
 **解決方法**
 
-直接導覽至專案、任務或問題的檔案索引標籤，即可下載檔案。
+可以直接前往專案、任務或問題的「文件」索引標籤下載文件。
 
-_於2024年9月2日首次通報。_
+_於 2024 年 9 月 2 日首次回報。_
