@@ -5,7 +5,7 @@ role: User
 source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [看板：無法從卡片預覽或下載檔案](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
+      + [展示板：無法從卡片預覽或下載文件](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [行動裝置：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [儀表板：選取報告的「匯出」按鈕會捲動至頁面頂端](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
