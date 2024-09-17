@@ -4,14 +4,18 @@ description: 「當使用者開啟校訂時，兩個瀏覽器標籤會開啟，�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
-source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 # 校訂：開啟校訂會開啟多個副本
+
+>[!NOTE]
+>
+>此問題已在2024年9月10日修正。
 
 當使用者開啟校訂時，兩個瀏覽器標籤會開啟，其中包含相同的校訂。
 

@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
 workflow-type: tm+mt
-source-wordcount: '1014'
-ht-degree: 100%
+source-wordcount: '1055'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [API：由於SQL錯誤，API呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日 |
+| [敏捷：新增到疊代選項在指派Scrum團隊時列出兩次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日 |
+| [校訂：作用中的使用者顯示為已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日 |
 | [展示板：無法從卡片預覽或下載文件](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
 | [行動裝置：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024 年 9 月 3 日 |
 | [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
@@ -38,7 +41,6 @@ ht-degree: 100%
 | [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 8 月 14 日 |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
-| [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
 | [設定：以其他使用者身分登入時不會出現「登入身分」橫幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
@@ -51,19 +53,20 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [指派：任務指派失敗且繼承的許可權已移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | 2024年9月12日 |
+| [群組：已刪除的群組狀態會重新出現](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日 |
+| [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日 |
+| [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年9月12日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 30 日 |
-| [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 29 日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 8 月 22 日 |
 | [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 8 月 19 日 |
 | [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
 | [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
-| [整合：從 Outlook 建立請求時發生錯誤](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024 年 8 月 14 日 |
 | [通知：設定通知偏好時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：載入展示板時出現錯誤](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
 | [自訂表單：建立大型表單時瀏覽器當機](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
 | [自訂表單：輸入顯示邏輯時表單產生器當機](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
-| [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日 |
 | [存取層級：「設定」區域中的存取層級重複](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
@@ -77,6 +80,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日 |
+| [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月12日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 8 月 30 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 8 月 30 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 27 日 |

@@ -1,17 +1,21 @@
 ---
 title: 「自訂表單：計算欄位顯示不正確的值」
-description: 「當使用者檢視參考複選外部查詢欄位值的計算欄位時，計算欄位僅顯示一個選取的值。即使選取多個值，並且在使用者編輯欄位時顯示多個值，也可能會發生這種情況。」
+description: 當使用者檢視參考複選外部查詢欄位值的計算欄位時，計算欄位僅顯示一個選取的值。即使選取多個值，並且在使用者編輯欄位時顯示多個值，也可能會發生這種情況。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+exl-id: a6768daa-f248-4311-8274-3ad4310faad7
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '132'
+ht-degree: 94%
 
 ---
 
-
 # 自訂表單：計算欄位顯示不正確的值
+
+>[!NOTE]
+>
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
 當使用者檢視參考複選外部查詢欄位值的計算欄位時，計算欄位僅顯示一個選取的值。即使選取多個值，並且在使用者編輯欄位時顯示多個值，也可能會發生這種情況。
 

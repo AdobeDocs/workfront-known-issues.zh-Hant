@@ -1,17 +1,21 @@
 ---
-title: 「自訂表單：無法捲動外部查詢欄位」
-description: 「當使用者嘗試檢視外部查詢欄位中的選項時，選項下拉式清單不會捲動，並且使用者無法看到整個選項清單」
+title: 「自訂表單：無法捲動外部查閱欄位」
+description: 當使用者嘗試檢視外部查詢欄位中的選項時，選項下拉式清單不會捲動，並且使用者無法看到整個選項清單
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 88%
 
 ---
 
-
 # 自訂表單：無法捲動外部查詢欄位
+
+>[!NOTE]
+>
+>此問題已在2024年9月5日修正。
 
 當使用者嘗試檢視外部查詢欄位中的選項時，選項下拉式清單不會捲動，並且使用者無法看到整個選項清單
 
