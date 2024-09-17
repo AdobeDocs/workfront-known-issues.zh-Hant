@@ -3,14 +3,18 @@ title: 「API：由於SQL錯誤，API呼叫失敗」
 description: 「進行API呼叫時，呼叫會因SQL錯誤而失敗。」
 hidefromtoc: true
 feature: Workfront API
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 8%
+source-wordcount: '51'
+ht-degree: 17%
 
 ---
 
 # API：由於SQL錯誤，API呼叫失敗
+
+>[!NOTE]
+>
+>此問題已解決。
 
 進行API呼叫時，該呼叫會因SQL錯誤而失敗。
 
