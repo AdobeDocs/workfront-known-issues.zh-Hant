@@ -4,18 +4,14 @@ description: 當 Workfront Fusion 中發生應該觸發 Webhook 情境的事件�
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
-source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 83%
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
 # Workfront Fusion：Webhook 佇列未處理
-
->[!NOTE]
->
->此問題已在2024年9月13日修正。
 
 當 Workfront Fusion 中發生應該觸發 Webhook 情境的事件時，該情境並未執行，且事件仍保留在 Webhook 佇列中。
 
