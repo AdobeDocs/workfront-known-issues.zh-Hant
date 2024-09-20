@@ -1,13 +1,13 @@
 ---
-title: 「整合：從Outlook建立請求時發生錯誤」
-description: 當使用者嘗試從 Workfront 建立一項 Outlook 整合請求，並且新增了附件時。使用者會看到『發生錯誤。請稍後再試。
+title: 「整合：從 Outlook 建立請求時發生錯誤」
+description: 當使用者嘗試從 Workfront 建立一項 Outlook 整合請求，並且新增了附件時。使用者會看到「發生錯誤，請稍後再試」訊息。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 84%
+ht-degree: 94%
 
 ---
 
