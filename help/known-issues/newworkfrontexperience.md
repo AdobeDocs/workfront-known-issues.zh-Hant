@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1057'
 ht-degree: 93%
 
 ---
@@ -52,6 +52,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
+| [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日 |
 | [指派：任務指派失敗且繼承的許可權已移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | 2024年9月12日 |
 | [群組：已刪除的群組狀態會重新出現](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日 |
 | [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日 |
