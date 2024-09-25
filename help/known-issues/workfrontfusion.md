@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 99%
+source-wordcount: '178'
+ht-degree: 93%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 無 |  |
+| [Workfront Fusion：無法從Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)新增或刪除使用者 | 2024年9月24日 |
 
 {style="table-layout:auto"}
 

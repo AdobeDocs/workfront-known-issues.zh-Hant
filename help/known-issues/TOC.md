@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
+source-git-commit: b0e11b04a2c76db4ca0f1f1c555a83fc068d8eeb
 workflow-type: tm+mt
-source-wordcount: '1782'
+source-wordcount: '1792'
 ht-degree: 95%
 
 ---
@@ -227,6 +227,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：無法從Workfront Fusion新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：Webhook 佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
