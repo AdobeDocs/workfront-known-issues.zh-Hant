@@ -1,17 +1,21 @@
 ---
-title: 「指派：任務指派失敗且繼承的許可權已移除」
-description: 「將任務指派給團隊時，指派失敗並傳回錯誤。 此外，繼承的許可權會被移除，使得使用者無法存取他們嘗試指派的工作。」
+title: 「指派：任務指派失敗，繼承的權限遭到移除」
+description: 「將任務指派給團隊時，指派失敗並傳回錯誤。此外，繼承的權限遭到刪除，使用者進而失去對其嘗試指派任務的存取權。」
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
-# 指派：任務指派失敗且繼承的許可權已移除
+# 指派：任務指派失敗，繼承的權限遭到移除
 
-將任務指派給團隊時，指派失敗並傳回錯誤。 此外，繼承的許可權會被移除，使用者無法存取其嘗試指派的任務。
+>[!NOTE]
+>
+>此問題已在 2024 年 9 月 19 日修正。
 
-_於2024年9月5日首次通報。_
+將任務指派給團隊時，指派失敗並傳回錯誤。此外，繼承的權限遭到刪除，使用者進而失去對其嘗試指派任務的存取權。
+
+_於 2024 年 9 月 5 日首次回報。_

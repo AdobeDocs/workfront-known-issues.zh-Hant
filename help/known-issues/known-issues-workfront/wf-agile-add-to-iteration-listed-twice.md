@@ -1,17 +1,21 @@
 ---
-title: 「敏捷：在指派Scrum團隊時新增到疊代選項列出兩次」
-description: 「將任務或問題指派給敏捷Scrum團隊時，新增到疊代選項會在更多選單中出現兩次。 這不會影響指派團隊的能力，也不會出現在非Scrum敏捷團隊中。」
+title: 「敏捷：指派 Scrum 團隊時，『新增至疊代』選項出現兩次」
+description: 「將任務或問題指派給敏捷 Scrum 團隊時，『新增至疊代』選項會在「更多」選單中出現兩次。此情況不會影響指派團隊的功能，也不會出現在非 Scrum 敏捷團隊中。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 94%
 
 ---
 
-# 敏捷：在指派Scrum團隊時新增到疊代選項列出兩次
+# 敏捷：指派 Scrum 團隊時，『新增至疊代』選項出現兩次
 
-將任務或問題指派給敏捷Scrum團隊時，「新增到疊代」選項會在「更多」選單中出現兩次。 這不會影響指派團隊的能力，也不會出現在非Scrum敏捷團隊中。
+>[!NOTE]
+>
+>此問題已在2024年9月26日修正。
 
-_於2024年9月4日首次通報。_
+將任務或問題指派給敏捷 Scrum 團隊時，「新增至疊代」選項會在「更多」選單中出現兩次。此情況不會影響指派團隊的功能，也不會出現在非 Scrum 敏捷團隊中。
+
+_於 2024 年 9 月 4 日首次回報。_

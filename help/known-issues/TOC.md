@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: b0e11b04a2c76db4ca0f1f1c555a83fc068d8eeb
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '1792'
-ht-degree: 95%
+source-wordcount: '1804'
+ht-degree: 98%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
       + [看板：移動卡片或指派使用者時發生錯誤](known-issues-workfront/wf-boards-error-moving-cards.md)
-      + [報表：Report Builder載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
-      + [報告：無法捲動檢視整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
-      + [指派：任務指派失敗且繼承的許可權已移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
-      + [群組：已刪除的群組狀態會重新顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [API：由於SQL錯誤，API呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
-      + [敏捷：在指派Scrum團隊時新增到疊代選項列出兩次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
+      + [指派：任務指派失敗，繼承的權限遭到移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [群組：已刪除的群組狀態再次顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [敏捷：指派 Scrum 團隊時，『新增至疊代』選項出現兩次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [校訂：作用中的使用者顯示為已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [展示板：無法從卡片預覽或下載文件](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [行動裝置：無法登出且遺失使用者設定檔資訊](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
@@ -201,7 +201,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [Workfront Proof：內容貼在案頭校訂檢視器的「更新」區段不正確](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
+      + [Workfront Proof：無法在桌面校訂檢視器的「更新」區段中正確貼上內容](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：無法展開工作流程](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -227,6 +227,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：資料存放區問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
+      + [Workfront Fusion：執行詳細資訊顯示為處理](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion：無法從Workfront Fusion新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：Webhook 佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
