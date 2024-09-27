@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此問題已在2024年9月10日修正。
+>此問題已在 2024 年 9 月 10 日修正。
 
 當使用者開啟校訂時，兩個瀏覽器標籤會開啟，其中包含相同的校訂。
 

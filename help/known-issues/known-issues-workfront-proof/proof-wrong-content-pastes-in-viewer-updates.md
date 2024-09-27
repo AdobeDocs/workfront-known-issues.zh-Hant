@@ -1,17 +1,17 @@
 ---
-title: 「Workfront Proof：內容貼在案頭校訂檢視器更新區段不正確」
-description: 「當嘗試將內容貼上到案頭校訂檢視器中校訂的更新區段時，內容不符合剪貼簿上複製的內容。」
+title: 「Workfront Proof：無法在桌面校訂檢視器的『更新』區段中正確貼上內容」
+description: 「嘗試將內容貼到桌面校訂檢視器中校訂的『更新』區段時，內容與剪貼簿上複製的內容不符。」
 hidefromtoc: true
 feature: Workfront Proof
 source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront Proof：內容貼在案頭校訂檢視器的「更新」區段不正確
+# Workfront Proof：無法在桌面校訂檢視器的「更新」區段中正確貼上內容
 
-當嘗試將內容貼上到案頭校訂檢視器中校訂的更新區段時，內容與剪貼簿上複製的內容不符。
+嘗試將內容貼到桌面校訂檢視器中校訂的『更新』區段時，內容與剪貼簿上複製的內容不符。
 
-_於2024年8月30日首次通報。_
+_於 2024 年 8 月 30 日首次通報。_

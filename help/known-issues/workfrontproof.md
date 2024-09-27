@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof：內容貼在案頭校訂檢視器的「更新」區段不正確](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | 2024年9月19日 |
+| [Workfront Proof：無法在桌面校訂檢視器的「更新」區段中正確貼上內容](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | 2024 年 9 月 19 日 |
 | [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
