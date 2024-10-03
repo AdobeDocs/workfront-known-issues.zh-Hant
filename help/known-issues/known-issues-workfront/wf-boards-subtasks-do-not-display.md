@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此問題已在2024年9月24日修正。
+>此問題已在 2024 年 9 月 24 日修正。
 
 當使用者檢視父任務卡片時，該父任務的子任務不會顯示在卡片上。相反地，卡片顯示有 0 個子任務。
 

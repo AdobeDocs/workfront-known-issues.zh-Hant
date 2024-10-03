@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1804'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [看板：移動卡片或指派使用者時發生錯誤](known-issues-workfront/wf-boards-error-moving-cards.md)
+      + [展示板：移動卡片或指派使用者時發生錯誤](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [指派：任務指派失敗，繼承的權限遭到移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
@@ -227,9 +227,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
-      + [Workfront Fusion：資料存放區問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
+      + [Workfront Fusion：資料儲存區問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion：執行詳細資訊顯示為處理](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
-      + [Workfront Fusion：無法從Workfront Fusion新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
+      + [Workfront Fusion：無法從 Workfront Fusion 新增或移除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：Webhook 佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)

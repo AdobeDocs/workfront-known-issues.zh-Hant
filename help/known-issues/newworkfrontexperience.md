@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日 |
+| [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [群組：已刪除的群組狀態再次顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
 | [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
 | [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 9 月 12 日 |

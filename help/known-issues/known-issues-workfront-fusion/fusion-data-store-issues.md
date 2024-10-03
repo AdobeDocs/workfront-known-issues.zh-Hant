@@ -1,25 +1,25 @@
 ---
-title: 「Workfront Fusion：資料存放區問題」
-description: 「已報告資料存放區中布林欄位的相關下列問題：資料存放區未傳回值為EMPTY的欄位值，使用者無法直接在資料存放區中將值設為FALSE。」
+title: 「Workfront Fusion：資料儲存區問題」
+description: 「已報告有關資料儲存區內布林欄位的以下問題：資料儲存區對於 EMPTY 值的欄位不傳回任何值，且使用者無法直接在資料儲存區中將值設為 FALSE。」
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Fusion：資料存放區問題
+# Workfront Fusion：資料儲存區問題
 
-已報告資料存放區中布林值欄位的以下問題：
+已報告有關資料儲存區內布林欄位的以下問題：
 
-* 資料存放區未傳回值為EMPTY的欄位值。
-* 使用者無法直接在資料存放區中將值設為FALSE。
+* 資料儲存區不會對 EMPTY 值的欄位傳回任何值。
+* 使用者無法直接在資料儲存區中將值設為 FALSE。
 
 **解決方法**
 
-若要將值設為FALSE，請使用適當的更新記錄模組。
+若要將值設為 FALSE，請使用適當的「更新記錄」模組。
 
-_於2024年9月19日首次通報。_
+_於 2024 年 9 月 19 日首次回報。_
