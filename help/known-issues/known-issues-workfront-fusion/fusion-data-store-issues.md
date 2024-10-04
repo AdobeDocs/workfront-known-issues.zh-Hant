@@ -3,15 +3,19 @@ title: 「Workfront Fusion：資料儲存區問題」
 description: 「已報告有關資料儲存區內布林欄位的以下問題：資料儲存區對於 EMPTY 值的欄位不傳回任何值，且使用者無法直接在資料儲存區中將值設為 FALSE。」
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '100'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 94%
 
 ---
 
 
 # Workfront Fusion：資料儲存區問題
+
+>[!NOTE]
+>
+>此文章已在2024年9月26日修正。
 
 已報告有關資料儲存區內布林欄位的以下問題：
 

@@ -4,14 +4,18 @@ description: 當使用者嘗試載入展示板時，展示板未載入，且出�
 hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
-source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 93%
 
 ---
 
 # 展示板：載入展示板時出現錯誤
+
+>[!NOTE]
+>
+>此文章已在2024年10月3日修正。
 
 當使用者嘗試載入展示板時，展示板未載入，且出現錯誤訊息。
 

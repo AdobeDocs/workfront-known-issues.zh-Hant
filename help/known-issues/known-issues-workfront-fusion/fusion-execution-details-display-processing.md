@@ -3,15 +3,19 @@ title: 「Workfront Fusion：執行詳細資訊顯示為處理」
 description: 「當使用者嘗試查看執行的詳細資訊時，他們會在執行完成後很長一段時間看到該執行動作顯示處理徽章。」
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25c18a4c5f65bbfb93c4d18e01e8a49e8ccb8699
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 93%
 
 ---
 
 
 # Workfront Fusion：執行詳細資訊顯示為處理
+
+>[!NOTE]
+>
+>此文章已在2024年10月3日修正。
 
 當使用者嘗試查看執行的詳細資訊時，他們會在執行完成後很長一段時間看到該執行動作顯示「處理」徽章。
 

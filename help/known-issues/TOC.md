@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '1804'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [以重新導向方式登入或導致錯誤](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [首頁：「標籤為完成」關閉「我的問題」Widget的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [專案：由於「存取以刪除」錯誤而無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [校訂：為透過Fusion從AEM連結的檔案建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [展示板：移動卡片或指派使用者時發生錯誤](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)

@@ -4,10 +4,10 @@ description: 擁有投稿人授權的使用者不會收到通知電子郵件。�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已關閉，因為情況已如期運作。
+>此文章已在2024年10月3日修正。
 
 擁有投稿人授權的使用者不會收到通知電子郵件。這可能會影響即時通知電子郵件和每日摘要電子郵件。
 
