@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront]  行動應用程式的已通報已知問�
 keywords: 新檔案，新增檔案
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '57'
-ht-degree: 100%
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 86%
 
 ---
 
@@ -19,18 +19,17 @@ ht-degree: 100%
 >
 >關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
-**[!DNL Workfront Mobile]** 目前沒有已知問題
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**-->
 
+## 新增
+
+這些最近報告的問題目前正在審查中。
+
+| **問題** | **上次修改** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile：校訂電子郵件連結無法在iPhone上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
 
 <!--
-## New
-
-These recently reported issues are currently under review.
-
-| **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-
-
 ## Current Issues
 
 |Issue  |Last Modified   | 

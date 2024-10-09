@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1087'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,9 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [檔案：無法從物件[檔案]索引標籤](known-issues-workfront/wf-documents-cannot-move-from-object.md)移動檔案 | 2024年10月9日 |
+| [面板：任務和問題的重複狀態選項](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024年10月9日 |
+| [Workfront Mobile：校訂電子郵件連結無法在iPhone上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：無法從卡片預覽或下載文件](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
@@ -49,11 +52,11 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
-| [以重新導向方式登入或導致錯誤](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024年10月3日 |
-| [首頁：「標籤為完成」關閉「我的問題」Widget](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)的摘要窗格 | 2024年10月3日 |
-| [專案：由於「存取許可權刪除」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024年10月3日 |
-| [校訂：為透過Fusion從AEM連結的檔案建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日 |
-| [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年10月3日 |
+| [「登入身分」重新導向到登入頁面或導致錯誤](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024 年 10 月 3 日 |
+| [首頁：「標記為已完成」會關閉「我的問題」小工具的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024 年 10 月 3 日 |
+| [專案：由於「刪除存取權」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
+| [校訂：為透過 Fusion 從 AEM 連結的文件建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
+| [自訂表單：自訂表單上的顯示類型轉換錯誤](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 10 月 3 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [群組：已刪除的群組狀態再次顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
 | [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
@@ -76,6 +79,8 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [首頁：刪除的自訂欄位會持續保留在專案、任務和問題Widget](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日 |
+| [優先順序：群組會防止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024年10月8日 |
 | [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
 | [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |

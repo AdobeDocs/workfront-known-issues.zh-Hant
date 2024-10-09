@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
+source-wordcount: '1888'
 ht-degree: 97%
 
 ---
@@ -17,10 +17,14 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [以重新導向方式登入或導致錯誤](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [首頁：「標籤為完成」關閉「我的問題」Widget的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
-      + [專案：由於「存取以刪除」錯誤而無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [校訂：為透過Fusion從AEM連結的檔案建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [檔案：無法從物件的「檔案」標籤移動檔案](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [面板：任務和問題的重複狀態選項](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [首頁：刪除的自訂欄位會持續保留在專案、任務和問題Widget](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [優先順序：分組可防止排序和內聯編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
+      + [「登入身分」重新導向到登入頁面或導致錯誤](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [首頁：「標記為已完成」會關閉「我的問題」小工具的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [專案：由於「刪除存取權」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [校訂：為透過 Fusion 從 AEM 連結的文件建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [展示板：移動卡片或指派使用者時發生錯誤](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
@@ -205,6 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
+      + [Workfront Mobile：校訂電子郵件連結無法在iPhone上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof：無法在桌面校訂檢視器的「更新」區段中正確貼上內容](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
