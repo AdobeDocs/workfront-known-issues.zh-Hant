@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此文章已在2024年10月3日修正。
+>此文章已在 2024 年 10 月 3 日修正。
 
 擁有投稿人授權的使用者不會收到通知電子郵件。這可能會影響即時通知電子郵件和每日摘要電子郵件。
 

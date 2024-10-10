@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '185'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：為透過Fusion從AEM連結的檔案建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日 |
+| [校訂：為透過 Fusion 從 AEM 連結的文件建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [Workfront Fusion：Webhook 佇列未處理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024 年 9 月 19 日 |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 

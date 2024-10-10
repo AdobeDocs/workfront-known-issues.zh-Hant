@@ -4,9 +4,9 @@ description: 「已報告有關資料儲存區內布林欄位的以下問題：�
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此文章已在2024年9月26日修正。
+>此文章已在 2024 年 9 月 26 日修正。
 
 已報告有關資料儲存區內布林欄位的以下問題：
 

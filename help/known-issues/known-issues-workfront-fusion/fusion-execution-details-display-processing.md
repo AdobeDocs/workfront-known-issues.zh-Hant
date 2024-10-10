@@ -4,9 +4,9 @@ description: 「當使用者嘗試查看執行的詳細資訊時，他們會在�
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已在2024年10月3日修正。
+>此文章已在 2024 年 10 月 3 日修正。
 
 當使用者嘗試查看執行的詳細資訊時，他們會在執行完成後很長一段時間看到該執行動作顯示「處理」徽章。
 
