@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
-source-wordcount: '1888'
+source-wordcount: '1898'
 ht-degree: 97%
 
 ---
@@ -236,6 +236,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：從現在開始設定「從現在」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：資料儲存區問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion：執行詳細資訊顯示為處理](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion：無法從 Workfront Fusion 新增或移除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
