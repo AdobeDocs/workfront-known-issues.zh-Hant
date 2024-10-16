@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile：校訂電子郵件連結無法在iPhone上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
+| [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [校訂：為透過 Fusion 從 AEM 連結的文件建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
 | [校訂：開啟校訂會開啟多個副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
