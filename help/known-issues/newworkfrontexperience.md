@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '1028'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [面板：任務和問題的重複狀態選項](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024年10月9日 |
-| [Workfront Mobile：校訂電子郵件連結無法在iPhone上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
+| [展示板：任務和問題的狀態選項重複](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024 年 10 月 9 日 |
+| [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：無法從卡片預覽或下載文件](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
@@ -72,8 +72,8 @@ ht-degree: 96%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14日 |
-| [首頁：刪除的自訂欄位會持續保留在專案、任務和問題Widget](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日 |
-| [優先順序：群組會防止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024年10月8日 |
+| [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
+| [優先順序：分組阻止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |
 | [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
 | [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |

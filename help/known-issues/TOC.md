@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
 source-wordcount: '1898'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [檔案：無法從物件的「檔案」標籤移動檔案](known-issues-workfront/wf-documents-cannot-move-from-object.md)
-      + [面板：任務和問題的重複狀態選項](known-issues-workfront/wf-boards-duplicate-status-options.md)
-      + [首頁：刪除的自訂欄位會持續保留在專案、任務和問題Widget](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
-      + [優先順序：分組可防止排序和內聯編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
+      + [文件：無法從物件的「文件」標籤移動文件](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [展示板：任務和問題的狀態選項重複](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [優先順序：分組阻止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [「登入身分」重新導向到登入頁面或導致錯誤](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [首頁：「標記為已完成」會關閉「我的問題」小工具的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [專案：由於「刪除存取權」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -209,7 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current}中目前的問題
-      + [Workfront Mobile：校訂電子郵件連結無法在iPhone上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
+      + [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof：無法在桌面校訂檢視器的「更新」區段中正確貼上內容](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
