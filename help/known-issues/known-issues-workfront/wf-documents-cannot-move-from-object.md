@@ -4,9 +4,9 @@ description: 「當嘗試從專案、任務或問題的「文件」標籤移動�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已在2024年10月10日修正。
+>此文章已在 2024 年 10 月 10 日修正。
 
 當嘗試從專案、任務或問題的「文件」標籤移動文件時，使用者會遇到以下錯誤：「載入次要內容時發生錯誤」。
 

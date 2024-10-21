@@ -4,9 +4,9 @@ description: 「當嘗試在預覽或沙箱環境中使用『登入身分』時�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此文章已在2024年10月10日修正。
+>此文章已在 2024 年 10 月 10 日修正。
 
 當嘗試在預覽或沙箱環境中使用「登入身分」時，使用者會被重新導向到登入頁面或出現錯誤。
 

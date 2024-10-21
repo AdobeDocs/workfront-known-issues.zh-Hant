@@ -1,13 +1,13 @@
 ---
-title: 「API：請求逾時」
+title: 'API：請求逾時'
 description: 透過 Workfront API 發出的請求逾時。
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->此文章已在2024年10月9日修正。
+>此文章已在 2024 年 10 月 9 日修正。
 
 透過 Workfront API 發出的請求逾時。
 

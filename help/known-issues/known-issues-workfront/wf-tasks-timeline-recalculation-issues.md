@@ -1,13 +1,13 @@
 ---
-title: 「任務：重新計算時間表的問題」
-description: 已報告有關時間表重新計算的以下問題。
+title: '任務：時間軸重新計算問題'
+description: 以下是已回報的時間軸重新計算問題。
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 73%
 
 >[!NOTE]
 >
->此文章已在2024年10月10日修正。
+>此文章已在 2024 年 10 月 10 日修正。
 
 以下是已回報的時間軸重新計算問題：
 
