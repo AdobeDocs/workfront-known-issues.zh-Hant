@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6368'
+source-wordcount: '6375'
 ht-degree: 96%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 96%
 
 這是預期行為，不應視為問題。
 
-以前，使用者可以在已提交或已關閉的時程表上記錄時間。
+之前，使用者可以透過Workfront API或Workfront Fusion在已提交或已關閉的時程表上記錄時間。
 
 +++
 
