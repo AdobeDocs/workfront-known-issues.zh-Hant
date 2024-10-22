@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: ht
-source-wordcount: '1898'
-ht-degree: 100%
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+workflow-type: tm+mt
+source-wordcount: '1944'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [專案：甘特圖不準確](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [專案：無法新增問題至已完成的專案](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [自訂表單：無法更新已完成專案中的自訂資料](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [首頁：優先順序區域在停用時可供存取](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [首頁：我的核准Widget無法運作](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [校訂：無法在預覽環境中建立校訂](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [文件：無法從物件的「文件」標籤移動文件](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [展示板：任務和問題的狀態選項重複](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)

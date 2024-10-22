@@ -4,18 +4,21 @@ description: 當使用者在校訂檢視器中檢視校訂，並嘗試按一下�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: a14a043c13563a2706f9dd0a344a4cabd07bb19a
+workflow-type: tm+mt
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # 校訂：無法關閉校訂檢視器
 
+
+<!--
 >[!NOTE]
 >
->此問題已在 2024 年 7 月 18 日修正。
+>This issue was fixed on July 18, 2024.
+-->
 
 當使用者在校訂檢視器中檢視校訂，並嘗試按一下右上角 X 關閉校訂時，校訂不會關閉。
 
