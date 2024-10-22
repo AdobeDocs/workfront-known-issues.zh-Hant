@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1068'
 ht-degree: 94%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 94%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [專案：甘特圖不準確](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024年10月22日 |
-| [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日 |
+| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日 |
 | [專案：無法新增問題到已完成的專案](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024年10月22日 |
 | [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日 |
 | [自訂表單：無法更新已完成專案中的自訂資料](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024年10月22日 |
