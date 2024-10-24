@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ ht-degree: 96%
 
 ## 2024 年 10 月更新
 
-+++**（預計） 2024年10月24日維護更新**
++++**於2024年10月24日維護更新**
 
-### （預計） 2024年10月24日維護更新
+### 2024年10月24日維護更新
+
+#### 指派
+
+指派任務時不顯示&#x200B;**休假圖示**
+
+當使用者指派任務並開始輸入在任務期間安排休假的受指派者名稱時，『建議的指派』區域下的使用者圖示不會顯示休假 (飛機) 圖示。如果使用者繼續輸入以讓名稱顯示在『使用者和團隊』區域下，就會顯示休假圖示。
 
 #### 自訂表單
 
