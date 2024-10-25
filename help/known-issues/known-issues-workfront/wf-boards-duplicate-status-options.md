@@ -4,9 +4,9 @@ description: 更新展示板上的任務或問題狀態時，某些狀態會出�
 hidefromtoc: true
 feature: Agile
 source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2024年10月17日修正。
+>此問題已在 2024 年 10 月 17 日修正。
 
 
 更新展示板上的任務或問題狀態時，某些狀態會出現重複選項。重複狀態，特別是「開啟」和「就緒」，包括對不相關群組的括號參考：例如，在可用狀態清單中出現「開啟」和「開啟」(群組：不相關群組)。非重複狀態仍可正常選取。
