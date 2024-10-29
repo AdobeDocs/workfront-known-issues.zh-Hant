@@ -3,16 +3,16 @@ title: 「報告：Report Builder 載入時間過長」
 description: 「Report Builder 的載入時間過長，在某些情況下長達一分鐘。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+workflow-type: tm+mt
+source-wordcount: '56'
+ht-degree: 50%
 
 ---
 
 
-# 報告：Report Builder 載入時間過長
+# 報告：報告的載入時間過長
 
-Report Builder 的載入時間過長，在某些情況下長達一分鐘。
+報表載入時間過長。 這會影響檢視報表，以及在Report Builder中編輯和建立報表。
 
 _於 2024 年 9 月 11 日首次回報。_

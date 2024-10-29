@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1958'
-ht-degree: 96%
+source-wordcount: '1967'
+ht-degree: 99%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [報告：缺少顯示篩選/隱藏篩選選項](known-issues-workfront/wf-reports-show-filter-missing.md)
-      + [首頁：完成百分比已截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
+      + [通知：檔案通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [報告：缺少「顯示篩選器/隱藏篩選器」選項](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [首頁：完成百分比被截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [專案：甘特圖不準確](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
-      + [專案：無法新增問題至已完成的專案](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [專案：無法將問題新增至已完成的專案中](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [自訂表單：無法更新已完成專案中的自訂資料](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
-      + [首頁：優先順序區域在停用時可供存取](known-issues-workfront/wf-home-priorities-accessible.md)
-      + [首頁：我的核准Widget無法運作](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [首頁：「優先順序」區域在停用後仍可存取](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [首頁：「我的核准」Widget 無法運作](known-issues-workfront/wf-home-my-approval-not-working.md)
       + [校訂：無法在預覽環境中建立校訂](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [文件：無法從物件的「文件」標籤移動文件](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [展示板：任務和問題的狀態選項重複](known-issues-workfront/wf-boards-duplicate-status-options.md)

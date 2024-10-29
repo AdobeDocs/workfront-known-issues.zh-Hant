@@ -1,22 +1,26 @@
 ---
-title: 「報告：顯示篩選器/隱藏篩選器選項遺失」
-description: 「當使用者檢視報告時，顯示篩選和隱藏篩選選項不可見。」
+title: "報告：缺少「顯示篩選器/隱藏篩選器」選項"
+description: "當使用者檢視報告時，「顯示篩選器和隱藏篩選器」選項未出現。"
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 75%
 
 ---
 
 
-# 報告：缺少顯示篩選/隱藏篩選選項
+# 報告：缺少「顯示篩選器/隱藏篩選器」選項
+
+>[!NOTE]
+>
+>此問題已在 2024 年 10 月 24 日修正。
 
 當使用者檢視報告時，顯示篩選和隱藏篩選選項不可見。
 
 **解決方法**
 
-您仍可透過Report Builder存取篩選器。
+篩選器仍可透過 Report Builder 存取。
 
-_於2024年10月23日首次通報。_
+_於 2024 年 10 月 23 日首次回報。_
