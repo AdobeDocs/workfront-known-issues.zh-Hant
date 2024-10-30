@@ -1,12 +1,12 @@
 ---
-title: 「校訂：無法在預覽環境中建立校訂」
-description: 「當使用者嘗試在預覽沙箱環境中建立校訂時，未建立校訂，並且使用者會看到「無法產生訊息」。」
+title: "校訂：無法在預覽環境中建立校訂"
+description: "當使用者嘗試在預覽沙箱環境中建立校訂時，校訂未建立，並且使用者會看到「無法產生」訊息。"
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此問題已在「預覽沙箱」環境中報告。
+>此問題僅在預覽沙箱環境中回報。
 
-當使用者嘗試在預覽沙箱環境中建立校訂時，未建立校訂，並且使用者看到「無法產生」訊息。
+當使用者嘗試在預覽沙箱環境中建立校訂時，校訂未建立，並且使用者會看到「無法產生」訊息。
 
-_於2024年10月17日首次通報。_
+_於 2024 年 10 月 17 日首次回報。_
