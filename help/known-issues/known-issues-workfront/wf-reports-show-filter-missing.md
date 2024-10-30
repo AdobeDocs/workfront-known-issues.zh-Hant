@@ -17,7 +17,7 @@ ht-degree: 75%
 >
 >此問題已在 2024 年 10 月 24 日修正。
 
-當使用者檢視報告時，顯示篩選和隱藏篩選選項不可見。
+When a user is viewing a report, the Show filter and Hide filter options are not visible.
 
 **解決方法**
 
