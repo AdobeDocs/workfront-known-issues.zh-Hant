@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1030'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [版面配置範本：透過版面配置範本新增到任務摘要時未顯示自訂資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4 |
+| [首頁：我的更新Widget無法運作](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4 |
+| [檔案：檔案](known-issues-workfront/wf-documents-missing-approval-button.md)上缺少核准選項按鈕 | 2024年11月4 |
+| [首頁：新的和已完成的待辦事項的待辦事項Widget錯誤](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024年11月4 |
 | [首頁：完成百分比被截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024 年 10 月 24 日 |
 | [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
@@ -72,7 +76,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | October 29, 2024 |
+| [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
 | [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
 | [優先順序：分組阻止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |

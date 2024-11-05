@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: ht
-source-wordcount: '6442'
-ht-degree: 100%
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+workflow-type: tm+mt
+source-wordcount: '6472'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,14 @@ ht-degree: 100%
 2024 年進行了以下維護更新。
 
 ## 2024 年 10 月更新
+
++++**於2024年10月31日維護更新**
+
+### 2024年10月31日維護更新
+
+此更新僅包含次要或較不顯著的錯誤修正。 Workfront支援將在您提交的問題得到修復時通知您。
+
++++
 
 +++**於 2024 年 10 月 24 日維護更新**
 
@@ -55,7 +63,6 @@ ht-degree: 100%
 當使用者檢視甘特圖並切換視圖時，甘特圖不會顯示準確的資料，或可能不會顯示任何資料。
 
 +++
-
 
 +++**於 2024 年 10 月 17 日維護更新**
 

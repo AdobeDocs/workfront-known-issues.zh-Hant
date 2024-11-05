@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1967'
-ht-degree: 99%
+source-wordcount: '2013'
+ht-degree: 97%
 
 ---
 
@@ -17,7 +17,12 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [通知：檔案通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [版面配置範本：透過版面配置範本新增到任務摘要時未顯示自訂資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [首頁：我的更新Widget無法運作](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [檔案：檔案上缺少核准選項按鈕](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [首頁：新待辦事項的待辦事項小工具錯誤，以及已完成的待辦事項](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [整合：Unified Shell上的組織無法進行JumpSeat整合](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
+      + [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [報告：缺少「顯示篩選器/隱藏篩選器」選項](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [首頁：完成百分比被截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [專案：甘特圖不準確](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
