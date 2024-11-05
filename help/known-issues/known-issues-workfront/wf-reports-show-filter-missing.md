@@ -4,9 +4,9 @@ description: "當使用者檢視報告時，「顯示篩選器和隱藏篩選器
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 75%
 >
 >此問題已在 2024 年 10 月 24 日修正。
 
-When a user is viewing a report, the Show filter and Hide filter options are not visible.
+使用者檢視報告時，顯示篩選器和隱藏篩選器選項未顯示。
 
 **解決方法**
 
