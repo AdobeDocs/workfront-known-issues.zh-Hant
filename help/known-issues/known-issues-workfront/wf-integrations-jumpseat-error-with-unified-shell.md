@@ -1,25 +1,25 @@
 ---
-title: 「整合：Unified Shell上的組織無法進行JumpSeat整合」
-description: 將使用者的組織移轉至AdobeUnified Shell時，其現有的JumpSeat整合將無法運作。
+title: 「整合：使用 Unified Shell 的組織無法成功整合 JumpSeat」
+description: 當使用者的組織移轉至 Adobe Unified Shell 時，他們現有的 JumpSeat 整合無法正常運作。
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 整合：Unified Shell上的組織無法進行JumpSeat整合
+# 整合：使用 Unified Shell 的組織無法成功整合 JumpSeat
 
 >[!NOTE]
 >
->此問題已解決，但使用者必須依照以下&#x200B;**因應措施**&#x200B;所述重新設定JumpSeat。
+>此問題已經解決，但需要使用者按照下方的&#x200B;**解決方法**&#x200B;重新設定 JumpSeat。
 
-將使用者的組織移轉至AdobeUnifiedBecky Shell時，其現有的JumpSeat整合將無法運作。
+當使用者的組織移轉至 Adobe UnifiedBecky Shell 時，他們現有的 JumpSeat 整合無法正常運作。
 
 **解決方法**
 
-從JumpSeat管理員面板，將應用程式URL從`workfront.com`變更為`workfront.adobe.com`。
+在 JumpSeat 管理員面板中，將應用程式 URL 從 `workfront.com` 變更為 `workfront.adobe.com`。
 
-_於2024年10月30日首次通報。_
+_於 2024 年 10 月 30 日首次回報。_

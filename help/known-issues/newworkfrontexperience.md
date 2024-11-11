@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1071'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [版面配置範本：透過版面配置範本新增到任務摘要時未顯示自訂資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4 |
-| [首頁：我的更新Widget無法運作](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4 |
-| [檔案：檔案](known-issues-workfront/wf-documents-missing-approval-button.md)上缺少核准選項按鈕 | 2024年11月4 |
-| [首頁：新的和已完成的待辦事項的待辦事項Widget錯誤](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024年11月4 |
+| [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位。](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
+| [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
+| [文件：文件中缺少「核准選項」按鈕。](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
+| [首頁：待辦事項小工具的新任務和已完成任務發生錯誤](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日 |
 | [首頁：完成百分比被截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024 年 10 月 24 日 |
 | [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |

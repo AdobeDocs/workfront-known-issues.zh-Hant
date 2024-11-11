@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2013'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [版面配置範本：透過版面配置範本新增到任務摘要時未顯示自訂資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [首頁：我的更新Widget無法運作](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [檔案：檔案上缺少核准選項按鈕](known-issues-workfront/wf-documents-missing-approval-button.md)
-      + [首頁：新待辦事項的待辦事項小工具錯誤，以及已完成的待辦事項](known-issues-workfront/wf-home-to-do-new-complete-error.md)
-      + [整合：Unified Shell上的組織無法進行JumpSeat整合](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
+      + [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [文件：文件中缺少「核准選項」按鈕](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [首頁：待辦事項小工具的新任務和已完成任務發生錯誤](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [整合：使用 Unified Shell 的組織無法成功整合 JumpSeat](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [報告：缺少「顯示篩選器/隱藏篩選器」選項](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [首頁：完成百分比被截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
