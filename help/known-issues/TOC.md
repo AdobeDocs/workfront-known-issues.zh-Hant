@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '2013'
-ht-degree: 100%
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+workflow-type: tm+mt
+source-wordcount: '2120'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,19 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [時程表：投稿人使用者有「提交以供核准」按鈕](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」工作列位](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [檔案：核准「快速新增」不包含新版本的截止日期專案](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [配置範本：管理員無法編輯首頁配置範本](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [使用者：「未註冊」標籤在登入後持續存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront：投稿人使用者無法存取方案或Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [核准：「全部」篩選器不包括個人提交的核准](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [任務：具有子系之父系任務的經過天數期間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [報告：在圖表清單中大量編輯無回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront：保持開啟的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [資源規劃工具：無法存取資源規劃工具](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [首頁：我的任務Widget未載入](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [文件：文件中缺少「核准選項」按鈕](known-issues-workfront/wf-documents-missing-approval-button.md)

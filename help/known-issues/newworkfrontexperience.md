@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '1071'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '1157'
+ht-degree: 88%
 
 ---
 
@@ -25,13 +25,25 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [時程表：投稿人使用者有「提交以進行核准」按鈕](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024年11月13日 |
+| [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年11月13日 |
+| [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」工作列位](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年11月13日 |
+| [檔案：核准「快速新增」不包含新版本的截止日期專案](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日 |
+| [配置範本：管理員無法編輯首頁配置範本](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024年11月13日 |
+| [使用者：「未註冊」標籤在登入後持續存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日 |
+| [Workfront：貢獻者使用者無法存取程式或Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日 |
+| [核准：「全部」篩選器排除個人提交的核准](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日 |
+| [任務：具有子系之父系任務的經過天數期間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日 |
+| [報告：在圖表清單中大量編輯無回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日 |
+| [Workfront：瀏覽器分頁保持開啟狀態無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日 |
+| [報告：報告無法載入](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
+| [資源規劃工具：無法存取資源規劃工具](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024年11月12日 |
+| [首頁：我的任務Widget未載入](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024年11月12日 |
 | [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位。](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
 | [文件：文件中缺少「核准選項」按鈕。](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
 | [首頁：待辦事項小工具的新任務和已完成任務發生錯誤](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日 |
-| [首頁：完成百分比被截斷](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024 年 10 月 24 日 |
 | [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
-| [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
 | [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
@@ -51,15 +63,10 @@ ht-degree: 100%
 | **問題** | **上次修改** |
 |----------------------------------| ----------------- |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
-| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 10 月 22 日 |
-| [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 10 月 22 日 |
-| [首頁：「我的核准」Widget 無法運作](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024 年 10 月 22 日 |
 | [校訂：無法在預覽環境中建立校訂](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024 年 10 月 22 日 |
 | [專案：由於「刪除存取權」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
-| [校訂：為透過 Fusion 從 AEM 連結的文件建立校訂失敗](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [群組：已刪除的群組狀態再次顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
-| [首頁：待核准小工具顯示出已刪除的文件](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
 | [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：設定通知偏好時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
@@ -76,6 +83,8 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日 |
+| [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
 | [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
 | [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
