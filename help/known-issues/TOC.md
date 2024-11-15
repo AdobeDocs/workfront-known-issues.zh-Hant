@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 94%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 94%
       + [任務：具有子系之父系任務的經過天數期間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [報告：在圖表清單中大量編輯無回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：保持開啟的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [報告：報告無法載入](known-issues-workfront/wf-reports-fail-to-load.md)
       + [資源規劃工具：無法存取資源規劃工具](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [首頁：我的任務Widget未載入](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)

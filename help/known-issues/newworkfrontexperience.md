@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 88%
+source-wordcount: '1126'
+ht-degree: 90%
 
 ---
 
@@ -36,13 +36,9 @@ ht-degree: 88%
 | [任務：具有子系之父系任務的經過天數期間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日 |
 | [報告：在圖表清單中大量編輯無回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日 |
 | [Workfront：瀏覽器分頁保持開啟狀態無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日 |
-| [報告：報告無法載入](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
-| [資源規劃工具：無法存取資源規劃工具](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024年11月12日 |
-| [首頁：我的任務Widget未載入](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024年11月12日 |
 | [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位。](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
 | [文件：文件中缺少「核准選項」按鈕。](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
-| [首頁：待辦事項小工具的新任務和已完成任務發生錯誤](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日 |
 | [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
