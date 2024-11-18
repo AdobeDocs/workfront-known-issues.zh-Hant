@@ -1,21 +1,22 @@
 ---
-title: 「首頁：我的任務Widget未載入」
-description: 當使用者嘗試檢視我的任務Widget在首頁，該Widget無法顯示任何內容似乎卡在載入。
+title: 「首頁：『我的任務』Widget 無法載入」
+description: 使用者嘗試檢視首頁中的「我的任務」Widget 時，該 Widget 無法顯示任何內容，似乎卡在載入狀態。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 2c06927e-dce5-41a1-983f-212b88acb5c8
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 首頁：我的任務Widget未載入
+# 首頁：「我的任務」Widget 無法載入
 
 >[!NOTE]
 >
->此問題已在2024年11月14日修正。
+>此問題已在 2024 年 11 月 14 日修正。
 
-當使用者嘗試檢視我的任務Widget在首頁，該Widget無法顯示任何內容似乎卡在載入。
+使用者嘗試檢視首頁中的「我的任務」Widget 時，該 Widget 無法顯示任何內容，似乎卡在載入狀態。
 
-_於2024年11月12日首次通報。_
+_於 2024 年 11 月 12 日首次回報。_

@@ -1,16 +1,17 @@
 ---
-title: 「核准：『全部』篩選條件不包括個人提交的核准」
-description: '在[首頁]中的[我的核准]小工具集或在[我的更新]頁面上檢視核準時，清單不包含使用者提交的核准，即使篩選設定為[全部]亦然。'
+title: 「核准：『全部』篩選器排除個人提交的核准」
+description: 在首頁的「我的核准」Widget 或在「我的更新」頁面上檢視核准時，即使篩選器設定為「全部」，清單也未包含使用者提交的核准。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# 核准：「全部」篩選器不包括個人提交的核准
+# 核准：「全部」篩選器排除個人提交的核准
 
 <!--
 >>[!NOTE]
@@ -18,6 +19,6 @@ ht-degree: 4%
 >This issue was fixed on June 20, 2024.
 -->
 
-在「首頁」的「我的核准」小工具集或「我的更新」頁面上檢視核準時，清單不包含使用者提交的核准，即使篩選設定為「全部」。
+在首頁的「我的核准」Widget 或在「我的更新」頁面上檢視核准時，即使篩選器設定為「全部」，清單也未包含使用者提交的核准。
 
 _於 2024 年 10 月 16 日首次回報。_
