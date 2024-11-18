@@ -1,13 +1,13 @@
 ---
-title: 「首頁：我的核准Widget無法運作」
-description: 當使用者嘗試檢視我的核准Widget在首頁，該Widget未出現，並且使用者會看到一則訊息。
+title: 「首頁：『我的核准』Widget 無法運作」
+description: 使用者嘗試在首頁檢視「我的核准」Widget 時，該 Widget 並未顯示，而是出現一則訊息。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
