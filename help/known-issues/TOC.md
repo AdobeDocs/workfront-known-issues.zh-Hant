@@ -25,7 +25,7 @@ ht-degree: 99%
       + [版面配置範本：管理員無法編輯首頁版面配置範本](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [使用者：登入之後，「未註冊」標記仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront：投稿人使用者無法存取方案或專案組合](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
-      + [核准：「全部」篩選器排除了個人提交的核准](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [核准：「全部」篩選器排除個人提交的核准](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [任務：對於帶有子系的父系任務，「經過的天數」持續時間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [報告：圖表清單中的大量編輯沒有回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md)
