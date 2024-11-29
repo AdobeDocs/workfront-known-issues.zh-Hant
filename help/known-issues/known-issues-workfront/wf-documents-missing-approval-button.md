@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 5172fa74-f3bc-4fe0-abdf-30ef640ef247
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此問題已在2024年11月13日修正。
+>此問題已在 2024 年 11 月 13 日修正。
 
 當一個被指派為文件核准者的使用者進入文件進行核准決策時，「核准選項」按鈕並未顯示。
 
