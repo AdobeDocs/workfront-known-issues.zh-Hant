@@ -1,11 +1,11 @@
 ---
-title: '指派：指派任務時不會出現休假圖示'
+title: 指派：指派任務時不會出現休假圖示
 description: 當使用者指派任務並開始輸入在任務期間安排休假的受指派者名稱時，『建議的指派』區域下的使用者圖示不會顯示休假 (飛機) 圖示。如果使用者繼續輸入以讓名稱顯示在『使用者和團隊』區域下，就會顯示休假圖示。
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 exl-id: 8129366e-fc85-488b-b60f-3ee8ffce3851
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 

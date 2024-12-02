@@ -1,13 +1,13 @@
 ---
-title: '[!DNL Workfront]：在 Experience League 上提交 Workfront 支援案例的問題'
-description: 「如果您是  [!DNL Workfront]  授權支援聯絡人並在提交支援案例時發生問題，請撥打以下電話聯繫我們，以利為您提供協助。」
+title: '[!DNL Workfront]：在Experience League上提交Workfront支援案例時發生問題'
+description: 「如果您是 [!DNL Workfront] 授權支援聯絡人並在提交支援案例時發生問題，請撥打以下電話聯絡我們，以便我們為您提供幫助。
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
 feature: System Setup and Administration
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 

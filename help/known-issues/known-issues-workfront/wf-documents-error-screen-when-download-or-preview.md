@@ -1,11 +1,11 @@
 ---
-title: 「文件：下載或預覽資產時出現錯誤畫面」
+title: 文件：下載或預覽資產時出現錯誤畫面
 description: 當使用者嘗試在 Workfront 中下載或預覽資產時，他們會被導向到錯誤畫面。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

@@ -1,6 +1,6 @@
 ---
-title: 「API：無法依動態欄位排序」
-description: 「Workfront API 不允許依動態欄位排序。」'
+title: API：無法依動態欄位排序
+description: 'Workfront API 不允許依動態欄位排序。 '
 hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API

@@ -1,5 +1,5 @@
 ---
-title: 「設定：清單在設定中載入緩慢」
+title: 設定：清單在設定中載入緩慢
 description: 當使用者位在設定區域並嘗試載入清單時，清單載入十分緩慢。設定的各個區域已報告過此問題。
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
@@ -7,7 +7,7 @@ feature: System Setup and Administration
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 

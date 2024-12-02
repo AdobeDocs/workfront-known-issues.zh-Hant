@@ -1,11 +1,11 @@
 ---
-title: 「存取層級：「設定」區域中的存取層級重複」
+title: 存取層級：「設定」區域中的存取層級重複
 description: 當使用者檢視「設定」區域中的存取層級清單時，他們發現某些存取層級是重複的。這僅發生在內建層級。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 26a131ae-91c9-4f81-baf5-7571213bcffc
 source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

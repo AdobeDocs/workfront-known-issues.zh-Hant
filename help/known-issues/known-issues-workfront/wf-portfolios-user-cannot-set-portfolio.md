@@ -1,11 +1,11 @@
 ---
-title: 「專案組合：使用者無法設定專案組合」
+title: 專案組合：使用者無法設定專案組合
 description: 如果使用者沒有專案組合的存取權，就無法在專案上變更專案組合。
 hidefromtoc: true
 feature: Work Management
 exl-id: 38ad277a-2087-486c-8715-93e275488697
 source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 

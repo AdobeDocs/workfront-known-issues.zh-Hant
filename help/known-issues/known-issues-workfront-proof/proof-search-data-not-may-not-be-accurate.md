@@ -1,5 +1,5 @@
 ---
-title: 「Workfront Proof：搜尋資料並不總是準確的」
+title: Workfront Proof：搜尋資料並不總是準確的
 description: 校訂結果頁面顯示的資料並不總是顯示最新資訊。建議您建立自訂檢視並使用該檢視取得您資料的最新資訊。
 hidefromtoc: true
 feature: Workfront Proof

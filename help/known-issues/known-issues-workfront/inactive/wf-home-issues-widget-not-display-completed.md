@@ -1,5 +1,5 @@
 ---
-title: 「首頁：「我的問題」小工具不會顯示已關閉或已完成的問題」
+title: 首頁：「我的問題」小工具不會顯示已關閉或已完成的問題
 description: 首頁的「我的問題」小工具不會顯示已關閉或已完成的問題。即使篩選器設定為顯示這類問題，也可能會發生這種情況。
 hidefromtoc: true
 feature: Get Started with Workfront

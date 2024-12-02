@@ -1,5 +1,5 @@
 ---
-title: 「校訂：透過電子郵件連結共用校訂時發生錯誤」
+title: 校訂：透過電子郵件連結共用校訂時發生錯誤
 description: 與訪客共用校訂時，若該訪客嘗試使用電子郵件中「與其他人共用此校訂」選項，他們在嘗試提交要共用校訂的電子郵件地址時會收到錯誤訊息。電子郵件欄位變為紅色，且使用者看到錯誤。
 hidefromtoc: true
 feature: Digital Content and Documents

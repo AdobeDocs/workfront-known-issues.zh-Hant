@@ -1,6 +1,6 @@
 ---
-title: 「Workfront Proof：透過API或Workfront Fusion存取Workfront Proof時出現500錯誤」
-description: 「當使用者存取校訂API getAllProofs動作時，Workfront Proof伺服器傳回訊息：500內部伺服器錯誤」
+title: Workfront Proof：透過API或Workfront Fusion存取Workfront Proof時出現500錯誤
+description: 當使用者存取校訂API getAllProofs動作時，Workfront Proof伺服器傳回訊息：500內部伺服器錯誤
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862

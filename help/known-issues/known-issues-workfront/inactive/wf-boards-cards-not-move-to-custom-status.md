@@ -1,5 +1,5 @@
 ---
-title: 「展示板：移至某個欄的卡片在重新整理後回到原始欄中」
+title: 展示板：移至某個欄的卡片在重新整理後回到原始欄中
 description: 當使用者將卡片移至不同欄，然後重新整理或回到展示板時，卡片已回到原始欄中。
 hidefromtoc: true
 feature: Agile

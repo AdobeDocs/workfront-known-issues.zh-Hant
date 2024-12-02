@@ -1,11 +1,11 @@
 ---
-title: 「計費記錄：缺少新增更多計費記錄按鈕」
+title: 計費記錄：缺少新增更多計費記錄按鈕
 description: 當使用者檢視計費記錄清單並嘗試新增計費記錄時，他們會發現頁面頂部缺少新增計費記錄按鈕。
 hidefromtoc: true
 feature: Work Management
 exl-id: 131ac94b-af89-4e41-acba-e8eeacd290af
 source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 

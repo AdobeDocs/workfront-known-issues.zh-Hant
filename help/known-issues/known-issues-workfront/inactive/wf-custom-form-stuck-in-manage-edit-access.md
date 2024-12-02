@@ -1,5 +1,5 @@
 ---
-title: 「自訂表單：跨物件自訂表單需要有「管理」或「編輯」存取權才能編輯欄位」
+title: 自訂表單：跨物件自訂表單需要有「管理」或「編輯」存取權才能編輯欄位
 description: 當用戶使用僅允許「管理」或「編輯」存取權的跨物件來建立表單，然後移除該物件類型時，自訂表單會繼續要求有管理或編輯存取權才能編輯欄位。沒有欄位需要「管理」或「編輯」存取權的視覺化提示，且沒辦法重設表單。
 hidefromtoc: true
 feature: Custom Forms
@@ -7,7 +7,7 @@ exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

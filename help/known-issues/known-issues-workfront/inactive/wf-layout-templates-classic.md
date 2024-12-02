@@ -1,5 +1,5 @@
 ---
-title: 「版面範本：版面範本導致報告不一致」
+title: 版面配置範本：版面配置範本導致報告不一致
 description: 傳統 Workfront 體驗中的版面範本在 Workfront 介面中不再可用，但仍可能影響 Workfront 資料。這可能會導致報告或儀表板上受版面範本 (例如共用對象) 影響的欄位出現不一致。
 hidefromtoc: true
 feature: System Setup and Administration

@@ -1,11 +1,11 @@
 ---
-title: 「報告：Report Builder 載入時間過長」
+title: 報告：Report Builder 載入時間過長
 description: Report Builder 的載入時間過長，在某些情況下長達一分鐘。
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: ca850f76-8cdb-47ac-8687-4a3c57deb1dd
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 

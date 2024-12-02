@@ -1,5 +1,5 @@
 ---
-title: 「群組：無法新增子群組」
+title: 群組：無法新增子群組
 description: 當使用者嘗試將現有子群組新增至群組時，「儲存」按鈕無效，並且不會新增子群組。
 hidefromtoc: true
 feature: People Teams and Groups

@@ -1,5 +1,5 @@
 ---
-title: 「更新：複製的連結無法正確貼上」
+title: 更新：複製的連結無法正確貼上
 description: 如果使用者按一下滑鼠右鍵並選取「複製連結位址」來從更新中複製連結，然後將該連結貼到更新中，則該連結無法正確貼上。只有連結的第一個部分是連結，URL 的其餘部分將被忽略。
 hidefromtoc: true
 feature: Updates and Notifications

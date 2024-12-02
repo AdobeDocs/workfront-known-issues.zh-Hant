@@ -1,11 +1,11 @@
 ---
-title: 'Workfront Mobile：若不使用 SSO 則無法登入'
+title: Workfront Mobile：若不啟用 SSO 則無法登入
 description: 當使用者登入 Workfront Mobile 應用程式時，他們必須啟用 SSO 方能登入。使用者無法利用其 Workfront 認證或 Adobe ID。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: fd3d2bc1-cb0c-4cf6-be39-7c5c3f7ac74b
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

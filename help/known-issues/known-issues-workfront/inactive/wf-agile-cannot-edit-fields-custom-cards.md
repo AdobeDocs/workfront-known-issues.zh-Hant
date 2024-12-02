@@ -1,5 +1,5 @@
 ---
-title: 「敏捷：無法從卡片上的自訂表單中編輯欄位」
+title: 敏捷：無法從卡片上的自訂表單中編輯欄位
 description: 當看板卡上的某個欄位從自訂表單中提取時，使用者無法直接從該卡片中編輯該欄位。
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile

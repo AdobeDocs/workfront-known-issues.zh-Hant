@@ -1,5 +1,5 @@
 ---
-title: 「核准：重新導向次數過多」
+title: 核准：重新導向次數過多
 description: 當使用者收到核准通知電子郵件並按一下「進行核准決策」按鈕時，使用者不會被導向到需要核准的物件。使用者反而會看到錯誤。
 hidefromtoc: true
 feature: Updates and Notifications

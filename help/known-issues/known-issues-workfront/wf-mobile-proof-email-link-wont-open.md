@@ -1,10 +1,11 @@
 ---
-title: 「Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟」
+title: Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟
 description: 當使用者嘗試透過手機上的電子郵件連結開啟校訂時，使用者會被重新導向到瀏覽器頁面，該頁面最終會顯示一錯誤訊息，指出該連結無效。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
+exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: 「校訂：處理靜態檔案時發生問題」
+title: 校訂：處理靜態檔案時發生問題
 description: Workfront 最近將其校訂處理工具從協力廠商提供者變更為內部解決方案，並發現兩個系統的功能存在一些差異。這些差異可能會導致處理靜態檔案時出現問題，尤其是 PDF、Word 和 PPT 檔案。此問題有解決方法。
 hidefromtoc: true
 feature: Digital Content and Documents

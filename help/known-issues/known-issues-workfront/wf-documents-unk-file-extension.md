@@ -1,5 +1,5 @@
 ---
-title: 「文件：連結來自整合的文件時出現 UNK 副檔名」
+title: 文件：連結來自整合的文件時出現 UNK 副檔名
 description: 當使用者從文件整合連結文件時，該文件將顯示在 Workfront 中，並帶有 UNK 副檔名。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

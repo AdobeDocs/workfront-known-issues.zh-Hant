@@ -1,5 +1,5 @@
 ---
-title: 「報告：報告篩選器未傳回預期結果」
+title: 報告：報告篩選器未傳回預期結果
 description: 報告中的篩選器可能不會傳回所有預期結果。此問題有解決方法。
 hidefromtoc: true
 feature: Reports and Dashboards

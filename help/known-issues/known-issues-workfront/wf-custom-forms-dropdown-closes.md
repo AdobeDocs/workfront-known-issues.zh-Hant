@@ -1,11 +1,11 @@
 ---
-title: 「自訂表單：選取多個值時下拉式清單關閉」
-description: 「當使用者嘗試在自訂表單欄位上選取多個值時，下拉式清單將在選取第一個值後關閉。」
+title: ' 自訂表單：選取多個值時下拉式清單關閉'
+description: '當使用者嘗試在自訂表單欄位上選取多個值時，下拉式清單將在選取第一個值後關閉。 '
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 0313e7d9-b5b2-4871-a133-da3e78052ab9
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 

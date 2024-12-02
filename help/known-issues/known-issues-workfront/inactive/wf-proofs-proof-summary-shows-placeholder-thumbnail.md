@@ -1,5 +1,5 @@
 ---
-title: 「校樣：[!UICONTROL 列印摘要]未顯示影像縮圖」
+title: 校樣：[!UICONTROL 列印摘要]未顯示影像縮圖
 description: 當使用者檢視 [!DNL Workfront] 中校樣的[!UICONTROL 列印摘要]頁時，未顯示校樣縮圖。相反地，出現一個簡單的預留位置影像。
 hidefromtoc: true
 exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2

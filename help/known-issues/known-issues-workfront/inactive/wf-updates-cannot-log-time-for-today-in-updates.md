@@ -1,5 +1,5 @@
 ---
-title: 「更新：無法在更新區域記錄當天的時間」
+title: 更新：無法在更新區域中記錄當天的時間
 description: 當使用者嘗試在更新區域記錄當天的時間時，當天呈現灰色，使用者無法輸入任何時數。
 hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc
@@ -7,7 +7,7 @@ feature: Updates and Notifications
 source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 

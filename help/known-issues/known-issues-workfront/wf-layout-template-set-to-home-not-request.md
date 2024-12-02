@@ -1,5 +1,5 @@
 ---
-title: '版面配置範本：登陸頁面不正確'
+title: 版面配置範本：登陸頁面不正確
 description: 當具有請求者授權的使用者被指派至將請求頁面設定為登陸頁面的版面配置範本時，該使用者將被導向至作為其登陸頁面的首頁。
 hidefromtoc: true
 feature: System Setup and Administration

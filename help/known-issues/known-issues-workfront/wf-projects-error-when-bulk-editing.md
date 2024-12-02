@@ -1,15 +1,15 @@
 ---
-title: "專案：大量編輯專案時發生錯誤"
-description: "當使用者嘗試大量編輯專案時，編輯視窗為空白，並且使用者看到一則錯誤訊息。"
+title: 專案：大量編輯專案時發生錯誤
+description: 當使用者嘗試批次編輯專案時，編輯視窗為空白，使用者會看到錯誤。
 hidefromtoc: true
 feature: Projects
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+exl-id: dd41e8b8-42af-425a-815f-29c3f303b27f
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
-
 
 # 專案：大量編輯專案時發生錯誤
 

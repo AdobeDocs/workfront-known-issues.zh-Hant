@@ -1,5 +1,5 @@
 ---
-title: 「報表：當預設貨幣為美元時，報表不會載入」
+title: 報表：當預設貨幣為美元時，報表不會載入
 description: 當使用者嘗試查看預設貨幣為美元的報表時，報表不會載入。
 hidefromtoc: true
 feature: Reports and Dashboards

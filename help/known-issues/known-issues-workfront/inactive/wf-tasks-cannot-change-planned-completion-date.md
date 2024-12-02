@@ -1,13 +1,13 @@
 ---
-title: 「任務：無法變更任務的規劃完成日期」
-description: 「當使用者嘗試變更任務的規劃完成日期時，該欄位無回應。」
+title: 任務：無法變更任務的規劃完成日期
+description: '當使用者嘗試變更任務的規劃完成日期時，該欄位無回應。 '
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 

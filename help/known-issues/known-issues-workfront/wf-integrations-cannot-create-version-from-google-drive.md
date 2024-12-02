@@ -1,11 +1,11 @@
 ---
-title: 「整合：無法從 [!DNL Google Drive] 新增文件的新版本」
+title: 整合：無法從「 [!DNL Google Drive]」新增文件的新版本
 description: 如果使用者正在查看文件清單，並嘗試從  [!DNL Google Drive] 新增文件的新版本，他們會看到一則訊息。此問題有解決方法。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: f3158228-7df2-4063-99f9-5d01a224ada4
 source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 

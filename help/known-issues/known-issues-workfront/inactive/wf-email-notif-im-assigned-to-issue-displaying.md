@@ -1,5 +1,5 @@
 ---
-title: 「電子郵件通知：顯示我受指派問題設定」
+title: 電子郵件通知：顯示我受指派問題設定
 description: 在[!UICONTROL 設定]區域中，電子郵件通知設定「我受指派問題」顯示給具有檢閱和請求授權的使用者。此設定不適用於這些授權類型，啟用該設定不會觸發此事件的電子郵件通知。
 feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
@@ -7,7 +7,7 @@ hidefromtoc: true
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

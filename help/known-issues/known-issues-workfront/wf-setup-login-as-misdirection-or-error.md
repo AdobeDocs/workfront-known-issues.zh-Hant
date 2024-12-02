@@ -1,11 +1,11 @@
 ---
-title: 「設定：以其他使用者身分登出時出現問題」
+title: 設定：以其他使用者身分登出時出現問題
 description: 當管理員以其他使用者身分登入並嘗試登出時，可能會出現問題。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: 「首頁：自訂術語未套用於首頁區域」
+title: 首頁：自訂術語未套用於首頁區域
 description: 首頁區域顯示物件的預設名稱，而不是組織設定的術語。這已在以各個區域報告。
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true

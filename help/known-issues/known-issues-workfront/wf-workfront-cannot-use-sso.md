@@ -1,11 +1,11 @@
 ---
-title: 「Workfront：無法使用 SSO」
+title: Workfront：無法使用 SSO
 description: 使用 SSO 的 Workfront 功能傳回「糟糕」錯誤。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 

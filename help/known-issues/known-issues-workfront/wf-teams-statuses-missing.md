@@ -1,5 +1,5 @@
 ---
-title: 「團隊：為「完成」按鈕設定團隊狀態時發生問題」
+title: '團隊：為「完成」按鈕設定團隊狀態的問題 '
 description: 已報告編輯或建立團隊時[!UICONTROL 完成]按鈕的狀態問題。 有因應措施。
 hidefromtoc: true
 feature: People Teams and Groups

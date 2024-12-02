@@ -1,10 +1,11 @@
 ---
-title: 「展示板：任務和問題的狀態選項重複」
+title: 展示板：任務和問題的狀態選項重複
 description: 更新展示板上的任務或問題狀態時，某些狀態會出現重複選項。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
+exl-id: 61f34f9e-6081-4ebc-bfcf-92bdd651a4db
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

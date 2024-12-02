@@ -1,5 +1,5 @@
 ---
-title: 「時程表：釘選的時程表會轉到空白頁」
+title: 時程表：釘選的時程表會轉到空白頁
 description: 當使用者在 Workfront 中按一下目的是轉至其時程表的圖釘時，該圖釘會轉到空白頁面。此問題有因應措施。
 hidefromtoc: true
 feature: Timesheets

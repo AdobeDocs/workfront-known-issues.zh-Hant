@@ -1,5 +1,5 @@
 ---
-title: 「電子郵件通知：使用者未導向到評論對話串」
+title: 電子郵件通知：使用者未導向到評論對話串
 description: 當使用者按一下電子郵件通知中的評論連結時，系統將他們導向到[!UICONTROL 更新]區域頂端，而不是他們試圖回覆的評論對話串。
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications

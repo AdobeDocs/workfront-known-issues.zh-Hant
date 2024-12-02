@@ -1,11 +1,11 @@
 ---
-title: 「群組：子群組顯示不正確」
+title: 群組：子群組顯示不正確
 description: 當使用者查看「設定」區域中的「群組」清單時，他們會發現父群組下未正確列出子群組。子群組正確儲存在父群組下，但清單可能讓使用者感到困惑。
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b4b032cd-e0bc-43af-bc4f-d0f8b8eb42a8
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 

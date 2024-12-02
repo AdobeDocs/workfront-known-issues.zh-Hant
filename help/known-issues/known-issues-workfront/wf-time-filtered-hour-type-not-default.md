@@ -1,15 +1,15 @@
 ---
-title: 「時間：記錄時間時，篩選的時數類型不是預設值」
-description: 「使用者記錄時間時，預先選取的時數類型是任務時間，而不是該專案的篩選時數類型。」
+title: 時間：記錄時間時，篩選的時數類型不是預設值
+description: 當使用者記錄時間時，預先選取的時數型別是任務時間，而不是該專案的篩選時數型別。
 hidefromtoc: true
 feature: Timesheets, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+exl-id: 35ce305b-994f-42ee-a911-14f922ad9c39
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
-
 
 # 時間：記錄時間時，篩選的時數類型不是預設值
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 以下區域已回報此問題：
 
 * 透過「更新」區域記錄時間
-* 透過首頁上的 Widget 記錄時間
+* 透過首頁上的小工具記錄時間
 
 **因應措施**
 

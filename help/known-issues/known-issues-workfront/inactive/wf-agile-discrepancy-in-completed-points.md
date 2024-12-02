@@ -1,5 +1,5 @@
 ---
-title: 「敏捷：疊代完成點的差異」
+title: 敏捷：疊代完成點的差異
 description: 故事板上顯示的已完成點有時與疊代中故事的實際完成點不相符
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile

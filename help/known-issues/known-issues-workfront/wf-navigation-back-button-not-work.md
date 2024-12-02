@@ -1,11 +1,11 @@
 ---
-title: 「導覽：『返回』按鈕不會回到上一頁」
+title: 導覽：「返回」按鈕不會回到上一頁
 description: 當 Workfront 中的使用者按一下瀏覽器的「返回」按鈕時，它無法如預期運作。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

@@ -1,5 +1,5 @@
 ---
-title: 「Workfront Proof：儀表板資料並不總是準確的」
+title: Workfront Proof：儀表板資料並不總是準確的
 description: 校訂儀表板區域顯示的資料並不總是顯示最新資訊。建議您建立自訂檢視並使用該檢視取得您資料的最新資訊。
 hidefromtoc: true
 feature: Workfront Proof

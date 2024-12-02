@@ -1,5 +1,5 @@
 ---
-title: '校訂：文件清單中的校訂狀態不會更新'
+title: 校訂：檔案清單中的校訂狀態不會更新
 description: 「當校訂的狀態變更時，顯示該校訂的文件清單不會顯示正確的新狀態。」
 hidefromtoc: true
 exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45
@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 

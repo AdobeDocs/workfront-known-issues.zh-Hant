@@ -1,13 +1,13 @@
 ---
-title: 「登入身分：登出「登入身分」時，首頁和 PIN 碼未正確顯示」
+title: 登入身份：登出時首頁和圖釘顯示不正確
 description: 當使用者以另一位使用者身分登入而以該使用者身分登出時，首頁畫面會出現以下問題。
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
 exl-id: 3614563d-7f53-4632-b09f-2874133aa217
 source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 

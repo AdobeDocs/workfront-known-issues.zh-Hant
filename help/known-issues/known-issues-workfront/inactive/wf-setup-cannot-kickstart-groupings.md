@@ -1,5 +1,5 @@
 ---
-title: 「設定：無法使用[!UICONTROL 快速啟動]來設定群組」
+title: 設定：無法使用[!UICONTROL 快速啟動]來設定群組
 description: 當使用者嘗試[!UICONTROL 快速啟動]群組時，匯入失敗，使用者會看到錯誤訊息。
 hidefromtoc: true
 feature: System Setup and Administration

@@ -1,5 +1,5 @@
 ---
-title: 「Workfront Proof：建立校訂時無法重新排序資產」
+title: Workfront Proof：建立校訂時無法重新排序資產
 description: 當使用者在Workfront Proof嘗試重新排序將合併到校訂中的資產時，他們無法拖曳檔案，並且檔案的順序未改變。
 hidefromtoc: true
 feature: Digital Content and Documents

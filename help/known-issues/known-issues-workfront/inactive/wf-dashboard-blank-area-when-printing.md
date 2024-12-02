@@ -1,5 +1,5 @@
 ---
-title: 「儀表板：將儀表板列印為 PDF 時空白邊界很大」
+title: 儀表板：將儀表板列印為 PDF 時空白邊界很大
 description: 當使用者以橫向模式將儀表板列印為 PDF 時，PDF 右側的空白邊界很大。
 hidefromtoc: true
 feature: Reports and Dashboards

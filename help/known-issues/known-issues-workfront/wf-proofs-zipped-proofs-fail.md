@@ -1,5 +1,5 @@
 ---
-title: 「校訂：無法產生壓縮校訂」
+title: 校訂：無法產生壓縮校訂
 description: 當使用者嘗試建立壓縮校訂，且校訂中有兩個或多個檔案具有相同名稱時，將無法產生校訂。
 hidefromtoc: true
 feature: Digital Content and Documents

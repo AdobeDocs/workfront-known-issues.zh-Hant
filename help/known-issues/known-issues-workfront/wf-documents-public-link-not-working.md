@@ -1,5 +1,5 @@
 ---
-title: '文件：使用前往文件的公共連結時發生錯誤'
+title: 文件：使用前往文件的公共連結時發生錯誤
 description: 當使用者按一下前往 Workfront 文件的公共連結時，他們可能會看到錯誤。
 hidefromtoc: true
 feature: Digital Content and Documents

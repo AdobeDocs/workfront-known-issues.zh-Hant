@@ -1,12 +1,13 @@
 ---
-title: 「文件：無法從物件的「文件」標籤移動文件」
-description: 「當嘗試從專案、任務或問題的「文件」標籤移動文件時，使用者會遇到以下錯誤：載入次要內容時發生錯誤。」
+title: 文件：無法從物件的「文件」標籤移動文件
+description: 嘗試從專案、任務或問題的檔案索引標籤移動檔案時，使用者會遇到以下錯誤：載入次要內容時發生錯誤。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
+exl-id: fe5de4ce-dc30-41aa-96ba-aeb73851ef9f
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 100%
+ht-degree: 76%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: '自訂表單：編輯描述性文字欄位時發生錯誤'
+title: 自訂表單：編輯描述性文字欄位時發生錯誤
 description: 當使用者嘗試編輯自訂表單上的描述性文字時，該文字不會儲存，且使用者會看到錯誤。此問題有解決方法。
 hidefromtoc: true
 feature: Custom Forms

@@ -1,5 +1,5 @@
 ---
-title: 「Workfront 目標：無法刪除目標」
+title: Workfront目標：無法刪除目標
 description: 當使用者嘗試刪除  [!DNL Workfront Goals] 中的目標時，該目標不會被刪除，且使用者會看到錯誤訊息。
 hidefromtoc: true
 feature: Workfront Goals
@@ -7,7 +7,7 @@ exl-id: aa924ac8-7a07-4c58-b513-c8f9399171d4
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 「校訂：在預覽環境中建立校訂的速度緩慢」
+title: 校訂：在預覽環境中建立校訂的速度緩慢
 description: 使用者在預覽環境中建立校訂時，建立的速度非常緩慢。
 hidefromtoc: true
 feature: Digital Content and Documents

@@ -1,11 +1,11 @@
 ---
-title: 「自訂表單：無法捲動外部查詢欄位」
+title: 自訂表單：無法捲動外部查詢欄位
 description: 當使用者嘗試檢視外部查詢欄位中的選項時，選項下拉式清單不會捲動，並且使用者無法看到整個選項清單
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 

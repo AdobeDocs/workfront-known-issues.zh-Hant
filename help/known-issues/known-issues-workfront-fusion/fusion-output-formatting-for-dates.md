@@ -1,5 +1,5 @@
 ---
-title: 「Workfront Fusion：輸出日期的格式」
+title: Workfront Fusion：日期的輸出格式
 description: 在以字串輸出日期時，日期可以做為 UTC 或 ISO 字串輸出。這取決於對應面板中的邏輯。
 hidefromtoc: true
 feature: Workfront Fusion
@@ -7,7 +7,7 @@ exl-id: e01a2260-f230-4f72-a8c6-3dae56b22ff5
 source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 87%
+ht-degree: 92%
 
 ---
 

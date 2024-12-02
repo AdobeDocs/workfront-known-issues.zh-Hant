@@ -1,10 +1,11 @@
 ---
-title: 「時程表：投稿人使用者有『送交審核』按鈕」
-description: 「雖然擁有投稿人存取層級的使用者無法在時程表中輸入時數，卻有可按的『送交審核』按鈕。」
+title: 時程表：投稿人使用者有「送交審核」按鈕
+description: 雖然擁有投稿人存取層級的使用者無法在時程表中輸入時數，卻有可按的「送交審核」按鈕。
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
+exl-id: 3c2f744e-e53e-47b5-bd8d-eee3063ef108
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 

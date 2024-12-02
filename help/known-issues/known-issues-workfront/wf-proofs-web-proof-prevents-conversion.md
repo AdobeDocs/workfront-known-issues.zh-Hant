@@ -1,5 +1,5 @@
 ---
-title: '校訂：校訂會讓任務或問題無法轉換為專案'
+title: 校訂：校訂會讓任務或問題無法轉換為專案
 description: 當使用者嘗試將包含 Web 生成校訂的任務或問題轉換為專案時，系統不會建立該專案，並且使用者會看到一則訊息。此問題有解決方法。
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management

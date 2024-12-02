@@ -1,5 +1,5 @@
 ---
-title: 「首頁：重新整理後核准委派日期發生變化並發送 2 封電子郵件」
+title: 首頁：重新整理後核准委派日期發生變化並傳送2封電子郵件
 description: 當使用者將核准委派給不同時區的使用者時，委派似乎已成功儲存，並且委派使用者收到一封包含正確日期的電子郵件通知。但是，如果他們重新整理頁面，他們會看到開始日期向後移動了 1 天，結束日期向前移動了 1 天，並且使用者還會收到另一封電子郵件通知，其中包含已移動的日期。
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
@@ -7,7 +7,7 @@ feature: Approvals
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

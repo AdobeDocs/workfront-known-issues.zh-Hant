@@ -1,6 +1,6 @@
 ---
-title: '文件：當文件移至新專案時，不會繼承權限'
-description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。 文件不會共用給共用專案的使用者。'
+title: 文件：當文件移至新專案時，不會繼承權限
+description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。文件不會共用給共用專案的使用者。 '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9

@@ -1,5 +1,5 @@
 ---
-title: 「新首頁：小工具篩選器和分組預設值沒有遵循版面配置範本」
+title: 新首頁：Widget篩選器和群組預設值未依版面配置範本執行
 description: 當使用者在新的首頁體驗中查看我的專案、我的任務或我的問題小工具時，該小工具的預設篩選器和分組並非指派給該使用者的版面配置範本中的預設設定。
 hidefromtoc: true
 feature: Get Started with Workfront
@@ -7,7 +7,7 @@ exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 

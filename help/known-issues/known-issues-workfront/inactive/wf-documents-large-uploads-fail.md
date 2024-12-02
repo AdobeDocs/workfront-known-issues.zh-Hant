@@ -1,5 +1,5 @@
 ---
-title: 「文件：上傳大型檔案時發生錯誤」
+title: 文件：上傳大型檔案時發生錯誤
 description: 當使用者嘗試上傳大型檔案 (超過 25 MB) 時，檔案沒有上傳，使用者將看到「無法上傳檔案」錯誤。
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 **因應措施**
 
-上傳文件作為證明。
+上傳文件作為校樣。
 
 _於 2022 年 11 月 14 日首次通報。_

@@ -1,5 +1,5 @@
 ---
-title: 「敏捷：在敏捷板上移動卡片時的問題」
+title: 敏捷：在「敏捷」展示板上移動卡片時發生問題
 description: 在敏捷板上移動卡片時報告了各種問題。
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile

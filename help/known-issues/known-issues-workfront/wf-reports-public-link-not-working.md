@@ -1,6 +1,6 @@
 ---
-title: '報告：前往報告的公共連結無法運作'
-description: '''當使用者按一下前往報告的公共連結時，他們會看到錯誤。''具體錯誤取決於使用者使用的瀏覽器。」'
+title: 報告：前往報告的公共連結無法運作
+description: '當使用者按一下前往報告的公共連結時，他們會看到錯誤。具體錯誤取決於使用者使用的瀏覽器。 '
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c

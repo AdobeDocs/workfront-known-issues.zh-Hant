@@ -1,5 +1,5 @@
 ---
-title: 「團隊：無法檢視團隊擁有者或刪除團隊」
+title: 團隊：無法查看團隊所有者或刪除團隊
 description: 群組管理員無法執行這些動作。
 hidefromtoc: true
 feature: People Teams and Groups
@@ -7,7 +7,7 @@ exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 87%
+ht-degree: 93%
 
 ---
 

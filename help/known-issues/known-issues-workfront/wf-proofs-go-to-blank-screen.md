@@ -1,5 +1,5 @@
 ---
-title: 「校訂：點選校訂名稱後前往空白畫面」
+title: 校訂：點選校訂名稱後前往空白畫面
 description: 當使用者在網頁型校訂檢視器中點選校訂名稱以開啟校訂時，系統前往空白畫面而不是校訂。
 hidefromtoc: true
 feature: Digital Content and Documents

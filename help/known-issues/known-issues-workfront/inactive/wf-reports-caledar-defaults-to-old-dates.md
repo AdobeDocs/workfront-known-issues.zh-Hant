@@ -1,5 +1,5 @@
 ---
-title: 「報告：行事曆預設為舊日期」
+title: 報告：行事曆預設為舊日期
 description: 當使用者導覽到行事曆時，行事曆載入過去的隨機日期範圍 (例如，從 1800 年開始的一週)。
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true

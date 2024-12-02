@@ -1,5 +1,5 @@
 ---
-title: '專案：共用選單未載入'
+title: '專案：共用選單未載入 '
 description: 當使用者嘗試共用任務或問題時，Grant X Access 至選單會持續載入，且使用者無法共用任務或問題。
 hidefromtoc: true
 feature: Projects, Tasks, Work Management

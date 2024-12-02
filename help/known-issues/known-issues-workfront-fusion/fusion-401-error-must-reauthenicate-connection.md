@@ -1,13 +1,13 @@
 ---
-title: 「[!DNL Workfront Fusion]：無法驗證連線錯誤」
-description: 「Workfront Fusion 與 Workfront 帳戶的連線可能無法通過驗證，導致案例擲回以下錯誤：無法驗證連線。」
+title: '[!DNL Workfront Fusion]：無法驗證連線錯誤'
+description: Workfront Fusion與Workfront帳戶的連線可能無法通過驗證，導致案例擲回以下錯誤：無法驗證連線。
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 

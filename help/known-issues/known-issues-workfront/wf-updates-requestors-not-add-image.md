@@ -1,13 +1,13 @@
 ---
-title: 「更新：請求者使用者無法新增影像至更新」
-description: 當具有要求者授權的使用者檢視更新區域並嘗試新增影像時，新增影像的圖示遺失，且使用者無法使用新增影像的選項。
+title: 更新：請求者使用者無法將影像新增至更新中
+description: 當具有請求者授權的使用者檢視更新區域並嘗試新增影像時，新增影像的圖示遺失，且使用者無法使用新增影像的選項。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 4e914f5d-828d-4a6e-9fa1-1917675d3616
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 「更新：評論未代表顯示」
+title: 更新：評論未顯示代表
 description: 當管理員以其他使用者身份登入並發表評論時，評論會歸因於該使用者，而不是代表該使用者歸因於該管理員。
 hidefromtoc: true
 feature: Updates and Notifications

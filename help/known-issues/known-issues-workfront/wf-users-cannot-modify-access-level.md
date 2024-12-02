@@ -1,13 +1,13 @@
 ---
-title: 「使用者：無法修改使用者的存取層級」
+title: 使用者：無法修改使用者的存取層級
 description: 當群組管理員嘗試修改群組使用者的存取層級時，存取層級欄位停用，群組管理員無法變更使用者的存取層級。
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
 source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 

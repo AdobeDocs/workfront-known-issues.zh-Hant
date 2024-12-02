@@ -1,5 +1,5 @@
 ---
-title: 「首頁：無法移除「提及」小工具」
+title: 首頁：無法移除「提及」小工具
 description: 如果使用者想在新首頁中移除「提及」小工具，卻無法移除它。
 hidefromtoc: true
 feature: Get Started with Workfront

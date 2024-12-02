@@ -1,11 +1,11 @@
 ---
-title: 「版面配置範本：管理員無法編輯首頁版面配置範本」
+title: 版面配置範本：管理員無法編輯首頁版面配置範本
 description: 管理員嘗試為使用者編輯首頁版面配置範本時，介面不會回應且無法儲存變更。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
 source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 

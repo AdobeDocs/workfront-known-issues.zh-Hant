@@ -1,11 +1,11 @@
 ---
-title: 「專案：如果附加文件，則無法將問題轉換為專案」
+title: 專案：如果附加文件，則無法將問題轉換為專案
 description: 當問題具有文件，並且使用者嘗試將該問題轉換為專案時，轉換會失敗並且不會建立專案。使用者會看到錯誤。
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
