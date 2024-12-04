@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1109'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront： ZScaler設定可能會導致效能降低](known-issues-workfront//wf-workfront-zscaler.md) | 2024 年 11 月 20 日 |
+| [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md) | 2024 年 11 月 20 日 |
 | [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 11 月 12 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 12 日 |
 | [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |

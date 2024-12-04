@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2132'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [Workfront： ZScaler設定可能會導致效能降低](known-issues-workfront//wf-workfront-zscaler.md)
+      + [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md)
       + [時程表：投稿人使用者有「送交審核」按鈕](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md)
