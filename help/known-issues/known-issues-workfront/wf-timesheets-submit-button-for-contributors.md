@@ -4,14 +4,18 @@ description: 雖然擁有投稿人存取層級的使用者無法在時程表中�
 hidefromtoc: true
 feature: Timesheets
 exl-id: 3c2f744e-e53e-47b5-bd8d-eee3063ef108
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 92%
 
 ---
 
 # 時程表：投稿人使用者有「送交審核」按鈕
+
+>[!NOTE]
+>
+>此文章已在2024年11月28日修正。
 
 雖然擁有投稿人存取層級的使用者無法在時程表中輸入時數，卻有可按的「送交審核」按鈕。
 

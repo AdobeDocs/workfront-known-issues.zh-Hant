@@ -4,15 +4,23 @@ description: 當管理員透過版面配置範本將自訂資料欄位新增至�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+source-git-commit: 273f533553626082787f579b171ab4b314743d58
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 77%
 
 ---
 
 # 版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位
 
+>[!NOTE]
+>
+>此問題已關閉，因為它已正常運作。請參閱下列因應措施。
+
 當管理員透過版面配置範本將自訂資料欄位新增至任務摘要區域時，該欄位在使用者查看任務摘要時顯示為空白。
+
+**解決方法**
+
+避免使用句點「。」 在自訂欄位名稱中以避免此問題。 您可以在摘要區段中重新標籤自訂欄位，並視需要包含句點。
 
 _於 2024 年 10 月 2 日首次回報。_

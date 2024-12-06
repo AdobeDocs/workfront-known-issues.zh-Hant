@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
-workflow-type: ht
-source-wordcount: '2132'
-ht-degree: 100%
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '2166'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [核准：受委派核准未顯示給代理人](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [檔案：將表單新增到檔案時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [任務：準備開始欄位未更新，儘管已完成前置任務](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront：整個應用程式的日期格式變更](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md)
       + [時程表：投稿人使用者有「送交審核」按鈕](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
@@ -31,7 +35,7 @@ ht-degree: 100%
       + [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [報告：報告無法載入](known-issues-workfront/wf-reports-fail-to-load.md)
       + [資源規劃工具：無法存取資源規劃工具](known-issues-workfront/wf-resource-planner-inaccessible.md)
-      + [首頁：「我的任務」Widget 無法載入](known-issues-workfront/wf-home-task-widget-wont-load.md)
+      + [首頁：「我的任務」小工具無法載入](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [文件：文件中缺少「核准選項」按鈕](known-issues-workfront/wf-documents-missing-approval-button.md)
@@ -44,7 +48,7 @@ ht-degree: 100%
       + [專案：無法將問題新增至已完成的專案中](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [自訂表單：無法更新已完成專案中的自訂資料](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
       + [首頁：「優先順序」區域在停用後仍可存取](known-issues-workfront/wf-home-priorities-accessible.md)
-      + [首頁：「我的核准」Widget 無法運作](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [首頁：「我的核准」小工具無法運作](known-issues-workfront/wf-home-my-approval-not-working.md)
       + [校訂：無法在預覽環境中建立校訂](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [文件：無法從物件的「文件」標籤移動文件](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [展示板：任務和問題的狀態選項重複](known-issues-workfront/wf-boards-duplicate-status-options.md)
@@ -137,7 +141,7 @@ ht-degree: 100%
       + [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [整合：Dropbox 整合問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
-      + [首頁：「核准」Widget 不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [首頁：「核准」小工具不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [資源規劃：「[!UICONTROL 更多]」按鈕未顯示](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
@@ -174,7 +178,7 @@ ht-degree: 100%
       + [展示板：卡片不包含子任務](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：關於重複卡片的問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [新[!UICONTROL 首頁]：Widget 篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [團隊：設定團隊時「[!UICONTROL 完成]」按鈕狀態出現問題](known-issues-workfront/wf-teams-statuses-missing.md)
       + [設定：無法使用[!UICONTROL 快速啟動]來設定群組](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [展示板：移至某個欄的卡片在重新整理後回到原始欄中](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
@@ -182,12 +186,12 @@ ht-degree: 100%
       + [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [首頁：「已核准」或「規劃中」狀態的專案，其中任務未包含在「我的任務」或「首頁工作清單」](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [[!DNL Workfront]：未套用品牌](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
-      + [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」Widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [校訂：已完成的校訂保留於「[!UICONTROL 正等待我的核准]」小工具](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [[!UICONTROL 首頁]：新的[!UICONTROL 首頁] Widget 預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 首頁]：[!UICONTROL 要求] Widget 未顯示所有指派的團隊](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL 首頁]：新的[!UICONTROL 首頁]小工具預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 首頁]：[!UICONTROL 要求]小工具未顯示所有指派的團隊](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [版面配置範本：版面配置範本導致報告不一致](known-issues-workfront/inactive/wf-layout-templates-classic.md)
-      + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」Widget 不限於有標記使用者的訊息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」小工具不限於有標記使用者的訊息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)

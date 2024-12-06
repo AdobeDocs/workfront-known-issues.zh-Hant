@@ -4,19 +4,21 @@ description: 當使用者嘗試登入 Workfront for Outlook 時，按鈕沒有�
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 66%
 
 ---
 
 # 整合：無法登入 Workfront for Outlook
 
+<!--
 >[!NOTE]
 >
->此問題已在 2024 年 10 月 21 日解決。
+>This issue was resolved on October 21, 2024.
+-->
 
-當使用者嘗試登入 Workfront for Outlook 時，按鈕沒有回應，且使用者無法登入。
+當使用者嘗試登入Workfront for Outlook時，按鈕無回應，使用者無法登入。
 
 _於 2024 年 8 月 8 日首次回報。_
