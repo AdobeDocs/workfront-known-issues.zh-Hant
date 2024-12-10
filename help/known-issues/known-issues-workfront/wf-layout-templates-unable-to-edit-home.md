@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
 source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2024年12月5日修正。
+>此問題已於 2024 年 12 月 5 日修正。
 
 管理員嘗試為使用者編輯首頁版面配置範本時，介面不會回應且無法儲存變更。
 

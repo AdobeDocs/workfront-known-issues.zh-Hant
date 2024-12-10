@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
 source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->此問題已關閉，因為它已正常運作。請參閱下列因應措施。
+>此問題已關閉，因為目前已如期運作。請參閱以下解決方法。
 
 當管理員透過版面配置範本將自訂資料欄位新增至任務摘要區域時，該欄位在使用者查看任務摘要時顯示為空白。
 
 **解決方法**
 
-避免使用句點「。」 在自訂欄位名稱中以避免此問題。 您可以在摘要區段中重新標籤自訂欄位，並視需要包含句點。
+避免使用句號「。」在自訂欄位名稱中避免此問題。您可以在「摘要」區域中重新標記自訂欄位，並根據需要新增句號。
 
 _於 2024 年 10 月 2 日首次回報。_

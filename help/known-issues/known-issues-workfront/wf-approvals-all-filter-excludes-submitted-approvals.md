@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已關閉，因為情況已如期運作。
+>此問題已關閉，因為目前已如期運作。
 
 在首頁的「我的核准」小工具或在「我的更新」頁面上檢視核准時，即使篩選器設定為「全部」，清單也未包含使用者提交的核准。
 

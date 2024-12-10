@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2166'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [核准：受委派核准未顯示給代理人](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [檔案：將表單新增到檔案時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [任務：準備開始欄位未更新，儘管已完成前置任務](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
-      + [Workfront：整個應用程式的日期格式變更](known-issues-workfront/wf-workfront-date-format-changing.md)
+      + [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [任務：即便已完成前置任務，「準備開始」欄位尚未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront：日期格式在整個應用程式中發生變更](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md)
       + [時程表：投稿人使用者有「送交審核」按鈕](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)

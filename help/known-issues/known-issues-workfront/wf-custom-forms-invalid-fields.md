@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已在2024年12月5日修正。
+>此文章已於 2024 年 12 月 5 日修正。
 
 使用者嘗試將欄位「estimateByHours」或「hoursPerPoint」新增至表單產生器中的自訂表單時，會顯示錯誤訊息：「此自訂運算式無效，請再試一次。」
 
