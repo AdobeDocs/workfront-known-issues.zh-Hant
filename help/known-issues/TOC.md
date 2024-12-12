@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '2166'
-ht-degree: 100%
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
+workflow-type: tm+mt
+source-wordcount: '2214'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：自訂資料未顯示在摘要面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [敏捷：無法大量編輯疊代中的劇本](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [校訂：無法將收件者新增至校訂](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [校訂：校訂名稱未出現在瀏覽器索引標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [任務：新增個人任務時出現糟糕錯誤](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [校訂：未產生Webcapture校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [任務：即便已完成前置任務，「準備開始」欄位尚未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 100%
       + [更新：評論中的連結會導向空白畫面](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [校訂：校訂會讓任務或問題無法轉換為專案](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [任務：新增或刪除任務時出現 Bizcontext 錯誤](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [任務：新增或刪除任務時出現資料庫錯誤（先前為Bizcontext錯誤）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [版面配置範本：登陸頁面不正確](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [專案：如果附加網頁校訂，則無法將問題轉換為專案](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

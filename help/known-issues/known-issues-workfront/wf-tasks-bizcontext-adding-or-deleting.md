@@ -1,18 +1,22 @@
 ---
-title: 任務：新增或刪除任務時出現 Bizcontext 錯誤
-description: 當使用者嘗試新增或刪除任務時，任務不會新增或刪除，且使用者會看到 Bizcontext 錯誤。
+title: 任務：新增或刪除任務時出現資料庫錯誤（先前為Bizcontext錯誤）
+description: 當使用者嘗試新增或刪除任務時，任務未新增或刪除，並且顯示以下錯誤：「資料庫錯誤：由於暫時性系統問題，您的請求無法完成。 請再試一次」。 此錯誤訊息先前是Bizcontext錯誤。
 hidefromtoc: true
 feature: Tasks
 exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
-source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+source-git-commit: d646e08c6733909733779734222db2f728b92850
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 21%
 
 ---
 
-# 任務：新增或刪除任務時出現 Bizcontext 錯誤
+# 任務：新增或刪除任務時出現資料庫錯誤（先前為Bizcontext錯誤）
 
-當使用者嘗試新增或刪除任務時，任務不會新增或刪除，且使用者會看到 Bizcontext 錯誤。
+>[!NOTE]
+>
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+
+當使用者嘗試新增或刪除任務時，任務未新增或刪除，並且顯示以下錯誤：「資料庫錯誤：由於暫時性系統問題，您的請求無法完成。 請再試一次」。 此錯誤訊息先前是Bizcontext錯誤。
 
 _於 2024 年 3 月 7 日首次通報。_
