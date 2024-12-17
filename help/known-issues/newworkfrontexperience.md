@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1165'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [敏捷：無法大量編輯反複專案中的劇本](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024 年 12 月 5 日 |
+| [敏捷：無法在疊代中大量編輯故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024 年 12 月 5 日 |
 | [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 5 日 |
 | [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
 | [任務：即便已完成前置任務，「準備開始」欄位尚未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024 年 12 月 3 日 |
@@ -54,11 +54,11 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [自訂表單：摘要面板中未顯示自訂資料](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日 |
-| [校訂：無法將收件者新增至校訂](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024年12月11日 |
-| [校訂：校訂名稱未出現在瀏覽器索引標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024年12月11日 |
-| [任務：新增個人任務時出現糟糕錯誤](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024年12月11日 |
-| [校訂：未產生Webcapture校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月11日 |
+| [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
+| [校樣：無法將收件者加入校樣中](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024 年 12 月 11 日 |
+| [校樣：校樣名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |
+| [任務：新增個人任務時出現錯誤](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024 年 12 月 11 日 |
+| [校樣：不會產生 Webcapture 校樣](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 11 日 |
 | [報告：圖表清單中的大量編輯沒有回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
@@ -79,7 +79,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [工作：新增或刪除工作時發生資料庫錯誤（先前為Bizcontext錯誤）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年12月10日 |
+| [任務：新增或刪除任務時出現資料庫 (原先出現 Bizcontext 錯誤)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 12 月 10 日 |
 | [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位。](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 12 月 5 日 |
 | [Workfront：投稿人使用者無法存取計劃或專案組合](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024 年 12 月 5 日 |
