@@ -1,13 +1,13 @@
 ---
 title: 校樣：不會產生 Webcapture 校樣
-description: 當使用者嘗試建立 webcapture 校樣，校樣並未成功產生。
+description: 當使用者嘗試建立 webcapture 校樣時，無法成功產生校樣。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->此問題已關閉，因為目前已如期運作。請參閱下列因應措施。
+>此問題已結案，因為其目前按照設計運作。請參閱以下解決方法。
 
-當使用者嘗試建立 webcapture 校樣，校樣並未成功產生。
+當使用者嘗試建立 webcapture 校樣時，無法成功產生校樣。
 
 **解決方法**
 
-此問題是因為特定PDF檔案的校訂產生時間過長所導致。 若要將產生逾時從預設的30秒增加，請在校訂管理員的帳戶層級的「處理設定」中編輯以下屬性：
+此問題是因為某些 PDF 檔案的校樣產生時間過長所致。若要延長預設的 30 秒產生逾時，請在校訂管理員中於帳戶層級編輯「處理」設定的下列屬性：
 
 `WebCaptureNavigationTimeout -> 120`
 

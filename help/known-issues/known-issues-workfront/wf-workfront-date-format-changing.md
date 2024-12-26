@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: baeed4df-8b86-4767-9991-c0b947b07f3b
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->因為無法重現此問題，此問題已結案。
+>因為無法重現此問題，所以已經結案。
 
 在應用程式中使用清單在不同頁面進行導覽時，日期格式偶爾會從 MM/DD/YYYY 變更為 DD/MM/YYYY，反之亦然。
 

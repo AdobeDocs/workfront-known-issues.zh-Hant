@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1135'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年12月20日 |
+| [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 12 月 20 日 |
 | [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [校樣：校樣名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |
 | [任務：新增個人任務時出現錯誤](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024 年 12 月 11 日 |
@@ -73,9 +73,9 @@ ht-degree: 99%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校樣：不會產生 Webcapture 校樣](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月20日 |
-| [Workfront：日期格式在整個應用程式中發生變更](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024年12月20日 |
-| [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024年12月20日 |
+| [校樣：不會產生 Webcapture 校樣](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
+| [Workfront：在整個應用程式中日期格式會變更](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024 年 12 月 20 日 |
+| [核准：代理人處並未顯示所委派的核准](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 20 日 |
 | [任務：新增或刪除任務時出現資料庫 (原先出現 Bizcontext 錯誤)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 12 月 10 日 |
 | [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位。](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 12 月 5 日 |
