@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: ht
-source-wordcount: '1135'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,11 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [更新：記錄時數未顯示在更新區域的記錄時間標籤上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024 年 1 月 2 日 |
+| [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |
+| [通知：推播至Workfront Mobile應用程式的通知無法運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
+| [檔案：檔案區域未顯示所有檔案](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
+| [自訂表單：透過欄](known-issues-workfront/wf-custom-forms-error-when-editing.md)編輯自訂表單時發生錯誤 | 2024 年 1 月 2 日 |
 | [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
@@ -49,6 +54,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [要求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日 |
 | [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 12 月 20 日 |
 | [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [校樣：校樣名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |

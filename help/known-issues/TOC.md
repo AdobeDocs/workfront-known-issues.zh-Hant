@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: ht
-source-wordcount: '2214'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '2268'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [更新：記錄時數未顯示在更新區域的記錄時間標籤上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [通知：推播通知至Workfront Mobile應用程式無法運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [檔案：檔案區域未顯示所有檔案](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [自訂表單：透過欄編輯自訂表單時發生錯誤](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [請求和問題：進階使用者指派錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [敏捷：無法在疊代中大量編輯故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [校樣：無法將收件者加入校樣中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
