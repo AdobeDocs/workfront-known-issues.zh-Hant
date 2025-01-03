@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 96%
+source-wordcount: '2313'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [自訂表單：自訂表單會以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [記帳記錄：小時未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [看板：無法將卡片移動到其他欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [使用者：大量更新使用者的速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
