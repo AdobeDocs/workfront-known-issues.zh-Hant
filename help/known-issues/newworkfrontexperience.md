@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 95%
+source-wordcount: '1230'
+ht-degree: 92%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [看板：無法將卡片移動到不同的資料行](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日 |
+| [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日 |
+| [使用者：大量更新使用者非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日 |
+| [自訂表單：選項按鈕水準列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025年1月2日 |
 | [要求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日 |
 | [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 12 月 20 日 |
 | [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |

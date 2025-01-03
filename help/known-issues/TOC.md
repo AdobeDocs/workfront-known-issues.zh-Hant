@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2268'
-ht-degree: 97%
+source-wordcount: '2299'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [看板：無法將卡片移動到其他欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [使用者：大量更新使用者的速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [自訂表單：選項按鈕水準列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [更新：記錄時數未顯示在更新區域的記錄時間標籤上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：推播通知至Workfront Mobile應用程式無法運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
