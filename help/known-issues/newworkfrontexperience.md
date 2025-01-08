@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
 source-wordcount: '1246'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 91%
 | ----------------------------------------------------------------- | ----------------- |
 | [自訂表單：自訂表單會以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日 |
 | [記帳記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日 |
-| [更新：記錄時數未顯示在更新區域的記錄時間標籤上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024 年 1 月 2 日 |
+| [更新：「更新」區域的「記錄時間」標籤上未顯示已記錄的時數](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024 年 1 月 2 日 |
 | [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |
-| [通知：推播至Workfront Mobile應用程式的通知無法運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
-| [檔案：檔案區域未顯示所有檔案](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
-| [自訂表單：透過欄](known-issues-workfront/wf-custom-forms-error-when-editing.md)編輯自訂表單時發生錯誤 | 2024 年 1 月 2 日 |
+| [通知：傳送至 Workfront 行動應用程式的推播通知無法正常運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
+| [文件：「文件」區域未顯示所有文件](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
+| [自訂表單：透過欄位編輯自訂表單時出現錯誤](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024 年 1 月 2 日 |
 | [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
@@ -56,11 +56,11 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [看板：無法將卡片移動到不同的資料行](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日 |
-| [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日 |
-| [使用者：大量更新使用者非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日 |
-| [自訂表單：選項按鈕水準列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025年1月2日 |
-| [要求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日 |
+| [看板：無法將卡片移動到不同的資料行](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
+| [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
+| [使用者：大量更新使用者非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
+| [自訂表單：選項按鈕水準列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025 年 1 月 2 日 |
+| [請求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025 年 1 月 2 日 |
 | [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 12 月 20 日 |
 | [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [校樣：校樣名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |

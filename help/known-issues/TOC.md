@@ -5,7 +5,7 @@ role: User
 source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
 source-wordcount: '2313'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 95%
       + [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [使用者：大量更新使用者的速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [自訂表單：選項按鈕水準列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [更新：記錄時數未顯示在更新區域的記錄時間標籤上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [更新：「更新」區域的「記錄時間」標籤上未顯示已記錄的時數](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
-      + [通知：推播通知至Workfront Mobile應用程式無法運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [檔案：檔案區域未顯示所有檔案](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [自訂表單：透過欄編輯自訂表單時發生錯誤](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [請求和問題：進階使用者指派錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [通知：傳送至 Workfront 行動應用程式的推播通知無法正常運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [文件：「文件」區域未顯示所有文件](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [自訂表單：透過欄位編輯自訂表單時出現錯誤](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [請求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [敏捷：無法在疊代中大量編輯故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [校樣：無法將收件者加入校樣中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
