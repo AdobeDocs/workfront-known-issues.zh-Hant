@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 94%
 | [首頁：等待核准Widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)中缺少核准按鈕 | 2025年1月9日 |
 | [使用者：變更系統管理員時建立的帳戶重複](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日 |
 | [專案：延遲條件未如預期套用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月9日 |
-| [自訂表單：自訂表單會以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日 |
-| [記帳記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日 |
+| [自訂表單：自訂表單以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024 年 1 月 3 日 |
+| [計費記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024 年 1 月 3 日 |
 | [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |
 | [通知：傳送至 Workfront 行動應用程式的推播通知無法正常運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
 | [自訂表單：透過欄位編輯自訂表單時出現錯誤](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024 年 1 月 2 日 |
@@ -57,9 +57,9 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [看板：無法將卡片移動到不同的資料行](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
-| [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
-| [使用者：大量更新使用者非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
+| [展示板：無法將卡片移至不同的欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
+| [自訂表單：編輯自訂表單時顯示「無效的欄位」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
+| [使用者：大量更新使用者非常緩慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
 | [請求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025 年 1 月 2 日 |
 | [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [校樣：校樣名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |

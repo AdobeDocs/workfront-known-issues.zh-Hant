@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 97%
       + [首頁：等待核准Widget中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [使用者：變更系統管理員時建立的帳戶重複](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [專案：延遲條件未如預期套用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [自訂表單：自訂表單會以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
-      + [記帳記錄：小時未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md)
-      + [看板：無法將卡片移動到其他欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [自訂表單：編輯自訂表單時出現「欄位無效」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
-      + [使用者：大量更新使用者的速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [自訂表單：選項按鈕水準列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
+      + [自訂表單：自訂表單以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [計費記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md)
+      + [展示板：無法將卡片移至不同的欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [自訂表單：編輯自訂表單時顯示「無效的欄位」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [使用者：大量更新使用者非常緩慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [自訂表單：選項按鈕以水平方式列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [更新：「更新」區域的「記錄時間」標籤上未顯示已記錄的時數](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：傳送至 Workfront 行動應用程式的推播通知無法正常運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
