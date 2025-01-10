@@ -3,15 +3,19 @@ title: 文件：「文件」區域未顯示所有文件
 description: 當使用者檢視物件的「文件」區域時，附加至該文件的文件並未全部顯示。此問題有解決方法。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+exl-id: 3c208da4-4f75-44ef-824e-50aff523e5aa
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '102'
+ht-degree: 94%
 
 ---
 
-
 # 文件：「文件」區域未顯示所有文件
+
+>[!NOTE]
+>
+>此文章已在2025年1月9日修正。
 
 當使用者檢視物件的「文件」區域時，附加至該文件的文件並未全部顯示。
 

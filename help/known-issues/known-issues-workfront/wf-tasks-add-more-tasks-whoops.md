@@ -3,15 +3,19 @@ title: 任務：新增個人任務時出現錯誤
 description: 當任務清單中的使用者針對他們的個人任務，嘗試按一下「新增更多任務」按鈕來建立新任務時，他們無法建立該任務，並且會看到錯誤訊息。此問題有解決方法。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 77b1b9919180dd23085d7309da93722da6748849
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+exl-id: afe057ed-662c-4beb-98db-e11b58b97165
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 95%
 
 ---
 
-
 # 任務：新增個人任務時出現錯誤
+
+>[!NOTE]
+>
+>此文章已在2024年12月26日修正。
 
 當任務清單中的使用者針對他們的個人任務，嘗試按一下「新增更多任務」按鈕來建立新任務時，他們無法建立該任務，並且會看到以下訊息：
 

@@ -4,14 +4,18 @@ description: 刪除群組狀態後，儘管該群組不再顯示狀態，並且�
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
 # 群組：刪除群組狀態時出現問題
+
+>[!NOTE]
+>
+>因為無法重現此問題，所以已經結案。
 
 已報告下列有關刪除組狀態的問題：
 
