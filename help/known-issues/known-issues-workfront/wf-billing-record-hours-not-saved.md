@@ -1,20 +1,20 @@
 ---
-title: 記帳記錄：小時未儲存
-description: 當使用者嘗試將符合條件的時數新增到業務記錄時，時數未儲存，並且使用者會看到一則訊息。
+title: 計費記錄：時數未儲存
+description: 使用者嘗試將符合資格的時數新增至業務記錄時，時數不會儲存，且使用者會看到一則訊息。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
-workflow-type: tm+mt
+exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
+source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 計費記錄：時數未儲存
 
-# 記帳記錄：小時未儲存
+使用者嘗試將符合資格的時數新增至業務記錄時，時數不會儲存，且使用者會看到以下訊息：
 
-當使用者嘗試將符合條件的時數新增到業務記錄時，時數未儲存，並且使用者會看到以下訊息：請修改時數。
+「所有內容都不見了嗎？看來您可能需要調整篩選條件。」
 
-「一切進展如何？ 看來您可能需要調整篩選器。」
-
-_於2024年12月13日首次通報。_
+_於 2024 年 12 月 13 日首次通報。_
