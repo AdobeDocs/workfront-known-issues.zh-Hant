@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2336'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [首頁：等待核准Widget中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
-      + [使用者：變更系統管理員時建立的帳戶重複](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
-      + [專案：延遲條件未如預期套用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
+      + [首頁：等待核准小工具中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [自訂表單：自訂表單以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [計費記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [展示板：無法將卡片移至不同的欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)

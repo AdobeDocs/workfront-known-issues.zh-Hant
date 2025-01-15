@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3c208da4-4f75-44ef-824e-50aff523e5aa
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此文章已在2025年1月9日修正。
+>此文章已於 2025 年 1 月 9 日修正。
 
 當使用者檢視物件的「文件」區域時，附加至該文件的文件並未全部顯示。
 

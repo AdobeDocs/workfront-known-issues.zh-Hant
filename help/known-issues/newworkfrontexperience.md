@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1217'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [首頁：等待核准Widget](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)中缺少核准按鈕 | 2025年1月9日 |
-| [使用者：變更系統管理員時建立的帳戶重複](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日 |
-| [專案：延遲條件未如預期套用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月9日 |
+| [首頁：等待核准小工具中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025 年 1 月 9 日 |
+| [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
+| [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 9 日 |
 | [自訂表單：自訂表單以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024 年 1 月 3 日 |
 | [計費記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024 年 1 月 3 日 |
 | [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |

@@ -2,10 +2,11 @@
 title: 2024 年 Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -53,11 +54,11 @@ ht-degree: 99%
 
 嘗試大量編輯或刪除多個報告項目時，有時不會顯示「編輯」和「刪除」圖示。
 
-專案（財務資料）報表中有&#x200B;**個錯誤**
+**專案 (財務資料) 報告的錯誤**
 
-糟糕錯誤會斷斷續續地出現在詳細資訊頁面和矩陣頁面中(Project (Financial Data))報表。
+專案 (財務資料) 報告在詳細資料頁面和矩陣頁面中間歇性出現「糟糕」錯誤。
 
-更正此問題的部分內容是，在載入資料之前，不再自動重新計算此報表型別中的專案。 使用者必須手動重新計算個別專案的財務，以更新財務資料報表中的資料。
+為了修正此問題，此報告類型的專案在載入資料之前不再自動重新計算。使用者必須手動重新計算個別專案的財務，以更新財務資料報告中的資料。
 
 +++
 

@@ -1,21 +1,22 @@
 ---
-title: 首頁：等待核准Widget中缺少核准按鈕
-description: 在首頁中使用等待核准Widget時，選擇核准決策的按鈕未出現。
+title: 首頁：等待核准小工具中缺少核准按鈕
+description: 在首頁中使用等待核准小工具時，並未顯示用於選取核准決定的按鈕。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 首頁：等待核准Widget中缺少核准按鈕
+# 首頁：等待核准小工具中缺少核准按鈕
 
-在首頁中使用等待核准Widget時，選擇核准決策的按鈕未出現。
+在首頁中使用等待核准小工具時，並未顯示用於選取核准決定的按鈕。
 
 **解決方法**
 
-您可以直接導覽至核准來做出核准決定。
+可以直接導覽至核准並做出核准決定。
 
-_於2024年11月21日首次通報。_
+_於 2024 年 11 月 21 日首次通報。_

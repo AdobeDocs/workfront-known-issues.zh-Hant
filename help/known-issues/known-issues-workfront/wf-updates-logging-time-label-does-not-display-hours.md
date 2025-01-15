@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: e29be9fb-33d4-462d-9d69-83e5a1c682b7
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此文章已在2025年1月9日修正。
+>此文章已於 2025 年 1 月 9 日修正。
 
 當使用者在「更新」區域中記錄時數時，這些時數會顯示於「記錄時間」標記標籤上。但是，若使用者重新整理頁面或離開後再返回，該標籤並未顯示時數。
 
