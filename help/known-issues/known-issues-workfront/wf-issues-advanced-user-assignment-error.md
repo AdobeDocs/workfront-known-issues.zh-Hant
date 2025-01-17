@@ -3,15 +3,19 @@ title: 請求與問題：進階使用者指派發生錯誤
 description: 當使用者針對請求或問題進行進階使用者指派時，該使用者未被指派，且使用者看到錯誤訊息。
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 94%
 
 ---
 
-
 # 請求與問題：進階使用者指派發生錯誤
+
+>[!NOTE]
+>
+>此問題已在2025年1月16日修正。
 
 當使用者針對請求或問題進行進階使用者指派時，該使用者未被指派，且使用者看到以下錯誤訊息：
 

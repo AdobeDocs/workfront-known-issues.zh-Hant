@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 75%
 
 ---
 
@@ -26,13 +26,37 @@ ht-degree: 100%
 
 ## 2025 年 1 月更新
 
-+++**2025 年 1 月 9 日維護更新**
++++**於2025年1月16日維護更新**
 
-<!-- Delete this entry when next is added, no updates were made. -->
+### 於2025年1月16日維護更新
 
-### 2025 年 1 月 9 日維護更新
+#### 文件
 
-此更新僅包含次要或較不顯著的錯誤修正。 當您提交的問題得到修復時，Workfront 支援人員會通知您。
+將表單新增到檔案時出現&#x200B;**「未儲存的變更」錯誤**
+
+將表單新增至文件時，顯示「未儲存的變更」錯誤，此錯誤無法關閉並防止與應用程式互動。
+
+#### 校訂
+
+**校訂名稱未出現在瀏覽器索引標籤上**
+
+當使用者查看校樣時，瀏覽器標籤上看不到校樣的名稱。相反，瀏覽器標籤會顯示「Workfront」。
+
+#### 請求和問題
+
+**進階使用者指派發生錯誤**
+
+當使用者針對請求或問題進行進階使用者指派時，該使用者未被指派，且使用者看到以下錯誤訊息：
+
+「發生錯誤，我們正在努力解決這個問題。若要繼續工作，請重新整理此瀏覽器頁面。」
+
+重新整理瀏覽器頁面無效。
+
+#### 請求
+
+**無法在預覽環境中建立請求**
+
+嘗試在預覽Sandbox環境中建立新請求時，顯示錯誤，指出請求佇列不再可用，並且無法建立請求。
 
 +++
 

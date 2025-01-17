@@ -3,15 +3,19 @@ title: 自訂表單：透過欄位編輯自訂表單時出現錯誤
 description: 當使用者檢視包含自訂表單連結的物件清單，並按一下該連結以編輯自訂表單時，使用者無法編輯該表單，且出現錯誤訊息。此問題有解決方法
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '138'
+exl-id: 33d0d447-cde0-445f-80da-64f9a63814e9
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
 
-
 # 自訂表單：透過欄位編輯自訂表單時出現錯誤
+
+>[!NOTE]
+>
+>此文章已於 2025 年 1 月 9 日修正。
 
 當使用者檢視包含自訂表單連結的物件清單，並按一下該連結以編輯自訂表單時，使用者無法編輯該表單，而是出現以下訊息：
 

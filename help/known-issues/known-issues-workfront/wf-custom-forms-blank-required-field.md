@@ -4,14 +4,18 @@ description: 使用者在物件的「詳細資訊」區域中編輯自訂表單�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '168'
+ht-degree: 96%
 
 ---
 
 # 自訂表單：編輯自訂表單時顯示「無效的欄位」訊息
+
+>[!NOTE]
+>
+>此文章已在2025年1月13日修正。
 
 使用者在物件的「詳細資訊」區域中編輯自訂表單，且其中一個自訂表單的必填欄位目前為空白時，使用者無法編輯表單，而且會看到以下訊息：
 
