@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Requests, Work Management
 exl-id: 9310726c-646e-46f0-a419-a232086f4738
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此問題已在2025年1月16日修正。
+>此問題已於 2025 年 1 月 16 日修正。
 
 當使用者針對請求或問題進行進階使用者指派時，該使用者未被指派，且使用者看到以下錯誤訊息：
 
