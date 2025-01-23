@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025 年進行了以下維護更新。
 
 ## 2025 年 1 月更新
+
++++**於2025年1月23日維護更新**
+
+### 於2025年1月23日維護更新
+
+#### 報告
+
+**自訂貨幣欄位造成報告錯誤**
+
+當報表檢視包含兩個或多個自訂貨幣欄位時，報表會傳回錯誤。
+
+#### 使用者
+
+**「未註冊」標籤在登入**&#x200B;後持續存在
+
+即使至少成功登入一次，但新使用者的「未註冊」標記並未依照預期消失。
+
++++
 
 +++**2025 年 1 月 16 日的維護更新**
 

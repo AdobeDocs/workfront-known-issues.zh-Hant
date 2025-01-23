@@ -4,14 +4,18 @@ description: 即使至少成功登入一次，但新使用者的「未註冊」�
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 90%
 
 ---
 
 # 使用者：登入之後，「未註冊」標記仍然存在
+
+>[!NOTE]
+>
+>此文章已在2025年1月23日修正。
 
 即使至少成功登入一次，但新使用者的「未註冊」標記並未依照預期消失。
 
