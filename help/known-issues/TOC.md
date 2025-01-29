@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2378'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [報告：向下鑽研中的自訂預先輸入欄位無回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
-      + [登入身份：顯示管理員的首頁配置範本](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [登入身分：顯示管理員的主頁佈局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [使用者：編輯成本費率錯誤](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [任務：記錄的時數在移動後仍保留在先前的專案上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [報告：時數報告篩選器包含不正確的日期](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)

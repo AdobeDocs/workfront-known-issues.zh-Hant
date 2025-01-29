@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1189'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [報告：向下鑽研中的自訂自動提示欄位無回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025年1月23日 |
-| [登入身份：顯示管理員的首頁配置範本](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025年1月23日 |
-| [使用者：編輯成本費率錯誤](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 2025年1月23日 |
+| [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025 年 1 月 23 日 |
+| [登入身分：顯示管理員的主頁佈局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025 年 1 月 23 日 |
+| [使用者：編輯成本費率錯誤](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 2025 年 1 月 23 日 |
 | [任務：記錄的時數在移動後仍保留在先前的專案上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025 年 1 月 16 日 |
 | [報告：時數報告篩選器包含不正確的日期](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025 年 1 月 16 日 |
 | [時程表：總時數不正確](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025 年 1 月 16 日 |
