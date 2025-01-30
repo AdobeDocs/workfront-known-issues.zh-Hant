@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '2378'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '2391'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [校訂：無法標籤特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [任務：可用於任務的專案層級篩選器和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [登入身分：顯示管理員的主頁佈局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [使用者：編輯成本費率錯誤](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 100%
       + [狀態：無法重複使用先前刪除的狀態](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [文件：使用前往文件的公共連結時發生錯誤](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [文件：使用前往文件的公共連結時發生錯誤](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [專案：共用選單未載入](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [報告：前往報告的公共連結無法運作](known-issues-workfront/wf-reports-public-link-not-working.md)

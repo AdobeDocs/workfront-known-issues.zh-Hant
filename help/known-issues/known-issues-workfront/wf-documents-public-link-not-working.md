@@ -1,26 +1,27 @@
 ---
 title: 文件：使用前往文件的公共連結時發生錯誤
-description: 當使用者按一下前往 Workfront 文件的公共連結時，他們可能會看到錯誤。
+description: 當使用者按一下公開連結前往Workfront中的檔案時，他們會看到錯誤。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 154faa161413258aae76968495cb464b17d71857
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 31%
 
 ---
 
 # 文件：使用前往文件的公共連結時發生錯誤
 
+<!--
 >[!NOTE]
 >
->這個問題已解決。
+>This issue has been resolved.-->
 
-當使用者按一下前往 Workfront 文件的公共連結時，他們可能會看到以下一項錯誤：
+當使用者按一下公開連結前往Workfront中的檔案時，他們會看到以下錯誤：「該檔案不再存在」。
 
-* 500 錯誤
-* 「[!UICONTROL 糟糕！發生錯誤。請聯絡 Workfront，以便我們找出問題並加以修正。]」
+**因應措施**
 
+如果使用者已登入，他們就可以如預期檢視檔案。
 
-_於 2024 年 5 月 30 日首次通報。_
+_於 2025 年 1 月 10 日首次通報。_

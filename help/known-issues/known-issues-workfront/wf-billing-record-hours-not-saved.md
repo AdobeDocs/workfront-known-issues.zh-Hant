@@ -4,14 +4,18 @@ description: 使用者嘗試將符合資格的時數新增至業務記錄時，�
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 92%
 
 ---
 
 # 計費記錄：時數未儲存
+
+>[!NOTE]
+>
+>此文章已在2025年1月29日修正。
 
 使用者嘗試將符合資格的時數新增至業務記錄時，時數不會儲存，且使用者會看到以下訊息：
 

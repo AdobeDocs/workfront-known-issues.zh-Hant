@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '337'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '410'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025 年進行了以下維護更新。
 
 ## 2025 年 1 月更新
+
++++**於2025年1月30日維護更新**
+
+### 於2025年1月30日維護更新
+
+#### 首頁
+
+**核准未出現在首頁Widget**
+
+使用者提交的核准不會出現在他們自己的我的核准Widget中，即使篩選以專門顯示它們也是如此。
+
+#### 報告
+
+**小時報告篩選器包含不正確的日期**
+
+當篩選時數報告以便僅顯示特定日期時，報告中實際上包含了不同的相鄰日期。此問題似乎與時區設定有關。
+
++++
 
 +++**於 2025 年 1 月 23 日維護更新**
 
