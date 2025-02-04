@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 71%
 
 >[!NOTE]
 >
->此文章已在2025年1月30日修正。
+>此文章已於 2025 年 1 月 30 日修正。
 
 使用者嘗試將卡片移到另一欄時，卡片不會移動，而且使用者會看到以下訊息：
 
@@ -23,6 +23,6 @@ ht-degree: 71%
 
 **因應措施**
 
-確保將嘗試在展示板中移動卡片的使用者新增到展示板中，即使他們是管理員。
+請確保已將嘗試在展示板上移動卡片的使用者新增到展示板，即使他們是管理員也一樣。
 
 _於 2024 年 11 月 27 日首次通報。_

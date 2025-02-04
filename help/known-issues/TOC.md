@@ -3,9 +3,9 @@ user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2391'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
-      + [校訂：無法標籤特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
-      + [任務：可用於任務的專案層級篩選器和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
+      + [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [任務：可用於任務的專案層級篩選和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [登入身分：顯示管理員的主頁佈局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [使用者：編輯成本費率錯誤](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -42,10 +42,10 @@ ht-degree: 99%
       + [請求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [敏捷：無法在疊代中大量編輯故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [校樣：無法將收件者加入校樣中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [校樣：校樣名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [校訂：無法將收件者加入校訂中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [校訂：校訂名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
       + [任務：新增個人任務時出現錯誤](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
-      + [校樣：不會產生 Webcapture 校樣](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
+      + [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [任務：即便已完成前置任務，「準備開始」欄位尚未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)

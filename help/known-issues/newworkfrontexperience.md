@@ -5,9 +5,9 @@ keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1174'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [校訂：無法標籤特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年1月30日 |
-| [文件：使用前往文件的公共連結時發生錯誤](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025年1月30日 |
-| [任務：任務可用的專案層級篩選器和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025年1月30日 |
+| [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 1 月 30 日 |
+| [文件：使用前往文件的公共連結時發生錯誤](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025 年 1 月 30 日 |
+| [任務：可用於任務的專案層級篩選和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
 | [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025 年 1 月 23 日 |
 | [任務：記錄的時數在移動後仍保留在先前的專案上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025 年 1 月 16 日 |
 | [時程表：總時數不正確](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025 年 1 月 16 日 |
@@ -78,7 +78,7 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [登入身分：顯示管理員的主頁佈局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025 年 1 月 23 日 |
 | [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 16 日 |
-| [校樣：不會產生 Webcapture 校樣](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
+| [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
 | [Workfront：在整個應用程式中日期格式會變更](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024 年 12 月 20 日 |
 | [核准：代理人處並未顯示所委派的核准](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 20 日 |
 | [任務：新增或刪除任務時出現資料庫 (原先出現 Bizcontext 錯誤)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 12 月 10 日 |
