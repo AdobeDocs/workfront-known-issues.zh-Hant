@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '410'
-ht-degree: 100%
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '458'
+ht-degree: 90%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 100%
 有關 2025 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 2025 年進行了以下維護更新。
+
+## 2025 年 2 月份更新
+
++++**於2025年2月6日維護更新**
+
+### 2025年2月6日維護更新
+
+#### 清單
+
+**上傳校訂後無法編輯工作清單**
+
+將校訂上傳到專案時，在頁面刷新或校訂完成上傳之前，無法內聯編輯該專案的任務清單。
+
++++
 
 ## 2025 年 1 月更新
 

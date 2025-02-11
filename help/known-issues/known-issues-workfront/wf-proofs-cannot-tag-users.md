@@ -3,14 +3,19 @@ title: 校訂：無法標記特定使用者
 description: 當使用者嘗試在校訂中標記另一個使用者時，有時會無法在預輸入欄位中使用部分使用者。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 90%
 
 ---
 
 # 校訂：無法標記特定使用者
+
+>[!NOTE]
+>
+>此問題已在2025年2月7日修正。
 
 當使用者嘗試在校訂中標記另一個使用者時，有時會無法在預輸入欄位中使用部分使用者。
 

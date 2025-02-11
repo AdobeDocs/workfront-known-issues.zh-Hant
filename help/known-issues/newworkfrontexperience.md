@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '1174'
-ht-degree: 100%
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '1200'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 1 月 30 日 |
+| [版面配置範本：已刪除的檢視仍可使用](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 2025年2月11日 |
+| [自訂表單：自訂自動提示欄位中遺漏的公司](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025年2月11日 |
+| [檔案：無法上傳至AEM資料夾檔案清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月11日 |
 | [文件：使用前往文件的公共連結時發生錯誤](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025 年 1 月 30 日 |
 | [任務：可用於任務的專案層級篩選和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
 | [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025 年 1 月 23 日 |
@@ -56,6 +58,7 @@ ht-degree: 100%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日 |
 | [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [報告：圖表清單中的大量編輯沒有回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
