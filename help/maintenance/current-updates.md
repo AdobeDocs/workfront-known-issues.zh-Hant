@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 90%
+source-wordcount: '545'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 90%
 2025 年進行了以下維護更新。
 
 ## 2025 年 2 月份更新
+
++++**於2025年2月13日維護更新**
+
+### 2025年2月13日維護更新
+
+#### 自訂表單
+
+**摘要面板中未顯示自訂資料**
+
+當客戶檢視任務的摘要面板時，應該出現在摘要面板中的自訂資料不存在。 即使任務的版面範本含有自訂欄位，也可能會發生這種情況。
+
+#### 報告
+
+**提示顯示問題**
+
+當存取包含大量提示的提示報告時，提示對話方塊不允許捲動存取所有提示或「執行報告」按鈕。
+
++++
 
 +++**於2025年2月6日維護更新**
 
