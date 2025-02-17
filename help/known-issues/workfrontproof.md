@@ -40,7 +40,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日 |
+| [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
 | [文件：無法使用預覽連結預覽文件](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [無法建立文件清單視圖](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |

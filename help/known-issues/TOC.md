@@ -20,7 +20,7 @@ ht-degree: 99%
       + [校訂：無法為透過Fusion從AEM連結的視訊建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [版面配置範本：已刪除的檢視仍可使用](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [自訂表單：自訂預先輸入欄位中缺少公司](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
-      + [檔案：無法上傳至AEM資料夾檔案清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
+      + [文件：無法上傳至 AEM 資料夾文件清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [任務：可用於任務的專案層級篩選和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [報告：向下鑽研中的自訂預輸入欄位沒有回應](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
