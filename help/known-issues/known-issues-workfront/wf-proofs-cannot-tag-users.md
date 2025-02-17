@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
 source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此問題已在2025年2月7日修正。
+>此問題已於 2025 年 2 月 7 日修正。
 
 當使用者嘗試在校訂中標記另一個使用者時，有時會無法在預輸入欄位中使用部分使用者。
 
