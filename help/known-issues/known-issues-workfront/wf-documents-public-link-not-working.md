@@ -4,19 +4,18 @@ description: 當使用者按一下前往 Workfront 文件的公共連結時，�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 154faa161413258aae76968495cb464b17d71857
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 94%
 
 ---
 
 # 文件：使用前往文件的公共連結時發生錯誤
 
-<!--
 >[!NOTE]
 >
->This issue has been resolved.-->
+>此問題已在2025年2月14日修正。
 
 當使用者按一下前往 Workfront 文件的公共連結時，他們可能會看到下列錯誤：「該文件不再存在」。
 

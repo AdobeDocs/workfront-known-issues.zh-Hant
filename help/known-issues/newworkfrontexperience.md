@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 98%
+source-wordcount: '1142'
+ht-degree: 99%
 
 ---
 
@@ -25,17 +25,10 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [版面配置範本：已刪除的檢視仍可使用](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 2025 年 2 月 11 日 |
-| [自訂表單：自訂自動提示欄位中遺漏的公司](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025 年 2 月 11 日 |
+| [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日 |
 | [文件：無法上傳至 AEM 資料夾文件清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 11 日 |
-| [文件：使用前往文件的公共連結時發生錯誤](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025 年 1 月 30 日 |
 | [任務：可用於任務的專案層級篩選和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
-| [任務：記錄的時數在移動後仍保留在先前的專案上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025 年 1 月 16 日 |
-| [時程表：總時數不正確](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025 年 1 月 16 日 |
-| [首頁：等待核准小工具中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025 年 1 月 9 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
-| [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 9 日 |
-| [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
 | [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
@@ -58,9 +51,7 @@ ht-degree: 98%
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
-| [報告：圖表清單中的大量編輯沒有回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
-| [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
@@ -77,7 +68,10 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：無法為透過Fusion從AEM連結的視訊建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日 |
+| [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025年2月20日 |
+| [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月20日 |
+| [自訂表單：自訂自動提示欄位中遺漏的公司](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025年2月20日 |
+| [校樣：無法為透過 Fusion 從 AEM 連結的影片建立校樣](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [登入身分：顯示管理員的主頁佈局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025 年 1 月 23 日 |
 | [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 16 日 |
 | [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |

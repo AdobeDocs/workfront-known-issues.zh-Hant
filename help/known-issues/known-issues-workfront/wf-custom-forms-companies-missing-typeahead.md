@@ -3,14 +3,19 @@ title: 自訂表單：自訂預先輸入欄位中缺少公司
 description: 嘗試在參照公司物件的自訂預先輸入欄位中尋找公司時，儘管使用者與其他公司位於群組中，還是只會出現與使用者相關聯的公司。 某些情況下不建議使用任何公司。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: ht
-source-wordcount: '102'
+exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 # 自訂表單：自訂預先輸入欄位中缺少公司
+
+>[!NOTE]
+>
+>此問題已關閉，因為目前已如期運作。
 
 嘗試在參照公司物件的自訂預先輸入欄位中尋找公司時，儘管使用者與其他公司位於群組中，還是只會出現與使用者相關聯的公司。 某些情況下不建議使用任何公司。
 

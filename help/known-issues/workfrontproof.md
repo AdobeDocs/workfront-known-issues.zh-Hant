@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 97%
+source-wordcount: '469'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日 |
 | [文件：「文件」區域未顯示所有文件](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
 | [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [敏捷：新增子任務時，故事板變成空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
@@ -56,7 +57,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：無法為透過Fusion從AEM連結的視訊建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日 |
+| [校樣：無法為透過 Fusion 從 AEM 連結的影片建立校樣](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 6 月 7 日 |
 | [校訂：透過電子郵件連結共用校訂時發生錯誤](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
