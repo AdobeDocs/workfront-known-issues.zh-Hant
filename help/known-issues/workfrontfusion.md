@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 94%
+source-wordcount: '172'
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 94%
 >
 >關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
-## 新增
+<!--
+## New
 
-這些最近報告的問題目前正在審查中。
+These recently reported issues are currently under review.
 
-| **問題** | **上次修改** |
+| **Issue** | **Last Modified** |
 | -----------------------------------------------------------------| ----------------- |
-| [API：請求逾時](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ## 進行中
 
@@ -45,7 +45,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校訂：無法為透過Fusion從AEM連結的視訊建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日 |
+| [校樣：無法為透過 Fusion 從 AEM 連結的影片建立校樣](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024 年 10 月 29 日 |
 | [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
 | [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024 年 1 月 31 日 |
