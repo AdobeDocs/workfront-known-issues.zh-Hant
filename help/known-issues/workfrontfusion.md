@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 96%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
-<!--
-## New
+## 新增
 
-These recently reported issues are currently under review.
+這些最近報告的問題目前正在審查中。
 
-| **Issue** | **Last Modified** |
+| **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：案例連線錯誤](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 2025年2月24日 |
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
 
 ## 進行中
 
