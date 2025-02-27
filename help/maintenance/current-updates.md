@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '649'
-ht-degree: 100%
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+workflow-type: tm+mt
+source-wordcount: '693'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025 年進行了以下維護更新。
 
 ## 2025 年 2 月份更新
+
++++**於2025年2月27日維護更新**
+
+### 2025年2月27日維護更新
+
+#### 群組
+
+**無法共用系統管理員存取層級**
+
+嘗試將管理員存取層級共用給群組時，勾選每個群組的方塊沒有回應，且群組沒有取得預期的存取層級。
+
++++
 
 +++**2025 年 2 月 20 日的維護更新**
 
