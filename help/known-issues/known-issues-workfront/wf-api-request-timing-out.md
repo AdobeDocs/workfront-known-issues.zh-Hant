@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->此問題已在2025年2月19日修正。
+>此問題已於 2025 年 2 月 19 日修正。
 
 透過 Workfront API 發出的請求逾時。
 

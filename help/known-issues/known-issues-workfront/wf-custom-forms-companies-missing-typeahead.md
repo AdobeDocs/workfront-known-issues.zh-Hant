@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已關閉，因為目前已如期運作。
+>此問題已結案，因為目前已如預期運作。
 
 嘗試在參照公司物件的自訂預先輸入欄位中尋找公司時，儘管使用者與其他公司位於群組中，還是只會出現與使用者相關聯的公司。 某些情況下不建議使用任何公司。
 
