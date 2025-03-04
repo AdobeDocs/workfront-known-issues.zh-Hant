@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: ht
-source-wordcount: '2438'
-ht-degree: 100%
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+workflow-type: tm+mt
+source-wordcount: '2446'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [整合：使用Workfront for Outlook時發生outlookIdentityToken錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [版面範本：自訂反覆區段無法存取](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [通知：複製電子郵件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
       + [Workfront Fusion：案例連線錯誤](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
