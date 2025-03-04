@@ -1,17 +1,18 @@
 ---
-title: 版面配置範本：無法存取自訂版序區段
-description: 在版面配置範本中編輯疊代時，嘗試導覽至「自訂」區段時，該區段未載入，而是重新導向至「更新」區段。
+title: 版面範本：自訂反覆區段無法存取
+description: 在編輯版面範本中的反覆的同時嘗試瀏覽到自訂區段，該區段不會載入而是重新導向到更新區段。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: tm+mt
+exl-id: 22b36104-8ec1-4a8c-9b50-58b0d0945598
+source-git-commit: fc79f8aec41eaf077edccc2309ef86e4724c7787
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 版面配置範本：無法存取自訂版序區段
+# 版面範本：自訂反覆區段無法存取
 
-在版面配置範本中編輯疊代時，嘗試導覽至「自訂」區段時，該區段未載入，而是重新導向至「更新」區段。
+在編輯版面範本中的反覆的同時嘗試瀏覽到自訂區段，該區段不會載入而是重新導向到更新區段。
 
-_於2025年1月2日首次通報。_
+_於 2025 年 1 月 2 日首次通報。_
