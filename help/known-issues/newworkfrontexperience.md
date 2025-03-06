@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
+source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
 workflow-type: tm+mt
-source-wordcount: '1118'
-ht-degree: 98%
+source-wordcount: '1036'
+ht-degree: 97%
 
 ---
 
@@ -30,12 +30,8 @@ ht-degree: 98%
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
 | [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
-| [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
-| [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
 | [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
-| [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
-| [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
 
 {style="table-layout:auto"}
 
@@ -47,11 +43,7 @@ ht-degree: 98%
 | ---------------------------------- | ----------------- |
 | [登入身份：群組管理員無法登入為其他使用者](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日 |
 | [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
-| [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
-| [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
-| [通知：設定通知偏好時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
-| [存取層級：「設定」區域中的存取層級重複](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
@@ -81,7 +73,6 @@ ht-degree: 98%
 | [Workfront：投稿人使用者無法存取計劃或專案組合](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024 年 12 月 5 日 |
 | [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md) | 2024 年 11 月 20 日 |
 | [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 11 月 12 日 |
-| [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 12 日 |
 | [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
 | [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |

@@ -4,10 +4,10 @@ description: '擁有投稿人授權的使用者不會收到通知電子郵件。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 42c42ae1f68161fe7e8647e6b74c9a5806bf4a92
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>此問題已在2024年11月11日解決
 
 擁有投稿人授權的使用者不會收到通知電子郵件。這可能會影響即時通知電子郵件和每日摘要電子郵件。
 

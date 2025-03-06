@@ -4,14 +4,18 @@ description: 當使用者在檢視報告並按一下進入詳細資料時，若�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 88f86485714bb836ddd3f82f37452eb8d3d2e9bf
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # 報告：檢視依自訂日期分組的報告詳細資料時出錯
+
+>[!NOTE]
+>
+>此問題已在 2024 年 7 月 25 日修正。
 
 當使用者在檢視報告並按一下進入詳細資料時，若報告是依自訂日期欄位分組，則不會載入詳細資料，並且使用者會看到以下錯誤：
 
