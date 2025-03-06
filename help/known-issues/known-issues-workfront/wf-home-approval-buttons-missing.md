@@ -4,20 +4,20 @@ description: 在首頁中使用等待核准小工具時，並未顯示用於選�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 92%
 
 ---
 
 # 首頁：等待核准小工具中缺少核准按鈕
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 13, 2025.
--->
+>此問題已在2025年3月4日修正。
+
 
 在首頁中使用等待核准小工具時，並未顯示用於選取核准決定的按鈕。
 

@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '1171'
-ht-degree: 98%
+source-wordcount: '1122'
+ht-degree: 99%
 
 ---
 
@@ -27,15 +27,11 @@ ht-degree: 98%
 | ----------------------------------------------------------------- | ----------------- |
 | [版面範本：自訂反覆區段無法存取](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025 年 2 月 24 日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
-| [任務：可用於任務的專案層級篩選和檢視](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
 | [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
-| [Workfront Mobile：校訂電子郵件連結無法在 iPhone 上開啟](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [API：API 呼叫因為 SQL 錯誤而呼叫失敗](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：卡片狀態不符合已連接的物件並繞過篩選器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
-| [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
-| [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
 | [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
 | [Workfront Mobile：若不啟用 SSO 則無法登入](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -50,11 +46,9 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [首頁：等待核准小工具中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025年2月27日 |
 | [校訂：核准的校訂出現在報告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
 | [報告：Report Builder 載入時間過長](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
-| [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [設定：以其他使用者身分登出時出現問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：設定通知偏好時出現「糟糕」錯誤](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [存取層級：「設定」區域中的存取層級重複](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
