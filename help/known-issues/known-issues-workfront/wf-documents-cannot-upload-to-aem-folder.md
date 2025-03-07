@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0cc4c326-0e84-40ac-80ab-c3eeeae68595
 source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->此問題已關閉，因為無法重現。
+>由於無法重現此問題，因此已結案。
 
 使用者無法將檔案拖放至 AEM 資料夾內的主要文件清單區域。
 
