@@ -3,10 +3,10 @@ title: 2022 年 Workfront 維護更新
 description: 2022 年  [!DNL Adobe Workfront] 維護更新
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ ht-degree: 100%
 
 以前，校訂電子郵件地址包含您組織的子域。例如，通知@[公司網域名稱].my.workfront.com
 
-現在，校對電子郵件地址不再包含組織子域。所有校訂電子郵件通知將來自以下地址：notification@my.workfront.com
+現在，校樣電子郵件地址不再包含組織子域。所有校訂電子郵件通知將來自以下地址： `notification@my.workfront.com`
 
 因此，如果您尚未採取以下措施，我們建議您採取以下措施：
 
-* 更新您的垃圾郵件篩選器以接受來自 notification@my.workfront.com 的電子郵件
-* 更新您的允許清單以接受來自 notification@my.workfront.com 的電子郵件
-
-**在工作流程範本中進行初始設定後無法修改使用者選項**
+* 更新您的垃圾郵件篩選器以接受來自`notification@my.workfront.com`的電子郵件
+* 更新您的允許清單以接受來自`notification@my.workfront.com`的電子郵件
+  **在工作流程範本中進行初始設定後無法修改使用者選項**
 
 *[!DNL Workfront Proof]*
 
