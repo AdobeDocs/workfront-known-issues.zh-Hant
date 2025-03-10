@@ -4,10 +4,10 @@ description: 當使用者按一下 .docx 縮圖查看文件預覽時會打開影
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 91%
+source-wordcount: '107'
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案。解決此問題後，將在產品公告中進行溝通，而不是在維護更新中進行溝通。
+>與此問題相關的功能已過時。
 
 當使用者按一下 [!UICONTROL .docx] 縮圖查看文件預覽時會打開影片播放器，導致使用者無法查看文件。
 

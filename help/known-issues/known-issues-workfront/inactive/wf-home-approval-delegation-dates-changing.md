@@ -4,10 +4,10 @@ description: 當使用者將核准委派給不同時區的使用者時，委派�
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
 feature: Approvals
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: d4311fb34cd3eb6e6ec1bed838fbf197098dcc01
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 93%
+source-wordcount: '175'
+ht-degree: 87%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案。解決此問題後，將在產品公告中進行溝通，而不是在維護更新中進行溝通。
+>與此問題相關的功能已過時。
 
 當使用者將核准委派給不同時區的使用者時，委派似乎已成功儲存，並且委派使用者收到一封包含正確日期的電子郵件通知。但如果他們重新整理頁面，他們會看到[!UICONTROL 開始日期]向後移動了 1 天，[!UICONTROL 結束日期]向前移動了 1 天，並且使用者還會收到另一封電子郵件通知，其中包含已移動的日期。
 
