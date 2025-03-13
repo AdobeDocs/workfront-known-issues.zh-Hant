@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '971'
-ht-degree: 98%
+source-wordcount: '988'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 98%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [個要求：要求佇列無法使用](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md) | 2025年3月13日 |
+| [專案：專案進度狀態未自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025年3月13日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |

@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '1701'
+source-wordcount: '1716'
 ht-degree: 98%
 
 ---
@@ -17,9 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [請求：請求佇列不可用](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [專案：專案進度狀態不會自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [更新：有些使用者看不到附加至評論的影像或檔案](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
-      + [登入身份：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
-      + [整合：使用Workfront for Outlook時發生outlookIdentityToken錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
+      + [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
+      + [整合：使用 Workfront for Outlook 時出現 outlookIdentityToken 錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [版面範本：自訂反覆區段無法存取](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [通知：複製電子郵件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
       + [Workfront Fusion：案例連線錯誤](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
@@ -84,14 +86,14 @@ ht-degree: 98%
       + [專案：由於「刪除存取權」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [群組：已刪除的群組狀態再次顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [通知：投稿人使用者不會收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
+      + [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Workfront：無法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [自訂表單：表單預設為專案表單](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [文件：文件更新中未顯示校訂註解](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md)
       + [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md)
-      + [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Workfront：多個瀏覽器索引標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [請求：使用者即便在缺乏權限的情況下仍能變更狀態](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [展示板：連接的卡片位於不正確的欄位中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md)
@@ -107,7 +109,7 @@ ht-degree: 98%
       + [整合：連結  [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [展示板：以「[!UICONTROL 使用者身分登入]」時，展示板不會顯示為該使用者](known-issues-workfront/wf-boards-log-in-as.md)
       + [首頁：「我的問題」小工具不會顯示已關閉或已完成的問題](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
-      + [報告：當分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [報告：分組名稱具有正斜線或反斜線時，「沒有資料可供顯示」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [報告：檢視依自訂日期分組的報告詳細資料時出錯](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [首頁：「核准」小工具不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [首頁：無法移除「提及」小工具](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
@@ -217,7 +219,7 @@ ht-degree: 98%
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
       + [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
-      + [Workfront Fusion：無法從 Workfront Fusion 新增或移除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
+      + [Workfront Fusion：無法從 Workfront Fusion 新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
