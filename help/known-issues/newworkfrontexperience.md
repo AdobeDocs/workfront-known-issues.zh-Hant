@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e83060ba2fddb328ca6750d6eb72b2d9e860e6a
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
 workflow-type: tm+mt
-source-wordcount: '977'
-ht-degree: 96%
+source-wordcount: '971'
+ht-degree: 98%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 96%
 | ----------------------------------------------------------------- | ----------------- |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
-| [任務：時間軸重新計算問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
 | [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -41,7 +40,7 @@ ht-degree: 96%
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [更新：有些使用者看不到附加至註解的影像或檔案](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
-| [登入身份：群組管理員無法登入為其他使用者](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日 |
+| [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
@@ -54,7 +53,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [整合：使用Workfront for Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)時發生outlookIdentityToken錯誤 | 2025年3月4日 |
+| [整合：使用 Workfront for Outlook 時出現 outlookIdentityToken 錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025 年 3 月 4 日 |
 | [通知：複製電子郵件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025 年 2 月 27 日 |
 | [文件：無法上傳至 AEM 資料夾文件清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 27 日 |
 | [整合：無法登入 Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025 年 2 月 20 日 |
