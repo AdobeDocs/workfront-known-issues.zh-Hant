@@ -4,7 +4,7 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
+source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 96%
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [校訂：校訂產生速度緩慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025年3月17日 |
+| [校訂：校訂產生速度緩慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 2025年3月17日 |
 | [專案：專案進度狀態未自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025年3月13日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
