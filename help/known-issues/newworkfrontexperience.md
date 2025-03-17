@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3ceee997d45018f85617da69400863a97582864
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '985'
 ht-degree: 96%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [個要求：要求佇列無法使用](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md) | 2025年3月13日 |
+| [校訂：校訂產生速度非常慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025年3月17日 |
 | [專案：專案進度狀態未自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025年3月13日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
@@ -40,6 +40,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [更新：更新延遲](known-issues-workfront/wf-updates-delay-in-updates.md) | 2025年3月17日 |
 | [更新：有些使用者看不到附加至註解的影像或檔案](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
 | [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
