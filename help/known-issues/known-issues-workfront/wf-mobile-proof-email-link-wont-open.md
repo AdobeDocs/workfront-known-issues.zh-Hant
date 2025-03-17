@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 仍然可以透過行動應用程式或在瀏覽器中直接導覽存取該校訂。
 
-_於 2024 年 8 月 22 日首次通報。_
+_2024 年 8 月 22 日首次通報。_

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此問題已在2025年3月4日修正。
+>此問題已在 2025 年 3 月 4 日修正。
 
 
 在首頁中使用等待核准小工具時，並未顯示用於選取核准決定的按鈕。
@@ -25,4 +25,4 @@ ht-degree: 92%
 
 可以直接導覽至核准並做出核准決定。
 
-_於 2024 年 11 月 21 日首次通報。_
+_2024 年 11 月 21 日首次通報。_
