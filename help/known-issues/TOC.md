@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '1738'
-ht-degree: 97%
+source-wordcount: '1745'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [篩選器：按一下卷軸時，下拉式清單消失](known-issues-workfront/wf-filter-scroll-bar.md)
       + [首頁：無法從提及小工具傳送回覆](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [更新：更新延遲](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [校訂：校訂產生緩慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
