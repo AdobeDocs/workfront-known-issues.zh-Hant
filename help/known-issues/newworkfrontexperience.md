@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
 workflow-type: tm+mt
-source-wordcount: '983'
-ht-degree: 96%
+source-wordcount: '1000'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [首頁：無法傳送提及小元件的回覆](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md) | 2025年3月20日 |
+| [要求：內嵌程式碼URL未正確載入要求佇列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日 |
+| [報告：不同時區的使用者會得到不同的報告結果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025年3月27日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
@@ -39,7 +40,7 @@ ht-degree: 96%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [更新：更新延遲](known-issues-workfront/wf-updates-delay-in-updates.md) | 2025年3月17日 |
+| [使用者：群組管理員無法停用使用者](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日 |
 | [更新：有些使用者看不到附加至註解的影像或檔案](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
 | [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
