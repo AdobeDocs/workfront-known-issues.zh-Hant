@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1772'
-ht-degree: 95%
+source-wordcount: '1794'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current}中目前的問題
+      + [儀表板：自訂儀表板未開啟](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [請求：內嵌程式碼URL未正確載入請求佇列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [報告：處於不同時區的使用者會獲得不同的報告結果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [使用者：群組管理員無法停用使用者](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 中目前的問題
+      + [Workfront Fusion：連線至沙箱環境時，Workfront事件訂閱版本2選項無法使用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：案例未執行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：無法從 Workfront Fusion 新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
