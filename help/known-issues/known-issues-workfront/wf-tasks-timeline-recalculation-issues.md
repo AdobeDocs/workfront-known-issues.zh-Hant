@@ -4,7 +4,7 @@ description: 以下是已回報的時間軸重新計算問題。
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 92%
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此文章已在2025年3月10日修正。
+>此問題已在2025年3月10日修正。
 
 以下是已回報的時間軸重新計算問題：
 

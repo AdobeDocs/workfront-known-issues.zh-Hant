@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1806'
-ht-degree: 92%
+source-wordcount: '1625'
+ht-degree: 91%
 
 ---
 
@@ -50,50 +50,29 @@ ht-degree: 92%
       + [首頁：等待核准小工具中缺少核准按鈕](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [自訂表單：自訂表單以舊版格式顯示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [計費記錄：時數未儲存](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [展示板：無法將卡片移至不同的欄](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [自訂表單：編輯自訂表單時顯示「無效的欄位」訊息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [使用者：大量更新使用者非常緩慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [自訂表單：選項按鈕以水平方式列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [更新：「更新」區域的「記錄時間」標籤上未顯示已記錄的時數](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：傳送至 Workfront 行動應用程式的推播通知無法正常運作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [文件：「文件」區域未顯示所有文件](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [自訂表單：透過欄位編輯自訂表單時出現錯誤](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [請求與問題：進階使用者指派發生錯誤](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自訂表單：自訂資料未顯示在「摘要」面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [敏捷：無法在疊代中大量編輯故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [校訂：無法將收件者加入校訂中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [校訂：校訂名稱不會顯示在瀏覽器標籤上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [任務：新增個人任務時出現錯誤](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [文件：將表單新增至文件時出現「未儲存的變更」錯誤](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [任務：即便已完成前置任務，「準備開始」欄位尚未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront：日期格式在整個應用程式中發生變更](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md)
-      + [時程表：投稿人使用者有「送交審核」按鈕](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [自訂表單：無法新增「estimateByHours」或「hoursPerPoint」任務欄位](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [文件：核准「快速新增」不包括新版本的截止期限項目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [版面配置範本：管理員無法編輯首頁版面配置範本](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [使用者：登入之後，「未註冊」標記仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront：投稿人使用者無法存取方案或專案組合](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [核准：「全部」篩選器排除個人提交的核准](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [任務：對於帶有子系的父系任務，「經過的天數」持續時間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [報告：圖表清單中的大量編輯沒有回應](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [報告：報告無法載入](known-issues-workfront/wf-reports-fail-to-load.md)
       + [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [首頁：「我的更新」小工具無法運作](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [文件：文件中缺少「核准選項」按鈕](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [整合：使用 Unified Shell 的組織無法成功整合 JumpSeat](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [校訂：無法在預覽環境中建立校訂](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [優先順序：分組阻止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [專案：由於「刪除存取權」錯誤，無法共用專案](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [群組：已刪除的群組狀態再次顯示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [通知：投稿人使用者未收到電子郵件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

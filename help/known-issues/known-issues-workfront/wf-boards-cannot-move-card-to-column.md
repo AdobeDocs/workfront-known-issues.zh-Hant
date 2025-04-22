@@ -4,10 +4,10 @@ description: 使用者嘗試將卡片移到另一欄時，卡片不會移動，�
 hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此文章已於 2025 年 1 月 30 日修正。
+>此問題已在2025年1月30日修正。
 
 使用者嘗試將卡片移到另一欄時，卡片不會移動，而且使用者會看到以下訊息：
 
