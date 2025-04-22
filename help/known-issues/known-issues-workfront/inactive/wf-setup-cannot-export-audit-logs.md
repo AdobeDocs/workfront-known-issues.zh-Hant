@@ -4,10 +4,10 @@ description: 當使用者嘗試匯出大量稽核記錄時，記錄不會匯出�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 95%
+source-wordcount: '79'
+ht-degree: 86%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案。解決此問題後，將在產品公告中進行溝通，而不是在維護更新中進行溝通。
+>此問題已在2024年11月4日修正。
 
 當使用者嘗試匯出大量稽核記錄時，記錄不會匯出。沒有匯出失敗的跡象。
 

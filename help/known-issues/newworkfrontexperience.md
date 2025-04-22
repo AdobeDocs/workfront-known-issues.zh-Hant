@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '940'
 ht-degree: 97%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 97%
 | ----------------------------------------------------------------- | ----------------- |
 | [範本：無法與Contribute存取權共用](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 2025年4月11日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
-| [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -50,6 +49,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2025年4月22日 |
 | [篩選器：按一下卷軸時，下拉式清單會消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日 |
 | [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日 |
@@ -78,7 +78,6 @@ ht-degree: 97%
 | [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 9 月 5 日 |
 | [報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
-| [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |
 | [首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 9 月 12 日 |
 | [展示板：以「[!UICONTROL 使用者身分登入]](known-issues-workfront/wf-boards-log-in-as.md)」時，展示板不會顯示為該使用者 | 2024 年 8 月 30 日 |
 | [導覽：「返回」按鈕不會回到上一頁](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 8 月 30 日 |
@@ -101,7 +100,6 @@ ht-degree: 97%
 | [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」小工具不限於有標記使用者的訊息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 首頁]：新的[!UICONTROL 首頁]小工具預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
 | [校訂：校訂在報告中未顯示為已核准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
-| [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [篩選器：無法從儀表板上的報告共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
