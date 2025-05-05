@@ -29,6 +29,6 @@ ht-degree: 95%
 
 重新授權。
 
-如果問題仍然存在，請檢查[故障排除](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html#troubleshooting)的部分[配置 SharePoint 集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html)。
+如果問題仍然存在，請檢查[故障排除](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=zh-Hant#troubleshooting)的部分[配置 SharePoint 集成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-sharepoint-integration.html?lang=zh-Hant)。
 
 _於 2023 年 11 月 9 日首次通報。_
