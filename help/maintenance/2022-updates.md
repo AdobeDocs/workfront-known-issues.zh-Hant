@@ -1933,7 +1933,7 @@ PDF 在欄標題和報告的第一列之間包含空格。
 
 *報告*
 
-使用[!UICONTROL 里程碑]檢視顯示專案報告時，使用者收到「[!UICONTROL  APIModel INTERNAL 不支援 namedQuery TILE:milestone-view (UIVW)]」錯誤。
+使用[!UICONTROL 里程碑]檢視顯示專案報告時，使用者收到「[!UICONTROL &#x200B; APIModel INTERNAL 不支援 namedQuery TILE:milestone-view (UIVW)]」錯誤。
 
 **自訂術語不一致**
 
