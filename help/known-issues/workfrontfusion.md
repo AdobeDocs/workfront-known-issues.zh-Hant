@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 91%
+source-wordcount: '185'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：連線到沙箱環境時，Workfront事件訂閱版本2選項無法使用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 2025年4月3日 |
+| 無 |  |
 
 {style="table-layout:auto"}
 
