@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: ad58881526869c966792584b9a139c2759e7282d
+source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
 workflow-type: tm+mt
-source-wordcount: '1625'
+source-wordcount: '1632'
 ht-degree: 91%
 
 ---
@@ -12,11 +12,12 @@ ht-degree: 91%
 
 # 已知問題 {#issues}
 
-+ [總覽](overview.md)
++ [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [校訂：關閉校訂會重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [範本：無法與Contribute存取權共用](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [儀表板：自訂儀表板未開啟](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
