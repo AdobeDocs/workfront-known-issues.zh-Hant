@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+source-git-commit: 9a3bf766e9660d24c6fe9899712f6011980a4c04
 workflow-type: tm+mt
-source-wordcount: '1632'
+source-wordcount: '1629'
 ht-degree: 91%
 
 ---
@@ -224,8 +224,6 @@ ht-degree: 91%
 
 + [!UICONTROL Adobe Workfront目標] {#goals}
    + [ [!DNL Workfront Goals] 中的已知問題](workfrontgoals.md)
-+ [!DNL Workfront Library] {#library}
-   + [ [!DNL Workfront Library] 中的已知問題](workfrontlibrary.md)
 + [!DNL Workfront]行動應用程式 {#mobile}
    + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
