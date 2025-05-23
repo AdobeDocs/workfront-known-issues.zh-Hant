@@ -42,7 +42,7 @@ Workfront中的新使用者可能會顯示在具有「待核准」徽章的使�
 
 若要解析大量新增的使用者，您可以直接將批次使用者新增到Adobe Admin Console。
 
-如需指示，請參閱[管理多個使用者 | 在Adobe檔案中大量上傳CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)。
+如需指示，請參閱[管理多個使用者 | 在Adobe檔案中大量上傳CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html)。
 
 
 _首次回報於2025年5月8日。_
