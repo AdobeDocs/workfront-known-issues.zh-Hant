@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '931'
-ht-degree: 95%
+source-wordcount: '940'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [資源規劃工具：匯出按鈕已停用](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025年5月22日 |
+| [搜尋：進階搜尋未傳回預期的結果](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | 2025年5月29日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -36,6 +36,7 @@ ht-degree: 95%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [資源規劃工具：匯出按鈕已停用](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025年5月29日 |
 | [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
 | [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
