@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '937'
 ht-degree: 94%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [搜尋：進階搜尋未傳回預期的結果](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | 2025年5月29日 |
+| [時程表：時程表未正確產生](known-issues-workfront/wf-timesheets-one-week-created.md) | 2025年6月3日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}

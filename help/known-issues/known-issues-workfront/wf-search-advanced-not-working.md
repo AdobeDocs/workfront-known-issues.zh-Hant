@@ -3,15 +3,19 @@ title: 搜尋：進階搜尋未傳回預期結果
 description: 當使用者使用進階搜尋時，未傳回預期的結果。 即使沒有篩選器套用到進階搜尋，也可能發生這種情況。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+exl-id: 08e6943d-88a1-46f3-93aa-f4e567990d37
+source-git-commit: 699953cb67f5a32b926e1ab4febad4920d464b8e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 1%
 
 ---
 
-
 # 搜尋：進階搜尋未傳回預期結果
+
+>[!NOTE]
+>
+>此問題已在2025年6月2日修正。
 
 當使用者使用進階搜尋時，未傳回預期的結果。 即使沒有篩選器套用到進階搜尋，也可能發生這種情況。
 

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
 workflow-type: tm+mt
-source-wordcount: '1651'
-ht-degree: 90%
+source-wordcount: '1656'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [時程表：時程表未正確產生](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [搜尋：進階搜尋未傳回預期結果](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md)
       + [資源規劃工具：「匯出」按鈕已停用](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
