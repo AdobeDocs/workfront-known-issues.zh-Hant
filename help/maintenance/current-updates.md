@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 23766d8e6c6e67c7106f138c83057ba99cb1da1a
+source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
-source-wordcount: '1196'
-ht-degree: 77%
+source-wordcount: '1248'
+ht-degree: 74%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 77%
 有關 2025 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 2025 年進行了以下維護更新。
+
+## 2025 年 6 月更新
+
++++**於2025年6月2日至6日維護更新**
+
+### 於2025年6月2日至6日維護更新
+
+### 搜尋
+
+**進階搜尋未傳回預期的結果**
+
+當使用者使用進階搜尋時，未傳回預期的結果。 即使沒有篩選器套用到進階搜尋，也可能發生這種情況。
+
++++
 
 ## 2025 年 5 月更新
 
