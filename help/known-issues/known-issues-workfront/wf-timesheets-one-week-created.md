@@ -3,15 +3,19 @@ title: 時程表：時程表未正確產生
 description: 當使用者嘗試產生時程表，且產生設定為每兩週，則只會產生一週。
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 1%
 
 ---
 
-
 # 時程表：時程表未正確產生
+
+>[!NOTE]
+>
+>此問題已在2025年6月10日修正。
 
 當使用者嘗試產生時程表，且產生設為「每兩週」時，僅產生一週。
 
