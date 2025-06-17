@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 76bdfa40874b920e2245c8e81d53068ca4055ac1
+source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
 workflow-type: tm+mt
-source-wordcount: '1403'
-ht-degree: 86%
+source-wordcount: '1413'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [使用者：已停用或刪除的使用者在Snowflake中顯示為作用中](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [校訂：無法在預覽環境中依名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [校訂：無法從直接連結開啟校訂](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [報告：圖表深入分析包含不準確的結果](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
