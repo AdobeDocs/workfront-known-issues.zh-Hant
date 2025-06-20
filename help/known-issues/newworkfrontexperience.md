@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
-source-wordcount: '935'
-ht-degree: 92%
+source-wordcount: '943'
+ht-degree: 91%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 92%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [專案：無法將專案移動到指定的計畫](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | 2025年6月20日 |
 | [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [校訂：無法從直接連結](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)開啟校訂 | 2025年6月9日 |
 | [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
