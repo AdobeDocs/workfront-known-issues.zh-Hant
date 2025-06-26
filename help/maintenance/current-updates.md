@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 69%
+source-wordcount: '1421'
+ht-degree: 66%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 69%
 2025 年進行了以下維護更新。
 
 ## 2025 年 6 月更新
+
++++**2025年6月22至27日當週維護更新**
+
+### 2025年6月22至27日當週維護更新
+
+#### 校訂
+
+**無法從直接連結開啟校訂**
+
+當使用者嘗試從直接連結開啟校訂時，校訂未開啟。 即使使用者在校訂的工作流程中，或者使用者是Workfront管理員，也可能會發生這種情況。
+
++++
 
 +++**2025年6月15至21日當週維護更新**
 
