@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 66%
+source-wordcount: '1463'
+ht-degree: 64%
 
 ---
 
@@ -35,6 +35,14 @@ ht-degree: 66%
 **無法從直接連結開啟校訂**
 
 當使用者嘗試從直接連結開啟校訂時，校訂未開啟。 即使使用者在校訂的工作流程中，或者使用者是Workfront管理員，也可能會發生這種情況。
+
+#### 報告
+
+**圖表深入分析包含不準確的結果**
+
+當使用者檢視圖表報告並嘗試深入研究到特定分組，詳細資訊包括不在所選分組中的結果。
+
+這已在按日期分組的報告中報告。
 
 +++
 
