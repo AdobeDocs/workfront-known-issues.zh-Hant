@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
 workflow-type: tm+mt
-source-wordcount: '1426'
-ht-degree: 84%
+source-wordcount: '1441'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [設定：無法以其他使用者身分登入](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
+      + [整合：Workfront與Slack整合的問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [任務：核准區域從左側導覽中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [專案：無法將專案移動到指定的計畫](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront：Workfront和Snowflake之間不同步的物件](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
