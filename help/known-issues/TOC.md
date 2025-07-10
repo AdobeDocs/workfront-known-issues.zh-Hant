@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1441'
+source-wordcount: '1450'
 ht-degree: 83%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [專案：將專案新增到計畫時發生錯誤](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [設定：無法以其他使用者身分登入](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
       + [整合：Workfront與Slack整合的問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [任務：核准區域從左側導覽中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)

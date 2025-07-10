@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1463'
-ht-degree: 64%
+source-wordcount: '1522'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 64%
 有關 2025 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 2025 年進行了以下維護更新。
+
+## 2025 年 7 月更新
+
++++**2025年7月6日至12日當週維護更新**
+
+### 7月6至12日當週維護更新
+
+### 專案
+
+**無法將專案移動到指定的計畫**
+
+當使用者嘗試將專案移動到計畫時，專案未移動。 即使使用者收到訊息說專案已成功移動，也可能發生這種情況。
+
++++
 
 ## 2025 年 6 月更新
 
