@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 92634938b7a7ae71355edef28f0db4319f888a4d
+source-git-commit: 0e0043833ee2d6ab838157d99e20501f1ca58bf2
 workflow-type: tm+mt
-source-wordcount: '1457'
+source-wordcount: '1464'
 ht-degree: 82%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [專案：將專案新增到計畫時發生錯誤](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [設定：無法以其他使用者身分登入](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)

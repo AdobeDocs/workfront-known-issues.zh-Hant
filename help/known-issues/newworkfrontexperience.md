@@ -4,7 +4,7 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
+source-git-commit: 73fd34c9ae295f0c3ac0d13c433f50afaf283626
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 89%
@@ -25,7 +25,7 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [安裝程式：無法以其他使用者身分登入](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 2025年7月7日 |
+| [許可權：物件許可權未正確繼承](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日 |
 | [整合：用於Slack整合的Workfront發生問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 2025年7月7日 |
 | [任務：核准區域從左側導覽消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
