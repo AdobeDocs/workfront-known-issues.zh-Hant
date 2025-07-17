@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 6981a09efc71d2b7b5c20362878b0101ffd00b06
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 62%
+source-wordcount: '1590'
+ht-degree: 60%
 
 ---
 
@@ -25,6 +25,22 @@ ht-degree: 62%
 2025 年進行了以下維護更新。
 
 ## 2025 年 7 月更新
+
++++**2025年7月13至19日當週維護更新**
+
+### 7月13至192日當週維護更新
+
+### 整合
+
+使用Workfront進行Slack整合時發生&#x200B;**個問題**
+
+已報告有關用於Slack整合的Workfront的以下問題：
+
+* 在Workfront中進行更新時，使用者不會在Slack中收到通知。
+* 使用者無法從Slack登入Workfront。
+* 用於Slack整合的Workfront中的其他命令無法如預期運作。
+
++++
 
 +++**2025年7月6日至12日當週維護更新**
 
