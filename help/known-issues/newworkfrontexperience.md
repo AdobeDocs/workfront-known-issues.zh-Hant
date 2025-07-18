@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 90%
+source-wordcount: '960'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [校訂：無法在校訂評論中標籤使用者](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月18日 |
 | [許可權：物件許可權未正確繼承](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日 |
 | [任務：核准區域從左側導覽消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -37,7 +38,7 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [專案：將專案新增至方案時發生錯誤](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | 2025年7月10日 |
+| [校訂：無法在校訂評論中標籤使用者](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |
 | [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
 | [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |

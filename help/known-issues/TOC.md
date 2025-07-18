@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0e0043833ee2d6ab838157d99e20501f1ca58bf2
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1471'
 ht-degree: 82%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [校訂：無法在校訂評論中標籤使用者](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [專案：將專案新增到計畫時發生錯誤](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
