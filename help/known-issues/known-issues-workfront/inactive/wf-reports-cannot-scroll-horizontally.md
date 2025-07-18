@@ -4,10 +4,10 @@ description: 如果使用者在儀表板上查看報告並嘗試水平捲動報�
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,3 +20,6 @@ ht-degree: 100%
 如果使用者在儀表板上查看報告並嘗試水平捲動報告，報告沒有捲動，或欄標題落後於實際欄。如果報告有大量欄，水平捲動可能會鎖定頁面。
 
 _首次回報於 2021 年 2 月 24 日。_
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

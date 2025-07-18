@@ -4,10 +4,10 @@ description: 當使用者嘗試在桌面校訂檢視器中核准校訂時，在�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,3 +24,5 @@ ht-degree: 93%
 從 [!DNL Workfront] 的[!UICONTROL 文件詳細資訊]頁面核准該文件。
 
 _於 2023 年 6 月 12 日首次回報。_
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

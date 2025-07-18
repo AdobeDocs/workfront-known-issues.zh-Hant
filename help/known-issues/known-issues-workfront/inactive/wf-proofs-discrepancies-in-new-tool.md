@@ -4,10 +4,10 @@ description: Workfront 最近將其校訂處理工具從協力廠商提供者變
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,3 +24,6 @@ Workfront 正在努力升級其資料庫以符合舊版工具，並將在 Workfr
 目前，如果您在處理此類檔案時遇到任何問題，我們建議您將頁面匯出為 JPG 或 PNG 並進行校訂。
 
 _於 2023 年 8 月 15 日首次通報。_
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

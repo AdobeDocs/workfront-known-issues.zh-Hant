@@ -4,10 +4,10 @@ description: '當使用者將文件移至不同專案時，該文件不會繼承
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 100%
 或者，您可以記下文件 ID (位於[!UICONTROL 文件詳細資訊]頁面的 URL)，然後聯絡 [!DNL Workfront] 客戶支援。
 
 _於 2023 年 1 月 6 日首次回報。_
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->

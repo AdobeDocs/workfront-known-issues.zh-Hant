@@ -4,10 +4,10 @@ description: 當管理員以其他使用者身份登入並發表評論時，評�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 896e6dcb-945d-4563-80b4-f1e1eeb2eddb
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 55%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 55%
 「當管理員以另一個使用者身份登入並發表評論時，評論會被認為是屬於該使用者，而不會被認為是屬於[!UICONTROL 代表]該使用者的管理員。」
 
 _於 2024 年 3 月 8 日首次通報。_
+
+<!--CHECK ME - NO VIEWS APR-JUN 2025-->
