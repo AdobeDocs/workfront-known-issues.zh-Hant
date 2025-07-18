@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
+source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1358'
 ht-degree: 86%
 
 ---
@@ -190,12 +190,8 @@ ht-degree: 86%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront目標] {#goals}
-   + [ [!DNL Workfront Goals] 中的已知問題](workfrontgoals.md)
 + [!DNL Workfront]行動應用程式 {#mobile}
    + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
-+ [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [ [!DNL Workfront Scenario Planner] 中的已知問題](workfrontscenarioplanner.md)
 
 <!--
 

@@ -3,9 +3,9 @@ title: Workfront 已知問題
 description: ' [!DNL Adobe Workfront] 的已知問題清單'
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 feature: Get Started with Workfront
-source-git-commit: 3fc4113912e77913f5c89013913cf5d85931c5e0
+source-git-commit: 37b776b8b5566c59a90dc8c57321eef0ef1f88d6
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '39'
 ht-degree: 100%
 
 ---
@@ -17,6 +17,4 @@ ht-degree: 100%
 * [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
 * [ [!DNL Workfront]  Proof 中的已知問題](workfrontproof.md)
 * [Workfront Fusion 中的已知問題](workfrontfusion.md)
-* [ [!DNL Workfront Goals] 中的已知問題](workfrontgoals.md)
 * [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
-* [ [!DNL Workfront Scenario Planner] 中的已知問題](workfrontscenarioplanner.md)
