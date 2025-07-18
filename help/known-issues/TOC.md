@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 82%
+source-wordcount: '1367'
+ht-degree: 86%
 
 ---
 
@@ -36,17 +36,8 @@ ht-degree: 82%
       + [校訂：關閉校訂會重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [範本：無法與Contribute存取權共用](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [儀表板：自訂儀表板未開啟](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [請求：內嵌程式碼URL未正確載入請求佇列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [報告：處於不同時區的使用者會獲得不同的報告結果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [使用者：群組管理員無法停用使用者](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [篩選器：按一下卷軸時，下拉式清單消失](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [首頁：無法從提及小工具傳送回覆](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [更新：更新延遲](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [校訂：校訂產生緩慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [請求：請求佇列不可用](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [專案：專案進度狀態不會自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [更新：有些使用者看不到附加至評論的影像或檔案](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [整合：使用 Workfront for Outlook 時出現 outlookIdentityToken 錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [通知：複製電子郵件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 82%
       + [文件：無法上傳至 AEM 資料夾文件清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [登入身分：顯示管理員的主頁佈局範本](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [使用者：變更系統管理員時建立重複的帳戶](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 82%
       + [Workfront：多個瀏覽器索引標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [請求：使用者即便在缺乏權限的情況下仍能變更狀態](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [報告：匯出報告時出現錯誤](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [自訂表單：計算欄位顯示不正確的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion：無法使用 Workfront 「登入身分」功能驗證連線](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [專案組合：使用者無法設定專案組合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 82%
       + [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [文件：[!UICONTROL 校訂活動]選項導向登入頁面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL 工作量平衡工具]：時數不會根據使用者休假時間進行調整](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [文件：當文件移至新專案時不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 82%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion]中目前的問題 {#fusion-current}
-      + [Workfront Fusion：連線至沙箱環境時，Workfront事件訂閱版本2選項無法使用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：案例未執行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：無法從 Workfront Fusion 新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
