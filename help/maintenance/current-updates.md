@@ -3,7 +3,7 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4907ca1ec7d4573551d87430c6e448196f951692
+source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
 workflow-type: tm+mt
 source-wordcount: '1629'
 ht-degree: 59%
@@ -40,7 +40,7 @@ ht-degree: 59%
 
 ### 整合
 
-使用Workfront進行Slack整合時發生&#x200B;**個問題**
+**用於Slack整合的Workfront發生問題**
 
 已報告有關用於Slack整合的Workfront的以下問題：
 
