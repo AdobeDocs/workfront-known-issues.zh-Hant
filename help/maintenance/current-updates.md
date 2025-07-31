@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 59%
+source-wordcount: '1646'
+ht-degree: 58%
 
 ---
 
@@ -30,7 +30,11 @@ ht-degree: 59%
 
 ### 2025年7月20至26日當週維護更新
 
-本週的更新僅包括次要或不太重要的錯誤修正。 當您提交的問題得到修復時，Workfront 支援人員會通知您。
+#### 校訂
+
+**無法在校訂評論中標籤使用者**
+
+當使用者嘗試在校訂評論中標籤另一個使用者並開始輸入使用者的名稱時，該使用者未出現在清單中，並且無法選擇進行標籤。
 
 +++
 
