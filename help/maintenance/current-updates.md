@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
-ht-degree: 58%
+source-wordcount: '1740'
+ht-degree: 55%
 
 ---
 
@@ -29,6 +29,18 @@ ht-degree: 58%
 +++**2025年7月20至26日當週維護更新**
 
 ### 2025年7月20至26日當週維護更新
+
+#### 專案
+
+**未重新計算時間表時現在會顯示警告**
+
+現在，當專案的時間表尚未重新計算時，使用者會看到警告圖示。 當游標停留在圖示上時，使用者會看到以下訊息：
+
+「專案的時間表不正確。 專案經理可能需要手動重新計算時間表。」
+
+有時候，由於專案非常複雜，時間表可能無法重新計算。 例如，有多個相依性、大量任務、多個跨專案前置任務或多個任務縮排的專案可能會受到影響。
+
+之前，沒有跡象顯示時間表尚未重新計算。
 
 #### 校訂
 
