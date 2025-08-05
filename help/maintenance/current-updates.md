@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
-ht-degree: 54%
+source-wordcount: '1801'
+ht-degree: 53%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 54%
 
 ## 2025 年 8 月更新
 
-+++**2025年7月27日至8月3日的維護更新周**
++++**2025年7月27日至8月2日的維護更新周**
 
-### 2025年7月27日至8月3日當週維護更新
+### 2025年7月27日至8月2日當週維護更新
 
 #### 專案
 
@@ -41,6 +41,12 @@ ht-degree: 54%
 有時候，由於專案非常複雜，時間表可能無法重新計算。 例如，有多個相依性、大量任務、多個跨專案前置任務或多個任務縮排的專案可能會受到影響。
 
 之前，沒有跡象顯示時間表尚未重新計算。
+
+#### 任務
+
+**核准區域從左側導覽消失**
+
+當使用者檢視任務時，核准區域可能從左側導覽中消失。 移除並新增核准區域到版面配置範本解決了問題，但問題可能會再次發生。
 
 +++
 
