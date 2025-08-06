@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
+source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1366'
 ht-degree: 86%
 
 ---
@@ -177,6 +177,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
    + [!DNL Workfront Fusion]中目前的問題 {#fusion-current}
+      + [Workfront Fusion： webhook的更新未自動儲存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion：案例未執行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：無法從 Workfront Fusion 新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
