@@ -4,9 +4,9 @@ description: 情境執行失敗，出現記憶體不足錯誤。即使該情境�
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>此問題已解決。
 
 情境執行失敗，出現記憶體不足錯誤。即使該情境之前執行成功，也可能會發生此狀況。
 

@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 95%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 95%
 | [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024 年 10 月 29 日 |
 | [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
 | [Workfront Fusion：日期的輸出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024 年 1 月 31 日 |
-| [Workfront Fusion：記憶體不足錯誤](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：從單一模組建立了重複項目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 | [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 存取  [!DNL Workfront Proof]  時出現 500 錯誤 | 2023 年 5 月 25 日 |
 | [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |

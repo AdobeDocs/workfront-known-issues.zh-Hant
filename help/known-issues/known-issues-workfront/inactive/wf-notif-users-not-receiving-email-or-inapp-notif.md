@@ -4,10 +4,10 @@ description: 當物件更新流上的評論或更新中有提及或包含使用�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 78%
 
 ---
 
@@ -15,10 +15,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>此問題已在2023年4月18日修正。
 
 當物件更新流上的評論或更新中有提及或包含使用者時，他們可能不會收到有關評論的預期電子郵件或應用程式內通知。
 
 _於 2022 年 9 月 20 日首次通報。_
-
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
