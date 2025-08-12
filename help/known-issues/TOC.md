@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 86%
+source-wordcount: '1378'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [檔案：系統不會通知在核准完成後新增為核准者的使用者](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [校訂：無法在校訂評論中標籤使用者](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
