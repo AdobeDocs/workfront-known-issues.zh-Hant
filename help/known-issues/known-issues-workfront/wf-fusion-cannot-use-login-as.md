@@ -4,10 +4,10 @@ description: 在Workfront Fusion中建立連線時，使用者在以其他使用
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 75%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 0%
 
 _於 2024 年 7 月 18 日首次回報。_
 
-<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025 (June 23 and Aug 13)-->
 

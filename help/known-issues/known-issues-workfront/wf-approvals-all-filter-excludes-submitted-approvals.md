@@ -4,10 +4,10 @@ description: 在首頁的「我的核准」小工具或在「我的更新」頁�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 92%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 _於 2024 年 10 月 16 日首次回報。_
 
-&lt;！—CHECK ME—1檢視2025年4月至6月 — >
+&lt;！—CHECK ME—1次檢視2025年4月至6月（7月7日） — >
