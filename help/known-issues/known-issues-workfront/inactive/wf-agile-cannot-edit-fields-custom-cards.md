@@ -4,7 +4,7 @@ description: 當看板卡上的某個欄位從自訂表單中提取時，使用�
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,3 +24,4 @@ ht-degree: 100%
 打開任務並從[!UICONTROL 編輯任務]視窗編輯欄位。
 
 _首次回報於 2022 年 4 月 12 日。_
+
