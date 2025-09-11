@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
-source-wordcount: '1377'
-ht-degree: 85%
+source-wordcount: '1402'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [使用者：無法編輯其他使用者的通知設定](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
+      + [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [使用者：無法編輯使用者的同盟識別碼](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [檔案：系統不會通知在核准完成後新增為核准者的使用者](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [校訂：無法在校訂評論中標籤使用者](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
