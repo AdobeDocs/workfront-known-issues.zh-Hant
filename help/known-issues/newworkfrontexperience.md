@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '1019'
-ht-degree: 85%
+source-wordcount: '1010'
+ht-degree: 86%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 85%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [使用者：無法編輯其他使用者的通知設定](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | 2025年9月11日 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 

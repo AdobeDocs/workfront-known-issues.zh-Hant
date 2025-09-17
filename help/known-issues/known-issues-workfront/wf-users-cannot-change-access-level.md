@@ -3,15 +3,19 @@ title: 使用者：無法變更使用者的存取層級
 description: 當管理員嘗試變更使用者的存取層級時，存取層級不會變更，且管理員會看到一則錯誤訊息。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 20%
+source-wordcount: '94'
+ht-degree: 19%
 
 ---
 
 
 # 使用者：無法變更使用者的存取層級
+
+>[!NOTE]
+>
+>此問題已在2025年9月12日修正。
 
 當管理員嘗試變更使用者的存取層級時，存取層級不會變更，且管理員會看到以下訊息：
 
