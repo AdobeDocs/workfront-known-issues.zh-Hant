@@ -3,7 +3,7 @@ title: 核准：當時間未包含在截止日期中時，核准顯示為無截�
 description: 當核准截止日期僅包含日期而不包含時間時，它會在核准首頁Widget中顯示為「無截止日期」。
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 6eac1cb70ad0bbd7b1ddb77139dd185b35564cd8
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 1%
