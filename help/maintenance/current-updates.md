@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 46%
+source-wordcount: '2269'
+ht-degree: 45%
 
 ---
 
@@ -25,6 +25,28 @@ ht-degree: 46%
 2025 年進行了以下維護更新。
 
 ## 2025 年 9 月更新
+
++++**2025年9月21至27日當週維護更新**
+
+### 2025年9月21至27日當週維護更新
+
+#### 使用者
+
+**無法編輯其他使用者的通知設定**
+
+當使用者嘗試編輯另一個使用者的通知設定時，他們無法編輯設定，並且會看到以下訊息：
+
+「您沒有足夠的存取許可權來編輯財務資料。」
+
++++
+
++++**2025年9月14至20日當週維護更新**
+
+### 2025年9月14至20日當週維護更新
+
+本週的更新僅包括次要或不太重要的錯誤修正。 當您提交的問題得到修復時，Workfront 支援人員會通知您。
+
++++
 
 +++**2025年9月7至13日當週維護更新**
 
