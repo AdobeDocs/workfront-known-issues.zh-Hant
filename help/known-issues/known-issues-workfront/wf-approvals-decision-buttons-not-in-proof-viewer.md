@@ -1,17 +1,17 @@
 ---
-title: 核准：核准決定按鈕未顯示在校訂檢視器中
+title: 核准：核准決定按鈕未顯示在團隊的校訂檢視器中
 description: 當核准者在「校訂檢視器」中檢視校訂並嘗試做出決定時，決定按鈕無法使用。 此問題有因應措施。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 4%
 
 ---
 
 
-# 核准：核准決定按鈕未顯示在校訂檢視器中
+# 核准：核准決定按鈕未顯示在團隊的校訂檢視器中
 
 當核准者在「校訂檢視器」中檢視校訂並嘗試做出決定時，決定按鈕無法使用。
 
