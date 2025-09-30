@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 89%
+source-wordcount: '404'
+ht-degree: 87%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 89%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
 | [校訂：無法在預覽環境中依名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
 | [校訂：關閉校訂重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
 | [校訂：無法為透過 Fusion 從 AEM 連結的影片建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |

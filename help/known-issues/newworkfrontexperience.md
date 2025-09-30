@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '1024'
-ht-degree: 85%
+source-wordcount: '1034'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 85%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [程式：編輯程式時無法儲存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | 2025年9月30日 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -37,7 +38,6 @@ ht-degree: 85%
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
-| [使用者：無法編輯使用者的同盟識別碼](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 2025年9月9日 |
 | [檔案：在核准完成後新增為核准者的使用者不會收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
 | [校訂：無法在校訂評論中標籤使用者](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |
 | [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
@@ -53,6 +53,7 @@ ht-degree: 85%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
 | [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025年9月11日 |
 | [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日 |
 | [篩選器：按一下卷軸時，下拉式清單會消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025 年 3 月 26 日 |

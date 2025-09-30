@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
 workflow-type: tm+mt
-source-wordcount: '1423'
-ht-degree: 82%
+source-wordcount: '1439'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [程式：編輯程式時無法儲存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
+      + [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [核准：當時間未包含在截止日期中時，核准會顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [使用者：無法編輯其他使用者的通知設定](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
