@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1017'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [程式：編輯程式時無法儲存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | 2025年9月30日 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -57,7 +56,6 @@ ht-degree: 84%
 | [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025年9月11日 |
 | [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日 |
 | [篩選器：按一下卷軸時，下拉式清單會消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025 年 3 月 26 日 |
-| [整合：使用 Workfront for Outlook 時出現 outlookIdentityToken 錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025 年 3 月 4 日 |
 | [文件：無法上傳至 AEM 資料夾文件清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 27 日 |
 | [校訂：無法為透過 Fusion 從 AEM 連結的影片建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
