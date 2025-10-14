@@ -15,7 +15,7 @@ ht-degree: 81%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
       + [程式：編輯程式時無法儲存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
@@ -158,7 +158,7 @@ ht-degree: 81%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -200,7 +200,7 @@ ht-degree: 81%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
