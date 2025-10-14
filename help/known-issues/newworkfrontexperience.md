@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
 workflow-type: tm+mt
-source-wordcount: '1017'
-ht-degree: 84%
+source-wordcount: '1042'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 84%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [自訂表單：欄位顯示邏輯未正確遵循](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025年10月14日 |
+| [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 2025年10月14日 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -36,6 +38,7 @@ ht-degree: 84%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [使用者：建立使用者時無法使用進階選項](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | 2025年10月14日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
 | [檔案：在核准完成後新增為核准者的使用者不會收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
 | [校訂：無法在校訂評論中標籤使用者](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |
