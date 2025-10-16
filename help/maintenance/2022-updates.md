@@ -980,7 +980,7 @@ ht-degree: 99%
 
 *[!UICONTROL 主要選單]*
 
-如果您的組織有自訂內部幫助站點，您可以設定[!UICONTROL 主要選單][!UICONTROL 幫助]圖示移至該站點。如果幫助站點包含有關您的組織如何使用的資訊，這將很有用[!DNL Workfront]。
+如果您的組織有自訂內部幫助站點，您可以設定[!UICONTROL 主要選單]&#x200B;[!UICONTROL 幫助]圖示移至該站點。如果幫助站點包含有關您的組織如何使用的資訊，這將很有用[!DNL Workfront]。
 此自訂 URL 未影響[!DNL Workfront]，也不是上下文相關的說明連結[!DNL Workfront]，將使用者帶到[!DNL Workfront]幫助網站。
 
 **內聯編輯[!UICONTROL 任務期間]**&#x200B;時無法選擇經過的時間
@@ -2439,7 +2439,7 @@ IP 地址的限制已新增到您的[!DNL Workfront]允許名單從 30 增加到
 
 *[!DNL Workfront Fusion]*
 
-當至少有一個欄位在[!DNL Workfront][!UICONTROL 創造]或者[!UICONTROL 更新]模組啟用了對應，並且使用者選擇了一個新欄位進行對應，之前啟用對應的對應欄位會遺失對應值。
+當至少有一個欄位在[!DNL Workfront]&#x200B;[!UICONTROL 創造]或者[!UICONTROL 更新]模組啟用了對應，並且使用者選擇了一個新欄位進行對應，之前啟用對應的對應欄位會遺失對應值。
 
 +++
 
