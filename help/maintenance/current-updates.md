@@ -3,7 +3,7 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
 workflow-type: tm+mt
 source-wordcount: '2492'
 ht-degree: 43%
@@ -66,7 +66,7 @@ ht-degree: 43%
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 
