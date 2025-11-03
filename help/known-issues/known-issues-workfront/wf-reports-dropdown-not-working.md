@@ -3,15 +3,19 @@ title: 報告：關於圖表中的下拉式清單的問題
 description: 已報告有關圖表中的下拉式清單的問題。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # 報告：關於圖表中的下拉式清單的問題
+
+>[!NOTE]
+>
+>此問題已在2025年10月29日修正。
 
 已報告有關圖表中的下拉式清單的以下問題：
 
