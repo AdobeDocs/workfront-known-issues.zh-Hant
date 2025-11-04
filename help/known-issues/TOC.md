@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
 workflow-type: tm+mt
-source-wordcount: '1476'
-ht-degree: 79%
+source-wordcount: '1492'
+ht-degree: 78%
 
 ---
 
@@ -15,8 +15,10 @@ ht-degree: 79%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [核准：無法取得核准的連結](known-issues-workfront/wf-approvals-link-not-appearing.md)
+      + [請求：請求表單建立者無權存取表單](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [使用者：只能依第一個字搜尋職位角色](known-issues-workfront/wf-users-job-role-first-word.md)
       + [報告：關於圖表中的下拉式清單的問題](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [使用者：建立使用者時無法使用進階選項](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
@@ -163,7 +165,7 @@ ht-degree: 79%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -205,7 +207,7 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
