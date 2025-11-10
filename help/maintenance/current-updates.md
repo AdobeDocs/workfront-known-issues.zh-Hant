@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 42%
+source-wordcount: '2712'
+ht-degree: 41%
 
 ---
 
@@ -27,6 +27,18 @@ ht-degree: 42%
 
 
 ## 於 2025 年 11 月更新
+
++++**2025年11月9至15日當週維護更新**
+
+### 2025年11月9至15日當週維護更新
+
+#### 任務
+
+**新增前置任務不再依存於存取層級**&#x200B;中的任務編輯子設定
+
+當任務的編輯存取權在其存取層級中啟用時，使用者可以將前置任務新增到任務，無論您選取了什麼子設定。 現在，這與現有的API功能一致。
+
++++
 
 +++**2025年11月2日至8日當週維護更新**
 
@@ -107,7 +119,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 
