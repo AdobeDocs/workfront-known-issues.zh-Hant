@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 40%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 40%
 
 #### 記錄類型
 
-**新增前置任務不再依存於存取層級**&#x200B;中的任務編輯子設定
+**已從記錄型別的[更多]功能表中移除[編輯與設定]選項**
 
 我們已從全域記錄型別的「更多」選單中移除「編輯」和「設定」選項，這些選項是從現有的全域記錄型別新增到次要工作區的。 在此更新之前，選單變暗且無法運作。
 
@@ -131,7 +131,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 
