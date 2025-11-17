@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1504'
 ht-degree: 78%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 78%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [時程表：未產生時程表](known-issues-workfront/wf-timesheets-not-generated.md)
       + [任務：內聯編輯任務時出現「存取許可權不足」訊息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [核准：無法取得核准的連結](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [請求：請求表單建立者無權存取表單](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -166,7 +167,7 @@ ht-degree: 78%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -208,7 +209,7 @@ ht-degree: 78%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

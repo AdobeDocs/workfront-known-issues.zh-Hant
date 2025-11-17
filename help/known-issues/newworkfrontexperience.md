@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1059'
 ht-degree: 81%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 81%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [任務：內聯編輯任務時出現「存取許可權不足」訊息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月13日 |
+| [時程表：未產生時程表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -37,6 +37,7 @@ ht-degree: 81%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [任務：內聯編輯任務時出現「存取許可權不足」訊息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17 |
 | [使用者：只能依第一個字搜尋工作角色](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月13日 |
 | [核准：無法取得核准的連結](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [請求：請求表單建立者沒有表單](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)的存取權 | 2025年11月4日 |
