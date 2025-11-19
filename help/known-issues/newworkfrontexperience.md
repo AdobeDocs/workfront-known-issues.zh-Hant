@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
 workflow-type: tm+mt
-source-wordcount: '1059'
-ht-degree: 81%
+source-wordcount: '1049'
+ht-degree: 82%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 81%
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [任務：內聯編輯任務時出現「存取許可權不足」訊息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17 |
-| [使用者：只能依第一個字搜尋工作角色](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月13日 |
 | [核准：無法取得核准的連結](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [請求：請求表單建立者沒有表單](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)的存取權 | 2025年11月4日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
