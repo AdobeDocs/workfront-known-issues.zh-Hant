@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 40%
+source-wordcount: '2900'
+ht-degree: 38%
 
 ---
 
@@ -27,6 +27,20 @@ ht-degree: 40%
 
 
 ## 於 2025 年 11 月更新
+
++++**2025年11月16至22日的Workfront計畫維護更新周**
+
+### 2025年11月16至22日的Workfront計畫維護更新周
+
+#### 自訂表單
+
+**使用中/非使用中的指標已新增至使用欄位的自訂表單清單**
+
+在自訂表單設計工具中，您可以選取欄位並按一下&#x200B;**檢視相關的Forms**，以檢視使用該欄位的所有其他表單清單。 這顯示如果您編輯欄位，哪些其他表單會受到影響。
+
+此清單的增強功能是每個表單的作用中/非作用中指標。 您可以一眼檢視該欄位目前是否用於作用中或非作用中表單。
+
++++
 
 +++**2025年11月9至15日的Workfront計畫維護更新周**
 
@@ -131,7 +145,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 

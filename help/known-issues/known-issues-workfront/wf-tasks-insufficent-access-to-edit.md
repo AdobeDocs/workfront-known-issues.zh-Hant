@@ -3,15 +3,19 @@ title: 任務：內聯編輯任務時存取訊息不足
 description: 當使用者嘗試內聯編輯清單或報告中的任務時，他們無法編輯任務，並且他們會看到訊息「您沒有足夠的存取許可權指派此任務。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 
 # 任務：內聯編輯任務時出現「存取許可權不足」訊息
+
+>[!NOTE]
+>
+>此問題已在2025年11月21日修正。
 
 當使用者嘗試在清單或報告中內聯編輯任務時，他們無法編輯任務，並且他們會看到訊息「您沒有足夠的存取許可權為此任務進行指派。」
 
