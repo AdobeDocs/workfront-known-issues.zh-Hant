@@ -15,7 +15,7 @@ ht-degree: 75%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
       + [任務：編輯任務的工作分派區段未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
       + [使用者：校訂設定檔的變更問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
@@ -173,7 +173,7 @@ ht-degree: 75%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -215,7 +215,7 @@ ht-degree: 75%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
