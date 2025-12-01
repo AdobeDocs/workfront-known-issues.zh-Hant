@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 80%
+source-wordcount: '1083'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 80%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [使用者：校訂設定檔的變更發生問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日 |
 | [時程表：未產生時程表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -37,12 +38,12 @@ ht-degree: 80%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [請求：建立請求時未繼承許可權](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [指派：未儲存團隊指派](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
 | [排程：已撤銷群組](known-issues-workfront/wf-schedules-group-permissions-revoked.md)排程的許可權 | 2025年11月25日 |
 | [任務：建立任務時未儲存計畫時數](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | 2025年11月25日 |
 | [核准：無法取得核准的連結](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
-| [請求：請求表單建立者沒有表單](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)的存取權 | 2025年11月4日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
 | [檔案：在核准完成後新增為核准者的使用者不會收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
 | [校訂：無法在校訂評論中標籤使用者](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |

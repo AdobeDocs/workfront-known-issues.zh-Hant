@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 87%
+source-wordcount: '412'
+ht-degree: 85%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 87%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [使用者：校訂設定檔的變更發生問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
