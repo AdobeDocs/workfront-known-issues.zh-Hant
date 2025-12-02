@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 79%
+source-wordcount: '1092'
+ht-degree: 78%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 79%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [請求：無法上傳檔案以向GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)請求 | 2025年12月2日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [請求：建立請求時未繼承許可權](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [指派：未儲存團隊指派](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
