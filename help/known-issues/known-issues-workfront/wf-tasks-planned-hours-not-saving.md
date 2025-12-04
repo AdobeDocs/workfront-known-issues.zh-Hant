@@ -3,15 +3,19 @@ title: 任務：建立任務時未儲存計畫時數
 description: ''
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '58'
 ht-degree: 1%
 
 ---
 
 
 # 任務：建立任務時未儲存計畫時數
+
+>[!NOTE]
+>
+>此問題已在2025年12月3日修正。
 
 當使用者建立任務並輸入規劃時數，然後儲存任務時，未儲存規劃時數。
 
