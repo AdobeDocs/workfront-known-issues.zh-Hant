@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
 workflow-type: tm+mt
-source-wordcount: '2900'
+source-wordcount: '2943'
 ht-degree: 38%
 
 ---
@@ -24,7 +24,15 @@ ht-degree: 38%
 
 2025 年進行了以下維護更新。
 
+## 2025 年 12 月更新
 
++++**2025年11月30日至12月6日的維護更新周**
+
+### 2025年11月30日至12月6日當週維護更新
+
+本週的更新僅包括次要或不太重要的錯誤修正。 當您提交的問題得到修復時，Workfront 支援人員會通知您。
+
++++
 
 ## 於 2025 年 11 月更新
 
@@ -145,7 +153,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 
