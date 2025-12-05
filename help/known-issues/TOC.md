@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 29a523089c599950569751be3e2dc214f5c1bb62
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1579'
 ht-degree: 74%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 74%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [任務：對任務的內聯編輯未儲存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [使用者：大量編輯使用者會移除資源集區和直接報告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [請求：無法上傳檔案以向GDrive請求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + [任務：編輯任務的工作分派區段未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
@@ -175,7 +176,7 @@ ht-degree: 74%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -217,7 +218,7 @@ ht-degree: 74%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

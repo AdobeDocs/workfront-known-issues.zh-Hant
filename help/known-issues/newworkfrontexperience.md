@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83a9a47d5d3e8a27e4cd98e447accd1d395e883d
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1096'
 ht-degree: 78%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 78%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [使用者：校訂設定檔的變更發生問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日 |
+| [任務：對任務的內聯編輯未儲存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日 |
 | [時程表：未產生時程表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17 |
 | [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
