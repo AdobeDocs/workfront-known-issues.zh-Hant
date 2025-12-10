@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: 11232c4d8dcbd3aaad6221be6c06b2fed6b492be
 workflow-type: tm+mt
-source-wordcount: '1607'
-ht-degree: 73%
+source-wordcount: '1618'
+ht-degree: 72%
 
 ---
 
@@ -15,8 +15,9 @@ ht-degree: 73%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [使用者：使用者設定檔中缺少自動產生校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [自訂表單：無法編輯RTF文字欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
       + [使用者：開啟使用者頁面時發生錯誤](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [任務：建立任務時無法選擇使用者角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
@@ -180,7 +181,7 @@ ht-degree: 73%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -222,7 +223,7 @@ ht-degree: 73%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

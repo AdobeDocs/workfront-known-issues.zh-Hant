@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 38%
+source-wordcount: '3008'
+ht-degree: 37%
 
 ---
 
@@ -25,6 +25,20 @@ ht-degree: 38%
 2025 年進行了以下維護更新。
 
 ## 2025 年 12 月更新
+
++++**2025年12月7至13日當週維護更新**
+
+### 2025年12月7至13日當週維護更新
+
+#### 使用者
+
+**大量編輯使用者會移除資源集區和直接下屬**
+
+當使用者大量編輯使用者時，按一下資源集區欄位，但未輸入值，所有已編輯使用者的資源集區將被移除。
+
+大量編輯也可能從編輯的使用者中移除直接報告。
+
++++
 
 +++**2025年11月30日至12月6日的維護更新周**
 
@@ -153,7 +167,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 

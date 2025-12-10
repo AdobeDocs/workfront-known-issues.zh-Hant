@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 82%
+source-wordcount: '440'
+ht-degree: 80%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 82%
 
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [使用者：使用者設定檔中缺少自動產生校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10日 |
 | [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [請求：無法上傳檔案以向GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)請求 | 2025年12月2日 |
 | [檔案：在核准完成後新增為核准者的使用者不會收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
