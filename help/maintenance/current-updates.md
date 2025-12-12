@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
+source-wordcount: '3103'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,13 @@ ht-degree: 37%
 
 ### 2025年12月7至13日當週維護更新
 
+#### 請求
+
+**無法上傳檔案以向GDrive**&#x200B;請求
+
+當使用者在新請求體驗中建立請求並嘗試從GDrive上傳檔案時，GDrive視窗無回應。 使用者無法選取檔案或關閉視窗。
+
+
 #### 使用者
 
 **大量編輯使用者會移除資源集區和直接下屬**
@@ -37,6 +44,12 @@ ht-degree: 37%
 當使用者大量編輯使用者時，按一下資源集區欄位，但未輸入值，所有已編輯使用者的資源集區將被移除。
 
 大量編輯也可能從編輯的使用者中移除直接報告。
+
+**開啟使用者頁面時發生錯誤**
+
+當使用者嘗試從主要選單開啟使用者頁面時，頁面未開啟，且使用者看到以下錯誤訊息：
+
+「發生錯誤，我們正在努力解決這個問題。若要繼續工作，請重新整理此瀏覽器頁面。」
 
 +++
 
@@ -167,7 +180,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 

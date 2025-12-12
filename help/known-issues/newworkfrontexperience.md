@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '1145'
-ht-degree: 75%
+source-wordcount: '1129'
+ht-degree: 76%
 
 ---
 
@@ -43,9 +43,7 @@ ht-degree: 75%
 | [使用者：校訂設定檔的變更發生問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月12日 |
 | [時程表：未產生時程表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年12月11日 |
 | [使用者：使用者設定檔中缺少自動產生校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10日 |
-| [使用者：開啟使用者頁面時發生錯誤](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025年12月8日 |
 | [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
-| [請求：無法上傳檔案以向GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)請求 | 2025年12月2日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [請求：建立請求時未繼承許可權](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [指派：未儲存團隊指派](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
