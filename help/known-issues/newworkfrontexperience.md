@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8d2f9e8568ff35b92be88eb03c795b3f2dd691d
+source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 76%
+source-wordcount: '1145'
+ht-degree: 75%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 76%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Workfront規劃：移除已連線的欄位時發生錯誤](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日 |
 | [自訂表單：無法編輯RTF文字欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
 | [任務：建立任務時無法選取使用者角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
 | [任務：對任務的內聯編輯未儲存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日 |
@@ -39,6 +40,7 @@ ht-degree: 76%
 
 | **問題** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [使用者：校訂設定檔的變更發生問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月12日 |
 | [時程表：未產生時程表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年12月11日 |
 | [使用者：使用者設定檔中缺少自動產生校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10日 |
 | [使用者：開啟使用者頁面時發生錯誤](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025年12月8日 |
