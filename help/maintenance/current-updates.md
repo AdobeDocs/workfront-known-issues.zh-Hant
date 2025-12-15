@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
-ht-degree: 37%
+source-wordcount: '3210'
+ht-degree: 36%
 
 ---
 
@@ -25,6 +25,30 @@ ht-degree: 37%
 2025 年進行了以下維護更新。
 
 ## 2025 年 12 月更新
+
++++**2025年12月14至20日當週維護更新**
+
+### 2025年12月14至20日當週維護更新
+
+#### 指派
+
+**未儲存團隊指派**
+
+當使用者將團隊指派給Workfront中的工作專案時，未儲存團隊指派，並且團隊未收到工作通知。
+
+#### 任務
+
+**對任務的內嵌編輯未儲存**
+
+當使用者對舊版任務體驗中的任務進行內聯變更並儲存時，變更未儲存。
+
+#### 時程表
+
+**未產生時程表**
+
+時程表未如預期自動產生。 即使週期性時程表是準確的，並且其他周的時間表已正確產生，也可能會發生這種情況。
+
++++
 
 +++**2025年12月7至13日當週維護更新**
 
@@ -180,7 +204,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 

@@ -3,9 +3,9 @@ title: 對任務的內聯編輯未儲存
 description: 當使用者在舊版任務對話方塊中對任務的「編輯」區段進行變更並儲存時，變更未儲存。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->此問題適用於舊版任務體驗。
+>* 此問題已在2025年12月15日修正。
+>* 此問題適用於舊版任務體驗。
 
 當使用者對舊版任務體驗中的任務進行內聯變更並儲存時，變更未儲存。
 
