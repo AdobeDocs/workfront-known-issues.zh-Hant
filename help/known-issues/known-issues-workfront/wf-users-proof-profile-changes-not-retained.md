@@ -3,9 +3,9 @@ title: 使用者：校訂設定檔的變更問題
 description: 已報告有關變更使用者校訂設定檔的問題。
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # 使用者：校訂設定檔的變更問題
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>此問題已在2025年12月17日修正。
 
 已報告有關變更使用者校訂設定檔的以下問題：
 
