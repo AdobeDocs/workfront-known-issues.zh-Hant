@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1641'
-ht-degree: 71%
+source-wordcount: '1523'
+ht-degree: 76%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 71%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
       + [Workfront規劃：無法將欄位新增至檢視](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
@@ -48,28 +48,13 @@ ht-degree: 71%
       + [核准：當時間未包含在截止日期中時，核准會顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [使用者：無法編輯其他使用者的通知設定](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [使用者：無法變更使用者的存取層級](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [使用者：無法編輯使用者的同盟識別碼](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [檔案：系統不會通知在核准完成後新增為核准者的使用者](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [校訂：無法在校訂評論中標籤使用者](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [專案：將專案新增到計畫時發生錯誤](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [設定：無法以其他使用者身分登入](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [整合：Workfront與Slack整合的問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [任務：核准區域從左側導覽中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [專案：無法將專案移動到指定的計畫](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront：Workfront和Snowflake之間不同步的物件](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [校訂：無法在預覽環境中依名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [校訂：無法從直接連結開啟校訂](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [報告：圖表深入分析包含不準確的結果](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [時程表：時程表未正確產生](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [搜尋：進階搜尋未傳回預期結果](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md)
-      + [資源規劃工具：「匯出」按鈕已停用](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [校訂：關閉校訂會重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [範本：無法與Contribute存取權共用](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [篩選器：按一下卷軸時，下拉式清單消失](known-issues-workfront/wf-filter-scroll-bar.md)
       + [專案：專案進度狀態不會自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 71%
       + [Workfront：投稿人使用者無法存取方案或專案組合](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [核准：「全部」篩選器排除個人提交的核准](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [任務：對於帶有子系的父系任務，「經過的天數」持續時間不正確](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront：保持開啟狀態的瀏覽器分頁無法載入](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [版面配置範本：當自訂資料欄位透過版面配置範本新增到任務摘要中時，未顯示資料欄位](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [整合：使用 Unified Shell 的組織無法成功整合 JumpSeat](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文件通知電子郵件無法顯示影像預覽](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 71%
       + [[!UICONTROL 首頁]：新的[!UICONTROL 首頁]小工具預覽未顯示正確的物件名稱](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL 首頁]：[!UICONTROL 要求]小工具未顯示所有指派的團隊](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」小工具不限於有標記使用者的訊息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 設定]：無法匯出稽核記錄](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [自訂表單：設定計算欄位時出現「[!UICONTROL 糟糕]」錯誤](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [校訂：「[!UICONTROL 校訂活動]」索引標籤會開啟「[!UICONTROL 校訂詳細資訊]」](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -184,7 +167,7 @@ ht-degree: 71%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -225,8 +208,11 @@ ht-degree: 71%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
++ [!DNL Workfront]計畫 {#planning}
+   + [ [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
+
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
