@@ -4,7 +4,7 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
+source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 81%
@@ -37,7 +37,7 @@ ht-degree: 81%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [報告：使用者可以在畫布控制面板視覺效果中檢視財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-date.md) | 2025年12月19日 |
+| [報告：使用者可以在畫布控制面板視覺效果中檢視財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日 |
 | [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
