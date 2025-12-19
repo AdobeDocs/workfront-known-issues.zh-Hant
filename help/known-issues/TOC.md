@@ -15,7 +15,7 @@ ht-degree: 76%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
       + [Workfront規劃：無法將欄位新增至檢視](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
@@ -167,7 +167,7 @@ ht-degree: 76%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -209,10 +209,10 @@ ht-degree: 76%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]計畫 {#planning}
-   + [ [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
+   + [&#x200B; [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

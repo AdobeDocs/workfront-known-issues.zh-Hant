@@ -14,8 +14,8 @@ ht-degree: 88%
 
 有關 [!DNL Workfront] 產品中目前已確定問題的資訊，請參見：
 
-* [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
-* [ [!DNL Workfront]  Proof 中的已知問題](workfrontproof.md)
+* [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+* [&#x200B; [!DNL Workfront]  Proof 中的已知問題](workfrontproof.md)
 * [Workfront Fusion 中的已知問題](workfrontfusion.md)
 * [Workfront Planning中的已知問題](workfrontplanning.md)
-* [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+* [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
