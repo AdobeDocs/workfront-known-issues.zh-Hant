@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 78%
+source-wordcount: '1089'
+ht-degree: 79%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 78%
 這些最近報告的問題目前正在審查中。
 
 | **問題** | **上次修改** |
-| ----------------------------------------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront規劃：移除已連線的欄位時發生錯誤](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日 |
 | [自訂表單：無法編輯RTF文字欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
 | [任務：建立任務時無法選取使用者角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
@@ -38,13 +38,12 @@ ht-degree: 78%
 目前正在修正這些問題，或已排定在不久的將來進行。
 
 | **問題** | **上次修改** |
-| ---------------------------------- | ----------------- |
+| --- | --- |
 | [Workfront規劃：無法將欄位新增至檢視](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日 |
 | [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [請求：建立請求時未繼承許可權](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
-| [核准：無法取得核准的連結](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
 | [檔案：在核准完成後新增為核准者的使用者不會收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
 | [校訂：無法在校訂評論中標籤使用者](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |
@@ -60,7 +59,7 @@ ht-degree: 78%
 這些問題的修正目前不在藍圖上，但解決方法可供使用，並可在每個問題的文章中說明。
 
 | **問題** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
 | [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025年9月11日 |
 | [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日 |
@@ -98,7 +97,7 @@ ht-degree: 78%
 這些問題的修正目前未納入規劃中。在某些情況下，這些問題將透過新功能或功能更新來修正。
 
 | **問題** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [校訂：無法在預覽環境中依名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
 | [校訂：關閉校訂重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
 | [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日 |

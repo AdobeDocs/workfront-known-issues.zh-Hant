@@ -3,9 +3,9 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 34%
 
 ---
@@ -29,6 +29,12 @@ ht-degree: 34%
 +++**2025年12月14至20日當週維護更新**
 
 ### 2025年12月14至20日當週維護更新
+
+#### 核准
+
+**無法取得核准的連結**
+
+當使用者被指派為物件的核准者時，該物件的連結未出現在我的更新區域或我的核准Widget在首頁。
 
 #### 指派
 
@@ -225,7 +231,7 @@ Error fetching object details
 
 #### 計劃
 
-編輯程式時無法儲存&#x200B;**&#x200B;**
+編輯程式時無法儲存&#x200B;****
 
 當使用者正在編輯計畫並嘗試儲存變更時，變更未儲存。
 
