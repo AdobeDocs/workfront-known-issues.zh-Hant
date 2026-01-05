@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Planning] 中的已知問題'
 description: ' [!DNL Adobe Workfront Planning] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 feature: Workfront Planning
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 72%
+source-wordcount: '134'
+ht-degree: 82%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 72%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [Workfront規劃：移除已連線的欄位時發生錯誤](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日 |
+| 無 | |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 72%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [Workfront規劃：無法將欄位新增至檢視](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日 |
+| 無 | |
 
 {style="table-layout:auto"}
 

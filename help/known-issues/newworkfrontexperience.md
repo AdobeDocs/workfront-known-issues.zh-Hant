@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1054'
 ht-degree: 81%
 
 ---
@@ -25,8 +25,9 @@ ht-degree: 81%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [自訂表單：無法編輯RTF文字欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
-| [任務：建立任務時無法選取使用者角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
+| [個請求：請求佇列出現多次](known-issues-workfront/wf-requests-queues-duplicated.md) | Jenuary 5,2026年 |
+| [使用者：無法更新使用者存取權](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | Jenuary 5,2026年 |
+| [報告： Data Lake查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | Jenuary 5,2026年 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -41,7 +42,6 @@ ht-degree: 81%
 | [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
-| [請求：建立請求時未繼承許可權](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
 | [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |

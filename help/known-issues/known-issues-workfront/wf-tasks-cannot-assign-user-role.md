@@ -3,15 +3,19 @@ title: 任務：建立任務時無法選擇使用者角色
 description: 當使用者正在建立任務並嘗試指派使用者角色時，指派角色的選項不存在，使用者無法指派使用者角色。 此問題有因應措施。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 4%
 
 ---
 
 
 # 任務：建立任務時無法選擇使用者角色
+
+>[!NOTE]
+>
+>此問題已在2025年12月21日修正。
 
 當使用者正在建立任務並嘗試指派使用者角色時，指派角色的選項不存在，使用者無法指派使用者角色。
 
