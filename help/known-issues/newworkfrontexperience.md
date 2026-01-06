@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 81%
+source-wordcount: '1047'
+ht-degree: 82%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 81%
 | --- | --- |
 | [報告：使用者可以在畫布控制面板視覺效果中檢視財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日 |
 | [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
-| [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
 | [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |

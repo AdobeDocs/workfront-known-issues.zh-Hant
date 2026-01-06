@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7205e0ba40ca755843cd12fae66ae147548618dc
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 86%
+source-wordcount: '399'
+ht-degree: 88%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 86%
 | **問題** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
-| [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [展示板：「核准」小工具不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
