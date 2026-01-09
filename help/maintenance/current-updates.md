@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 63%
+source-wordcount: '217'
+ht-degree: 52%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 63%
 2026 年進行了以下維護更新。
 
 ## 2026 年 1 月更新
+
++++**Workfront Fusion維護更新（2026年1月4至10日，星期幾）**
+
+### 202年1月4至10日當週維護更新
+
+AWS模組&#x200B;**遺漏標頭錯誤**
+
+AWS模組失敗，出現以下錯誤：
+
+「此請求缺少必要的標頭」
+
++++
 
 +++**2026年1月4至10日當週維護更新**
 
