@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '1063'
-ht-degree: 81%
+source-wordcount: '1048'
+ht-degree: 82%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 81%
 | **問題** | **上次修改** |
 | --- | --- |
 | [使用者：使用者未在Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)上正確布建 | 2026年1月7日 |
-| [個請求：請求佇列出現多次](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026年1月5日 |
 | [使用者：無法更新使用者存取權](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日 |
 | [報告： Data Lake查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -41,7 +40,6 @@ ht-degree: 81%
 | --- | --- |
 | [個請求：新請求體驗中的草稿發生問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日 |
 | [報告：使用者可以在畫布控制面板視覺效果中檢視財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日 |
-| [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
 | [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |

@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 52%
+source-wordcount: '274'
+ht-degree: 41%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 52%
 
 +++**Workfront Fusion維護更新（2026年1月4至10日，星期幾）**
 
-### 202年1月4至10日當週維護更新
+### 2026年1月4-10日當週維護更新
 
 AWS模組&#x200B;**遺漏標頭錯誤**
 
@@ -40,13 +40,26 @@ AWS模組失敗，出現以下錯誤：
 
 +++**2026年1月4至10日當週維護更新**
 
-### 202年1月4至10日當週維護更新
+### 2026年1月4-10日當週維護更新
+
+#### 核准
+
+**我的核准Widget顯示已完成的核准**
+
+當使用者在首頁檢視他們的我的核准Widget時，該Widget包含已核准的校訂。
 
 #### 校訂
 
 **校訂狀態變更延遲**
 
 對校訂做出決定時，該決定不會在專案的檔案區域顯示長達24小時。 這可能會導致混淆，因為即使已做出決定，狀態仍會顯示為「擱置中」或其他過時的狀態。
+
+#### 請求
+
+**要求佇列出現多次**
+
+當使用者開始建立請求並選取請求佇列時，相同的請求佇列會在下拉式清單中出現多次。
+
 
 +++
 
