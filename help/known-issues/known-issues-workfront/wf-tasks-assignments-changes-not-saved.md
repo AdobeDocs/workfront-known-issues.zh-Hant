@@ -3,10 +3,10 @@ title: 在任務的編輯對話方塊中所做的編輯未儲存
 description: 當使用者在舊版任務對話方塊中對任務的「編輯」區段進行變更並儲存時，變更未儲存。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '122'
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->此問題適用於舊版任務體驗。
+>* 此問題適用於舊版任務體驗。
+>* 產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
 
 當使用者在舊版任務對話方塊中對任務的「編輯」區段進行變更並儲存時，變更未儲存。
 

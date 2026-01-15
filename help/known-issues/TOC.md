@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 73%
+source-wordcount: '1600'
+ht-degree: 72%
 
 ---
 
@@ -15,8 +15,10 @@ ht-degree: 73%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md)
       + [使用者：使用者未正確布建在Adobe Admin Console上](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [請求：新請求體驗中的草稿問題](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [請求：請求佇列出現多次](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -141,7 +143,7 @@ ht-degree: 73%
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [[!UICONTROL 工作量平衡工具]：時數不會根據使用者休假時間進行調整](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [文件：當文件移至新專案時不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
+      + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + [文件：上傳大型檔案時發生錯誤](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + [文件：無法從  [!DNL Google Drive] 新增文件](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
@@ -173,7 +175,7 @@ ht-degree: 73%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -216,10 +218,10 @@ ht-degree: 73%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]計畫 {#planning}
-   + [&#x200B; [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
+   + [ [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
