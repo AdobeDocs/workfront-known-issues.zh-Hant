@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
 workflow-type: tm+mt
-source-wordcount: '1617'
+source-wordcount: '1625'
 ht-degree: 71%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 71%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+      + [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md)
       + [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md)
@@ -176,7 +177,7 @@ ht-degree: 71%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + [!DNL Workfront Proof]中目前的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -220,10 +221,10 @@ ht-degree: 71%
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]計畫 {#planning}
-   + [&#x200B; [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
+   + [ [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

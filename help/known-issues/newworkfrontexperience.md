@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
 workflow-type: tm+mt
-source-wordcount: '1087'
-ht-degree: 79%
+source-wordcount: '1096'
+ht-degree: 78%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 79%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-draft-created-with-request.md) | 2026年1月15日 |
 | [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日 |
