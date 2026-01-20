@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
+source-git-commit: 34cba5746ea94bbbc24e2dc6bd6541d210777024
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1104'
 ht-degree: 78%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 78%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [排程：無法看到前幾年的例外狀況](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | 2026年1月20日 |
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-draft-created-with-request.md) | 2026年1月15日 |
