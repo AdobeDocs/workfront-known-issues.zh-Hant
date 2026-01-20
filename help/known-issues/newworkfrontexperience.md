@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 34cba5746ea94bbbc24e2dc6bd6541d210777024
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1104'
-ht-degree: 78%
+source-wordcount: '1116'
+ht-degree: 77%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 78%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [請求：複製請求時出現「您沒有足夠存取權」錯誤](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日 |
 | [排程：無法看到前幾年的例外狀況](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | 2026年1月20日 |
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
