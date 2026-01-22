@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 86%
+source-wordcount: '414'
+ht-degree: 85%
 
 ---
 
@@ -36,9 +36,10 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Proof：資料夾中未出現校樣](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年1月16日 |
-| [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
-| [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
+| [文件：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
+| [Workfront Proof：proofs 不會出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年1月16日 |
+| [核准：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
+| [文件：文件縮圖不會顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [展示板：「核准」小工具不準確](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 
@@ -50,9 +51,9 @@ ht-degree: 86%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
-| [校訂：無法在預覽環境中依名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
-| [校訂：關閉校訂重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
+| [核准：校證檢視器中未顯示核准決策按鈕](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
+| [證明：在預覽環境中無法以姓名新增使用者到證明中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
+| [證明：結尾證明會導向到文件清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
 | [校訂：無法為透過 Fusion 從 AEM 連結的影片建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
 | [校訂：無法產生壓縮校訂](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 6 月 7 日 |
