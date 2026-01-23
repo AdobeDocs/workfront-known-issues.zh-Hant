@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 41%
+source-wordcount: '406'
+ht-degree: 34%
 
 ---
 
@@ -25,6 +25,35 @@ ht-degree: 41%
 2026 年進行了以下維護更新。
 
 ## 2026 年 1 月更新
+
++++**2026年1月18至24日的維護更新周**
+
+### 2026年1月18至24日維護更新周
+
+#### 請求
+
+**新要求體驗中的草稿發生問題**
+
+已報告有關新請求體驗中草稿的以下問題：
+
+* 建立為草稿然後提交的請求只會顯示「請求」清單中主題的第一個字母。
+* 捨棄的草稿不會從請求清單中移除，
+
+#### 排程
+
+**無法看見先前年份的例外狀況**
+
+當使用者檢視例外行事曆並嘗試檢視以前的年度時，他們無法檢視以前的年度。
+
++++
+
++++**2026年1月11至17日的維護更新周**
+
+### 2026年1月11至17日當週維護更新
+
+此更新僅包含次要或較不顯著的錯誤修正。當您提交的問題得到修復時，Workfront 支援人員會通知您。
+
++++
 
 +++**Workfront Fusion維護更新（2026年1月4至10日，星期幾）**
 
