@@ -15,7 +15,7 @@ ht-degree: 70%
 
 如果您是 [!DNL Workfront] 授權支援聯絡人並在提交支援案例時發生問題，請造訪下列社群部落格取得相關指示：
 
-* [如何在 Experience League 提交支援服務單](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
+* [如何在 Experience League 提交支援服務單](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=zh-Hant)
 * [作為新的或現有 Workfront Experience League 社群會員首次登入](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 如果問題仍未能解決，請您撥打以下電話號碼，讓我們為您提供協助。
