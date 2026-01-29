@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '1105'
-ht-degree: 78%
+source-wordcount: '1124'
+ht-degree: 93%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 78%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [使用者：使用者未在Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)上正確布建 | 2026年1月7日 |
-| [使用者：無法更新使用者存取權](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日 |
-| [報告： Data Lake查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日 |
+| [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日 |
+| [使用者：使用者在 Adobe Admin Console 上未正確配置](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026 年 1 月 7 日 |
+| [使用者：無法更新使用者存取權限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026 年 1 月 5 日 |
+| [報告：Data Lake 查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026 年 1 月 5 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -38,33 +39,34 @@ ht-degree: 78%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [檔案：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
 | [請求：複製請求時出現「您沒有足夠存取權」錯誤](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日 |
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日 |
-| [核准：我的核准Widget顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
-| [個請求：新請求體驗中的草稿發生問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日 |
-| [報告：使用者可以在畫布控制面板視覺效果中檢視財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日 |
-| [核准：當時間未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中時，核准顯示為「無截止日期」 | 2025年9月25日 |
-| [Workfront：物件在Workfront和Snowflake之間不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
-| [使用者：新使用者上會顯示「未決核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
-| [檔案：檔案縮圖未顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
+| [校訂：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
+| [請求：在全新請求體驗中的草稿問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026 年 1 月 7 日 |
+| [報告：使用者可以在 Canvas 儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
+| [核准：當截止日期未包含時間時，核准顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025 年 9 月 25 日 |
+| [Workfront：Workfront 與 Snowflake 之間的物件不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025 年 6 月 17 日 |
+| [使用者：新使用者顯示「待核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025 年 5 月 23 日 |
+| [文件：文件縮圖無法顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025 年 4 月 17 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支援案例時發生問題](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
 
-## 有可用的因應措施
+## 提供替代解決方案
 
-這些問題的修正目前不在藍圖上，但解決方法可供使用，並可在每個問題的文章中說明。
+這些問題的修復目前不在計劃中，但有替代解決方案，並在每個問題的文章中進行說明。
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [任務：任務的指派區段編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026年1月15日 |
-| [核准：核准決定按鈕未顯示在校訂檢視器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
-| [校訂：無法從PowerPoint檔案產生校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025年9月11日 |
-| [許可權：物件許可權未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日 |
-| [篩選器：按一下卷軸時，下拉式清單會消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025 年 3 月 26 日 |
+| [任務：對任務的指派區域所做的編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026年1月15日 |
+| [核准：在校訂檢視器中未顯示核准決策按鈕](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025 年 9 月 30 日 |
+| [校訂：無法從 PowerPoint 檔案生成校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025 年 9 月 11 日 |
+| [權限：物件權限未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025 年 7 月 15 日 |
+| [篩選器：點擊捲軸時，下拉選單消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025 年 3 月 26 日 |
 | [文件：無法上傳至 AEM 資料夾文件清單](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 27 日 |
 | [校訂：無法為透過 Fusion 從 AEM 連結的影片建立校訂](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
@@ -99,10 +101,10 @@ ht-degree: 78%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [校訂：無法在預覽環境中依名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
-| [校訂：關閉校訂重新導向到檔案清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
-| [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日 |
-| [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日 |
+| [校訂：在預覽環境中無法按名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025 年 6 月 16 日 |
+| [校訂：關閉校訂後重新導向至文件列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025 年 5 月 14 日 |
+| [團隊：無法查看團隊所有者或刪除團隊](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025 年 3 月 13 日 |
+| [首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md) | 2025 年 3 月 13 日 |
 | [通知：複製電子郵件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025 年 2 月 27 日 |
 | [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 20 日 |
 | [自訂表單：自訂自動提示欄位中遺漏的公司](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025 年 2 月 20 日 |

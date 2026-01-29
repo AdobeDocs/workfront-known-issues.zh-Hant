@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '1648'
-ht-degree: 70%
+source-wordcount: '1657'
+ht-degree: 95%
 
 ---
 
@@ -15,61 +15,62 @@ ht-degree: 70%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
-   + [!DNL Adobe Workfront]中目前的問題 {#wf-current}
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
+      + [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [檔案：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [請求：複製請求時出現「您沒有足夠存取許可權」錯誤](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [排程：無法檢視前幾年的例外](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md)
-      + [自訂表單：計算欄位未顯示非管理員資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
-      + [請求：草稿與請求一同產生會造成問題](known-issues-workfront/wf-requests-draft-created-with-request.md)
-      + [請求：「您必須是系統管理員」錯誤，複製請求時](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [使用者：Adobe 管理控制台上的使用者未正確配置](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [請求：新請求體驗中草稿的問題](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [請求：請求佇列會多次出現](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
+      + [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md)
+      + [使用者：使用者在 Adobe Admin Console 上未正確配置](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [請求：在全新請求體驗中的草稿問題](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [請求：請求佇列多次出現](known-issues-workfront/wf-requests-queues-duplicated.md)
       + [使用者：無法更新使用者存取權限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
-      + [報告：Data Lake 查詢未回傳預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [報告：使用者可以在 Canvas 儀表板的視覺化中查看財務數據](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [工作前台規劃：無法將欄位加入檢視](known-issues-workfront/wf-planning-cannot-add-field.md)
-      + [核准：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [Workfront規劃：移除已連線的欄位時發生錯誤](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [使用者：使用者設定檔中缺少自動產生校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
-      + [自訂表單：無法編輯RTF文字欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [使用者：開啟使用者頁面時出現錯誤](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [報告：Data Lake 查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
+      + [報告：使用者可以在 Canvas 儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Workfront 規劃：無法將欄位新增至視圖](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [校訂：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
+      + [Workfront 規劃：移除連接欄位時發生錯誤](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [使用者：使用者資料中缺少自動生成校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [自訂表單：無法編輯 RTF 欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [使用者：打開使用者頁面時發生錯誤](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [任務：建立任務時無法選擇使用者角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [證明：證明狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md)
-      + [任務：對任務的內聯編輯未儲存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [使用者：大量編輯使用者會移除資源集區和直接報告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [請求：無法上傳檔案以向GDrive請求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [任務：編輯任務的工作分派區段未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [使用者：校訂設定檔的變更問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [請求：建立請求時未繼承的權限](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [排程：群組排程權限被撤銷](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
-      + [分配：團隊分配不會被儲存](known-issues-workfront/wf-assignments-not-saved.md)
-      + [任務：建立任務時未儲存的預定工時](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [工時表：未產生工時表](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [任務：內嵌編輯任務時出現「存取不足」訊息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
-      + [核准：核准連結無法提供](known-issues-workfront/wf-approvals-link-not-appearing.md)
+      + [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [任務：對任務的內嵌編輯未儲存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
+      + [使用者：批次編輯使用者會移除資源池和直屬報告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [請求：無法從 GDrive 上傳文件至請求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [任務：對任務的指派區域所做的編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [使用者：校訂設定檔變更的問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [請求：建立請求時未繼承權限](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [排程：某個群組的排程權限已被撤銷](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [指派：團隊指派未儲存](known-issues-workfront/wf-assignments-not-saved.md)
+      + [任務：建立任務時，規劃時數未儲存](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [時程表：時程表未生成](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [任務：在內嵌編輯任務時顯示「存取權限不足」訊息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [核准：無法使用核准連結](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [請求：請求表單建立者無法存取表單](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
-      + [使用者：只能依第一個字搜尋職缺](known-issues-workfront/wf-users-job-role-first-word.md)
-      + [報告：圖表中下拉選單的問題](known-issues-workfront/wf-reports-dropdown-not-working.md)
+      + [使用者：只能依照工作名稱的第一個字搜尋工作角色](known-issues-workfront/wf-users-job-role-first-word.md)
+      + [報告：圖表中的下拉選單問題](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [使用者：建立使用者時無法使用進階選項](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [自訂表單：欄位顯示邏輯未正確遵循](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [校訂：無法關閉校訂檢視器](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
-      + [程式：編輯程式時無法儲存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
-      + [核准：校證檢視器中未顯示核准決策按鈕](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
+      + [專案：編輯專案時無法儲存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
+      + [核准：在校訂檢視器中未顯示核准決策按鈕](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [核准：當截止日期未包含時間時，核准顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
-      + [證明：無法從 PowerPoint 檔案產生證明](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [校訂：無法從 PowerPoint 檔案生成校訂](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [使用者：無法編輯其他使用者的通知設定](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [使用者：無法編輯使用者的聯邦 ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [權限：物件權限未正確繼承](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [Workfront：Workfront 與 Snowflake 之間的物件不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
-      + [證明：在預覽環境中無法以姓名新增使用者到證明中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [使用者：新用戶會顯示「待審核」徽章](known-issues-workfront/wf-users-pending-approval.md)
-      + [證明：結尾證明會導向到文件清單](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
-      + [文件：文件縮圖不會顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [篩選條件：點擊滾動條時下拉選單會消失](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [專案：專案進度狀態不會自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
+      + [校訂：在預覽環境中無法按名稱將使用者新增到校訂中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
+      + [使用者：新使用者顯示「待核准」徽章](known-issues-workfront/wf-users-pending-approval.md)
+      + [校訂：關閉校訂後重新導向至文件列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
+      + [文件：文件縮圖無法顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
+      + [篩選器：點擊捲軸時，下拉選單消失](known-issues-workfront/wf-filter-scroll-bar.md)
+      + [專案：專案進度狀態未自動更新為延遲](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [登入身分：群組管理員無法以其他使用者身分登入](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [整合：使用 Workfront for Outlook 時出現 outlookIdentityToken 錯誤](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [通知：複製電子郵件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -148,7 +149,7 @@ ht-degree: 70%
       + [文件：存取連結自  [!DNL SharePoint] 的文件時出現 404 錯誤](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [[!UICONTROL 工作量平衡工具]：時數不會根據使用者休假時間進行調整](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：無法在[!UICONTROL 更新]區域記錄當天的時間](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
+      + [文件：當文件移至新專案時不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + [文件：上傳大型檔案時發生錯誤](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + [文件：無法從  [!DNL Google Drive] 新增文件](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [校訂：[!UICONTROL 文件]清單中的校訂狀態不會更新](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
@@ -180,8 +181,8 @@ ht-degree: 70%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
-   + [!DNL Workfront Proof]中目前的問題 {#proof-current}
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校訂摘要]上的時間戳記不準確](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -200,17 +201,17 @@ ht-degree: 70%
       + [[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 首頁]：完成的校訂卡在[!UICONTROL 工作清單]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + 證明中 [!DNL Workfront] 已解決的問題 {#proof-resolved}
+   + 在[!DNL Workfront]校訂中的已解決問題 {#proof-resolved}
       + [校訂：校訂顯示為「[!UICONTROL 產生校訂]」的時間過長](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知問題](workfrontfusion.md)
-   + [!DNL Workfront Fusion]中目前的問題 {#fusion-current}
-      + [Workfront Fusion： AWS模組上遺漏標頭錯誤](known-issues-workfront-fusion/fusion-missing-header-aws.md)
-      + [Workfront Fusion： Jira搜尋模組傳回錯誤](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
-      + [Workfront Fusion： webhook的更新未自動儲存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
-      + [Workfront Fusion：案例未執行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
+   + 當前在[!DNL Workfront Fusion]中的問題 {#fusion-current}
+      + [Workfront Fusion：AWS 模組上的缺失標頭錯誤](known-issues-workfront-fusion/fusion-missing-header-aws.md)
+      + [Workfront Fusion：Jira 搜尋模組傳回錯誤](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
+      + [Workfront Fusion：Webhook 的更新未自動儲存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
+      + [Workfront Fusion：情境未執行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：開始設定「從現在開始」處理所有資料](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：無法從 Workfront Fusion 新增或刪除使用者](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
@@ -223,11 +224,11 @@ ht-degree: 70%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模組傳回 404 錯誤，沒有更多資訊](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 應用程式內說明連結未指向特定的說明頁面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!DNL Workfront]計畫 {#planning}
-   + [&#x200B; [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
++ [!DNL Workfront]規劃 {#planning}
+   + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
-+ [!DNL Workfront]行動應用程式 {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
++ [!DNL Workfront]行動 App {#mobile}
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
