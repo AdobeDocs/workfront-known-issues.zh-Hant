@@ -15,7 +15,7 @@ ht-degree: 94%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
       + [自訂表單：顯示邏輯在請求表單上無法正確顯示](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
       + [登入：登入後未載入Workfront](known-issues-workfront/wf-login-wf-does-not-load.md)
@@ -183,7 +183,7 @@ ht-degree: 94%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -230,7 +230,7 @@ ht-degree: 94%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
