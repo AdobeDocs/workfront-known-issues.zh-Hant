@@ -15,7 +15,7 @@ ht-degree: 95%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
       + [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [檔案：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
@@ -181,7 +181,7 @@ ht-degree: 95%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -228,7 +228,7 @@ ht-degree: 95%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
