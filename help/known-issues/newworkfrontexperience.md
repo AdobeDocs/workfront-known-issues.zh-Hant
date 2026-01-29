@@ -4,7 +4,7 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
 source-wordcount: '1124'
 ht-degree: 93%
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [登入：登入後未載入Workfront](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日 |
 | [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日 |
 | [使用者：使用者在 Adobe Admin Console 上未正確配置](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026 年 1 月 7 日 |
 | [使用者：無法更新使用者存取權限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026 年 1 月 5 日 |
@@ -45,7 +46,6 @@ ht-degree: 93%
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日 |
-| [校訂：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
 | [請求：在全新請求體驗中的草稿問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026 年 1 月 7 日 |
 | [報告：使用者可以在 Canvas 儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
 | [核准：當截止日期未包含時間時，核准顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025 年 9 月 25 日 |

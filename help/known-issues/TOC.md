@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 95%
+source-wordcount: '1675'
+ht-degree: 94%
 
 ---
 
@@ -15,8 +15,10 @@ ht-degree: 95%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
+      + [自訂表單：顯示邏輯在請求表單上無法正確顯示](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
+      + [登入：登入後未載入Workfront](known-issues-workfront/wf-login-wf-does-not-load.md)
       + [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [檔案：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [請求：複製請求時出現「您沒有足夠存取許可權」錯誤](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
@@ -181,7 +183,7 @@ ht-degree: 95%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -228,7 +230,7 @@ ht-degree: 95%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

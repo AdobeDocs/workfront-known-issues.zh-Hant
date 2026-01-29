@@ -1,26 +1,23 @@
 ---
-title: 核准：我的核准Widget顯示已完成的核准
-description: 當使用者在首頁檢視他們的我的核准Widget時，該Widget包含已核准的校訂。
+title: 校訂：我的核准小工具顯示已完成的核准
+description: 當使用者在首頁查看我的核准小工具時，該小工具會顯示已經完成核准的校訂。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 90%
 
 ---
 
 
-# 核准：我的核准Widget顯示已完成的核准
-
-<!--
+# 校訂：我的核准小工具顯示已完成的核准
 
 >[!NOTE]
 >
->This issue was fixed on January 8, 2026.
+>此問題已在2026年1月29日修正。
 
--->
 
-當使用者在首頁檢視他們的我的核准Widget時，該Widget包含已核准的校訂。
+當使用者在首頁查看我的核准小工具時，該小工具會顯示已經完成核准的校訂。
 
-_於2025年12月1日首次通報。_
+_於 2025 年 12 月 1 日首次回報。_
