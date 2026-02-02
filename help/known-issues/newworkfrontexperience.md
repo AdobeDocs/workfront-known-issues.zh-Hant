@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
 workflow-type: tm+mt
-source-wordcount: '1124'
-ht-degree: 93%
+source-wordcount: '1144'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [自訂表單：要求表單](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)上未正確顯示顯示顯示邏輯 | 2026年1月29日 |
 | [登入：登入後未載入Workfront](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日 |
 | [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日 |
 | [使用者：使用者在 Adobe Admin Console 上未正確配置](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026 年 1 月 7 日 |
@@ -40,6 +41,7 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [個請求：「沒有主旨」顯示在請求清單中](known-issues-workfront/wf-requests-no-subject.md) | 2026年2月2 |
 | [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [檔案：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
 | [請求：複製請求時出現「您沒有足夠存取權」錯誤](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日 |
@@ -47,7 +49,7 @@ ht-degree: 93%
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [請求：複製請求時出現「您必須是系統管理員」錯誤](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日 |
 | [請求：在全新請求體驗中的草稿問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026 年 1 月 7 日 |
-| [報告：使用者可以在 Canvas 儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
+| [報告：使用者可以在畫布儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
 | [核准：當截止日期未包含時間時，核准顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025 年 9 月 25 日 |
 | [Workfront：Workfront 與 Snowflake 之間的物件不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025 年 6 月 17 日 |
 | [使用者：新使用者顯示「待核准」徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025 年 5 月 23 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
 workflow-type: tm+mt
-source-wordcount: '1675'
-ht-degree: 94%
+source-wordcount: '1682'
+ht-degree: 93%
 
 ---
 
@@ -15,8 +15,9 @@ ht-degree: 94%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
+      + [請求：「無主旨」顯示在請求清單中](known-issues-workfront/wf-requests-no-subject.md)
       + [自訂表單：顯示邏輯在請求表單上無法正確顯示](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
       + [登入：登入後未載入Workfront](known-issues-workfront/wf-login-wf-does-not-load.md)
       + [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
@@ -32,17 +33,17 @@ ht-degree: 94%
       + [請求：請求佇列多次出現](known-issues-workfront/wf-requests-queues-duplicated.md)
       + [使用者：無法更新使用者存取權限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
       + [報告：Data Lake 查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [報告：使用者可以在 Canvas 儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [報告：使用者可以在畫布儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront 規劃：無法將欄位新增至視圖](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [校訂：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront 規劃：移除連接欄位時發生錯誤](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [使用者：使用者資料中缺少自動生成校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [使用者：使用者設定檔中缺少自動生成校訂的選項](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [自訂表單：無法編輯 RTF 欄位](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
       + [使用者：打開使用者頁面時發生錯誤](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [任務：建立任務時無法選擇使用者角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
       + [校訂：校訂狀態變更延遲](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [任務：對任務的內嵌編輯未儲存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [使用者：批次編輯使用者會移除資源池和直屬報告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [使用者：批次編輯使用者會移除資源集區和直接報告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [請求：無法從 GDrive 上傳文件至請求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + [任務：對任務的指派區域所做的編輯未儲存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
       + [使用者：校訂設定檔變更的問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
@@ -85,7 +86,7 @@ ht-degree: 94%
       + [專案：未如預期套用延遲條件](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [報告：報告提示載入緩慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [校訂：不會產生 Webcapture 校訂](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
-      + [核准：委派的已委派批准未顯示](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [核准：已委派核准未在委派對象處顯示](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Workfront：日期格式在整個應用程式中發生變更](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定可能導致效能下降](known-issues-workfront//wf-workfront-zscaler.md)
       + [通知：未傳送更新的電子郵件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
@@ -183,7 +184,7 @@ ht-degree: 94%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -230,7 +231,7 @@ ht-degree: 94%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
