@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 79%
+source-wordcount: '601'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,34 @@ ht-degree: 79%
 有關 2026 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 2026 年進行了以下維護更新。
+
+## 2026 年 2 月更新
+
++++**2026年2月1日至7日維護更新周**
+
+### 2026年2月1日至7日維護更新周
+
+#### 請求
+
+**複製請求時出現「您沒有足夠存取許可權」錯誤**
+
+當使用者嘗試透過請求頁面複製請求時，將不會複製請求，並且使用者會看到以下錯誤：
+
+「您沒有足夠的存取許可權來編輯此問題。」
+
+**複製請求時出現「您必須是系統管理員」錯誤**
+
+當使用者複製請求並嘗試儲存時，請求未儲存，且使用者看到以下錯誤訊息：
+
+「您必須是系統管理員才能變更此自訂資料引數值。」
+
+#### 使用者
+
+**使用者未正確布建在Adobe Admin Console**
+
+如果一位使用者已經存在於 Adobe Admin Console，然後自動佈建到包含 Workfront 的控制台，該使用者未能正確佈建到新的控制台。
+
++++
 
 ## 2026 年 1 月更新
 

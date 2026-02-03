@@ -1,18 +1,22 @@
 ---
-title: 使用者：使用者未正確布建在Adobe Admin Console上
-description: 如果使用者已存在於Adobe Admin Console上，然後自動布建到包含Workfront的主控台，則該使用者未正確布建到新的主控台。
+title: 使用者：使用者在 Adobe Admin Console 上未正確配置
+description: 如果一位使用者已經存在於 Adobe Admin Console，然後自動佈建到包含 Workfront 的控制台，該使用者未能正確佈建到新的控制台。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 93%
 
 ---
 
 
-# 使用者：使用者未正確布建在Adobe Admin Console上
+# 使用者：使用者在 Adobe Admin Console 上未正確配置
 
-如果使用者已存在於Adobe Admin Console上，然後自動布建到包含Workfront的主控台，則該使用者未正確布建到新的主控台。
+>[!NOTE]
+>
+>此問題已在2026年2月3日修正。
 
-_於2025年11月20日首次通報。_
+如果一位使用者已經存在於 Adobe Admin Console，然後自動佈建到包含 Workfront 的控制台，該使用者未能正確佈建到新的控制台。
+
+_於 2025 年 11 月 20 日首次回報。_
