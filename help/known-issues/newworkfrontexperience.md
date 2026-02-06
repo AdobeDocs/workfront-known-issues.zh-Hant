@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '1108'
-ht-degree: 93%
+source-wordcount: '1092'
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 93%
 | --- | --- |
 | [自訂表單：要求表單](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)上未正確顯示顯示顯示邏輯 | 2026年1月29日 |
 | [登入：登入後未載入Workfront](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日 |
-| [工作負載平衡器：未正確計算每個使用者的時數](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日 |
 | [使用者：無法更新使用者存取權限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026 年 1 月 5 日 |
 | [報告：Data Lake 查詢未傳回預期結果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026 年 1 月 5 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -42,7 +41,6 @@ ht-degree: 93%
 | --- | --- |
 | [個請求：「沒有主旨」顯示在請求清單中](known-issues-workfront/wf-requests-no-subject.md) | 2026年2月2 |
 | [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
-| [檔案：摘要面板為空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [請求：在全新請求體驗中的草稿問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026 年 1 月 7 日 |

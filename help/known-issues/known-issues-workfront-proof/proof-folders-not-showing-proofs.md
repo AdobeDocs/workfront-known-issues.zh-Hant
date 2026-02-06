@@ -3,19 +3,21 @@ title: Workfront Proof：校樣未出現在資料夾中
 description: 當使用者檢視中應有資產的資料夾時，該資料夾不顯示資產。
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 0c073b41fc21ca7951c961e0bba94e05b66c958b
+exl-id: a288781d-ef63-4e88-ab6c-3ce33eac3259
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-
 # Workfront Proof：校樣未出現在資料夾中
 
+<!--
 >[!NOTE]
 >
->此問題已在2026年2月4日修正。
+>This issue was fixed on February 4, 2026.
+-->
 
 當使用者檢視中應有資產的資料夾時，該資料夾不顯示資產。
 
