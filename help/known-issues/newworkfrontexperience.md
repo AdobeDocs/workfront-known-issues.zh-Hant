@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
 workflow-type: tm+mt
-source-wordcount: '1092'
-ht-degree: 94%
+source-wordcount: '1084'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,6 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| [個請求：「沒有主旨」顯示在請求清單中](known-issues-workfront/wf-requests-no-subject.md) | 2026年2月2 |
 | [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
