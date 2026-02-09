@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 52%
+source-wordcount: '798'
+ht-degree: 51%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 52%
 2026 年進行了以下維護更新。
 
 ## 2026 年 2 月更新
+
++++**2026年2月8日至14日維護更新周**
+
+### 2026年2月8至14日維護更新周
+
+#### 報告
+
+**資料湖查詢未傳回預期的結果**
+
+當查詢 Data Lake 時，它未傳回所有預期的結果。
+
++++
 
 +++**2026年2月1日至7日維護更新周**
 
