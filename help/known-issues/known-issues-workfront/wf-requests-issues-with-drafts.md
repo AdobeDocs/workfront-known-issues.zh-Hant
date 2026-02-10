@@ -3,15 +3,19 @@ title: 請求：在全新請求體驗中的草稿問題
 description: 已報告多個有關全新請求體驗中草稿的問題。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+exl-id: 951ea13c-774d-484d-99fd-ca119d258870
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 93%
 
 ---
 
-
 # 請求：在全新請求體驗中的草稿問題
+
+>[!NOTE]
+>
+>此問題已在2026年2月9日修正。
 
 已報告以下有關全新請求體驗中草稿的問題：
 

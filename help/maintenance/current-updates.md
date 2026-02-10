@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 51%
+source-wordcount: '859'
+ht-degree: 53%
 
 ---
 
@@ -35,6 +35,15 @@ ht-degree: 51%
 **資料湖查詢未傳回預期的結果**
 
 當查詢 Data Lake 時，它未傳回所有預期的結果。
+
+#### 請求
+
+**新要求體驗中的草稿發生問題**
+
+已報告以下有關全新請求體驗中草稿的問題：
+
+* 以草稿形式建立並提交的請求，在請求列表中僅顯示主題的第一個字母。
+* 被丟棄的草稿未從請求列表中移除，並導致出現錯誤訊息「擷取草稿失敗」。
 
 +++
 
