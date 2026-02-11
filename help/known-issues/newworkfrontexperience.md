@@ -4,9 +4,9 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1085'
 ht-degree: 93%
 
 ---
@@ -39,8 +39,8 @@ ht-degree: 93%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [報告： Workfront Planning欄位未出現在畫布控制面板Report Builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)中 | 2026年2月11日 |
 | [使用者：無法移除直接下屬](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日 |
-| [請求：與請求一起建立的草稿導致問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [報告：使用者可以在畫布儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |

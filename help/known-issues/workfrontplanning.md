@@ -3,10 +3,11 @@ title: ' [!DNL Adobe Workfront Planning] 中的已知問題'
 description: ' [!DNL Adobe Workfront Planning] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 82%
+source-wordcount: '146'
+ht-degree: 91%
 
 ---
 
@@ -34,13 +35,13 @@ ht-degree: 82%
 
 | **問題** | **上次修改** |
 | --- | --- |
-| 無 | |
+| [報告： Workfront Planning欄位未出現在畫布控制面板Report Builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)中 | 2026年2月11日 |
 
 {style="table-layout:auto"}
 
-## 有可用的因應措施
+## 提供替代解決方案
 
-這些問題的修正目前不在藍圖上，但解決方法可供使用，並可在每個問題的文章中說明。
+這些問題的修復目前不在計劃中，但有替代解決方案，並在每個問題的文章中進行說明。
 
 | **問題** | **上次修改** |
 | --- | --- |

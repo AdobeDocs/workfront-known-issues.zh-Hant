@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ ht-degree: 53%
 當查詢 Data Lake 時，它未傳回所有預期的結果。
 
 #### 請求
+
+**與請求一起建立的草稿導致問題**
+
+當使用者在新請求體驗中建立並提交新請求時，也會建立草稿。 草稿只會顯示已提交請求名稱的第一個字母，而嘗試開啟該請求會導致「無法擷取」錯誤。
+
+此外，如果接著刪除已提交的請求，該請求似乎已刪除，但仍會顯示在Workfront的「請求」區域中。 如果使用者嘗試重新開啟請求，他們會看到一則訊息，指出請求不存在。
 
 **新要求體驗中的草稿發生問題**
 

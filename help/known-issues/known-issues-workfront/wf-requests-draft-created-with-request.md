@@ -3,15 +3,19 @@ title: 請求：與請求一起建立的草稿導致問題
 description: 當使用者在新請求體驗中建立並提交新請求時，也會建立草稿。 草稿僅顯示已提交請求名稱的第一個字母，嘗試開啟它會導致無法擷取錯誤。
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-
 # 請求：與請求一起建立的草稿導致問題
+
+>[!NOTE]
+>
+>此問題已在2026年2月10日修正。
 
 當使用者在新請求體驗中建立並提交新請求時，也會建立草稿。 草稿只會顯示已提交請求名稱的第一個字母，而嘗試開啟該請求會導致「無法擷取」錯誤。
 
