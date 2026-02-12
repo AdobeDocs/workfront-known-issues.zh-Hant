@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
 workflow-type: tm+mt
-source-wordcount: '1709'
+source-wordcount: '1718'
 ht-degree: 92%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 92%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
+      + [指派：無法從報表儲存進階指派變更](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [報告：Workfront Planning欄位未出現在畫布控制面板Report Builder中](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [使用者：無法移除直接下屬](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
       + [請求：填寫請求時無法上傳檔案](known-issues-workfront/wf-request-cannot-submit-with-document.md)
@@ -187,7 +188,7 @@ ht-degree: 92%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -234,7 +235,7 @@ ht-degree: 92%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
