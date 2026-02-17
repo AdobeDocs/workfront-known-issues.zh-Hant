@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 48%
+source-wordcount: '1003'
+ht-degree: 46%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 48%
 2026 年進行了以下維護更新。
 
 ## 2026 年 2 月更新
+
++++**2026年2月15至21日維護更新周**
+
+### 2026年2月15至21日維護更新周
+
+#### 自訂表單
+
+**顯示邏輯在要求表單**&#x200B;上未正確顯示
+
+當使用者填寫連線到請求的自訂表單時，顯示邏輯未遵循，並且某些欄位可能未按預期顯示。
+
++++
 
 +++**2026年2月8日至14日維護更新周**
 

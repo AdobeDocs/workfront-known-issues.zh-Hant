@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 97%
+source-wordcount: '436'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [核准：核准已自動鎖定](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日 |
 | [校訂：無法標記特定使用者](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [整合：連結 [!DNL Google Drive]  中的資料夾，該資料夾中的資產不會連結](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -36,6 +37,8 @@ ht-degree: 97%
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [首頁：校訂中的提及次數未出現在提及小元件](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)中 | 2026年2月17日 |
+| [核准：無法從首頁中的我的核准Widget核准檔案](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日 |
 | [Workfront Proof：校樣未出現在資料夾](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)中 | 2026年2月6日 |
 | [校訂：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
 | [文件：文件縮圖無法顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025 年 4 月 17 日 |
