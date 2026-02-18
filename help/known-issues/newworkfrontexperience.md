@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1114'
-ht-degree: 90%
+source-wordcount: '1137'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [任務：大型任務清單意外跳到清單中的不同位置](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日 |
+| [核准：我的核准Widget所顯示的校訂不在指派給使用者的階段中](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日 |
 | [整合：未觸發來自Workfront的Slack通知](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日 |
 | [核准：核准已自動鎖定](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日 |
 | [請求：填寫請求時無法上傳檔案](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日 |
@@ -44,7 +46,6 @@ ht-degree: 90%
 | [指派：無法從報表儲存進階指派變更](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日 |
 | [報告： Workfront Planning欄位未出現在畫布控制面板Report Builder](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)中 | 2026年2月11日 |
 | [使用者：無法移除直接下屬](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日 |
-| [請求：「全部」檢視未顯示所有請求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自訂表單：計算欄位未顯示非管理員的資料](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [報告：使用者可以在畫布儀表板視覺化中查看財務資料](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
 | [核准：當截止日期未包含時間時，核准顯示為「無截止日期」](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025 年 9 月 25 日 |

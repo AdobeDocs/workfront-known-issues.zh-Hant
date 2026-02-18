@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ ht-degree: 46%
 **顯示邏輯在要求表單**&#x200B;上未正確顯示
 
 當使用者填寫連線到請求的自訂表單時，顯示邏輯未遵循，並且某些欄位可能未按預期顯示。
+
+#### 請求
+
+**「全部」檢視未顯示所有請求**
+
+當使用者在新請求體驗中檢視請求清單，並且檢視設定為顯示所有請求，僅顯示部分請求。
+
 
 +++
 
