@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '1788'
-ht-degree: 88%
+source-wordcount: '1802'
+ht-degree: 87%
 
 ---
 
@@ -15,8 +15,10 @@ ht-degree: 88%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
+      + [程式：繼承的許可權對程式無效](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
+      + [展示板：展示板上顯示重複的卡片](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [任務：大型任務清單意外跳到清單中的不同位置](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
       + [核准：我的核准Widget顯示不在使用者指派至的階段的校訂](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
       + [首頁：校訂中的提及次數未出現在提及小工具中](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
@@ -195,7 +197,7 @@ ht-degree: 88%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -242,7 +244,7 @@ ht-degree: 88%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 
