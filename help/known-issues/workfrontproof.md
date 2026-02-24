@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 87%
+source-wordcount: '445'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 87%
 | ----------------------------------------------------------------- | ----------------- |
 | [首頁：校訂中的提及次數未出現在提及小元件](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)中 | 2026年2月17日 |
 | [核准：無法從首頁中的我的核准Widget核准檔案](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日 |
-| [Workfront Proof：校樣未出現在資料夾](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)中 | 2026年2月6日 |
 | [校訂：我的核准小工具顯示已完成的核准](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
 | [文件：文件縮圖無法顯示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025 年 4 月 17 日 |
 | [通知：電子郵件通知中未顯示縮圖](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 87%
+source-wordcount: '1833'
+ht-degree: 86%
 
 ---
 
@@ -15,8 +15,11 @@ ht-degree: 87%
 + [概觀](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] 中的已知問題](newworkfrontexperience.md)
    + 當前在[!DNL Adobe Workfront]中的問題 {#wf-current}
+      + [使用者：從Adobe Admin Console移除的使用者在Workfront中仍為作用中](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
+      + [Workfront計畫：請求獲得核准後，請求狀態會顯示為「進行中」](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
+      + [通知：使用者未收到預期的通知](known-issues-workfront/wf-notifications-user-not-receiving.md)
       + [程式：繼承的許可權對程式無效](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
       + [展示板：展示板上顯示重複的卡片](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [任務：大型任務清單意外跳到清單中的不同位置](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
@@ -197,7 +200,7 @@ ht-degree: 87%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] 中的已知問題](workfrontproof.md)
    + 當前在[!DNL Workfront Proof]中的問題 {#proof-current}
       + [Workfront Proof：校樣未出現在資料夾中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：建立校訂時無法重新排序資產](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -244,7 +247,7 @@ ht-degree: 87%
    + [在 [!DNL Workfront] 規劃中的已知問題](workfrontplanning.md)
 
 + [!DNL Workfront]行動 App {#mobile}
-   + [&#x200B; [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  行動應用程式中的已知問題](workfrontmobile.md)
 
 <!--
 

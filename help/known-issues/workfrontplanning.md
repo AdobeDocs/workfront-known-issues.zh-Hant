@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Planning] 的已回報已知問題'
 keywords: 新檔案，新增檔案
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 94%
+source-wordcount: '154'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [Workfront規劃：在核准要求後，要求狀態顯示為「進行中」](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026年2月24日 |
 | [Workfront規劃：「無法提交請求」錯誤](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日 |
 
 {style="table-layout:auto"}

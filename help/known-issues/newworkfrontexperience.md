@@ -4,10 +4,10 @@ description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1109'
-ht-degree: 90%
+source-wordcount: '1130'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 90%
 
 | **問題** | **上次修改** |
 | --- | --- |
+| [使用者：從Adobe Admin Console移除的使用者在Workfront中仍為作用中](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | 2026年2月24日 |
+| [通知：使用者未收到預期的通知](known-issues-workfront/wf-notifications-user-not-receiving.md) | 2026年2月24日 |
 | [程式：繼承的許可權不適用於程式](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | 2026年2月23日 |
 | [展示板：展示板上顯示重複的卡片](known-issues-workfront/wf-boards-duplicate-cards.md) | 2026年2月23日 |
 | [任務：大型任務清單意外跳到清單中的不同位置](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日 |
