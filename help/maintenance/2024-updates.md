@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->如需所有 Adobe 產品 (包括 Workfront) 維護中斷的資訊，請參閱 [Adobe 狀態頁面](https://status.adobe.com/)。
+>如需所有 Adobe 產品 (包括 Workfront) 維護中斷的資訊，請參閱 [Adobe 狀態頁面](https://status.adobe.com/zh-tw/)。
 
 此頁面說明在每週 Workfront 更新中修復的問題。
 
