@@ -1,21 +1,20 @@
 ---
-title: 「請求：使用者即便在缺乏權限的情況下仍能變更狀態」
-description: 「擁有投稿存取權，但沒有權限變更問題狀態的使用者，依舊可以變更狀態。」
-hidefromtoc: true
+title: 請求：使用者即便在缺乏權限的情況下仍能變更狀態
+description: 擁有投稿存取權，但沒有權限變更問題狀態的使用者，依舊可以變更狀態。
 feature: Requests
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: ht
-source-wordcount: '69'
+exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
-
 
 # 請求：使用者即便在缺乏權限的情況下仍能變更狀態
 
 >[!NOTE]
 >
->此問題已關閉，因為情況已如期運作。
+>此問題已結案，因為目前已如預期運作。
 
 擁有投稿存取權，但沒有權限變更問題狀態的使用者，依舊可以變更狀態。
 

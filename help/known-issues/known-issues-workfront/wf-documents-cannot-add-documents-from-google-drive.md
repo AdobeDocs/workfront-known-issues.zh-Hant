@@ -1,13 +1,12 @@
 ---
 title: 檔案：無法從Google Drive新增檔案
 description: 當使用者嘗試從 Google Drive 對 Workfront 新增文件時，文件選擇器不顯示任何檔案，而且使用者無法選取所要的檔案。
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: 74447447-b4e5-426d-a293-18b3d6f421a0
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 92%
+source-wordcount: '100'
+ht-degree: 93%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 92%
 
 當使用者嘗試從 [!DNL Google Drive] 對 [!DNL Workfront] 新增文件時，文件選擇器不顯示任何檔案，而且使用者無法選取所要的檔案。
 
-**因應措施**
+**解決方法**
 
 將檔案從 [!DNL Google Drive] 下載到您的電腦，然後將該檔案從電腦上傳到 [!DNL Workfront]。
 

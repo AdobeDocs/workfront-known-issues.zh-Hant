@@ -1,13 +1,12 @@
 ---
 title: 任務：無法變更任務的規劃完成日期
 description: '當使用者嘗試變更任務的規劃完成日期時，該欄位無回應。 '
-hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 77%
+source-wordcount: '120'
+ht-degree: 78%
 
 ---
 
@@ -15,11 +14,11 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->此問題已關閉，因為它已如期工作。
+>此問題已結案，因為目前已如預期運作。
 
 當使用者嘗試變更任務的[!UICONTROL 規劃完成日期]時，該欄位無回應。
 
-這已在以下區域中報告：
+這已在以下區域報告：
 
 * 任務標題
 * [!UICONTROL 任務詳細資訊]區域

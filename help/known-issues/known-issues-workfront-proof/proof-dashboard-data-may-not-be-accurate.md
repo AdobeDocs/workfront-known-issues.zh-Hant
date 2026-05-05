@@ -1,12 +1,11 @@
 ---
 title: Workfront Proof：儀表板資料並不總是準確的
-description: 校訂儀表板區域顯示的資料並不總是顯示最新資訊。建議您建立自訂檢視並使用該檢視取得您資料的最新資訊。
-hidefromtoc: true
+description: 校訂儀表板區域顯示的資料並不總是顯示最新資訊。 建議您建立自訂檢視並使用該檢視取得您資料的最新資訊。
 feature: Workfront Proof
 exl-id: f414f918-4416-44d1-99e9-afd75f4f40f4
-source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---

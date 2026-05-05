@@ -1,22 +1,21 @@
 ---
-title: 自訂表單：無法編輯RTF文字欄位
-description: 當使用者嘗試編輯自訂表單上的RTF文字欄位時，變更不會儲存，並且該欄位不會更新以反映變更。
-hidefromtoc: true
+title: 自訂表單：無法編輯 RTF 欄位
+description: 當使用者嘗試編輯自訂表單中的 RTF 欄位時，變更未儲存，且欄位未更新以反映這些變更。
 feature: Custom Forms
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 3bdea765-92e1-4a1e-a938-d3ce23eb2149
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
-
-# 自訂表單：無法編輯RTF文字欄位
+# 自訂表單：無法編輯 RTF 欄位
 
 >[!NOTE]
 >
->此問題已在2025年12月22日修正。
+>此問題已於 2025 年 12 月 22 日修復。
 
-當使用者嘗試編輯自訂表單上的RTF文字欄位時，變更不會儲存，並且該欄位不會更新以反映變更。
+當使用者嘗試編輯自訂表單中的 RTF 欄位時，變更未儲存，且欄位未更新以反映這些變更。
 
-_於2025年12月3日首次通報。_
+_於 2025 年 12 月 3 日首次回報。_

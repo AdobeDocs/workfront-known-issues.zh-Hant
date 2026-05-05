@@ -2,11 +2,10 @@
 title: 首頁：使用Chrome以外的瀏覽器時出現的首頁摘要問題
 description: 當使用者查看他們的首頁並使用 Chrome 以外的瀏覽器時，他們可能會看到各種問題。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
-hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '114'
 ht-degree: 91%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->由於無法重現，此問題已關閉。
+>由於無法重現此問題，因此已結案。
 
 
 當使用者查看他們的[!UICONTROL 首頁]並使用 [!DNL Chrome] 以外的瀏覽器時，他們可能會看到以下問題：

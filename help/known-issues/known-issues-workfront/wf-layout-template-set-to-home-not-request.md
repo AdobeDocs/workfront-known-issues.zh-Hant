@@ -1,12 +1,11 @@
 ---
 title: 版面配置範本：登陸頁面不正確
 description: 當具有請求者授權的使用者被指派至將請求頁面設定為登陸頁面的版面配置範本時，該使用者將被導向至作為其登陸頁面的首頁。
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 4106a592-61ee-4dcd-9bf9-c42e65f83d37
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已關閉，因為這不是問題。
+>此問題已結案，因為這不是問題。
 
 當具有請求者授權的使用者被指派至將請求頁面設定為登陸頁面的版面配置範本時，該使用者將被導向至作為其登陸頁面的首頁。
 

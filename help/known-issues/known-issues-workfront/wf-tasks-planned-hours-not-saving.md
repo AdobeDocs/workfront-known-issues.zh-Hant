@@ -1,26 +1,25 @@
 ---
-title: 任務：建立任務時未儲存計畫時數
+title: 任務：建立任務時，規劃時數未儲存
 description: ''
-hidefromtoc: true
 feature: Tasks
-source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
+exl-id: 7551659e-b87e-4288-b9db-819bb852239b
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
 
-
-# 任務：建立任務時未儲存計畫時數
+# 任務：建立任務時，規劃時數未儲存
 
 >[!NOTE]
 >
->此問題已在2025年12月3日修正。
+>此問題已於 2025 年 12 月 3 日修復。
 
 當使用者建立任務並輸入規劃時數，然後儲存任務時，未儲存規劃時數。
 
 **解決方法**
 
-建立任務，然後編輯它以新增計畫時數。
+建立任務後，請編輯該任務並加入規劃時數。
 
-_於2025年10月10日首次通報。_
+_於 2025 年 10 月 10 日首次回報。_

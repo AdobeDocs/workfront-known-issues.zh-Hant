@@ -1,22 +1,21 @@
 ---
 title: 指派：團隊指派未儲存
-description: 當使用者將團隊指派給Workfront中的工作專案時，未儲存團隊指派，並且團隊未收到工作通知。
-hidefromtoc: true
+description: 當使用者將團隊指派到 Workfront 中的工作項目時，團隊指派未儲存，且團隊未收到該工作的通知。
 feature: Tasks, Work Management, People Teams and Groups
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+exl-id: e0940c6b-e58a-4ddc-a49a-de1557ac6fa1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
-
 
 # 指派：團隊指派未儲存
 
 >[!NOTE]
 >
->此問題已在2025年12月15日修正。
+>此問題已於 2025 年 12 月 15 日修復。
 
-當使用者將團隊指派給Workfront中的工作專案時，未儲存團隊指派，並且團隊未收到工作通知。
+當使用者將團隊指派到 Workfront 中的工作項目時，團隊指派未儲存，且團隊未收到該工作的通知。
 
-_於2025年11月13日首次通報。_
+_於 2025 年 11 月 13 日首次回報。_

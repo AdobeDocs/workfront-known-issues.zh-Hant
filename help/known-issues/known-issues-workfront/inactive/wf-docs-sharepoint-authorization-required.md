@@ -1,13 +1,12 @@
 ---
 title: 檔案：無法存取SharePoint
 description: 當使用者嘗試在 Workfront 中開啟 SharePoint 資料夾時，資料夾未開啟，並且出現一則訊息。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6b6c4c13-5d43-4d30-a7d0-67ff8aa0b113
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 95%
+source-wordcount: '118'
+ht-degree: 96%
 
 ---
 

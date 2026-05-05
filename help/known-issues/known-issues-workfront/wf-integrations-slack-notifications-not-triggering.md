@@ -1,15 +1,14 @@
 ---
 title: 整合：未觸發來自Workfront的Slack通知
 description: 'Workfront中發生應觸發Slack通知的事件時，未傳送通知。 '
-hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+exl-id: b8afdfb3-fad1-48fa-aacd-8e9ce829e994
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # 整合：未觸發來自Workfront的Slack通知
 

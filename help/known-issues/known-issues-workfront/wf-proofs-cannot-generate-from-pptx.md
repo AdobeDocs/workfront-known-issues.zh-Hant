@@ -1,22 +1,21 @@
 ---
-title: 校訂：無法從PowerPoint檔案產生校訂
-description: 當使用者嘗試從PowerPoint產生校訂時，未產生校訂且使用者看到錯誤訊息。 此問題有因應措施。
-hidefromtoc: true
+title: 校訂：無法從 PowerPoint 檔案生成校訂
+description: 當使用者嘗試從 PowerPoint 生成校訂時，校訂未能生成，並顯示錯誤訊息。 此問題有解決方法。
 feature: Digital Content and Documents
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+exl-id: 13e9c820-e245-4e22-90fe-cc2c9def73dc
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 5%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
+# 校訂：無法從 PowerPoint 檔案生成校訂
 
-# 校訂：無法從PowerPoint檔案產生校訂
-
-當使用者嘗試從PowerPoint產生校訂時，未產生校訂且使用者看到錯誤訊息。
+當使用者嘗試從 PowerPoint 生成校訂時，校訂未能生成，並顯示錯誤訊息。
 
 **解決方法**
 
-將PowerPoint檔案匯出至PDF，然後從PDF建立校訂。
+將 PowerPoint 檔案匯出為 PDF，然後從 PDF 建立校訂。
 
-_於2025年3月21日首次通報。_
+_於 2025 年 3 月 21 日首次回報。_

@@ -1,23 +1,22 @@
 ---
-title: 請求：請求表單建立者無權存取表單
-description: 當使用者在Workfront Planning中建立請求表單，然後嘗試存取該表單時，他們無法存取它，並且會看到訊息「您沒有存取該表單的許可權」。
-hidefromtoc: true
+title: 請求：請求表單建立者無法存取表單
+description: 當使用者在 Workfront 規劃中建立請求表單，然後嘗試存取該表單時，無法存取該表單，並顯示訊息您無法存取此表單。
 feature: Requests
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+exl-id: 52c8ab6b-a950-4e13-b30b-8199e7c89223
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 100%
 
 ---
 
-
-# 請求：請求表單建立者無權存取表單
+# 請求：請求表單建立者無法存取表單
 
 >[!NOTE]
 >
->* 此問題已在2025年11月26日修正。
->* 此問題與僅適用於Workfront Planning的功能有關。
+>* 此問題已於 2025 年 11 月 26 日修復。
+>* 此問題只跟在 Workfront 規劃中可用的功能相關。
 
-當使用者在Workfront Planning中建立請求表單，然後嘗試存取該表單時，他們無法存取它，並且會看到訊息「您沒有存取此表單的許可權」。
+當使用者在 Workfront 規劃中建立請求表單，然後嘗試存取該表單時，無法存取該表單，並顯示訊息「您無法存取此表單。」
 
-_於2025年10月29日首次通報。_
+_於 2025 年 10 月 29 日首次回報。_

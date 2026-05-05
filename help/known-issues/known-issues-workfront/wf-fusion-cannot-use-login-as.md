@@ -1,13 +1,12 @@
 ---
-title: Workfront Fusion：無法使用 Workfront 「登入身分」功能驗證連線
-description: 在Workfront Fusion中建立連線時，使用者在以其他使用者身份登入時無法驗證連線。
-hidefromtoc: true
+title: Workfront Fusion：無法使用 Workfront「登入身分」功能驗證連線
+description: 當在 Workfront Fusion 中建立連線時，使用者無法以其他使用者身分登入進行連線驗證。
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 75%
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 
