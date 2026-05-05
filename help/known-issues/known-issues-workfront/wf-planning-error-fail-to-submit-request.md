@@ -1,15 +1,14 @@
 ---
 title: Workfront規劃：無法提交請求錯誤
 description: 當使用者提交請求時，他們會看到消息無法提交請求。 不過，請求已正確提交。
-hidefromtoc: true
 feature: Workfront Planning, Requests
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+exl-id: b46079ca-ced2-4c70-93a3-e1cf0818a6e5
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # Workfront規劃：「無法提交請求」錯誤
 

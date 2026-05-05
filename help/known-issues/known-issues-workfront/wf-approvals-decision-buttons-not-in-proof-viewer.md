@@ -1,24 +1,23 @@
 ---
-title: 核准：核准決定按鈕未顯示在團隊的校訂檢視器中
-description: 當核准者在「校訂檢視器」中檢視校訂並嘗試做出決定時，決定按鈕無法使用。 此問題有因應措施。
-hidefromtoc: true
+title: 核准：在 Teams 的校訂檢視器中未顯示核准決策按鈕
+description: 當核准者在校訂檢視器中檢視校訂並嘗試做出決策時，決策按鈕無法顯示。 此問題有解決方法。
 feature: Digital Content and Documents
-source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
+exl-id: 27221d44-b4c8-4ae7-a28a-0ed8d4db0ea8
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 4%
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
 
+# 核准：在 Teams 的校訂檢視器中未顯示核准決策按鈕
 
-# 核准：核准決定按鈕未顯示在團隊的校訂檢視器中
+當核准者在校訂檢視器中檢視校訂並嘗試做出決策時，決策按鈕無法顯示。
 
-當核准者在「校訂檢視器」中檢視校訂並嘗試做出決定時，決定按鈕無法使用。
-
-此問題適用於團隊已新增為核准者的使用者，而不適用於個別新增的使用者。
+此問題發生在已將團隊加入為核准者的使用者，而不適用於單獨加入的使用者。
 
 **解決方法**
 
-在Workfront的「檔案摘要」或「檔案詳細資訊」頁面中核准校訂。
+在 Workfront 的文件摘要或文件詳細頁面中核准校訂。
 
-_於2025年9月30日首次通報。_
+_於 2025 年 9 月 30 日首次回報。_

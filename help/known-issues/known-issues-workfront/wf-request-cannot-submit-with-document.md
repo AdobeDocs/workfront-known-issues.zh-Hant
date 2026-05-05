@@ -1,13 +1,12 @@
 ---
 title: 請求：填寫請求時無法上傳檔案
 description: 當使用者填寫請求並嘗試上傳檔案時，檔案未上傳，且使用者會看到錯誤。
-hidefromtoc: true
 feature: Requests
 exl-id: e73b00ef-b5ab-4458-a9be-49a4954b560e
-source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '96'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->此問題已在 2023 年 2 月 23 日修正。
+>此問題已在2023年2月23日修正。
 
 當使用者填寫請求並嘗試上傳檔案時，檔案未上傳，且使用者會看到以下錯誤：
 

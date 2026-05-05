@@ -1,23 +1,22 @@
 ---
-title: 請求：請求佇列出現多次
-description: 當使用者開始建立請求並選取請求佇列時，相同的請求佇列會在下拉式清單中出現多次。
-hidefromtoc: true
+title: 請求：請求佇列多次出現
+description: 當使用者開始建立請求並選擇請求佇列時，相同的請求佇列會在下拉選單中顯示多次。
 feature: Requests
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+exl-id: 3b88f48d-3a9c-4bfe-9de9-b02cdc5daa70
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 100%
 
 ---
 
-
-# 請求：請求佇列出現多次
+# 請求：請求佇列多次出現
 
 >[!NOTE]
 >
->* 此問題已在2026年1月8日修正。
->* 此問題已在舊版報告體驗中報告。
+>* 此問題已於 2026 年 1 月 8 日修復。
+>* 將 PowerPoint 檔案匯出為 PDF，然後從 PDF 建立校訂。
 
-當使用者開始建立請求並選取請求佇列時，相同的請求佇列會在下拉式清單中出現多次。
+當使用者開始建立請求並選擇請求佇列時，相同的請求佇列會在下拉選單中顯示多次。
 
-_於2025年12月30日首次通報。_
+_於 2025 年 12 月 30 日首次回報。_

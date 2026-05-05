@@ -1,12 +1,11 @@
 ---
 title: 首頁：已刪除的自訂欄位留存在專案、任務和問題小工具中
 description: 將自訂欄位新增至首頁中的專案、任務或問題小工具 (例如「我的專案」) 後，即使將其刪除，自訂欄位仍將繼續顯示，但不包含任何值。
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 715e385e-5c9a-4429-82a8-83ad1eb1a2a3
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已關閉，因為情況已如期運作。
+>此問題已結案，因為目前已如預期運作。
 
 將自訂欄位新增至首頁中的專案、任務或問題小工具 (例如「我的專案」) 後，即使將其刪除，自訂欄位仍將繼續顯示，但不包含任何值。
 

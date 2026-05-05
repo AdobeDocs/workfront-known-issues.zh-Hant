@@ -1,12 +1,11 @@
 ---
 title: 請求：與請求一起建立的草稿導致問題
 description: 當使用者在新請求體驗中建立並提交新請求時，也會建立草稿。 草稿僅顯示已提交請求名稱的第一個字母，嘗試開啟它會導致無法擷取錯誤。
-hidefromtoc: true
 feature: Requests
 exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

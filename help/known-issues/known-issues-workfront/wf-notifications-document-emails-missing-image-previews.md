@@ -1,12 +1,11 @@
 ---
 title: 通知：電子郵件通知中未顯示縮圖
 description: 使用者檢視有關文件核准的電子郵件通知時，電子郵件中未顯示文件縮圖。
-hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 9b733328-e05f-4a28-b8eb-da83d68ac68c
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---

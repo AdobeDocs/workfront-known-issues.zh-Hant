@@ -1,15 +1,14 @@
 ---
 title: 請求：複製請求時出現您沒有足夠存取許可權的錯誤
 description: 當使用者嘗試透過請求頁面複製請求時，將不會複製請求，並且使用者會看到錯誤。
-hidefromtoc: true
 feature: Requests
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+exl-id: e4cd4aff-a39d-4d45-81f9-f32da3fa471f
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
-
 
 # 請求：複製請求時出現「您沒有足夠存取許可權」錯誤
 

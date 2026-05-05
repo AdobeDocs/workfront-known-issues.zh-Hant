@@ -1,13 +1,12 @@
 ---
-title: Workfront Proof：證明摘要的時間戳記不準確
+title: Workfront 校訂：校訂摘要中的時間戳記不準確
 description: 當使用者點選校訂的「列印摘要」選項時，顯示的時間戳記增加了 30 分鐘。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此問題因為無法重現已遭關閉。
+>由於無法重現此問題，因此已結案。
 
 當使用者點選校訂的「[!UICONTROL 列印摘要]」選項時，顯示的時間戳記增加了 30 分鐘。
 

@@ -1,15 +1,14 @@
 ---
 title: 請求：複製請求時，您必須是系統管理員錯誤
 description: 當使用者複製請求並嘗試儲存時，請求未儲存，且使用者看到一則錯誤訊息
-hidefromtoc: true
 feature: Requests
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+exl-id: 79dcff8a-3410-4f54-bc85-579be364c618
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # 請求：複製請求時出現「您必須是系統管理員」錯誤
 

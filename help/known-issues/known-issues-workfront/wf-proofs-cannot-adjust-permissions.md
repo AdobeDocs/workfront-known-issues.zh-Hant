@@ -1,12 +1,11 @@
 ---
 title: 校訂版主無法編輯權限
 description: 如果身為校訂版主的使用者嘗試編輯工作流程的使用者權限，則選取或取消選取權限的功能將遭到停用。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題因為無法重現已關閉。
+>由於無法重現此問題，因此已結案。
 
 如果身為校訂版主的使用者嘗試編輯工作流程的使用者權限，則選取或取消選取權限的功能將遭到停用。
 
@@ -26,6 +25,6 @@ ht-degree: 100%
 
 **解決方法**
 
-將版主角色變更為檢閱者和核准者。
+將版主角色變更為審閱者和核准者。
 
 _於 2024 年 4 月 24 日首次通報。_

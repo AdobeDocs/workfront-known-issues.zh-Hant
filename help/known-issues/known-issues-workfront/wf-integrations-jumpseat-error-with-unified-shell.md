@@ -1,12 +1,11 @@
 ---
 title: 整合：使用 Unified Shell 的組織無法成功整合 JumpSeat
 description: 當使用者的組織移轉至 Adobe Unified Shell 時，他們現有的 JumpSeat 整合無法正常運作。
-hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 0476729e-4e25-4180-84b5-d6b59ae90de8
-source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '86'
 ht-degree: 100%
 
 ---

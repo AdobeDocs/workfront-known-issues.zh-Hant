@@ -1,12 +1,11 @@
 ---
 title: 通知：未傳送更新的電子郵件通知
 description: 已為物件更新啟用電子郵件通知的使用者，有時候並未收到應有的電子郵件通知。
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: d320a7cd-a732-49a7-a4f3-045b85b7fb2b
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->因為無法重現此問題，此問題已結案。
+>由於無法重現此問題，因此已結案。
 
 已為物件更新啟用電子郵件通知的使用者，有時候並未收到應有的電子郵件通知。
 

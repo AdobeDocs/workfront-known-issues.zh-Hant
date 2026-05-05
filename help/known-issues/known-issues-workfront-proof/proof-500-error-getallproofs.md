@@ -1,13 +1,12 @@
 ---
 title: Workfront Proof：透過API或Workfront Fusion存取Workfront Proof時出現500錯誤
 description: 當使用者存取校訂API getAllProofs動作時，Workfront Proof伺服器傳回訊息：500內部伺服器錯誤
-hidefromtoc: true
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 68%
+source-wordcount: '108'
+ht-degree: 69%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 68%
 
 >[!NOTE]
 >
->產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。產品增強功能是在產品公告中而不是在維護更新中傳達。
+>產品團隊目前正在評估此問題的解決方案，這可能需要產品增強功能。 產品增強功能是在產品公告中而不是在維護更新中傳達。
 
 <!--This article is on Proof and Fusion TOCs-->
 

@@ -1,18 +1,17 @@
 ---
-title: Workfront：Workfront和Snowflake之間不同步的物件
-description: 'Workfront中的物件可能會與Snowflake不同步。 這表示Workfront和Snowflake之間的物件計數可能不同，對Snowflake的查詢可能不會傳回與Workfront中的搜尋或報表相同的物件。 '
-hidefromtoc: true
+title: Workfront：Workfront 與 Snowflake 之間的物件不同步
+description: 'Workfront 中的物件可能與 Snowflake 不同步。 這意味著 Workfront 和 Snowflake 之間的物件數量可能不同，並且對 Snowflake 的查詢可能無法傳回與 Workfront 中的搜尋或報告相同的物件。 '
 feature: People Teams and Groups
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
+exl-id: c22a857a-69a1-46bf-b077-a171deb19a24
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
+# Workfront：Workfront 與 Snowflake 之間的物件不同步
 
-# Workfront：Workfront和Snowflake之間不同步的物件
+Workfront 中的物件可能與 Snowflake 不同步。 這意味著 Workfront 和 Snowflake 之間的物件數量可能不同，並且對 Snowflake 的查詢可能無法傳回與 Workfront 中的搜尋或報告相同的物件。
 
-Workfront中的物件可能會與Snowflake不同步。 這表示Workfront和Snowflake之間的物件計數可能不同，對Snowflake的查詢可能不會傳回與Workfront中的搜尋或報表相同的物件。
-
-_首次回報於2025年4月22日。_
+_於 2025 年 4 月 22 日首次回報。_

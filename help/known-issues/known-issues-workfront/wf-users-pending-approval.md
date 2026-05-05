@@ -1,48 +1,47 @@
 ---
-title: 使用者：新使用者上會顯示未決核准徽章
-description: Workfront中的新使用者可能會顯示在具有待核准徽章的使用者清單中。 此徽章會持續存在超過數分鐘，並在頁面重新整理時仍然存在。
-hidefromtoc: true
+title: 使用者：新使用者顯示待核准徽章
+description: 在 Workfront 中，新的使用者可能會在使用者列表中顯示待核准徽章。 該徽章持續顯示超過幾分鐘，並且在頁面重新整理後仍然顯示。
 feature: People Teams and Groups
-source-git-commit: 9c46f9006fa25481a012619a16d627e16f23c15e
+exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 100%
 
 ---
 
-
-# 使用者：新使用者上會顯示「未決核准」徽章
+# 使用者：新使用者顯示「待核准」徽章
 
 >[!NOTE]
 >
->已移轉至Adobe Admin Console的組織中，可能會出現此問題。
+>此問題可能出現在已遷移至 Adobe Admin Console 的組織中。
 
-Workfront中的新使用者可能會顯示在具有「待核准」徽章的使用者清單中。 此徽章會持續存在超過數分鐘，並在頁面重新整理時仍然存在。
+在 Workfront 中，新的使用者可能會在使用者列表中顯示「待核准」徽章。 該徽章持續顯示超過幾分鐘，並且在頁面重新整理後仍然顯示。
 
-當使用者大量上傳(例如從試算表或Workfront Kick-Start上傳)時，此問題會加劇。
+當使用者以大量批次上傳，例如從電子表格或 Workfront 快速啟動時，此問題會更加嚴重。
 
-預期的行為是徽章會在幾分鐘後消失，並在頁面重新整理時消失。
+預期的行為是徽章會在幾分鐘後消失，並且在頁面重新整理後就不會再顯示。
 
-## 因應措施
+## 替代解決方案
 
-當新增至Workfront的使用者未同步至Adobe Admin Console時，就會發生這種情況。
+當新增的使用者未同步到 Adobe Admin Console 時，就會發生此問題。
 
-建議您採取下列因應措施：
+我們建議以下替代解決方案：
 
 ### 解析個別使用者
 
-您可以解析「使用者」清單中的個別使用者。
+您可以解析使用者清單中的個別使用者。
 
 1. 在使用者清單中選取一個或多個使用者。
-1. 按一下清單標題中的三點選單。
-1. 選取&#x200B;**核准**。
+1. 按一下清單標頭中的三點選單。
+1. 選取「**核准**」。
 1. 幾分鐘後，重新整理頁面。
 
-### 解析新增至大量批次的使用者
+### 解析大批新增的使用者
 
-若要解析大量新增的使用者，您可以直接將批次使用者新增到Adobe Admin Console。
+若要解析大批新增的使用者，您可以直接將該批次的使用者新增至 Adobe Admin Console。
 
-如需指示，請參閱[管理多個使用者 | 在Adobe檔案中大量上傳CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html)。
+相關說明請參閱 Adobe 文件中的[管理多個使用者 | 上傳大量 CSV](https://helpx.adobe.com/tw/enterprise/using/bulk-upload-users.html)。
 
 
-_首次回報於2025年5月8日。_
+_於 2025 年 5 月 8 日首次回報。_

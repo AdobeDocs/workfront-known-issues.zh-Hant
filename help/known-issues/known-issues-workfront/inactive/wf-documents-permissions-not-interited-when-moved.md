@@ -1,12 +1,11 @@
 ---
 title: 文件：當文件移至新專案時，不會繼承權限
-description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。文件不會共用給共用專案的使用者。 '
-hidefromtoc: true
+description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。 文件不會共用給共用專案的使用者。 '
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 100%
 
 ---
@@ -17,7 +16,7 @@ ht-degree: 100%
 
 <!--Won't fix tab: Valid issue, won't fix.-->
 
-當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。文件不會共用給共用專案的使用者。
+當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。 文件不會共用給共用專案的使用者。
 
 **因應措施：**
 

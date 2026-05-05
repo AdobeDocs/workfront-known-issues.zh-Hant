@@ -1,24 +1,23 @@
 ---
-title: Fusion： AWS模組上缺少標頭錯誤
-description: AWS模組失敗並出現錯誤：缺少此請求所需的標頭
-hidefromtoc: true
+title: Fusion：AWS 模組上的缺少標頭錯誤
+description: AWS 模組出現錯誤：此請求缺少必要的標頭
 feature: Workfront Fusion
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+exl-id: 4819cea6-9525-4c18-a20e-36199407fbe5
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 100%
 
 ---
 
-
-# Fusion： AWS模組上缺少標頭錯誤
+# Fusion：AWS 模組上的缺少標頭錯誤
 
 >[!NOTE]
 >
->此問題已在2026年1月8日修正。
+>此問題已於 2026 年 1 月 8 日修復。
 
-AWS模組失敗，出現以下錯誤：
+AWS 模組出現以下錯誤：
 
 「此請求缺少必要的標頭」
 
-_於2025年12月23日首次通報。_
+_於 2025 年 12 月 23 日首次回報。_

@@ -1,22 +1,21 @@
 ---
-title: Workfront規劃：移除已連線的欄位時發生錯誤
-description: 當使用者嘗試移除Workfront Planning中已連線的欄位時，他們無法移除該欄位，並且會看到訊息「無法刪除該欄位」。 請再試一次。
-hidefromtoc: true
+title: Workfront 規劃：移除連接欄位時發生錯誤
+description: 當使用者嘗試在 Workfront 規劃中移除連接欄位時，無法移除該欄位，並顯示以下訊息：「無法刪除欄位。 請再試一次」。
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 1528907f-f584-4b64-8e8e-55beb591b6a5
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
-
-# Workfront規劃：移除已連線的欄位時發生錯誤
+# Workfront 規劃：移除連接欄位時發生錯誤
 
 >[!NOTE]
 >
->此問題已在2025年12月22日修正。
+>此問題已於 2025 年 12 月 22 日修復。
 
-當使用者嘗試移除Workfront Planning中已連線的欄位時，他們無法移除該欄位，且會看到訊息「無法刪除該欄位。 再試一次。」
+當使用者嘗試在 Workfront 規劃中移除連接欄位時，無法移除該欄位，並顯示以下訊息：「無法刪除欄位。 請再試一次。」
 
-_於2025年12月10日首次通報。_
+_於 2025 年 12 月 10 日首次回報。_

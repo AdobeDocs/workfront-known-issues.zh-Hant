@@ -3,10 +3,9 @@ title: 核准：核准委派設定的天數不正確
 description: 當使用者安排個人休假並委派他們對該時間的核准時，核准委派可能包括安排的休假之前或之後的天數。
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals
-hidefromtoc: true
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -17,11 +16,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此問題已關閉，因為這不是問題。
+>此問題已結案，因為這不是問題。
 
 當使用者安排個人休假並委派他們對該時間的核准時，核准委派可能包括安排的休假之前或之後的天數。
 
-**因應措施**
+**解決方法**
 
 這種差異是由於使用者設定檔中的時區與使用者指派的時程表的時區之間的差異造成的。
 
