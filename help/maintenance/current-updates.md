@@ -3,10 +3,10 @@ title: Workfront 維護更新
 description: ' [!DNL Adobe Workfront] 維護更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: eace4f6034ca11c6616e82b411c0dcfd936e5f9a
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 37%
+source-wordcount: '1270'
+ht-degree: 33%
 
 ---
 
@@ -14,17 +14,26 @@ ht-degree: 37%
 
 >[!NOTE]
 >
->如需所有 Adobe 產品 (包括 Workfront) 維護中斷的資訊，請參閱 [Adobe 狀態頁面](https://status.adobe.com/zh-tw/)。
+>此頁面的更新會暫時暫停，因為我們將設定管理其內容的新程式。
+
+
+
+<!--
+>[!NOTE] 
+>
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/zh-tw/).
+
+-->
 
 此頁面說明在每週 Workfront 更新中修復的問題。
 
-這些更新還包括其他次要或不太重要的錯誤修復。[!DNL Workfront]當您提交的問題獲得修正時，支援人員會通知您。
+這些更新還包括其他次要或不太重要的錯誤修正。[!DNL Workfront] 當您提交的問題得到修復時，支援人員會通知您。
 
 有關 2026 年之前的維護更新，請參閱[以前的維護更新](#previous-maintenance-updates)
 
 2026 年進行了以下維護更新。
 
-## 2026 年 2 月更新
+## 2026年2月更新
 
 +++**2026年2月22至28日維護更新周**
 
@@ -195,7 +204,7 @@ Workfront計畫欄位未出現在畫布控制面板Report Builder中
 
 ### 2026年1月11至17日當週維護更新
 
-此更新僅包含次要或較不顯著的錯誤修正。當您提交的問題得到修復時，Workfront 支援人員會通知您。
+此更新僅包含次要或較不顯著的錯誤修正。 當您提交的問題得到修復時，Workfront 支援人員會通知您。
 
 +++
 
@@ -225,7 +234,7 @@ AWS 模組出現以下錯誤：
 
 **校訂狀態變更延遲**
 
-當對校訂做出決策時，該決策最多需要 24 小時才能顯示在專案的文件區域中。這可能會造成混淆，因為即使已經做出決策，狀態仍顯示為待處理或其他過時的狀態。
+當對校訂做出決策時，該決策最多需要 24 小時才能顯示在專案的文件區域中。 這可能會造成混淆，因為即使已經做出決策，狀態仍顯示為待處理或其他過時的狀態。
 
 #### 請求
 
