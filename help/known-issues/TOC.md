@@ -2,9 +2,9 @@
 user-guide-title: 已知問題
 user-guide-description: ' [!DNL Adobe Workfront] 的已知問題'
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[優先順序：分組阻止排序和內嵌編輯](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[報告：無法捲動查看整個圖表報告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[群組：已刪除的群組狀態會重新出現](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[檔案：檔案更新未顯示校訂評論](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[首頁：專案名稱顯示為「無存取權」](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[首頁：首頁因「記憶體不足」錯誤而當機](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront：多個瀏覽器標籤導致 Workfront 登出](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
