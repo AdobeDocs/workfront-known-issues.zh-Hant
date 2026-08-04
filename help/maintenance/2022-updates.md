@@ -5,7 +5,7 @@ exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '17045'
+source-wordcount: '17047'
 ht-degree: 98%
 
 ---
@@ -980,7 +980,8 @@ ht-degree: 98%
 
 *[!UICONTROL 主要選單]*
 
-如果您的組織有自訂內部幫助站點，您可以設定[!UICONTROL 主要選單]&#x200B;[!UICONTROL 幫助]圖示移至該站點。 如果幫助站點包含有關您的組織如何使用的資訊，這將很有用[!DNL Workfront]。此自訂 URL 未影響[!DNL Workfront]，也不是上下文相關的說明連結[!DNL Workfront]，將使用者帶到[!DNL Workfront]幫助網站。
+如果您的組織有自訂內部幫助站點，您可以設定[!UICONTROL 主要選單]&#x200B;[!UICONTROL 幫助]圖示移至該站點。 如果幫助站點包含有關您的組織如何使用的資訊，這將很有用[!DNL Workfront]。
+此自訂 URL 未影響[!DNL Workfront]，也不是上下文相關的說明連結[!DNL Workfront]，將使用者帶到[!DNL Workfront]幫助網站。
 
 **內聯編輯[!UICONTROL 任務期間]**&#x200B;時無法選擇經過的時間
 
@@ -1083,7 +1084,7 @@ ht-degree: 98%
 因此，如果您尚未採取以下措施，我們建議您採取以下措施：
 
 * 更新您的垃圾郵件過濾器，以接受來自`notification@my.workfront.com`的電子郵件。
-* 更新您的允許清單以接受來自的電子郵件 
+* 更新您的允許清單以接受來自的電子郵件 `notification@my.workfront.com`
   **在工作流程範本中進行初始設定後無法修改使用者選項**
 
 *[!DNL Workfront Proof]*
@@ -1377,7 +1378,8 @@ ht-degree: 98%
 *儀表板*
 
 將儀表板列印到PDF時報告了以下問題：
-PDF不會列印報表中的每一列。 缺少行的地方，只顯示空白。PDF 在欄標題和報告的第一列之間包含空格。
+PDF不會列印報表中的每一列。 缺少行的地方，只顯示空白。
+PDF 在欄標題和報告的第一列之間包含空格。
 
 **[!DNL Portfolio Optimizer]使用英語以外的語言時顯示 0 分**
 
@@ -1861,7 +1863,8 @@ PDF不會列印報表中的每一列。 缺少行的地方，只顯示空白。P
 
 *專案*
 
-將具有所需自訂欄位的範本附加到該欄位已存在並已填寫的專案時，使用者會看到以下錯誤：「[!UICONTROL 有不完整的欄位。 請輸入必要欄位的值，然後才能繼續。]」按一下「[!UICONTROL 帶我去那裡]」可讓他們看到欄位已填寫並且他們可以成功附加範本。
+將具有所需自訂欄位的範本附加到該欄位已存在並已填寫的專案時，使用者會看到以下錯誤：「[!UICONTROL 有不完整的欄位。 請輸入必要欄位的值，然後才能繼續。]」
+按一下「[!UICONTROL 帶我去那裡]」可讓他們看到欄位已填寫並且他們可以成功附加範本。
 
 **這[!UICONTROL 工作負載平衡器]在日期之間切換時閃爍**
 
