@@ -1,23 +1,22 @@
 ---
-title: 新  [!DNL Adobe Workfront]  體驗中的已知問題
-description: 新  [!DNL Adobe Workfront]  體驗中的已回報已知問題
+title: 新[!DNL Adobe Workfront]體驗中的已知問題
+description: 新[!DNL Adobe Workfront]體驗中的已回報已知問題
 keywords: 新檔案，新增檔案
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '1130'
-ht-degree: 89%
-
+source-wordcount: '1330'
+ht-degree: 88%
 ---
-
 # [!DNL Adobe Workfront] 中的已知問題
 
 此頁面包含 [!DNL Adobe Workfront] 中目前已確認的問題。
 
 >[!IMPORTANT]
 >
->關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com/zh-tw)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
+>關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。 關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
 ## 新增
 
@@ -83,7 +82,7 @@ ht-degree: 89%
 | [報告：報告篩選器未傳回預期結果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024 年 4 月 1 日 |
 | [儀表板：將儀表板列印為 PDF 時空白邊界很大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 7 日 |
 | [篩選器：無法從儀表板上的報告共用篩選器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
-| [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)  | 2023 年 3 月 23 日 |
+| [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023 年 3 月 23 日 |
 | [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | [任務：在任務摘要面板中輸入時數時未儲存該時數 [!UICONTROL (摘要面板)]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 12 月 2 日 |
@@ -97,7 +96,7 @@ ht-degree: 89%
 
 ## 無修正
 
-這些問題的修正目前未納入規劃中。在某些情況下，這些問題將透過新功能或功能更新來修正。
+這些問題的修正目前未納入規劃中。 在某些情況下，這些問題將透過新功能或功能更新來修正。
 
 | **問題** | **上次修改** |
 | --- | --- |
@@ -150,7 +149,7 @@ ht-degree: 89%
 | [[!UICONTROL Workfront 校訂]：[!UICONTROL 校訂核准]報告無法準確確定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [文件：校訂工作流程圖示未顯示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 25 日 |
 | [報告：行事曆預設為舊日期](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 2021 年 2 月 5 日 |
-| [電子郵件通知：後者中的電子郵件格式不正確  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)  | 2021 年 3 月 30 日 |
+| [電子郵件通知：後者中的電子郵件格式不正確  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | 2021 年 3 月 30 日 |
 | [清單：顯示名稱未套用於自訂欄位分組](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 9 日 |
 | [行事曆：任務未顯示](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |
 

@@ -1,23 +1,22 @@
 ---
-title: ' [!DNL Adobe Workfront Proof] 中的已知問題'
-description: ' [!DNL Adobe Workfront Proof] 的已回報已知問題'
+title: '[!DNL Adobe Workfront Proof] 中的已知問題'
+description: '[!DNL Adobe Workfront Proof]的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 89%
-
+source-wordcount: '518'
+ht-degree: 88%
 ---
-
 # [!DNL Adobe Workfront Proof] 中的已知問題
 
 此頁面包含 [!DNL Adobe Workfront Proof] 中目前已確認的問題。
 
 >[!IMPORTANT]
 >
->關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com/zh-tw)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
+>關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。 關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
 ## 新增
 
@@ -49,7 +48,7 @@ ht-degree: 89%
 
 ## 無修正
 
-這些問題的修正目前未納入規劃中。在某些情況下，這些問題將透過新功能或功能更新來修正。
+這些問題的修正目前未納入規劃中。 在某些情況下，這些問題將透過新功能或功能更新來修正。
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
@@ -67,7 +66,7 @@ ht-degree: 89%
 | [校訂：在預覽環境中建立校訂的速度緩慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [[!DNL Workfront Proof]：透過 API 或  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 存取  [!DNL Workfront Proof]  時出現 500 錯誤 | 2023 年 5 月 25 日 |
 | [校訂：測量工具不接受小數點](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
-| [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)  | 2023 年 3 月 23 日 |
+| [文件：存取來自後述連結的文件時出現 404 錯誤  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023 年 3 月 23 日 |
 | [文件：文件清單問題](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof]：清單排序不正確](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 23 日 |
 | [文件：當文件移至新專案時，不會繼承權限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |

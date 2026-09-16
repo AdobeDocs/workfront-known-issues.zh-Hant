@@ -1,23 +1,22 @@
 ---
-title: ' [!DNL Adobe Workfront Fusion] 中的已知問題'
-description: ' [!DNL Adobe Workfront Fusion] 的已回報已知問題'
+title: '[!DNL Adobe Workfront Fusion] 中的已知問題'
+description: '[!DNL Adobe Workfront Fusion]的已通報已知問題'
 keywords: 新檔案，新增檔案
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 81%
-
+source-wordcount: '244'
+ht-degree: 98%
 ---
-
 # [!DNL Adobe Workfront Fusion] 中的已知問題
 
 此頁面包含 [!DNL Adobe Workfront Fusion] 中目前已確認的問題。
 
 >[!IMPORTANT]
 >
->關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com/zh-tw)。關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
+>關於伺服器正常執行時間或中斷資訊，請參閱 [status.adobe.com](https://status.adobe.com)。 關於最近修復的問題資訊，請參閱 [[!DNL Workfront] 維護更新](../maintenance/current-updates.md)。
 
 ## 新增
 
@@ -39,19 +38,19 @@ ht-degree: 81%
 
 {style="table-layout:auto"}
 
-## 有可用的因應措施
+## 提供替代解決方案
 
-這些問題的修正目前不在藍圖上，但解決方法可供使用，並可在每個問題的文章中說明。
+這些問題的修復目前不在計劃中，但有替代解決方案，並在每個問題的文章中進行說明。
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion： Jira搜尋模組傳回錯誤](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025年9月16日 |
+| [Workfront Fusion：Jira 搜尋模組傳回錯誤](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025 年 9 月 16 日 |
 | [Workfront Fusion：模組中缺少欄位](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
-| [Workfront Fusion： webhook的更新未自動儲存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日 |
+| [Workfront Fusion：Webhook 的更新未自動儲存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025 年 8 月 6 日 |
 
 ## 無修正
 
-這些問題的修正目前未納入規劃中。在某些情況下，這些問題將透過新功能或功能更新來修正。
+這些問題的修正目前未納入規劃中。 在某些情況下，這些問題將透過新功能或功能更新來修正。
 
 | **問題** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |

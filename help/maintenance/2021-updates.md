@@ -1,15 +1,14 @@
 ---
 title: 2021 年 Workfront 維護更新
-description: 2021 年  [!DNL Adobe Workfront] 維護更新歷程
+description: '[!DNL Adobe Workfront]的2021年維護更新記錄'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # 2021 年 [!DNL Workfront] 維護更新
 
 2021 年進行了以下維護更新：
@@ -336,7 +335,7 @@ _[!UICONTROL 工作負載平衡器]_
 
 _[!UICONTROL 工作負載平衡器]_
 
-在依[!UICONTROL 期間 &#x200B;]篩選[!UICONTROL 工作負載平衡器]區域時，我們更新了篩選器運算子。
+在依[!UICONTROL 期間 ]篩選[!UICONTROL 工作負載平衡器]區域時，我們更新了篩選器運算子。
 
 +++
 
@@ -523,7 +522,7 @@ _問題_
 
 當使用者向[!DNL Workfront]並嘗試查看票證，他們看到以下錯誤：
 
-&quot;[!UICONTROL &#x200B; Access 被拒絕：糟糕！ 發生錯誤。 請聯絡 [!DNL Workfront]，以便我們找出問題並加以解決。]」
+&quot;[!UICONTROL  Access 被拒絕：糟糕！ 發生錯誤。 請聯絡 [!DNL Workfront]，以便我們找出問題並加以解決。]」
 
 **業務案例摘要顯示不正確的值**
 
@@ -748,7 +747,7 @@ _首頁_
 
 _[!DNL Workfront Fusion]_
 
-[!DNL Adobe Workfront Fusion]有情景連接的使用者[!UICONTROL &#x200B; Webdam &#x200B;]應該意識到[!UICONTROL &#x200B; Webdam &#x200B;]連接需要每 14 天手動重新驗證一次。 [!UICONTROL &#x200B; Webdam &#x200B;]API 目前不支援自動重新授權。
+[!DNL Adobe Workfront Fusion]有情景連接的使用者[!UICONTROL  Webdam ]應該意識到[!UICONTROL  Webdam ]連接需要每 14 天手動重新驗證一次。 [!UICONTROL  Webdam ]API 目前不支援自動重新授權。
 
 +++
 
@@ -983,7 +982,8 @@ _看板_
 
 _[!DNL Adobe Workfront Fusion]_
 
-我們已從[!DNL Adobe Workfront Fusion]通知電子郵件中移除了指向通知設定的連結。有關變更通知設定的資訊，請參閱[!DNL Adobe Workfront Fusion]組織和團隊。
+我們已從[!DNL Adobe Workfront Fusion]通知電子郵件中移除了指向通知設定的連結。
+有關變更通知設定的資訊，請參閱[!DNL Adobe Workfront Fusion]組織和團隊。
 
 +++
 
@@ -1087,7 +1087,7 @@ _電子郵件通知_
 
 _物件_
 
-當使用者在新[!DNL Workfront]體驗嘗試打開某些物件時，他們會看到錯誤訊息「[!UICONTROL &#x200B; (物件) 不再存在：您可能輸入了錯誤的網址。 仔細檢查並再次嘗試輸入網址。]」 物件連結仍然出現在清單、最近、收藏夾、搜尋結果等中，但他們無法存取它，並且它未出現在已刪除物件的資源回收筒中。
+當使用者在新[!DNL Workfront]體驗嘗試打開某些物件時，他們會看到錯誤訊息「[!UICONTROL  (物件) 不再存在：您可能輸入了錯誤的網址。 仔細檢查並再次嘗試輸入網址。]」 物件連結仍然出現在清單、最近、收藏夾、搜尋結果等中，但他們無法存取它，並且它未出現在已刪除物件的資源回收筒中。
 
 
 
@@ -1540,7 +1540,8 @@ _更新流_
 
 _[!DNL Workfront Proof]_
 
-注意：此問題已在新版本中修復[!DNL Workfront]2021 年 2 月 26 日的體驗。它被釘選在[!DNL Classic]2021 年 3 月 1 日的體驗。
+注意：此問題已在新版本中修復[!DNL Workfront]2021 年 2 月 26 日的體驗。
+它被釘選在[!DNL Classic]2021 年 3 月 1 日的體驗。
 
 當使用者建立新校樣並啟用[!UICONTROL 將此校樣通知收件人]選項時，未發送電子郵件通知收件人。
 
@@ -1758,6 +1759,6 @@ _文件_
 
 _[!DNL Workfront Proof]_
 
-當使用者透過電子郵件收到下載連結時 ([!UICONTROL 校樣]>[!UICONTROL 列印評論]>[!UICONTROL &#x200B; PDF 格式]) 並且他們匯出檔案，下載的檔案的標題是隨機數而不是校樣 ID。
+當使用者透過電子郵件收到下載連結時 ([!UICONTROL 校樣]>[!UICONTROL 列印評論]>[!UICONTROL  PDF 格式]) 並且他們匯出檔案，下載的檔案的標題是隨機數而不是校樣 ID。
 
 +++
