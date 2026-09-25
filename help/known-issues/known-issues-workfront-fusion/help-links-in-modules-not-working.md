@@ -1,15 +1,22 @@
 ---
 title: Fusion 應用程式內說明連結未指向特定的說明頁面
-description: ' [!DNL Workfront Fusion]  中的說明連結目前未導向到預期的說明頁面。 而是所有 Fusion 說明連結都指向 Workfront 文件首頁。 從這個登陸頁面，您可以搜尋您需要的資訊。'
+description: '[!DNL Workfront Fusion] 中的說明連結目前未導向到預期的說明頁面。 而是所有 Fusion 說明連結都指向 Workfront 文件首頁。 從這個登陸頁面，您可以搜尋您需要的資訊。'
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
-
 ---
-
 # [!DNL Workfront Fusion]：[!DNL Fusion] 應用程式內說明連結不會指向特定的說明頁面
 
 >[!NOTE]

@@ -3,13 +3,20 @@ title: 刪除群組狀態時發生問題
 description: 刪除群組狀態後，儘管該群組不再顯示狀態，並且刪除時間出現在群組的「更新」中，但狀態還是在沒有使用者修改的情況下再次顯示。
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
-
 ---
-
 # 群組：刪除群組狀態時出現問題
 
 >[!NOTE]

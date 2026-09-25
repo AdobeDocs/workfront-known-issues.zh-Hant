@@ -4,7 +4,16 @@ description: '[!DNL Adobe Workfront]的維護更新'
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '7893'
 ht-degree: 98%
@@ -420,7 +429,7 @@ _文件_
 
 當使用者嘗試下載文件時，該文件未下載，使用者看到頁面出現，其中包含以下訊息，後面接著 XML 文字。
 
-「[!UICONTROL &#x200B; XML 檔案似乎沒有任何關聯的樣式資訊。 文件樹如下。]」
+「[!UICONTROL  XML 檔案似乎沒有任何關聯的樣式資訊。 文件樹如下。]」
 
 **無法從預覽/沙箱環境下載文件**
 

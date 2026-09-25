@@ -3,13 +3,23 @@ title: 文件：當文件移至新專案時，不會繼承權限
 description: '當使用者將文件移至不同專案時，該文件不會繼承新專案的共用權限。 文件不會共用給共用專案的使用者。 '
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 100%
-
 ---
-
 # 文件：當文件移至新專案時，不會繼承權限
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->

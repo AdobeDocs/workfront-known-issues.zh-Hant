@@ -4,7 +4,16 @@ description: '[!DNL Adobe Workfront]的2021年維護更新記錄'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '10226'
 ht-degree: 98%
@@ -335,7 +344,7 @@ _[!UICONTROL 工作負載平衡器]_
 
 _[!UICONTROL 工作負載平衡器]_
 
-在依[!UICONTROL 期間 &#x200B;]篩選[!UICONTROL 工作負載平衡器]區域時，我們更新了篩選器運算子。
+在依[!UICONTROL 期間 ]篩選[!UICONTROL 工作負載平衡器]區域時，我們更新了篩選器運算子。
 
 +++
 
@@ -522,7 +531,7 @@ _問題_
 
 當使用者向[!DNL Workfront]並嘗試查看票證，他們看到以下錯誤：
 
-&quot;[!UICONTROL &#x200B; Access 被拒絕：糟糕！ 發生錯誤。 請聯絡 [!DNL Workfront]，以便我們找出問題並加以解決。]」
+&quot;[!UICONTROL  Access 被拒絕：糟糕！ 發生錯誤。 請聯絡 [!DNL Workfront]，以便我們找出問題並加以解決。]」
 
 **業務案例摘要顯示不正確的值**
 
@@ -747,7 +756,7 @@ _首頁_
 
 _[!DNL Workfront Fusion]_
 
-[!DNL Adobe Workfront Fusion]有情景連接的使用者[!UICONTROL &#x200B; Webdam &#x200B;]應該意識到[!UICONTROL &#x200B; Webdam &#x200B;]連接需要每 14 天手動重新驗證一次。 [!UICONTROL &#x200B; Webdam &#x200B;]API 目前不支援自動重新授權。
+[!DNL Adobe Workfront Fusion]有情景連接的使用者[!UICONTROL  Webdam ]應該意識到[!UICONTROL  Webdam ]連接需要每 14 天手動重新驗證一次。 [!UICONTROL  Webdam ]API 目前不支援自動重新授權。
 
 +++
 
@@ -1087,7 +1096,7 @@ _電子郵件通知_
 
 _物件_
 
-當使用者在新[!DNL Workfront]體驗嘗試打開某些物件時，他們會看到錯誤訊息「[!UICONTROL &#x200B; (物件) 不再存在：您可能輸入了錯誤的網址。 仔細檢查並再次嘗試輸入網址。]」 物件連結仍然出現在清單、最近、收藏夾、搜尋結果等中，但他們無法存取它，並且它未出現在已刪除物件的資源回收筒中。
+當使用者在新[!DNL Workfront]體驗嘗試打開某些物件時，他們會看到錯誤訊息「[!UICONTROL  (物件) 不再存在：您可能輸入了錯誤的網址。 仔細檢查並再次嘗試輸入網址。]」 物件連結仍然出現在清單、最近、收藏夾、搜尋結果等中，但他們無法存取它，並且它未出現在已刪除物件的資源回收筒中。
 
 
 
@@ -1759,6 +1768,6 @@ _文件_
 
 _[!DNL Workfront Proof]_
 
-當使用者透過電子郵件收到下載連結時 ([!UICONTROL 校樣]>[!UICONTROL 列印評論]>[!UICONTROL &#x200B; PDF 格式]) 並且他們匯出檔案，下載的檔案的標題是隨機數而不是校樣 ID。
+當使用者透過電子郵件收到下載連結時 ([!UICONTROL 校樣]>[!UICONTROL 列印評論]>[!UICONTROL  PDF 格式]) 並且他們匯出檔案，下載的檔案的標題是隨機數而不是校樣 ID。
 
 +++

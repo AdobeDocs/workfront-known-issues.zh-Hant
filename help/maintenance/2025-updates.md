@@ -4,7 +4,16 @@ description: '[!DNL Adobe Workfront]的維護更新'
 feature: Get Started with Workfront
 exl-id: 4bab940b-382b-41da-b134-7a956c679a26
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '3762'
 ht-degree: 99%
@@ -13,7 +22,7 @@ ht-degree: 99%
 
 >[!NOTE]
 >
->如需所有 Adobe 產品 (包括 Workfront) 維護中斷的資訊，請參閱 [Adobe 狀態頁面](https://status.adobe.com/zh-tw/)。
+>如需所有 Adobe 產品 (包括 Workfront) 維護中斷的資訊，請參閱 [Adobe 狀態頁面](https://status.adobe.com/)。
 
 此頁面說明在每週 Workfront 更新中修復的問題。
 

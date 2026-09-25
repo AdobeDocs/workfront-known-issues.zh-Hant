@@ -3,13 +3,20 @@ title: 行事曆：OR篩選陳述式不包括篩選規則
 description: 當使用者設定行事曆報告以根據自訂欄位選擇拉入任務並新增 OR 陳述式時，符合第一區段中篩選規則條件的物件將從結果中排除。
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 94%
-
 ---
-
 # 行事曆：[!DNL OR]篩選器陳述式不包括篩選規則
 
 >[!NOTE]

@@ -3,13 +3,20 @@ title: 新首頁：Widget篩選器和群組預設值未依版面配置範本執�
 description: 當使用者在新的首頁體驗中查看我的專案、我的任務或我的問題小工具時，該小工具的預設篩選器和分組並非指派給該使用者的版面配置範本中的預設設定。
 feature: Get Started with Workfront
 exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 93%
-
 ---
-
 # 新[!UICONTROL 首頁]：小工具篩選器和分組預設值沒有遵循版面配置範本
 
 >[!NOTE]

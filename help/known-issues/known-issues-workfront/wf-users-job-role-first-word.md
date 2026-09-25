@@ -3,13 +3,20 @@ title: 使用者：只能依照工作名稱的第一個字搜尋工作角色
 description: 當管理員建立或編輯使用者並搜尋工作角色時，搜尋結果僅顯示以搜尋詞開頭的工作角色，而不是包含搜尋詞的所有工作角色。
 feature: People Teams and Groups
 exl-id: e79f8710-8315-4028-95f8-7cbce0f8aa6a
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
-
 ---
-
 # 使用者：只能依照工作名稱的第一個字搜尋工作角色
 
 >[!NOTE]

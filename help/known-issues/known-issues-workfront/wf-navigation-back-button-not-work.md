@@ -3,13 +3,20 @@ title: 導覽：「返回」按鈕不會回到上一頁
 description: 當 Workfront 中的使用者按一下瀏覽器的「返回」按鈕時，它無法如預期運作。
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
-
 ---
-
 # 導覽：「返回」按鈕不會回到上一頁
 
 >[!NOTE]

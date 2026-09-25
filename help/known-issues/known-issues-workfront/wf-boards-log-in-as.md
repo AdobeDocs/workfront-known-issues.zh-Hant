@@ -3,13 +3,23 @@ title: 展示板：使用以下身分登入時，展示板未顯示為使用者
 description: 當管理員或群組管理員以其他使用者身分登入並查看展示板時，系統顯示管理員的展示板，而不是該使用者的展示板。
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+subfeature_v2:
+  - id: be65ef36-43e4-48e1-a062-caa3778e15be
+    internal-label: Agile
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 89%
-
 ---
-
 # 展示板：以「[!UICONTROL 使用者身分登入]」時，展示板不會顯示為該使用者
 
 >[!NOTE]
