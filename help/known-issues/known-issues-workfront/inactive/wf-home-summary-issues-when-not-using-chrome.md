@@ -17,7 +17,7 @@ workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 91%
 ---
-# [!UICONTROL  首頁]：使用 [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL  首頁]摘要問題
+# [!UICONTROL &#x200B; 首頁]：使用 [!DNL Chrome] 以外的瀏覽器時出現的[!UICONTROL &#x200B; 首頁]摘要問題
 
 >[!NOTE]
 >
