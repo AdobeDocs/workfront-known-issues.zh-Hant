@@ -3,13 +3,20 @@ title: 首頁：新首頁中的提及Widget不限於已標籤使用者的訊息�
 description: 當使用者在新的首頁體驗中檢視提及小工具時，他們會看到未標記或未提及他們的註解。
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 88%
-
 ---
-
 # [!UICONTROL 首頁]：新[!UICONTROL 首頁]中的「[!UICONTROL 提及]」小工具不限於有標記使用者的訊息
 
 <!--Requested article, won't fix-->

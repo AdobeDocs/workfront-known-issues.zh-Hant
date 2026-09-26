@@ -3,13 +3,20 @@ title: 使用者：新使用者顯示待核准徽章
 description: 在 Workfront 中，新的使用者可能會在使用者列表中顯示待核准徽章。 該徽章持續顯示超過幾分鐘，並且在頁面重新整理後仍然顯示。
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
-
 ---
-
 # 使用者：新使用者顯示「待核准」徽章
 
 >[!NOTE]

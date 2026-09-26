@@ -3,13 +3,20 @@ title: 報告：使用者可以在 Canvas 儀表板視覺化中查看財務資�
 description: 即使在任務或專案層級移除檢視財務權限，擁有檢視或編輯財務資料存取權限的使用者仍然可以在畫布儀表板視覺化中查看財務資料。
 feature: Reports and Dashboards
 exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
-
 ---
-
 # 報告：使用者可以在畫布儀表板視覺化中查看財務資料
 
 即使在任務或專案層級移除檢視財務權限，擁有檢視或編輯財務資料存取權限的使用者仍然可以在畫布儀表板視覺化中查看財務資料。

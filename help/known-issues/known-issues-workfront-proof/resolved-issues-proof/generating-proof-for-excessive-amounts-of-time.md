@@ -3,13 +3,17 @@ title: 校訂顯示為「產生校訂」的時間過長
 description: 當使用者產生校訂時，校訂顯示為「正在產生校訂」。 這可能會持續幾個小時。 如果使用者在仍然顯示「正在產生校訂」時嘗試打開校訂，則使用者無法打開校訂。 校訂已產生，但無法存取。
 keywords: 新檔案，新增檔案
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
-
 ---
-
 # 校訂：校訂顯示為「[!UICONTROL 產生校訂]」的時間過長
 
 >[!NOTE]
